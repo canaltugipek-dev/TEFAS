@@ -1,8 +1,20 @@
 {
-  "guncelleme": "2026-04-05T20:08:34",
+  "guncelleme": "2026-04-05T21:35:36",
   "hedef_gun": 1825,
   "kategori": "Hisse Senedi Yoğun Fon",
   "beklenen_min_gun": 1760,
+  "benchmarks": {
+    "bist100_ticker": "XU100.IS",
+    "usdtry_ticker": "USDTRY=X",
+    "risksiz_faiz_yillik": 0.45,
+    "aciklama": "Sharpe/Sortino: gunluk fazla getiri / risk; Alpha: CAPM (BIST100); MaxDD: fiyat serisi.",
+    "indirme_hatasi": null,
+    "usdtry_son": 44.55580139160156,
+    "usdtry_tarih": "2026-04-03",
+    "xu100_son": 12936.400390625,
+    "xu100_tarih": "2026-04-03",
+    "durum": "tamam"
+  },
   "fonlar": [
     {
       "kod": "AAV",
@@ -11,7 +23,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/AAV_tefas.json"
+      "dosya": "data/AAV_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.43686,
+          "sortino": -0.619529,
+          "alpha": -0.076375,
+          "max_drawdown": -0.117861
+        },
+        "YTD": {
+          "sharpe": 0.510848,
+          "sortino": 0.733565,
+          "alpha": 0.092744,
+          "max_drawdown": -0.117861
+        },
+        "1Y": {
+          "sharpe": -0.624816,
+          "sortino": -0.935439,
+          "alpha": -0.115168,
+          "max_drawdown": -0.117861
+        },
+        "3Y": {
+          "sharpe": 0.303232,
+          "sortino": 0.433382,
+          "alpha": 0.080639,
+          "max_drawdown": -0.267733
+        },
+        "5Y": {
+          "sharpe": 0.664123,
+          "sortino": 0.928284,
+          "alpha": 0.192407,
+          "max_drawdown": -0.267733
+        }
+      }
     },
     {
       "kod": "ACC",
@@ -20,7 +64,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ACC_tefas.json"
+      "dosya": "data/ACC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.29506,
+          "sortino": 0.421619,
+          "alpha": 0.06361,
+          "max_drawdown": -0.136543
+        },
+        "YTD": {
+          "sharpe": 1.560364,
+          "sortino": 2.260712,
+          "alpha": 0.36973,
+          "max_drawdown": -0.136543
+        },
+        "1Y": {
+          "sharpe": -0.026427,
+          "sortino": -0.039552,
+          "alpha": 0.000175,
+          "max_drawdown": -0.136543
+        },
+        "3Y": {
+          "sharpe": 0.467652,
+          "sortino": 0.673213,
+          "alpha": 0.124117,
+          "max_drawdown": -0.22012
+        },
+        "5Y": {
+          "sharpe": 0.819889,
+          "sortino": 1.182524,
+          "alpha": 0.228334,
+          "max_drawdown": -0.238971
+        }
+      }
     },
     {
       "kod": "ADP",
@@ -29,7 +105,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ADP_tefas.json"
+      "dosya": "data/ADP_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.669555,
+          "sortino": -0.912763,
+          "alpha": -0.199515,
+          "max_drawdown": -0.235885
+        },
+        "YTD": {
+          "sharpe": -0.927926,
+          "sortino": -1.258509,
+          "alpha": -0.315977,
+          "max_drawdown": -0.235885
+        },
+        "1Y": {
+          "sharpe": -0.204918,
+          "sortino": -0.295877,
+          "alpha": -0.059643,
+          "max_drawdown": -0.235885
+        },
+        "3Y": {
+          "sharpe": 0.383035,
+          "sortino": 0.563326,
+          "alpha": 0.158236,
+          "max_drawdown": -0.302239
+        },
+        "5Y": {
+          "sharpe": 0.643755,
+          "sortino": 0.964474,
+          "alpha": 0.28313,
+          "max_drawdown": -0.366855
+        }
+      }
     },
     {
       "kod": "AEV",
@@ -38,7 +146,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 664,
       "gun_kapsami": 962,
-      "dosya": "data/AEV_tefas.json"
+      "dosya": "data/AEV_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.900655,
+          "sortino": 1.368953,
+          "alpha": 0.190336,
+          "max_drawdown": -0.101262
+        },
+        "YTD": {
+          "sharpe": 0.869991,
+          "sortino": 1.305546,
+          "alpha": 0.178177,
+          "max_drawdown": -0.101262
+        },
+        "1Y": {
+          "sharpe": -0.215907,
+          "sortino": -0.31043,
+          "alpha": -0.041738,
+          "max_drawdown": -0.153942
+        },
+        "3Y": {
+          "sharpe": -0.452918,
+          "sortino": -0.611125,
+          "alpha": -0.111961,
+          "max_drawdown": -0.233843
+        },
+        "5Y": {
+          "sharpe": -0.452918,
+          "sortino": -0.611125,
+          "alpha": -0.111961,
+          "max_drawdown": -0.233843
+        }
+      }
     },
     {
       "kod": "AHI",
@@ -47,7 +187,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/AHI_tefas.json"
+      "dosya": "data/AHI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.052319,
+          "sortino": -0.073137,
+          "alpha": -0.01039,
+          "max_drawdown": -0.128043
+        },
+        "YTD": {
+          "sharpe": 0.507181,
+          "sortino": 0.717616,
+          "alpha": 0.106511,
+          "max_drawdown": -0.128043
+        },
+        "1Y": {
+          "sharpe": 0.076622,
+          "sortino": 0.117356,
+          "alpha": 0.020081,
+          "max_drawdown": -0.128043
+        },
+        "3Y": {
+          "sharpe": 0.358788,
+          "sortino": 0.511668,
+          "alpha": 0.097431,
+          "max_drawdown": -0.225976
+        },
+        "5Y": {
+          "sharpe": 0.867426,
+          "sortino": 1.226209,
+          "alpha": 0.256589,
+          "max_drawdown": -0.273375
+        }
+      }
     },
     {
       "kod": "AK3",
@@ -56,7 +228,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/AK3_tefas.json"
+      "dosya": "data/AK3_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.277461,
+          "sortino": 0.416127,
+          "alpha": 0.056521,
+          "max_drawdown": -0.091347
+        },
+        "YTD": {
+          "sharpe": 1.503543,
+          "sortino": 2.369821,
+          "alpha": 0.394695,
+          "max_drawdown": -0.091347
+        },
+        "1Y": {
+          "sharpe": 0.222567,
+          "sortino": 0.35378,
+          "alpha": 0.052072,
+          "max_drawdown": -0.091347
+        },
+        "3Y": {
+          "sharpe": 0.68995,
+          "sortino": 1.025305,
+          "alpha": 0.189434,
+          "max_drawdown": -0.210939
+        },
+        "5Y": {
+          "sharpe": 0.851547,
+          "sortino": 1.233878,
+          "alpha": 0.245504,
+          "max_drawdown": -0.210939
+        }
+      }
     },
     {
       "kod": "AKU",
@@ -65,7 +269,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/AKU_tefas.json"
+      "dosya": "data/AKU_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.265972,
+          "sortino": 0.392982,
+          "alpha": 0.057349,
+          "max_drawdown": -0.09426
+        },
+        "YTD": {
+          "sharpe": 1.933316,
+          "sortino": 3.031637,
+          "alpha": 0.545852,
+          "max_drawdown": -0.083333
+        },
+        "1Y": {
+          "sharpe": 0.137739,
+          "sortino": 0.212847,
+          "alpha": 0.035354,
+          "max_drawdown": -0.122606
+        },
+        "3Y": {
+          "sharpe": 0.101605,
+          "sortino": 0.146834,
+          "alpha": 0.027612,
+          "max_drawdown": -0.203711
+        },
+        "5Y": {
+          "sharpe": 0.505192,
+          "sortino": 0.721644,
+          "alpha": 0.147542,
+          "max_drawdown": -0.203711
+        }
+      }
     },
     {
       "kod": "ALC",
@@ -74,7 +310,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ALC_tefas.json"
+      "dosya": "data/ALC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.374595,
+          "sortino": 0.556354,
+          "alpha": 0.069767,
+          "max_drawdown": -0.085338
+        },
+        "YTD": {
+          "sharpe": 1.622243,
+          "sortino": 2.533361,
+          "alpha": 0.387791,
+          "max_drawdown": -0.085338
+        },
+        "1Y": {
+          "sharpe": 0.308478,
+          "sortino": 0.492274,
+          "alpha": 0.064668,
+          "max_drawdown": -0.085338
+        },
+        "3Y": {
+          "sharpe": 0.427477,
+          "sortino": 0.624617,
+          "alpha": 0.111186,
+          "max_drawdown": -0.195069
+        },
+        "5Y": {
+          "sharpe": 0.537282,
+          "sortino": 0.764906,
+          "alpha": 0.153089,
+          "max_drawdown": -0.217641
+        }
+      }
     },
     {
       "kod": "ASJ",
@@ -83,7 +351,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 727,
       "gun_kapsami": 1057,
-      "dosya": "data/ASJ_tefas.json"
+      "dosya": "data/ASJ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.186063,
+          "sortino": -0.26784,
+          "alpha": -0.038263,
+          "max_drawdown": -0.122908
+        },
+        "YTD": {
+          "sharpe": 1.289884,
+          "sortino": 1.897867,
+          "alpha": 0.337084,
+          "max_drawdown": -0.122908
+        },
+        "1Y": {
+          "sharpe": -0.303019,
+          "sortino": -0.455309,
+          "alpha": -0.063286,
+          "max_drawdown": -0.128647
+        },
+        "3Y": {
+          "sharpe": 0.419353,
+          "sortino": 0.598186,
+          "alpha": 0.114391,
+          "max_drawdown": -0.19694
+        },
+        "5Y": {
+          "sharpe": 0.419353,
+          "sortino": 0.598186,
+          "alpha": 0.114391,
+          "max_drawdown": -0.19694
+        }
+      }
     },
     {
       "kod": "AYA",
@@ -92,7 +392,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/AYA_tefas.json"
+      "dosya": "data/AYA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.424507,
+          "sortino": -0.603323,
+          "alpha": -0.072688,
+          "max_drawdown": -0.113264
+        },
+        "YTD": {
+          "sharpe": 0.311865,
+          "sortino": 0.458429,
+          "alpha": 0.055494,
+          "max_drawdown": -0.113264
+        },
+        "1Y": {
+          "sharpe": -0.574421,
+          "sortino": -0.83635,
+          "alpha": -0.095331,
+          "max_drawdown": -0.113264
+        },
+        "3Y": {
+          "sharpe": -0.059753,
+          "sortino": -0.083394,
+          "alpha": -0.014102,
+          "max_drawdown": -0.183408
+        },
+        "5Y": {
+          "sharpe": 0.221423,
+          "sortino": 0.302071,
+          "alpha": 0.057133,
+          "max_drawdown": -0.218081
+        }
+      }
     },
     {
       "kod": "BDS",
@@ -101,7 +433,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 478,
       "gun_kapsami": 693,
-      "dosya": "data/BDS_tefas.json"
+      "dosya": "data/BDS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -2.732937,
+          "sortino": -3.207904,
+          "alpha": -0.362257,
+          "max_drawdown": -0.191885
+        },
+        "YTD": {
+          "sharpe": -2.141826,
+          "sortino": -2.548276,
+          "alpha": -0.366323,
+          "max_drawdown": -0.191885
+        },
+        "1Y": {
+          "sharpe": 0.024199,
+          "sortino": 0.032271,
+          "alpha": 0.003762,
+          "max_drawdown": -0.191885
+        },
+        "3Y": {
+          "sharpe": 0.480817,
+          "sortino": 0.638296,
+          "alpha": 0.077701,
+          "max_drawdown": -0.191885
+        },
+        "5Y": {
+          "sharpe": 0.480817,
+          "sortino": 0.638296,
+          "alpha": 0.077701,
+          "max_drawdown": -0.191885
+        }
+      }
     },
     {
       "kod": "BDY",
@@ -110,7 +474,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 488,
       "gun_kapsami": 708,
-      "dosya": "data/BDY_tefas.json"
+      "dosya": "data/BDY_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.11227,
+          "sortino": -1.514779,
+          "alpha": -0.174283,
+          "max_drawdown": -0.112519
+        },
+        "YTD": {
+          "sharpe": -0.238814,
+          "sortino": -0.329062,
+          "alpha": -0.043488,
+          "max_drawdown": -0.112519
+        },
+        "1Y": {
+          "sharpe": -0.250775,
+          "sortino": -0.374101,
+          "alpha": -0.045656,
+          "max_drawdown": -0.112519
+        },
+        "3Y": {
+          "sharpe": -0.629471,
+          "sortino": -0.827785,
+          "alpha": -0.121271,
+          "max_drawdown": -0.194553
+        },
+        "5Y": {
+          "sharpe": -0.629471,
+          "sortino": -0.827785,
+          "alpha": -0.121271,
+          "max_drawdown": -0.194553
+        }
+      }
     },
     {
       "kod": "BFT",
@@ -119,7 +515,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 321,
       "gun_kapsami": 464,
-      "dosya": "data/BFT_tefas.json"
+      "dosya": "data/BFT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.264896,
+          "sortino": -0.366948,
+          "alpha": -0.064366,
+          "max_drawdown": -0.175215
+        },
+        "YTD": {
+          "sharpe": -0.826083,
+          "sortino": -1.102796,
+          "alpha": -0.239001,
+          "max_drawdown": -0.175215
+        },
+        "1Y": {
+          "sharpe": -0.391048,
+          "sortino": -0.568529,
+          "alpha": -0.100979,
+          "max_drawdown": -0.175215
+        },
+        "3Y": {
+          "sharpe": -0.819306,
+          "sortino": -1.112937,
+          "alpha": -0.199477,
+          "max_drawdown": -0.2621
+        },
+        "5Y": {
+          "sharpe": -0.819306,
+          "sortino": -1.112937,
+          "alpha": -0.199477,
+          "max_drawdown": -0.2621
+        }
+      }
     },
     {
       "kod": "BHA",
@@ -128,7 +556,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 246,
       "gun_kapsami": 354,
-      "dosya": "data/BHA_tefas.json"
+      "dosya": "data/BHA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.788525,
+          "sortino": 1.184917,
+          "alpha": 0.201991,
+          "max_drawdown": -0.125114
+        },
+        "YTD": {
+          "sharpe": 1.770146,
+          "sortino": 2.676923,
+          "alpha": 0.500647,
+          "max_drawdown": -0.125114
+        },
+        "1Y": {
+          "sharpe": 0.219353,
+          "sortino": 0.335841,
+          "alpha": 0.056291,
+          "max_drawdown": -0.13801
+        },
+        "3Y": {
+          "sharpe": 0.219353,
+          "sortino": 0.335841,
+          "alpha": 0.056291,
+          "max_drawdown": -0.13801
+        },
+        "5Y": {
+          "sharpe": 0.219353,
+          "sortino": 0.335841,
+          "alpha": 0.056291,
+          "max_drawdown": -0.13801
+        }
+      }
     },
     {
       "kod": "BID",
@@ -137,7 +597,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 752,
       "gun_kapsami": 1094,
-      "dosya": "data/BID_tefas.json"
+      "dosya": "data/BID_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.873831,
+          "sortino": -1.166932,
+          "alpha": -0.149483,
+          "max_drawdown": -0.139187
+        },
+        "YTD": {
+          "sharpe": -0.459945,
+          "sortino": -0.628532,
+          "alpha": -0.10945,
+          "max_drawdown": -0.139187
+        },
+        "1Y": {
+          "sharpe": -0.585066,
+          "sortino": -0.814793,
+          "alpha": -0.102162,
+          "max_drawdown": -0.139187
+        },
+        "3Y": {
+          "sharpe": 0.20118,
+          "sortino": 0.273695,
+          "alpha": 0.050203,
+          "max_drawdown": -0.263129
+        },
+        "5Y": {
+          "sharpe": 0.20118,
+          "sortino": 0.273695,
+          "alpha": 0.050203,
+          "max_drawdown": -0.263129
+        }
+      }
     },
     {
       "kod": "BIG",
@@ -146,7 +638,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 328,
       "gun_kapsami": 473,
-      "dosya": "data/BIG_tefas.json"
+      "dosya": "data/BIG_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.095899,
+          "sortino": -0.137278,
+          "alpha": -0.019724,
+          "max_drawdown": -0.162286
+        },
+        "YTD": {
+          "sharpe": 0.100145,
+          "sortino": 0.138523,
+          "alpha": -0.00407,
+          "max_drawdown": -0.162286
+        },
+        "1Y": {
+          "sharpe": -0.330221,
+          "sortino": -0.4915,
+          "alpha": -0.065758,
+          "max_drawdown": -0.162286
+        },
+        "3Y": {
+          "sharpe": -0.586961,
+          "sortino": -0.813624,
+          "alpha": -0.113829,
+          "max_drawdown": -0.162286
+        },
+        "5Y": {
+          "sharpe": -0.586961,
+          "sortino": -0.813624,
+          "alpha": -0.113829,
+          "max_drawdown": -0.162286
+        }
+      }
     },
     {
       "kod": "BIH",
@@ -155,7 +679,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 617,
       "gun_kapsami": 896,
-      "dosya": "data/BIH_tefas.json"
+      "dosya": "data/BIH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 2.798363,
+          "sortino": 4.37387,
+          "alpha": 0.407683,
+          "max_drawdown": -0.059578
+        },
+        "YTD": {
+          "sharpe": 1.870389,
+          "sortino": 2.91683,
+          "alpha": 0.289518,
+          "max_drawdown": -0.059578
+        },
+        "1Y": {
+          "sharpe": 3.620139,
+          "sortino": 6.319644,
+          "alpha": 0.562337,
+          "max_drawdown": -0.059578
+        },
+        "3Y": {
+          "sharpe": 3.078455,
+          "sortino": 4.924823,
+          "alpha": 0.577777,
+          "max_drawdown": -0.099887
+        },
+        "5Y": {
+          "sharpe": 3.078455,
+          "sortino": 4.924823,
+          "alpha": 0.577777,
+          "max_drawdown": -0.099887
+        }
+      }
     },
     {
       "kod": "BIO",
@@ -164,7 +720,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 615,
       "gun_kapsami": 892,
-      "dosya": "data/BIO_tefas.json"
+      "dosya": "data/BIO_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.335335,
+          "sortino": -0.469334,
+          "alpha": -0.068386,
+          "max_drawdown": -0.145154
+        },
+        "YTD": {
+          "sharpe": 0.451219,
+          "sortino": 0.634815,
+          "alpha": 0.091836,
+          "max_drawdown": -0.145154
+        },
+        "1Y": {
+          "sharpe": -0.409239,
+          "sortino": -0.607792,
+          "alpha": -0.083016,
+          "max_drawdown": -0.145154
+        },
+        "3Y": {
+          "sharpe": -0.0615,
+          "sortino": -0.085157,
+          "alpha": -0.001058,
+          "max_drawdown": -0.246142
+        },
+        "5Y": {
+          "sharpe": -0.0615,
+          "sortino": -0.085157,
+          "alpha": -0.001058,
+          "max_drawdown": -0.246142
+        }
+      }
     },
     {
       "kod": "BIY",
@@ -173,7 +761,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 87,
       "gun_kapsami": 122,
-      "dosya": "data/BIY_tefas.json"
+      "dosya": "data/BIY_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.148989,
+          "sortino": 1.630467,
+          "alpha": 0.175921,
+          "max_drawdown": -0.067754
+        },
+        "YTD": {
+          "sharpe": 1.368998,
+          "sortino": 1.961199,
+          "alpha": 0.233473,
+          "max_drawdown": -0.067754
+        },
+        "1Y": {
+          "sharpe": 1.148989,
+          "sortino": 1.630467,
+          "alpha": 0.175921,
+          "max_drawdown": -0.067754
+        },
+        "3Y": {
+          "sharpe": 1.148989,
+          "sortino": 1.630467,
+          "alpha": 0.175921,
+          "max_drawdown": -0.067754
+        },
+        "5Y": {
+          "sharpe": 1.148989,
+          "sortino": 1.630467,
+          "alpha": 0.175921,
+          "max_drawdown": -0.067754
+        }
+      }
     },
     {
       "kod": "BTZ",
@@ -182,7 +802,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 431,
       "gun_kapsami": 620,
-      "dosya": "data/BTZ_tefas.json"
+      "dosya": "data/BTZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.869671,
+          "sortino": -1.144603,
+          "alpha": -0.150211,
+          "max_drawdown": -0.137614
+        },
+        "YTD": {
+          "sharpe": -0.490441,
+          "sortino": -0.657281,
+          "alpha": -0.114777,
+          "max_drawdown": -0.137614
+        },
+        "1Y": {
+          "sharpe": -0.416383,
+          "sortino": -0.603013,
+          "alpha": -0.074741,
+          "max_drawdown": -0.137614
+        },
+        "3Y": {
+          "sharpe": -1.133425,
+          "sortino": -1.451186,
+          "alpha": -0.211801,
+          "max_drawdown": -0.229938
+        },
+        "5Y": {
+          "sharpe": -1.133425,
+          "sortino": -1.451186,
+          "alpha": -0.211801,
+          "max_drawdown": -0.229938
+        }
+      }
     },
     {
       "kod": "BUY",
@@ -191,7 +843,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 687,
       "gun_kapsami": 995,
-      "dosya": "data/BUY_tefas.json"
+      "dosya": "data/BUY_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.043733,
+          "sortino": -0.064052,
+          "alpha": -0.007893,
+          "max_drawdown": -0.098296
+        },
+        "YTD": {
+          "sharpe": 1.308965,
+          "sortino": 2.035162,
+          "alpha": 0.301315,
+          "max_drawdown": -0.098296
+        },
+        "1Y": {
+          "sharpe": -0.432002,
+          "sortino": -0.643254,
+          "alpha": -0.075371,
+          "max_drawdown": -0.098296
+        },
+        "3Y": {
+          "sharpe": -0.639219,
+          "sortino": -0.859115,
+          "alpha": -0.146316,
+          "max_drawdown": -0.325975
+        },
+        "5Y": {
+          "sharpe": -0.639219,
+          "sortino": -0.859115,
+          "alpha": -0.146316,
+          "max_drawdown": -0.325975
+        }
+      }
     },
     {
       "kod": "BV1",
@@ -200,7 +884,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 250,
       "gun_kapsami": 360,
-      "dosya": "data/BV1_tefas.json"
+      "dosya": "data/BV1_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.710892,
+          "sortino": 1.032731,
+          "alpha": 0.16938,
+          "max_drawdown": -0.156883
+        },
+        "YTD": {
+          "sharpe": 0.317042,
+          "sortino": 0.447797,
+          "alpha": 0.058098,
+          "max_drawdown": -0.156883
+        },
+        "1Y": {
+          "sharpe": 0.152528,
+          "sortino": 0.221056,
+          "alpha": 0.034246,
+          "max_drawdown": -0.156883
+        },
+        "3Y": {
+          "sharpe": 0.152528,
+          "sortino": 0.221056,
+          "alpha": 0.034246,
+          "max_drawdown": -0.156883
+        },
+        "5Y": {
+          "sharpe": 0.152528,
+          "sortino": 0.221056,
+          "alpha": 0.034246,
+          "max_drawdown": -0.156883
+        }
+      }
     },
     {
       "kod": "DAH",
@@ -209,7 +925,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/DAH_tefas.json"
+      "dosya": "data/DAH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.054066,
+          "sortino": 0.077657,
+          "alpha": 0.014284,
+          "max_drawdown": -0.150606
+        },
+        "YTD": {
+          "sharpe": 0.685601,
+          "sortino": 1.00936,
+          "alpha": 0.166325,
+          "max_drawdown": -0.150606
+        },
+        "1Y": {
+          "sharpe": -0.304605,
+          "sortino": -0.450317,
+          "alpha": -0.072994,
+          "max_drawdown": -0.150606
+        },
+        "3Y": {
+          "sharpe": 0.231604,
+          "sortino": 0.327061,
+          "alpha": 0.068299,
+          "max_drawdown": -0.247486
+        },
+        "5Y": {
+          "sharpe": 0.593408,
+          "sortino": 0.838209,
+          "alpha": 0.177638,
+          "max_drawdown": -0.247486
+        }
+      }
     },
     {
       "kod": "DHJ",
@@ -218,7 +966,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1063,
       "gun_kapsami": 1541,
-      "dosya": "data/DHJ_tefas.json"
+      "dosya": "data/DHJ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.645067,
+          "sortino": -0.897312,
+          "alpha": -0.123305,
+          "max_drawdown": -0.083239
+        },
+        "YTD": {
+          "sharpe": 0.784139,
+          "sortino": 1.142229,
+          "alpha": 0.200233,
+          "max_drawdown": -0.057633
+        },
+        "1Y": {
+          "sharpe": -0.281927,
+          "sortino": -0.412303,
+          "alpha": -0.05829,
+          "max_drawdown": -0.133059
+        },
+        "3Y": {
+          "sharpe": 0.119568,
+          "sortino": 0.165057,
+          "alpha": 0.032609,
+          "max_drawdown": -0.287658
+        },
+        "5Y": {
+          "sharpe": 0.393477,
+          "sortino": 0.539233,
+          "alpha": 0.118961,
+          "max_drawdown": -0.287658
+        }
+      }
     },
     {
       "kod": "DKH",
@@ -227,7 +1007,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 699,
       "gun_kapsami": 1016,
-      "dosya": "data/DKH_tefas.json"
+      "dosya": "data/DKH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.751652,
+          "sortino": -1.041051,
+          "alpha": -0.130967,
+          "max_drawdown": -0.088429
+        },
+        "YTD": {
+          "sharpe": 0.594482,
+          "sortino": 0.865619,
+          "alpha": 0.120292,
+          "max_drawdown": -0.088429
+        },
+        "1Y": {
+          "sharpe": -0.283453,
+          "sortino": -0.416814,
+          "alpha": -0.05276,
+          "max_drawdown": -0.096814
+        },
+        "3Y": {
+          "sharpe": 0.321547,
+          "sortino": 0.44233,
+          "alpha": 0.079709,
+          "max_drawdown": -0.224686
+        },
+        "5Y": {
+          "sharpe": 0.321547,
+          "sortino": 0.44233,
+          "alpha": 0.079709,
+          "max_drawdown": -0.224686
+        }
+      }
     },
     {
       "kod": "DLD",
@@ -236,7 +1048,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1033,
       "gun_kapsami": 1499,
-      "dosya": "data/DLD_tefas.json"
+      "dosya": "data/DLD_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.481044,
+          "sortino": -0.666927,
+          "alpha": -0.099168,
+          "max_drawdown": -0.138837
+        },
+        "YTD": {
+          "sharpe": -0.005248,
+          "sortino": -0.007334,
+          "alpha": -0.024334,
+          "max_drawdown": -0.138837
+        },
+        "1Y": {
+          "sharpe": -0.446805,
+          "sortino": -0.661896,
+          "alpha": -0.091972,
+          "max_drawdown": -0.138837
+        },
+        "3Y": {
+          "sharpe": 0.07765,
+          "sortino": 0.110662,
+          "alpha": 0.02086,
+          "max_drawdown": -0.230405
+        },
+        "5Y": {
+          "sharpe": 0.478087,
+          "sortino": 0.686298,
+          "alpha": 0.130943,
+          "max_drawdown": -0.230405
+        }
+      }
     },
     {
       "kod": "DPT",
@@ -245,7 +1089,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/DPT_tefas.json"
+      "dosya": "data/DPT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.009917,
+          "sortino": -0.014592,
+          "alpha": -0.001609,
+          "max_drawdown": -0.111115
+        },
+        "YTD": {
+          "sharpe": 1.199111,
+          "sortino": 1.825566,
+          "alpha": 0.287449,
+          "max_drawdown": -0.111115
+        },
+        "1Y": {
+          "sharpe": -0.132461,
+          "sortino": -0.204976,
+          "alpha": -0.026064,
+          "max_drawdown": -0.119006
+        },
+        "3Y": {
+          "sharpe": 0.13999,
+          "sortino": 0.20248,
+          "alpha": 0.039977,
+          "max_drawdown": -0.26464
+        },
+        "5Y": {
+          "sharpe": 0.393492,
+          "sortino": 0.56086,
+          "alpha": 0.116364,
+          "max_drawdown": -0.26464
+        }
+      }
     },
     {
       "kod": "DTH",
@@ -254,7 +1130,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 81,
       "gun_kapsami": 114,
-      "dosya": "data/DTH_tefas.json"
+      "dosya": "data/DTH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.338765,
+          "sortino": 0.476182,
+          "alpha": 0.067066,
+          "max_drawdown": -0.097121
+        },
+        "YTD": {
+          "sharpe": 0.798456,
+          "sortino": 1.150924,
+          "alpha": 0.180582,
+          "max_drawdown": -0.097121
+        },
+        "1Y": {
+          "sharpe": 0.338765,
+          "sortino": 0.476182,
+          "alpha": 0.067066,
+          "max_drawdown": -0.097121
+        },
+        "3Y": {
+          "sharpe": 0.338765,
+          "sortino": 0.476182,
+          "alpha": 0.067066,
+          "max_drawdown": -0.097121
+        },
+        "5Y": {
+          "sharpe": 0.338765,
+          "sortino": 0.476182,
+          "alpha": 0.067066,
+          "max_drawdown": -0.097121
+        }
+      }
     },
     {
       "kod": "DTL",
@@ -263,7 +1171,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 779,
       "gun_kapsami": 1131,
-      "dosya": "data/DTL_tefas.json"
+      "dosya": "data/DTL_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.857347,
+          "sortino": -1.17341,
+          "alpha": -0.1424,
+          "max_drawdown": -0.119865
+        },
+        "YTD": {
+          "sharpe": -0.200602,
+          "sortino": -0.27329,
+          "alpha": -0.04557,
+          "max_drawdown": -0.119865
+        },
+        "1Y": {
+          "sharpe": -0.122881,
+          "sortino": -0.179965,
+          "alpha": -0.021909,
+          "max_drawdown": -0.119865
+        },
+        "3Y": {
+          "sharpe": 0.43348,
+          "sortino": 0.591665,
+          "alpha": 0.110885,
+          "max_drawdown": -0.262289
+        },
+        "5Y": {
+          "sharpe": 0.308987,
+          "sortino": 0.418865,
+          "alpha": 0.076458,
+          "max_drawdown": -0.262289
+        }
+      }
     },
     {
       "kod": "DXP",
@@ -272,7 +1212,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 584,
       "gun_kapsami": 849,
-      "dosya": "data/DXP_tefas.json"
+      "dosya": "data/DXP_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.508939,
+          "sortino": -0.700666,
+          "alpha": -0.098391,
+          "max_drawdown": -0.127759
+        },
+        "YTD": {
+          "sharpe": 0.370516,
+          "sortino": 0.52723,
+          "alpha": 0.07175,
+          "max_drawdown": -0.127759
+        },
+        "1Y": {
+          "sharpe": -0.491763,
+          "sortino": -0.702202,
+          "alpha": -0.094517,
+          "max_drawdown": -0.127759
+        },
+        "3Y": {
+          "sharpe": -0.533253,
+          "sortino": -0.709315,
+          "alpha": -0.10614,
+          "max_drawdown": -0.183483
+        },
+        "5Y": {
+          "sharpe": -0.533253,
+          "sortino": -0.709315,
+          "alpha": -0.10614,
+          "max_drawdown": -0.183483
+        }
+      }
     },
     {
       "kod": "DZE",
@@ -281,7 +1253,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/DZE_tefas.json"
+      "dosya": "data/DZE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.284228,
+          "sortino": -0.40384,
+          "alpha": -0.054409,
+          "max_drawdown": -0.11847
+        },
+        "YTD": {
+          "sharpe": 0.764013,
+          "sortino": 1.122782,
+          "alpha": 0.171579,
+          "max_drawdown": -0.11847
+        },
+        "1Y": {
+          "sharpe": -0.248928,
+          "sortino": -0.374296,
+          "alpha": -0.048778,
+          "max_drawdown": -0.11847
+        },
+        "3Y": {
+          "sharpe": 0.050436,
+          "sortino": 0.071674,
+          "alpha": 0.013564,
+          "max_drawdown": -0.222473
+        },
+        "5Y": {
+          "sharpe": 0.477505,
+          "sortino": 0.672027,
+          "alpha": 0.13687,
+          "max_drawdown": -0.222473
+        }
+      }
     },
     {
       "kod": "EC2",
@@ -290,7 +1294,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/EC2_tefas.json"
+      "dosya": "data/EC2_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.41125,
+          "sortino": -1.893625,
+          "alpha": -0.263581,
+          "max_drawdown": -0.157659
+        },
+        "YTD": {
+          "sharpe": -1.577103,
+          "sortino": -2.063024,
+          "alpha": -0.314917,
+          "max_drawdown": -0.157659
+        },
+        "1Y": {
+          "sharpe": -0.577323,
+          "sortino": -0.865378,
+          "alpha": -0.126161,
+          "max_drawdown": -0.160813
+        },
+        "3Y": {
+          "sharpe": 0.362509,
+          "sortino": 0.521375,
+          "alpha": 0.100411,
+          "max_drawdown": -0.212795
+        },
+        "5Y": {
+          "sharpe": 0.689945,
+          "sortino": 0.98779,
+          "alpha": 0.203757,
+          "max_drawdown": -0.212795
+        }
+      }
     },
     {
       "kod": "EID",
@@ -299,7 +1335,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/EID_tefas.json"
+      "dosya": "data/EID_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.523864,
+          "sortino": -0.712456,
+          "alpha": -0.102515,
+          "max_drawdown": -0.156276
+        },
+        "YTD": {
+          "sharpe": -0.162227,
+          "sortino": -0.217642,
+          "alpha": -0.061508,
+          "max_drawdown": -0.156276
+        },
+        "1Y": {
+          "sharpe": -0.202273,
+          "sortino": -0.288035,
+          "alpha": -0.038453,
+          "max_drawdown": -0.156276
+        },
+        "3Y": {
+          "sharpe": 0.37358,
+          "sortino": 0.527577,
+          "alpha": 0.093304,
+          "max_drawdown": -0.184638
+        },
+        "5Y": {
+          "sharpe": 0.806731,
+          "sortino": 1.136817,
+          "alpha": 0.217404,
+          "max_drawdown": -0.202944
+        }
+      }
     },
     {
       "kod": "ELZ",
@@ -308,7 +1376,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ELZ_tefas.json"
+      "dosya": "data/ELZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.622452,
+          "sortino": -0.87168,
+          "alpha": -0.107886,
+          "max_drawdown": -0.079745
+        },
+        "YTD": {
+          "sharpe": 0.718836,
+          "sortino": 1.040741,
+          "alpha": 0.14907,
+          "max_drawdown": -0.079745
+        },
+        "1Y": {
+          "sharpe": 0.097655,
+          "sortino": 0.143963,
+          "alpha": 0.019907,
+          "max_drawdown": -0.090167
+        },
+        "3Y": {
+          "sharpe": 0.256332,
+          "sortino": 0.359167,
+          "alpha": 0.061112,
+          "max_drawdown": -0.158768
+        },
+        "5Y": {
+          "sharpe": 0.551424,
+          "sortino": 0.767046,
+          "alpha": 0.137659,
+          "max_drawdown": -0.183705
+        }
+      }
     },
     {
       "kod": "ENJ",
@@ -317,7 +1417,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 431,
       "gun_kapsami": 620,
-      "dosya": "data/ENJ_tefas.json"
+      "dosya": "data/ENJ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.058332,
+          "sortino": -0.079763,
+          "alpha": -0.011641,
+          "max_drawdown": -0.091126
+        },
+        "YTD": {
+          "sharpe": 0.491667,
+          "sortino": 0.691642,
+          "alpha": 0.095886,
+          "max_drawdown": -0.091126
+        },
+        "1Y": {
+          "sharpe": 0.157896,
+          "sortino": 0.222991,
+          "alpha": 0.036756,
+          "max_drawdown": -0.115845
+        },
+        "3Y": {
+          "sharpe": -0.930734,
+          "sortino": -1.181288,
+          "alpha": -0.182903,
+          "max_drawdown": -0.20465
+        },
+        "5Y": {
+          "sharpe": -0.930734,
+          "sortino": -1.181288,
+          "alpha": -0.182903,
+          "max_drawdown": -0.20465
+        }
+      }
     },
     {
       "kod": "FPH",
@@ -326,7 +1458,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/FPH_tefas.json"
+      "dosya": "data/FPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.841178,
+          "sortino": -1.139419,
+          "alpha": -0.155458,
+          "max_drawdown": -0.129194
+        },
+        "YTD": {
+          "sharpe": -0.26857,
+          "sortino": -0.367431,
+          "alpha": -0.074328,
+          "max_drawdown": -0.129194
+        },
+        "1Y": {
+          "sharpe": -0.428005,
+          "sortino": -0.632294,
+          "alpha": -0.085426,
+          "max_drawdown": -0.129194
+        },
+        "3Y": {
+          "sharpe": 0.12649,
+          "sortino": 0.179808,
+          "alpha": 0.032898,
+          "max_drawdown": -0.226112
+        },
+        "5Y": {
+          "sharpe": 0.494503,
+          "sortino": 0.694069,
+          "alpha": 0.132606,
+          "max_drawdown": -0.226112
+        }
+      }
     },
     {
       "kod": "FUA",
@@ -335,7 +1499,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1039,
       "gun_kapsami": 1507,
-      "dosya": "data/FUA_tefas.json"
+      "dosya": "data/FUA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.670957,
+          "sortino": -0.939964,
+          "alpha": -0.112617,
+          "max_drawdown": -0.091367
+        },
+        "YTD": {
+          "sharpe": 0.839675,
+          "sortino": 1.238629,
+          "alpha": 0.179469,
+          "max_drawdown": -0.091367
+        },
+        "1Y": {
+          "sharpe": -0.515317,
+          "sortino": -0.735019,
+          "alpha": -0.090316,
+          "max_drawdown": -0.118856
+        },
+        "3Y": {
+          "sharpe": -0.2946,
+          "sortino": -0.405148,
+          "alpha": -0.070221,
+          "max_drawdown": -0.244383
+        },
+        "5Y": {
+          "sharpe": 0.179987,
+          "sortino": 0.249469,
+          "alpha": 0.048182,
+          "max_drawdown": -0.247645
+        }
+      }
     },
     {
       "kod": "FYD",
@@ -344,7 +1540,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/FYD_tefas.json"
+      "dosya": "data/FYD_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.330215,
+          "sortino": -0.461887,
+          "alpha": -0.06506,
+          "max_drawdown": -0.135088
+        },
+        "YTD": {
+          "sharpe": -0.099515,
+          "sortino": -0.140277,
+          "alpha": -0.043915,
+          "max_drawdown": -0.135088
+        },
+        "1Y": {
+          "sharpe": -0.364664,
+          "sortino": -0.545027,
+          "alpha": -0.071197,
+          "max_drawdown": -0.135088
+        },
+        "3Y": {
+          "sharpe": 0.276204,
+          "sortino": 0.394737,
+          "alpha": 0.075627,
+          "max_drawdown": -0.234027
+        },
+        "5Y": {
+          "sharpe": 0.73894,
+          "sortino": 1.0596,
+          "alpha": 0.213931,
+          "max_drawdown": -0.234027
+        }
+      }
     },
     {
       "kod": "GAE",
@@ -353,7 +1581,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GAE_tefas.json"
+      "dosya": "data/GAE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.123994,
+          "sortino": 0.183194,
+          "alpha": 0.026768,
+          "max_drawdown": -0.089199
+        },
+        "YTD": {
+          "sharpe": 1.754261,
+          "sortino": 2.74978,
+          "alpha": 0.497959,
+          "max_drawdown": -0.08863
+        },
+        "1Y": {
+          "sharpe": 0.072177,
+          "sortino": 0.111327,
+          "alpha": 0.020515,
+          "max_drawdown": -0.118663
+        },
+        "3Y": {
+          "sharpe": 0.092432,
+          "sortino": 0.133615,
+          "alpha": 0.025306,
+          "max_drawdown": -0.208112
+        },
+        "5Y": {
+          "sharpe": 0.487465,
+          "sortino": 0.69563,
+          "alpha": 0.143434,
+          "max_drawdown": -0.214193
+        }
+      }
     },
     {
       "kod": "GAF",
@@ -362,7 +1622,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GAF_tefas.json"
+      "dosya": "data/GAF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.476463,
+          "sortino": 0.68607,
+          "alpha": 0.12064,
+          "max_drawdown": -0.156046
+        },
+        "YTD": {
+          "sharpe": 0.528005,
+          "sortino": 0.752966,
+          "alpha": 0.127469,
+          "max_drawdown": -0.156046
+        },
+        "1Y": {
+          "sharpe": 0.031447,
+          "sortino": 0.047979,
+          "alpha": 0.012863,
+          "max_drawdown": -0.156046
+        },
+        "3Y": {
+          "sharpe": 0.509665,
+          "sortino": 0.746748,
+          "alpha": 0.147093,
+          "max_drawdown": -0.191746
+        },
+        "5Y": {
+          "sharpe": 0.763481,
+          "sortino": 1.100313,
+          "alpha": 0.229929,
+          "max_drawdown": -0.191746
+        }
+      }
     },
     {
       "kod": "GHS",
@@ -371,7 +1663,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GHS_tefas.json"
+      "dosya": "data/GHS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.032788,
+          "sortino": -0.047186,
+          "alpha": -0.006514,
+          "max_drawdown": -0.134087
+        },
+        "YTD": {
+          "sharpe": 0.751759,
+          "sortino": 1.10538,
+          "alpha": 0.173733,
+          "max_drawdown": -0.134087
+        },
+        "1Y": {
+          "sharpe": -0.196003,
+          "sortino": -0.295633,
+          "alpha": -0.038344,
+          "max_drawdown": -0.134087
+        },
+        "3Y": {
+          "sharpe": 0.343701,
+          "sortino": 0.496854,
+          "alpha": 0.094783,
+          "max_drawdown": -0.212652
+        },
+        "5Y": {
+          "sharpe": 0.769846,
+          "sortino": 1.103149,
+          "alpha": 0.225304,
+          "max_drawdown": -0.214765
+        }
+      }
     },
     {
       "kod": "GIE",
@@ -380,7 +1704,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 813,
       "gun_kapsami": 1179,
-      "dosya": "data/GIE_tefas.json"
+      "dosya": "data/GIE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.254022,
+          "sortino": -0.362467,
+          "alpha": -0.050661,
+          "max_drawdown": -0.12217
+        },
+        "YTD": {
+          "sharpe": 0.963314,
+          "sortino": 1.453584,
+          "alpha": 0.227909,
+          "max_drawdown": -0.12217
+        },
+        "1Y": {
+          "sharpe": -0.263627,
+          "sortino": -0.397124,
+          "alpha": -0.051189,
+          "max_drawdown": -0.135716
+        },
+        "3Y": {
+          "sharpe": 0.282538,
+          "sortino": 0.405892,
+          "alpha": 0.076524,
+          "max_drawdown": -0.213122
+        },
+        "5Y": {
+          "sharpe": 0.16219,
+          "sortino": 0.233183,
+          "alpha": 0.046651,
+          "max_drawdown": -0.213122
+        }
+      }
     },
     {
       "kod": "GIH",
@@ -389,7 +1745,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 709,
       "gun_kapsami": 1030,
-      "dosya": "data/GIH_tefas.json"
+      "dosya": "data/GIH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.762037,
+          "sortino": 1.098222,
+          "alpha": 0.149171,
+          "max_drawdown": -0.110048
+        },
+        "YTD": {
+          "sharpe": 2.551732,
+          "sortino": 3.845754,
+          "alpha": 0.627157,
+          "max_drawdown": -0.110048
+        },
+        "1Y": {
+          "sharpe": -0.311664,
+          "sortino": -0.449265,
+          "alpha": -0.059661,
+          "max_drawdown": -0.123153
+        },
+        "3Y": {
+          "sharpe": -0.164021,
+          "sortino": -0.233707,
+          "alpha": -0.0468,
+          "max_drawdown": -0.367515
+        },
+        "5Y": {
+          "sharpe": -0.164021,
+          "sortino": -0.233707,
+          "alpha": -0.0468,
+          "max_drawdown": -0.367515
+        }
+      }
     },
     {
       "kod": "GKG",
@@ -398,7 +1786,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 265,
       "gun_kapsami": 385,
-      "dosya": "data/GKG_tefas.json"
+      "dosya": "data/GKG_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.098747,
+          "sortino": 0.14517,
+          "alpha": 0.01929,
+          "max_drawdown": -0.110371
+        },
+        "YTD": {
+          "sharpe": 1.248317,
+          "sortino": 1.889595,
+          "alpha": 0.29693,
+          "max_drawdown": -0.110371
+        },
+        "1Y": {
+          "sharpe": 0.003097,
+          "sortino": 0.004771,
+          "alpha": 0.00425,
+          "max_drawdown": -0.110371
+        },
+        "3Y": {
+          "sharpe": -0.517888,
+          "sortino": -0.704877,
+          "alpha": -0.100047,
+          "max_drawdown": -0.164488
+        },
+        "5Y": {
+          "sharpe": -0.517888,
+          "sortino": -0.704877,
+          "alpha": -0.100047,
+          "max_drawdown": -0.164488
+        }
+      }
     },
     {
       "kod": "GKV",
@@ -407,7 +1827,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 930,
       "gun_kapsami": 1345,
-      "dosya": "data/GKV_tefas.json"
+      "dosya": "data/GKV_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.181466,
+          "sortino": 0.262714,
+          "alpha": 0.033158,
+          "max_drawdown": -0.067452
+        },
+        "YTD": {
+          "sharpe": 2.198685,
+          "sortino": 3.3895,
+          "alpha": 0.526042,
+          "max_drawdown": -0.061376
+        },
+        "1Y": {
+          "sharpe": 0.029093,
+          "sortino": 0.043917,
+          "alpha": 0.007817,
+          "max_drawdown": -0.086568
+        },
+        "3Y": {
+          "sharpe": 0.196254,
+          "sortino": 0.277201,
+          "alpha": 0.049509,
+          "max_drawdown": -0.186462
+        },
+        "5Y": {
+          "sharpe": 0.737991,
+          "sortino": 1.061589,
+          "alpha": 0.20895,
+          "max_drawdown": -0.186462
+        }
+      }
     },
     {
       "kod": "GL1",
@@ -416,7 +1868,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GL1_tefas.json"
+      "dosya": "data/GL1_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.186409,
+          "sortino": 0.261411,
+          "alpha": 0.033756,
+          "max_drawdown": -0.127735
+        },
+        "YTD": {
+          "sharpe": 0.612375,
+          "sortino": 0.856248,
+          "alpha": 0.113901,
+          "max_drawdown": -0.127735
+        },
+        "1Y": {
+          "sharpe": 0.178061,
+          "sortino": 0.26924,
+          "alpha": 0.040241,
+          "max_drawdown": -0.127735
+        },
+        "3Y": {
+          "sharpe": 0.378453,
+          "sortino": 0.540514,
+          "alpha": 0.099718,
+          "max_drawdown": -0.255107
+        },
+        "5Y": {
+          "sharpe": 0.727155,
+          "sortino": 1.03233,
+          "alpha": 0.197037,
+          "max_drawdown": -0.255107
+        }
+      }
     },
     {
       "kod": "GMR",
@@ -425,7 +1909,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GMR_tefas.json"
+      "dosya": "data/GMR_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.549283,
+          "sortino": -0.726712,
+          "alpha": -0.099508,
+          "max_drawdown": -0.137214
+        },
+        "YTD": {
+          "sharpe": -0.446329,
+          "sortino": -0.584553,
+          "alpha": -0.100745,
+          "max_drawdown": -0.137214
+        },
+        "1Y": {
+          "sharpe": -0.170347,
+          "sortino": -0.244843,
+          "alpha": -0.034549,
+          "max_drawdown": -0.137214
+        },
+        "3Y": {
+          "sharpe": 0.184823,
+          "sortino": 0.251838,
+          "alpha": 0.049109,
+          "max_drawdown": -0.290559
+        },
+        "5Y": {
+          "sharpe": 0.522108,
+          "sortino": 0.706477,
+          "alpha": 0.144535,
+          "max_drawdown": -0.290559
+        }
+      }
     },
     {
       "kod": "GNH",
@@ -434,7 +1950,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 231,
       "gun_kapsami": 331,
-      "dosya": "data/GNH_tefas.json"
+      "dosya": "data/GNH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.153859,
+          "sortino": -1.527023,
+          "alpha": -0.176702,
+          "max_drawdown": -0.095838
+        },
+        "YTD": {
+          "sharpe": 0.075207,
+          "sortino": 0.10197,
+          "alpha": -0.005992,
+          "max_drawdown": -0.095838
+        },
+        "1Y": {
+          "sharpe": -0.038471,
+          "sortino": -0.055273,
+          "alpha": -0.008861,
+          "max_drawdown": -0.095838
+        },
+        "3Y": {
+          "sharpe": -0.038471,
+          "sortino": -0.055273,
+          "alpha": -0.008861,
+          "max_drawdown": -0.095838
+        },
+        "5Y": {
+          "sharpe": -0.038471,
+          "sortino": -0.055273,
+          "alpha": -0.008861,
+          "max_drawdown": -0.095838
+        }
+      }
     },
     {
       "kod": "GNS",
@@ -443,7 +1991,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 285,
       "gun_kapsami": 413,
-      "dosya": "data/GNS_tefas.json"
+      "dosya": "data/GNS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.057637,
+          "sortino": -0.079224,
+          "alpha": -0.011443,
+          "max_drawdown": -0.092532
+        },
+        "YTD": {
+          "sharpe": 0.47869,
+          "sortino": 0.680812,
+          "alpha": 0.090005,
+          "max_drawdown": -0.092532
+        },
+        "1Y": {
+          "sharpe": 0.287171,
+          "sortino": 0.412916,
+          "alpha": 0.066639,
+          "max_drawdown": -0.125999
+        },
+        "3Y": {
+          "sharpe": -0.063324,
+          "sortino": -0.084067,
+          "alpha": -0.011616,
+          "max_drawdown": -0.137357
+        },
+        "5Y": {
+          "sharpe": -0.063324,
+          "sortino": -0.084067,
+          "alpha": -0.011616,
+          "max_drawdown": -0.137357
+        }
+      }
     },
     {
       "kod": "GO9",
@@ -452,7 +2032,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 608,
       "gun_kapsami": 883,
-      "dosya": "data/GO9_tefas.json"
+      "dosya": "data/GO9_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.009372,
+          "sortino": 1.518406,
+          "alpha": 0.23771,
+          "max_drawdown": -0.087291
+        },
+        "YTD": {
+          "sharpe": 2.238148,
+          "sortino": 3.555695,
+          "alpha": 0.670276,
+          "max_drawdown": -0.087291
+        },
+        "1Y": {
+          "sharpe": 0.718281,
+          "sortino": 1.135727,
+          "alpha": 0.170071,
+          "max_drawdown": -0.087291
+        },
+        "3Y": {
+          "sharpe": 0.038952,
+          "sortino": 0.053775,
+          "alpha": 0.016632,
+          "max_drawdown": -0.199995
+        },
+        "5Y": {
+          "sharpe": 0.038952,
+          "sortino": 0.053775,
+          "alpha": 0.016632,
+          "max_drawdown": -0.199995
+        }
+      }
     },
     {
       "kod": "GOH",
@@ -461,7 +2073,39 @@
       "neden": null,
       "kayit": 1218,
       "gun_kapsami": 1767,
-      "dosya": "data/GOH_tefas.json"
+      "dosya": "data/GOH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.340874,
+          "sortino": -0.476939,
+          "alpha": -0.061647,
+          "max_drawdown": -0.101486
+        },
+        "YTD": {
+          "sharpe": 0.7839,
+          "sortino": 1.112278,
+          "alpha": 0.161887,
+          "max_drawdown": -0.101486
+        },
+        "1Y": {
+          "sharpe": 0.079119,
+          "sortino": 0.120006,
+          "alpha": 0.016247,
+          "max_drawdown": -0.101486
+        },
+        "3Y": {
+          "sharpe": 0.332104,
+          "sortino": 0.461101,
+          "alpha": 0.086274,
+          "max_drawdown": -0.248018
+        },
+        "5Y": {
+          "sharpe": 0.947965,
+          "sortino": 1.319116,
+          "alpha": 0.265769,
+          "max_drawdown": -0.248018
+        }
+      }
     },
     {
       "kod": "GRT",
@@ -470,7 +2114,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 295,
       "gun_kapsami": 427,
-      "dosya": "data/GRT_tefas.json"
+      "dosya": "data/GRT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.24288,
+          "sortino": -0.351012,
+          "alpha": -0.053933,
+          "max_drawdown": -0.112058
+        },
+        "YTD": {
+          "sharpe": 1.681036,
+          "sortino": 2.630693,
+          "alpha": 0.543292,
+          "max_drawdown": -0.055476
+        },
+        "1Y": {
+          "sharpe": -0.102926,
+          "sortino": -0.152139,
+          "alpha": -0.023868,
+          "max_drawdown": -0.151124
+        },
+        "3Y": {
+          "sharpe": -0.161842,
+          "sortino": -0.224441,
+          "alpha": -0.043853,
+          "max_drawdown": -0.151124
+        },
+        "5Y": {
+          "sharpe": -0.161842,
+          "sortino": -0.224441,
+          "alpha": -0.043853,
+          "max_drawdown": -0.151124
+        }
+      }
     },
     {
       "kod": "GSP",
@@ -479,7 +2155,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GSP_tefas.json"
+      "dosya": "data/GSP_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.031121,
+          "sortino": 1.558975,
+          "alpha": 0.203817,
+          "max_drawdown": -0.074607
+        },
+        "YTD": {
+          "sharpe": 2.421856,
+          "sortino": 3.847761,
+          "alpha": 0.587509,
+          "max_drawdown": -0.074607
+        },
+        "1Y": {
+          "sharpe": -0.105281,
+          "sortino": -0.153111,
+          "alpha": -0.018195,
+          "max_drawdown": -0.102279
+        },
+        "3Y": {
+          "sharpe": 0.493517,
+          "sortino": 0.706824,
+          "alpha": 0.125489,
+          "max_drawdown": -0.207556
+        },
+        "5Y": {
+          "sharpe": 0.51182,
+          "sortino": 0.698434,
+          "alpha": 0.136324,
+          "max_drawdown": -0.207556
+        }
+      }
     },
     {
       "kod": "GTH",
@@ -488,7 +2196,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 290,
       "gun_kapsami": 420,
-      "dosya": "data/GTH_tefas.json"
+      "dosya": "data/GTH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.829648,
+          "sortino": -1.168672,
+          "alpha": -0.138687,
+          "max_drawdown": -0.093551
+        },
+        "YTD": {
+          "sharpe": 1.066456,
+          "sortino": 1.6312,
+          "alpha": 0.220979,
+          "max_drawdown": -0.093551
+        },
+        "1Y": {
+          "sharpe": -0.790745,
+          "sortino": -1.136772,
+          "alpha": -0.139639,
+          "max_drawdown": -0.111917
+        },
+        "3Y": {
+          "sharpe": -0.738993,
+          "sortino": -0.990383,
+          "alpha": -0.14512,
+          "max_drawdown": -0.169661
+        },
+        "5Y": {
+          "sharpe": -0.738993,
+          "sortino": -0.990383,
+          "alpha": -0.14512,
+          "max_drawdown": -0.169661
+        }
+      }
     },
     {
       "kod": "GTM",
@@ -497,7 +2237,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 925,
       "gun_kapsami": 1338,
-      "dosya": "data/GTM_tefas.json"
+      "dosya": "data/GTM_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.249595,
+          "sortino": 0.368509,
+          "alpha": 0.050515,
+          "max_drawdown": -0.106074
+        },
+        "YTD": {
+          "sharpe": 1.294298,
+          "sortino": 1.969458,
+          "alpha": 0.319508,
+          "max_drawdown": -0.106074
+        },
+        "1Y": {
+          "sharpe": 0.165784,
+          "sortino": 0.25761,
+          "alpha": 0.039129,
+          "max_drawdown": -0.106074
+        },
+        "3Y": {
+          "sharpe": 0.475943,
+          "sortino": 0.688588,
+          "alpha": 0.126998,
+          "max_drawdown": -0.224779
+        },
+        "5Y": {
+          "sharpe": 0.760242,
+          "sortino": 1.107279,
+          "alpha": 0.220046,
+          "max_drawdown": -0.224779
+        }
+      }
     },
     {
       "kod": "GZR",
@@ -506,7 +2278,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/GZR_tefas.json"
+      "dosya": "data/GZR_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.266865,
+          "sortino": -0.380109,
+          "alpha": -0.050062,
+          "max_drawdown": -0.109396
+        },
+        "YTD": {
+          "sharpe": 1.058987,
+          "sortino": 1.586722,
+          "alpha": 0.24236,
+          "max_drawdown": -0.109396
+        },
+        "1Y": {
+          "sharpe": -0.345283,
+          "sortino": -0.515787,
+          "alpha": -0.064849,
+          "max_drawdown": -0.125317
+        },
+        "3Y": {
+          "sharpe": 0.205095,
+          "sortino": 0.295366,
+          "alpha": 0.052379,
+          "max_drawdown": -0.206654
+        },
+        "5Y": {
+          "sharpe": 0.590739,
+          "sortino": 0.843973,
+          "alpha": 0.163426,
+          "max_drawdown": -0.206654
+        }
+      }
     },
     {
       "kod": "HBU",
@@ -515,7 +2319,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/HBU_tefas.json"
+      "dosya": "data/HBU_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.294744,
+          "sortino": 0.436655,
+          "alpha": 0.068743,
+          "max_drawdown": -0.098032
+        },
+        "YTD": {
+          "sharpe": 1.924662,
+          "sortino": 3.020617,
+          "alpha": 0.602546,
+          "max_drawdown": -0.087456
+        },
+        "1Y": {
+          "sharpe": 0.179756,
+          "sortino": 0.278566,
+          "alpha": 0.048068,
+          "max_drawdown": -0.127694
+        },
+        "3Y": {
+          "sharpe": 0.136086,
+          "sortino": 0.197003,
+          "alpha": 0.039188,
+          "max_drawdown": -0.213198
+        },
+        "5Y": {
+          "sharpe": 0.536143,
+          "sortino": 0.768412,
+          "alpha": 0.168567,
+          "max_drawdown": -0.223583
+        }
+      }
     },
     {
       "kod": "HFR",
@@ -524,7 +2360,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 119,
       "gun_kapsami": 169,
-      "dosya": "data/HFR_tefas.json"
+      "dosya": "data/HFR_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.611382,
+          "sortino": 2.481561,
+          "alpha": 0.377107,
+          "max_drawdown": -0.108729
+        },
+        "YTD": {
+          "sharpe": 0.863908,
+          "sortino": 1.272538,
+          "alpha": 0.209392,
+          "max_drawdown": -0.108729
+        },
+        "1Y": {
+          "sharpe": 1.611382,
+          "sortino": 2.481561,
+          "alpha": 0.377107,
+          "max_drawdown": -0.108729
+        },
+        "3Y": {
+          "sharpe": 1.611382,
+          "sortino": 2.481561,
+          "alpha": 0.377107,
+          "max_drawdown": -0.108729
+        },
+        "5Y": {
+          "sharpe": 1.611382,
+          "sortino": 2.481561,
+          "alpha": 0.377107,
+          "max_drawdown": -0.108729
+        }
+      }
     },
     {
       "kod": "HGM",
@@ -533,7 +2401,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 707,
       "gun_kapsami": 1026,
-      "dosya": "data/HGM_tefas.json"
+      "dosya": "data/HGM_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.862712,
+          "sortino": 1.350752,
+          "alpha": 0.176383,
+          "max_drawdown": -0.06666
+        },
+        "YTD": {
+          "sharpe": 3.493532,
+          "sortino": 6.34296,
+          "alpha": 1.01044,
+          "max_drawdown": -0.052069
+        },
+        "1Y": {
+          "sharpe": 0.725678,
+          "sortino": 1.175369,
+          "alpha": 0.159389,
+          "max_drawdown": -0.116192
+        },
+        "3Y": {
+          "sharpe": 0.489249,
+          "sortino": 0.683964,
+          "alpha": 0.126464,
+          "max_drawdown": -0.202267
+        },
+        "5Y": {
+          "sharpe": 0.489249,
+          "sortino": 0.683964,
+          "alpha": 0.126464,
+          "max_drawdown": -0.202267
+        }
+      }
     },
     {
       "kod": "HIH",
@@ -542,7 +2442,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 202,
       "gun_kapsami": 287,
-      "dosya": "data/HIH_tefas.json"
+      "dosya": "data/HIH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.391308,
+          "sortino": -0.539447,
+          "alpha": -0.078067,
+          "max_drawdown": -0.15834
+        },
+        "YTD": {
+          "sharpe": -0.134725,
+          "sortino": -0.185605,
+          "alpha": -0.061675,
+          "max_drawdown": -0.15834
+        },
+        "1Y": {
+          "sharpe": 0.077293,
+          "sortino": 0.116078,
+          "alpha": 0.001819,
+          "max_drawdown": -0.15834
+        },
+        "3Y": {
+          "sharpe": 0.077293,
+          "sortino": 0.116078,
+          "alpha": 0.001819,
+          "max_drawdown": -0.15834
+        },
+        "5Y": {
+          "sharpe": 0.077293,
+          "sortino": 0.116078,
+          "alpha": 0.001819,
+          "max_drawdown": -0.15834
+        }
+      }
     },
     {
       "kod": "HKH",
@@ -551,7 +2483,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 936,
       "gun_kapsami": 1353,
-      "dosya": "data/HKH_tefas.json"
+      "dosya": "data/HKH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.519145,
+          "sortino": -2.036248,
+          "alpha": -0.266128,
+          "max_drawdown": -0.15962
+        },
+        "YTD": {
+          "sharpe": -1.292802,
+          "sortino": -1.714148,
+          "alpha": -0.261982,
+          "max_drawdown": -0.15962
+        },
+        "1Y": {
+          "sharpe": -0.542478,
+          "sortino": -0.787749,
+          "alpha": -0.104252,
+          "max_drawdown": -0.15962
+        },
+        "3Y": {
+          "sharpe": 0.262085,
+          "sortino": 0.365419,
+          "alpha": 0.066883,
+          "max_drawdown": -0.199909
+        },
+        "5Y": {
+          "sharpe": 0.857661,
+          "sortino": 1.224261,
+          "alpha": 0.247838,
+          "max_drawdown": -0.199909
+        }
+      }
     },
     {
       "kod": "HMS",
@@ -560,7 +2524,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1086,
       "gun_kapsami": 1572,
-      "dosya": "data/HMS_tefas.json"
+      "dosya": "data/HMS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.116597,
+          "sortino": -0.164349,
+          "alpha": -0.024761,
+          "max_drawdown": -0.127353
+        },
+        "YTD": {
+          "sharpe": 0.965499,
+          "sortino": 1.404537,
+          "alpha": 0.249292,
+          "max_drawdown": -0.127353
+        },
+        "1Y": {
+          "sharpe": -0.279883,
+          "sortino": -0.415159,
+          "alpha": -0.057598,
+          "max_drawdown": -0.127353
+        },
+        "3Y": {
+          "sharpe": 0.320816,
+          "sortino": 0.45934,
+          "alpha": 0.090817,
+          "max_drawdown": -0.223357
+        },
+        "5Y": {
+          "sharpe": 0.680501,
+          "sortino": 0.976595,
+          "alpha": 0.218073,
+          "max_drawdown": -0.223357
+        }
+      }
     },
     {
       "kod": "HNC",
@@ -569,7 +2565,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 257,
       "gun_kapsami": 373,
-      "dosya": "data/HNC_tefas.json"
+      "dosya": "data/HNC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.085847,
+          "sortino": -0.120977,
+          "alpha": -0.015225,
+          "max_drawdown": -0.090613
+        },
+        "YTD": {
+          "sharpe": 0.974518,
+          "sortino": 1.363867,
+          "alpha": 0.19902,
+          "max_drawdown": -0.090613
+        },
+        "1Y": {
+          "sharpe": -0.550187,
+          "sortino": -0.799124,
+          "alpha": -0.104026,
+          "max_drawdown": -0.117262
+        },
+        "3Y": {
+          "sharpe": -0.490856,
+          "sortino": -0.713489,
+          "alpha": -0.091392,
+          "max_drawdown": -0.117262
+        },
+        "5Y": {
+          "sharpe": -0.490856,
+          "sortino": -0.713489,
+          "alpha": -0.091392,
+          "max_drawdown": -0.117262
+        }
+      }
     },
     {
       "kod": "HRZ",
@@ -578,7 +2606,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 374,
       "gun_kapsami": 540,
-      "dosya": "data/HRZ_tefas.json"
+      "dosya": "data/HRZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.208944,
+          "sortino": 1.750768,
+          "alpha": 0.260125,
+          "max_drawdown": -0.082084
+        },
+        "YTD": {
+          "sharpe": 4.174597,
+          "sortino": 6.60002,
+          "alpha": 1.178375,
+          "max_drawdown": -0.082084
+        },
+        "1Y": {
+          "sharpe": 1.088231,
+          "sortino": 1.619732,
+          "alpha": 0.228473,
+          "max_drawdown": -0.089506
+        },
+        "3Y": {
+          "sharpe": 0.636934,
+          "sortino": 0.859325,
+          "alpha": 0.139191,
+          "max_drawdown": -0.132237
+        },
+        "5Y": {
+          "sharpe": 0.636934,
+          "sortino": 0.859325,
+          "alpha": 0.139191,
+          "max_drawdown": -0.132237
+        }
+      }
     },
     {
       "kod": "HVI",
@@ -587,7 +2647,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 110,
       "gun_kapsami": 155,
-      "dosya": "data/HVI_tefas.json"
+      "dosya": "data/HVI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.124172,
+          "sortino": 0.172783,
+          "alpha": 0.012596,
+          "max_drawdown": -0.147685
+        },
+        "YTD": {
+          "sharpe": 0.267599,
+          "sortino": 0.370058,
+          "alpha": 0.033657,
+          "max_drawdown": -0.147685
+        },
+        "1Y": {
+          "sharpe": 0.124172,
+          "sortino": 0.172783,
+          "alpha": 0.012596,
+          "max_drawdown": -0.147685
+        },
+        "3Y": {
+          "sharpe": 0.124172,
+          "sortino": 0.172783,
+          "alpha": 0.012596,
+          "max_drawdown": -0.147685
+        },
+        "5Y": {
+          "sharpe": 0.124172,
+          "sortino": 0.172783,
+          "alpha": 0.012596,
+          "max_drawdown": -0.147685
+        }
+      }
     },
     {
       "kod": "HVS",
@@ -596,7 +2688,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/HVS_tefas.json"
+      "dosya": "data/HVS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.301338,
+          "sortino": -0.427354,
+          "alpha": -0.063033,
+          "max_drawdown": -0.134675
+        },
+        "YTD": {
+          "sharpe": 1.007086,
+          "sortino": 1.521186,
+          "alpha": 0.258327,
+          "max_drawdown": -0.134675
+        },
+        "1Y": {
+          "sharpe": -0.359203,
+          "sortino": -0.536803,
+          "alpha": -0.075977,
+          "max_drawdown": -0.134675
+        },
+        "3Y": {
+          "sharpe": 0.282679,
+          "sortino": 0.409056,
+          "alpha": 0.080441,
+          "max_drawdown": -0.221812
+        },
+        "5Y": {
+          "sharpe": 0.800343,
+          "sortino": 1.156145,
+          "alpha": 0.249661,
+          "max_drawdown": -0.221812
+        }
+      }
     },
     {
       "kod": "HVZ",
@@ -605,7 +2729,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 909,
       "gun_kapsami": 1316,
-      "dosya": "data/HVZ_tefas.json"
+      "dosya": "data/HVZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.072676,
+          "sortino": -1.433449,
+          "alpha": -0.186587,
+          "max_drawdown": -0.167734
+        },
+        "YTD": {
+          "sharpe": -0.58135,
+          "sortino": -0.774446,
+          "alpha": -0.136025,
+          "max_drawdown": -0.167734
+        },
+        "1Y": {
+          "sharpe": -0.887094,
+          "sortino": -1.262219,
+          "alpha": -0.167724,
+          "max_drawdown": -0.167734
+        },
+        "3Y": {
+          "sharpe": 0.182212,
+          "sortino": 0.257573,
+          "alpha": 0.045525,
+          "max_drawdown": -0.167734
+        },
+        "5Y": {
+          "sharpe": 0.699994,
+          "sortino": 1.003894,
+          "alpha": 0.195989,
+          "max_drawdown": -0.171764
+        }
+      }
     },
     {
       "kod": "ICF",
@@ -614,7 +2770,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ICF_tefas.json"
+      "dosya": "data/ICF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.765514,
+          "sortino": -1.050617,
+          "alpha": -0.136266,
+          "max_drawdown": -0.120481
+        },
+        "YTD": {
+          "sharpe": 0.373199,
+          "sortino": 0.527595,
+          "alpha": 0.06594,
+          "max_drawdown": -0.120481
+        },
+        "1Y": {
+          "sharpe": -0.520239,
+          "sortino": -0.753997,
+          "alpha": -0.099433,
+          "max_drawdown": -0.124732
+        },
+        "3Y": {
+          "sharpe": 0.238759,
+          "sortino": 0.339059,
+          "alpha": 0.06192,
+          "max_drawdown": -0.175523
+        },
+        "5Y": {
+          "sharpe": 0.756237,
+          "sortino": 1.071512,
+          "alpha": 0.214993,
+          "max_drawdown": -0.201116
+        }
+      }
     },
     {
       "kod": "ICZ",
@@ -623,7 +2811,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ICZ_tefas.json"
+      "dosya": "data/ICZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.113865,
+          "sortino": -0.165152,
+          "alpha": -0.024476,
+          "max_drawdown": -0.09034
+        },
+        "YTD": {
+          "sharpe": 1.685586,
+          "sortino": 2.606238,
+          "alpha": 0.502854,
+          "max_drawdown": -0.052765
+        },
+        "1Y": {
+          "sharpe": 0.103471,
+          "sortino": 0.156096,
+          "alpha": 0.021753,
+          "max_drawdown": -0.125184
+        },
+        "3Y": {
+          "sharpe": 0.559217,
+          "sortino": 0.786822,
+          "alpha": 0.167713,
+          "max_drawdown": -0.334078
+        },
+        "5Y": {
+          "sharpe": 0.1514,
+          "sortino": 0.203894,
+          "alpha": 0.044694,
+          "max_drawdown": -0.347476
+        }
+      }
     },
     {
       "kod": "IDH",
@@ -632,7 +2852,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/IDH_tefas.json"
+      "dosya": "data/IDH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.464561,
+          "sortino": -0.627281,
+          "alpha": -0.076633,
+          "max_drawdown": -0.092485
+        },
+        "YTD": {
+          "sharpe": 0.1566,
+          "sortino": 0.213026,
+          "alpha": 0.026117,
+          "max_drawdown": -0.092485
+        },
+        "1Y": {
+          "sharpe": -0.187818,
+          "sortino": -0.271341,
+          "alpha": -0.033519,
+          "max_drawdown": -0.092485
+        },
+        "3Y": {
+          "sharpe": 0.623909,
+          "sortino": 0.864483,
+          "alpha": 0.164387,
+          "max_drawdown": -0.251216
+        },
+        "5Y": {
+          "sharpe": 0.488404,
+          "sortino": 0.666043,
+          "alpha": 0.127895,
+          "max_drawdown": -0.286557
+        }
+      }
     },
     {
       "kod": "IDI",
@@ -641,7 +2893,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 282,
       "gun_kapsami": 408,
-      "dosya": "data/IDI_tefas.json"
+      "dosya": "data/IDI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.252945,
+          "sortino": -0.355983,
+          "alpha": -0.055247,
+          "max_drawdown": -0.101944
+        },
+        "YTD": {
+          "sharpe": 1.266715,
+          "sortino": 1.87536,
+          "alpha": 0.361604,
+          "max_drawdown": -0.101944
+        },
+        "1Y": {
+          "sharpe": -0.538126,
+          "sortino": -0.783671,
+          "alpha": -0.114994,
+          "max_drawdown": -0.127052
+        },
+        "3Y": {
+          "sharpe": -0.326378,
+          "sortino": -0.462695,
+          "alpha": -0.077341,
+          "max_drawdown": -0.168726
+        },
+        "5Y": {
+          "sharpe": -0.326378,
+          "sortino": -0.462695,
+          "alpha": -0.077341,
+          "max_drawdown": -0.168726
+        }
+      }
     },
     {
       "kod": "IFN",
@@ -650,7 +2934,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1013,
       "gun_kapsami": 1471,
-      "dosya": "data/IFN_tefas.json"
+      "dosya": "data/IFN_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.882046,
+          "sortino": -1.213667,
+          "alpha": -0.163377,
+          "max_drawdown": -0.135349
+        },
+        "YTD": {
+          "sharpe": 0.318865,
+          "sortino": 0.453461,
+          "alpha": 0.05243,
+          "max_drawdown": -0.135349
+        },
+        "1Y": {
+          "sharpe": -0.62308,
+          "sortino": -0.917326,
+          "alpha": -0.124174,
+          "max_drawdown": -0.138521
+        },
+        "3Y": {
+          "sharpe": 0.205097,
+          "sortino": 0.292598,
+          "alpha": 0.054723,
+          "max_drawdown": -0.206454
+        },
+        "5Y": {
+          "sharpe": 0.752597,
+          "sortino": 1.099279,
+          "alpha": 0.225717,
+          "max_drawdown": -0.206454
+        }
+      }
     },
     {
       "kod": "IHA",
@@ -659,7 +2975,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 709,
       "gun_kapsami": 1030,
-      "dosya": "data/IHA_tefas.json"
+      "dosya": "data/IHA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.13258,
+          "sortino": -0.191658,
+          "alpha": -0.026012,
+          "max_drawdown": -0.144677
+        },
+        "YTD": {
+          "sharpe": 0.792492,
+          "sortino": 1.180827,
+          "alpha": 0.179032,
+          "max_drawdown": -0.144677
+        },
+        "1Y": {
+          "sharpe": -0.164471,
+          "sortino": -0.241201,
+          "alpha": -0.029824,
+          "max_drawdown": -0.144677
+        },
+        "3Y": {
+          "sharpe": 0.202354,
+          "sortino": 0.277762,
+          "alpha": 0.051928,
+          "max_drawdown": -0.22914
+        },
+        "5Y": {
+          "sharpe": 0.202354,
+          "sortino": 0.277762,
+          "alpha": 0.051928,
+          "max_drawdown": -0.22914
+        }
+      }
     },
     {
       "kod": "IHK",
@@ -668,7 +3016,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/IHK_tefas.json"
+      "dosya": "data/IHK_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.335475,
+          "sortino": -0.469499,
+          "alpha": -0.066829,
+          "max_drawdown": -0.138717
+        },
+        "YTD": {
+          "sharpe": 0.378359,
+          "sortino": 0.53396,
+          "alpha": 0.067625,
+          "max_drawdown": -0.138717
+        },
+        "1Y": {
+          "sharpe": -0.437917,
+          "sortino": -0.650741,
+          "alpha": -0.088207,
+          "max_drawdown": -0.138717
+        },
+        "3Y": {
+          "sharpe": 0.560267,
+          "sortino": 0.811155,
+          "alpha": 0.157598,
+          "max_drawdown": -0.247179
+        },
+        "5Y": {
+          "sharpe": 0.884112,
+          "sortino": 1.271479,
+          "alpha": 0.261925,
+          "max_drawdown": -0.247179
+        }
+      }
     },
     {
       "kod": "IHT",
@@ -677,7 +3057,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 878,
       "gun_kapsami": 1270,
-      "dosya": "data/IHT_tefas.json"
+      "dosya": "data/IHT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.491731,
+          "sortino": -0.693612,
+          "alpha": -0.087365,
+          "max_drawdown": -0.105502
+        },
+        "YTD": {
+          "sharpe": 0.715771,
+          "sortino": 1.053729,
+          "alpha": 0.145573,
+          "max_drawdown": -0.105502
+        },
+        "1Y": {
+          "sharpe": -0.921908,
+          "sortino": -1.302176,
+          "alpha": -0.168292,
+          "max_drawdown": -0.126191
+        },
+        "3Y": {
+          "sharpe": -0.134575,
+          "sortino": -0.185549,
+          "alpha": -0.03338,
+          "max_drawdown": -0.255079
+        },
+        "5Y": {
+          "sharpe": 0.121086,
+          "sortino": 0.170155,
+          "alpha": 0.031935,
+          "max_drawdown": -0.255079
+        }
+      }
     },
     {
       "kod": "IIH",
@@ -686,7 +3098,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/IIH_tefas.json"
+      "dosya": "data/IIH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.348668,
+          "sortino": -0.492351,
+          "alpha": -0.066101,
+          "max_drawdown": -0.132727
+        },
+        "YTD": {
+          "sharpe": 0.515969,
+          "sortino": 0.748168,
+          "alpha": 0.094944,
+          "max_drawdown": -0.132727
+        },
+        "1Y": {
+          "sharpe": -0.287525,
+          "sortino": -0.42968,
+          "alpha": -0.054097,
+          "max_drawdown": -0.132727
+        },
+        "3Y": {
+          "sharpe": 0.731592,
+          "sortino": 1.072583,
+          "alpha": 0.195966,
+          "max_drawdown": -0.224241
+        },
+        "5Y": {
+          "sharpe": 0.944495,
+          "sortino": 1.360757,
+          "alpha": 0.268748,
+          "max_drawdown": -0.224241
+        }
+      }
     },
     {
       "kod": "IMB",
@@ -695,7 +3139,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 263,
       "gun_kapsami": 381,
-      "dosya": "data/IMB_tefas.json"
+      "dosya": "data/IMB_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.6455,
+          "sortino": -0.897978,
+          "alpha": -0.119142,
+          "max_drawdown": -0.12852
+        },
+        "YTD": {
+          "sharpe": -0.302607,
+          "sortino": -0.421945,
+          "alpha": -0.081135,
+          "max_drawdown": -0.12852
+        },
+        "1Y": {
+          "sharpe": -0.392599,
+          "sortino": -0.588364,
+          "alpha": -0.075843,
+          "max_drawdown": -0.12852
+        },
+        "3Y": {
+          "sharpe": -0.833544,
+          "sortino": -1.13864,
+          "alpha": -0.166346,
+          "max_drawdown": -0.168174
+        },
+        "5Y": {
+          "sharpe": -0.833544,
+          "sortino": -1.13864,
+          "alpha": -0.166346,
+          "max_drawdown": -0.168174
+        }
+      }
     },
     {
       "kod": "IML",
@@ -704,7 +3180,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 354,
       "gun_kapsami": 511,
-      "dosya": "data/IML_tefas.json"
+      "dosya": "data/IML_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.024528,
+          "sortino": 0.033761,
+          "alpha": 0.005309,
+          "max_drawdown": -0.150689
+        },
+        "YTD": {
+          "sharpe": 0.36089,
+          "sortino": 0.497256,
+          "alpha": 0.051196,
+          "max_drawdown": -0.150689
+        },
+        "1Y": {
+          "sharpe": -0.048872,
+          "sortino": -0.071473,
+          "alpha": -0.005607,
+          "max_drawdown": -0.150689
+        },
+        "3Y": {
+          "sharpe": -0.090952,
+          "sortino": -0.124848,
+          "alpha": -0.012987,
+          "max_drawdown": -0.150689
+        },
+        "5Y": {
+          "sharpe": -0.090952,
+          "sortino": -0.124848,
+          "alpha": -0.012987,
+          "max_drawdown": -0.150689
+        }
+      }
     },
     {
       "kod": "ITC",
@@ -713,7 +3221,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 62,
       "gun_kapsami": 86,
-      "dosya": "data/ITC_tefas.json"
+      "dosya": "data/ITC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.725668,
+          "sortino": 1.09147,
+          "alpha": 0.183748,
+          "max_drawdown": -0.114505
+        },
+        "YTD": {
+          "sharpe": 0.725668,
+          "sortino": 1.09147,
+          "alpha": 0.183748,
+          "max_drawdown": -0.114505
+        },
+        "1Y": {
+          "sharpe": 0.725668,
+          "sortino": 1.09147,
+          "alpha": 0.183748,
+          "max_drawdown": -0.114505
+        },
+        "3Y": {
+          "sharpe": 0.725668,
+          "sortino": 1.09147,
+          "alpha": 0.183748,
+          "max_drawdown": -0.114505
+        },
+        "5Y": {
+          "sharpe": 0.725668,
+          "sortino": 1.09147,
+          "alpha": 0.183748,
+          "max_drawdown": -0.114505
+        }
+      }
     },
     {
       "kod": "IVF",
@@ -722,7 +3262,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1042,
       "gun_kapsami": 1512,
-      "dosya": "data/IVF_tefas.json"
+      "dosya": "data/IVF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.535135,
+          "sortino": 0.80284,
+          "alpha": 0.095204,
+          "max_drawdown": -0.066379
+        },
+        "YTD": {
+          "sharpe": 2.94327,
+          "sortino": 5.051206,
+          "alpha": 0.739995,
+          "max_drawdown": -0.043092
+        },
+        "1Y": {
+          "sharpe": -0.012939,
+          "sortino": -0.019103,
+          "alpha": -0.000826,
+          "max_drawdown": -0.08326
+        },
+        "3Y": {
+          "sharpe": 0.447128,
+          "sortino": 0.62843,
+          "alpha": 0.109534,
+          "max_drawdown": -0.198404
+        },
+        "5Y": {
+          "sharpe": 0.397035,
+          "sortino": 0.517611,
+          "alpha": 0.112466,
+          "max_drawdown": -0.271605
+        }
+      }
     },
     {
       "kod": "KH1",
@@ -731,7 +3303,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 155,
       "gun_kapsami": 219,
-      "dosya": "data/KH1_tefas.json"
+      "dosya": "data/KH1_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.281903,
+          "sortino": -0.393925,
+          "alpha": -0.048816,
+          "max_drawdown": -0.073359
+        },
+        "YTD": {
+          "sharpe": 1.422214,
+          "sortino": 2.134825,
+          "alpha": 0.320681,
+          "max_drawdown": -0.073359
+        },
+        "1Y": {
+          "sharpe": -0.628356,
+          "sortino": -0.895067,
+          "alpha": -0.105784,
+          "max_drawdown": -0.084478
+        },
+        "3Y": {
+          "sharpe": -0.628356,
+          "sortino": -0.895067,
+          "alpha": -0.105784,
+          "max_drawdown": -0.084478
+        },
+        "5Y": {
+          "sharpe": -0.628356,
+          "sortino": -0.895067,
+          "alpha": -0.105784,
+          "max_drawdown": -0.084478
+        }
+      }
     },
     {
       "kod": "KHA",
@@ -740,7 +3344,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 540,
       "gun_kapsami": 786,
-      "dosya": "data/KHA_tefas.json"
+      "dosya": "data/KHA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.848299,
+          "sortino": 2.990018,
+          "alpha": 0.410783,
+          "max_drawdown": -0.070754
+        },
+        "YTD": {
+          "sharpe": 2.794134,
+          "sortino": 4.546101,
+          "alpha": 0.798453,
+          "max_drawdown": -0.070754
+        },
+        "1Y": {
+          "sharpe": 1.700483,
+          "sortino": 2.912329,
+          "alpha": 0.424167,
+          "max_drawdown": -0.081306
+        },
+        "3Y": {
+          "sharpe": 0.762534,
+          "sortino": 1.084713,
+          "alpha": 0.18464,
+          "max_drawdown": -0.157059
+        },
+        "5Y": {
+          "sharpe": 0.762534,
+          "sortino": 1.084713,
+          "alpha": 0.18464,
+          "max_drawdown": -0.157059
+        }
+      }
     },
     {
       "kod": "KHB",
@@ -749,7 +3385,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 299,
       "gun_kapsami": 431,
-      "dosya": "data/KHB_tefas.json"
+      "dosya": "data/KHB_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.329886,
+          "sortino": -0.463454,
+          "alpha": -0.067059,
+          "max_drawdown": -0.103721
+        },
+        "YTD": {
+          "sharpe": 1.348117,
+          "sortino": 2.005484,
+          "alpha": 0.37452,
+          "max_drawdown": -0.103721
+        },
+        "1Y": {
+          "sharpe": 0.195218,
+          "sortino": 0.285495,
+          "alpha": 0.04066,
+          "max_drawdown": -0.103721
+        },
+        "3Y": {
+          "sharpe": -0.128625,
+          "sortino": -0.173301,
+          "alpha": -0.027229,
+          "max_drawdown": -0.127586
+        },
+        "5Y": {
+          "sharpe": -0.128625,
+          "sortino": -0.173301,
+          "alpha": -0.027229,
+          "max_drawdown": -0.127586
+        }
+      }
     },
     {
       "kod": "KHC",
@@ -758,7 +3426,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 538,
       "gun_kapsami": 784,
-      "dosya": "data/KHC_tefas.json"
+      "dosya": "data/KHC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.667557,
+          "sortino": -0.927364,
+          "alpha": -0.107802,
+          "max_drawdown": -0.073405
+        },
+        "YTD": {
+          "sharpe": 1.921887,
+          "sortino": 2.942895,
+          "alpha": 0.411504,
+          "max_drawdown": -0.056679
+        },
+        "1Y": {
+          "sharpe": 0.322301,
+          "sortino": 0.478661,
+          "alpha": 0.062632,
+          "max_drawdown": -0.11657
+        },
+        "3Y": {
+          "sharpe": -0.159596,
+          "sortino": -0.215318,
+          "alpha": -0.026003,
+          "max_drawdown": -0.180134
+        },
+        "5Y": {
+          "sharpe": -0.159596,
+          "sortino": -0.215318,
+          "alpha": -0.026003,
+          "max_drawdown": -0.180134
+        }
+      }
     },
     {
       "kod": "KHJ",
@@ -767,7 +3467,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 429,
       "gun_kapsami": 618,
-      "dosya": "data/KHJ_tefas.json"
+      "dosya": "data/KHJ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.808858,
+          "sortino": -1.102203,
+          "alpha": -0.145338,
+          "max_drawdown": -0.117412
+        },
+        "YTD": {
+          "sharpe": 1.366178,
+          "sortino": 1.994544,
+          "alpha": 0.315372,
+          "max_drawdown": -0.117412
+        },
+        "1Y": {
+          "sharpe": -0.642647,
+          "sortino": -0.935078,
+          "alpha": -0.118542,
+          "max_drawdown": -0.117412
+        },
+        "3Y": {
+          "sharpe": -1.380451,
+          "sortino": -1.776656,
+          "alpha": -0.253274,
+          "max_drawdown": -0.256136
+        },
+        "5Y": {
+          "sharpe": -1.380451,
+          "sortino": -1.776656,
+          "alpha": -0.253274,
+          "max_drawdown": -0.256136
+        }
+      }
     },
     {
       "kod": "KOT",
@@ -776,7 +3508,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 249,
       "gun_kapsami": 359,
-      "dosya": "data/KOT_tefas.json"
+      "dosya": "data/KOT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.617015,
+          "sortino": -0.888626,
+          "alpha": -0.125921,
+          "max_drawdown": -0.121333
+        },
+        "YTD": {
+          "sharpe": 0.495171,
+          "sortino": 0.770202,
+          "alpha": 0.107146,
+          "max_drawdown": -0.121333
+        },
+        "1Y": {
+          "sharpe": -0.14002,
+          "sortino": -0.213348,
+          "alpha": -0.031498,
+          "max_drawdown": -0.12527
+        },
+        "3Y": {
+          "sharpe": -0.14002,
+          "sortino": -0.213348,
+          "alpha": -0.031498,
+          "max_drawdown": -0.12527
+        },
+        "5Y": {
+          "sharpe": -0.14002,
+          "sortino": -0.213348,
+          "alpha": -0.031498,
+          "max_drawdown": -0.12527
+        }
+      }
     },
     {
       "kod": "KPA",
@@ -785,7 +3549,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 396,
       "gun_kapsami": 570,
-      "dosya": "data/KPA_tefas.json"
+      "dosya": "data/KPA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.665348,
+          "sortino": -0.934193,
+          "alpha": -0.104773,
+          "max_drawdown": -0.073423
+        },
+        "YTD": {
+          "sharpe": 1.079373,
+          "sortino": 1.578767,
+          "alpha": 0.212697,
+          "max_drawdown": -0.073423
+        },
+        "1Y": {
+          "sharpe": -0.339545,
+          "sortino": -0.49474,
+          "alpha": -0.056833,
+          "max_drawdown": -0.07928
+        },
+        "3Y": {
+          "sharpe": -0.674573,
+          "sortino": -0.88359,
+          "alpha": -0.12276,
+          "max_drawdown": -0.137633
+        },
+        "5Y": {
+          "sharpe": -0.674573,
+          "sortino": -0.88359,
+          "alpha": -0.12276,
+          "max_drawdown": -0.137633
+        }
+      }
     },
     {
       "kod": "KPC",
@@ -794,7 +3590,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/KPC_tefas.json"
+      "dosya": "data/KPC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.349222,
+          "sortino": 0.514541,
+          "alpha": 0.061427,
+          "max_drawdown": -0.076445
+        },
+        "YTD": {
+          "sharpe": 1.92391,
+          "sortino": 3.011422,
+          "alpha": 0.423131,
+          "max_drawdown": -0.076445
+        },
+        "1Y": {
+          "sharpe": 0.213193,
+          "sortino": 0.325627,
+          "alpha": 0.04263,
+          "max_drawdown": -0.080124
+        },
+        "3Y": {
+          "sharpe": 0.570101,
+          "sortino": 0.812696,
+          "alpha": 0.14285,
+          "max_drawdown": -0.187169
+        },
+        "5Y": {
+          "sharpe": 0.641134,
+          "sortino": 0.894292,
+          "alpha": 0.164738,
+          "max_drawdown": -0.234704
+        }
+      }
     },
     {
       "kod": "KPH",
@@ -803,7 +3631,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 443,
       "gun_kapsami": 639,
-      "dosya": "data/KPH_tefas.json"
+      "dosya": "data/KPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.161759,
+          "sortino": -0.230373,
+          "alpha": -0.028456,
+          "max_drawdown": -0.105135
+        },
+        "YTD": {
+          "sharpe": 0.917207,
+          "sortino": 1.325889,
+          "alpha": 0.184484,
+          "max_drawdown": -0.105135
+        },
+        "1Y": {
+          "sharpe": -0.420028,
+          "sortino": -0.612927,
+          "alpha": -0.07609,
+          "max_drawdown": -0.105135
+        },
+        "3Y": {
+          "sharpe": -1.023881,
+          "sortino": -1.345029,
+          "alpha": -0.18449,
+          "max_drawdown": -0.239553
+        },
+        "5Y": {
+          "sharpe": -1.023881,
+          "sortino": -1.345029,
+          "alpha": -0.18449,
+          "max_drawdown": -0.239553
+        }
+      }
     },
     {
       "kod": "KPU",
@@ -812,7 +3672,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 717,
       "gun_kapsami": 1040,
-      "dosya": "data/KPU_tefas.json"
+      "dosya": "data/KPU_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.220093,
+          "sortino": 0.320389,
+          "alpha": 0.038357,
+          "max_drawdown": -0.083638
+        },
+        "YTD": {
+          "sharpe": 1.602227,
+          "sortino": 2.456631,
+          "alpha": 0.35032,
+          "max_drawdown": -0.083638
+        },
+        "1Y": {
+          "sharpe": -0.318541,
+          "sortino": -0.466862,
+          "alpha": -0.053514,
+          "max_drawdown": -0.092818
+        },
+        "3Y": {
+          "sharpe": 0.38412,
+          "sortino": 0.526427,
+          "alpha": 0.095174,
+          "max_drawdown": -0.186522
+        },
+        "5Y": {
+          "sharpe": 0.38412,
+          "sortino": 0.526427,
+          "alpha": 0.095174,
+          "max_drawdown": -0.186522
+        }
+      }
     },
     {
       "kod": "KST",
@@ -821,7 +3713,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 578,
       "gun_kapsami": 841,
-      "dosya": "data/KST_tefas.json"
+      "dosya": "data/KST_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.19243,
+          "sortino": -1.628444,
+          "alpha": -0.187872,
+          "max_drawdown": -0.083718
+        },
+        "YTD": {
+          "sharpe": 0.404346,
+          "sortino": 0.582972,
+          "alpha": 0.086587,
+          "max_drawdown": -0.083718
+        },
+        "1Y": {
+          "sharpe": -0.527573,
+          "sortino": -0.817349,
+          "alpha": -0.10139,
+          "max_drawdown": -0.096481
+        },
+        "3Y": {
+          "sharpe": -0.524612,
+          "sortino": -0.715817,
+          "alpha": -0.102682,
+          "max_drawdown": -0.203386
+        },
+        "5Y": {
+          "sharpe": -0.524612,
+          "sortino": -0.715817,
+          "alpha": -0.102682,
+          "max_drawdown": -0.203386
+        }
+      }
     },
     {
       "kod": "KTI",
@@ -830,7 +3754,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 595,
       "gun_kapsami": 864,
-      "dosya": "data/KTI_tefas.json"
+      "dosya": "data/KTI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.662557,
+          "sortino": -0.917926,
+          "alpha": -0.111078,
+          "max_drawdown": -0.08875
+        },
+        "YTD": {
+          "sharpe": 0.660045,
+          "sortino": 0.948843,
+          "alpha": 0.136437,
+          "max_drawdown": -0.08875
+        },
+        "1Y": {
+          "sharpe": -0.195176,
+          "sortino": -0.286796,
+          "alpha": -0.035098,
+          "max_drawdown": -0.08875
+        },
+        "3Y": {
+          "sharpe": -0.531482,
+          "sortino": -0.707618,
+          "alpha": -0.099773,
+          "max_drawdown": -0.177375
+        },
+        "5Y": {
+          "sharpe": -0.531482,
+          "sortino": -0.707618,
+          "alpha": -0.099773,
+          "max_drawdown": -0.177375
+        }
+      }
     },
     {
       "kod": "KVT",
@@ -839,7 +3795,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 324,
       "gun_kapsami": 469,
-      "dosya": "data/KVT_tefas.json"
+      "dosya": "data/KVT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.569558,
+          "sortino": -0.75729,
+          "alpha": -0.11376,
+          "max_drawdown": -0.111419
+        },
+        "YTD": {
+          "sharpe": 0.454858,
+          "sortino": 0.638104,
+          "alpha": 0.090473,
+          "max_drawdown": -0.111419
+        },
+        "1Y": {
+          "sharpe": 0.068699,
+          "sortino": 0.096035,
+          "alpha": 0.018105,
+          "max_drawdown": -0.115348
+        },
+        "3Y": {
+          "sharpe": -0.624456,
+          "sortino": -0.80634,
+          "alpha": -0.128514,
+          "max_drawdown": -0.188988
+        },
+        "5Y": {
+          "sharpe": -0.624456,
+          "sortino": -0.80634,
+          "alpha": -0.128514,
+          "max_drawdown": -0.188988
+        }
+      }
     },
     {
       "kod": "KYA",
@@ -848,7 +3836,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/KYA_tefas.json"
+      "dosya": "data/KYA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.276327,
+          "sortino": -0.376494,
+          "alpha": -0.057023,
+          "max_drawdown": -0.158612
+        },
+        "YTD": {
+          "sharpe": 0.021994,
+          "sortino": 0.030297,
+          "alpha": -0.016571,
+          "max_drawdown": -0.158612
+        },
+        "1Y": {
+          "sharpe": -0.31851,
+          "sortino": -0.46686,
+          "alpha": -0.063049,
+          "max_drawdown": -0.158612
+        },
+        "3Y": {
+          "sharpe": 0.287547,
+          "sortino": 0.412015,
+          "alpha": 0.077526,
+          "max_drawdown": -0.234774
+        },
+        "5Y": {
+          "sharpe": 0.656573,
+          "sortino": 0.939732,
+          "alpha": 0.193342,
+          "max_drawdown": -0.234774
+        }
+      }
     },
     {
       "kod": "MAC",
@@ -857,7 +3877,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/MAC_tefas.json"
+      "dosya": "data/MAC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.671585,
+          "sortino": -0.891122,
+          "alpha": -0.120011,
+          "max_drawdown": -0.14663
+        },
+        "YTD": {
+          "sharpe": -0.254206,
+          "sortino": -0.337215,
+          "alpha": -0.07219,
+          "max_drawdown": -0.14663
+        },
+        "1Y": {
+          "sharpe": -0.781532,
+          "sortino": -1.105062,
+          "alpha": -0.15183,
+          "max_drawdown": -0.14663
+        },
+        "3Y": {
+          "sharpe": 0.171537,
+          "sortino": 0.239055,
+          "alpha": 0.045565,
+          "max_drawdown": -0.212909
+        },
+        "5Y": {
+          "sharpe": 0.658761,
+          "sortino": 0.91769,
+          "alpha": 0.197961,
+          "max_drawdown": -0.320434
+        }
+      }
     },
     {
       "kod": "MHF",
@@ -866,7 +3918,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 235,
       "gun_kapsami": 338,
-      "dosya": "data/MHF_tefas.json"
+      "dosya": "data/MHF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.035431,
+          "sortino": 1.521436,
+          "alpha": 0.231946,
+          "max_drawdown": -0.115915
+        },
+        "YTD": {
+          "sharpe": 1.515411,
+          "sortino": 2.207052,
+          "alpha": 0.353561,
+          "max_drawdown": -0.115915
+        },
+        "1Y": {
+          "sharpe": 1.412426,
+          "sortino": 2.178577,
+          "alpha": 0.309492,
+          "max_drawdown": -0.115915
+        },
+        "3Y": {
+          "sharpe": 1.412426,
+          "sortino": 2.178577,
+          "alpha": 0.309492,
+          "max_drawdown": -0.115915
+        },
+        "5Y": {
+          "sharpe": 1.412426,
+          "sortino": 2.178577,
+          "alpha": 0.309492,
+          "max_drawdown": -0.115915
+        }
+      }
     },
     {
       "kod": "MKA",
@@ -875,7 +3959,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 308,
       "gun_kapsami": 444,
-      "dosya": "data/MKA_tefas.json"
+      "dosya": "data/MKA_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.75554,
+          "sortino": -1.033137,
+          "alpha": -0.13214,
+          "max_drawdown": -0.11024
+        },
+        "YTD": {
+          "sharpe": 0.19864,
+          "sortino": 0.279723,
+          "alpha": 0.030448,
+          "max_drawdown": -0.11024
+        },
+        "1Y": {
+          "sharpe": -0.604463,
+          "sortino": -0.861509,
+          "alpha": -0.110058,
+          "max_drawdown": -0.11024
+        },
+        "3Y": {
+          "sharpe": -0.794633,
+          "sortino": -1.050199,
+          "alpha": -0.15543,
+          "max_drawdown": -0.12835
+        },
+        "5Y": {
+          "sharpe": -0.794633,
+          "sortino": -1.050199,
+          "alpha": -0.15543,
+          "max_drawdown": -0.12835
+        }
+      }
     },
     {
       "kod": "MMH",
@@ -884,7 +4000,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/MMH_tefas.json"
+      "dosya": "data/MMH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.134223,
+          "sortino": 0.198177,
+          "alpha": 0.029584,
+          "max_drawdown": -0.100535
+        },
+        "YTD": {
+          "sharpe": 1.542541,
+          "sortino": 2.385206,
+          "alpha": 0.431398,
+          "max_drawdown": -0.100535
+        },
+        "1Y": {
+          "sharpe": 0.143253,
+          "sortino": 0.222931,
+          "alpha": 0.038011,
+          "max_drawdown": -0.116852
+        },
+        "3Y": {
+          "sharpe": 0.284974,
+          "sortino": 0.417496,
+          "alpha": 0.079406,
+          "max_drawdown": -0.211
+        },
+        "5Y": {
+          "sharpe": 0.651773,
+          "sortino": 0.944017,
+          "alpha": 0.197007,
+          "max_drawdown": -0.211
+        }
+      }
     },
     {
       "kod": "MPS",
@@ -893,7 +4041,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/MPS_tefas.json"
+      "dosya": "data/MPS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.448803,
+          "sortino": -0.626811,
+          "alpha": -0.080831,
+          "max_drawdown": -0.080542
+        },
+        "YTD": {
+          "sharpe": 1.282026,
+          "sortino": 1.941685,
+          "alpha": 0.28884,
+          "max_drawdown": -0.080542
+        },
+        "1Y": {
+          "sharpe": 0.005374,
+          "sortino": 0.007975,
+          "alpha": 0.00253,
+          "max_drawdown": -0.094238
+        },
+        "3Y": {
+          "sharpe": 0.127841,
+          "sortino": 0.17871,
+          "alpha": 0.031564,
+          "max_drawdown": -0.191658
+        },
+        "5Y": {
+          "sharpe": 0.280015,
+          "sortino": 0.388483,
+          "alpha": 0.071007,
+          "max_drawdown": -0.205177
+        }
+      }
     },
     {
       "kod": "MTH",
@@ -902,7 +4082,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 324,
       "gun_kapsami": 469,
-      "dosya": "data/MTH_tefas.json"
+      "dosya": "data/MTH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.35398,
+          "sortino": 2.001971,
+          "alpha": 0.304289,
+          "max_drawdown": -0.126886
+        },
+        "YTD": {
+          "sharpe": 0.243539,
+          "sortino": 0.335494,
+          "alpha": 0.034982,
+          "max_drawdown": -0.126886
+        },
+        "1Y": {
+          "sharpe": 0.817355,
+          "sortino": 1.258139,
+          "alpha": 0.183693,
+          "max_drawdown": -0.126886
+        },
+        "3Y": {
+          "sharpe": 0.507589,
+          "sortino": 0.714938,
+          "alpha": 0.125037,
+          "max_drawdown": -0.142516
+        },
+        "5Y": {
+          "sharpe": 0.507589,
+          "sortino": 0.714938,
+          "alpha": 0.125037,
+          "max_drawdown": -0.142516
+        }
+      }
     },
     {
       "kod": "MTK",
@@ -911,7 +4123,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 198,
       "gun_kapsami": 281,
-      "dosya": "data/MTK_tefas.json"
+      "dosya": "data/MTK_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.019775,
+          "sortino": 0.028215,
+          "alpha": 0.003799,
+          "max_drawdown": -0.095021
+        },
+        "YTD": {
+          "sharpe": 1.675322,
+          "sortino": 2.556624,
+          "alpha": 0.394292,
+          "max_drawdown": -0.095021
+        },
+        "1Y": {
+          "sharpe": 0.466081,
+          "sortino": 0.716596,
+          "alpha": 0.085758,
+          "max_drawdown": -0.095021
+        },
+        "3Y": {
+          "sharpe": 0.466081,
+          "sortino": 0.716596,
+          "alpha": 0.085758,
+          "max_drawdown": -0.095021
+        },
+        "5Y": {
+          "sharpe": 0.466081,
+          "sortino": 0.716596,
+          "alpha": 0.085758,
+          "max_drawdown": -0.095021
+        }
+      }
     },
     {
       "kod": "NHY",
@@ -920,7 +4164,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 913,
       "gun_kapsami": 1320,
-      "dosya": "data/NHY_tefas.json"
+      "dosya": "data/NHY_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.736233,
+          "sortino": -1.005154,
+          "alpha": -0.144187,
+          "max_drawdown": -0.135791
+        },
+        "YTD": {
+          "sharpe": 0.182596,
+          "sortino": 0.256539,
+          "alpha": 0.028872,
+          "max_drawdown": -0.135791
+        },
+        "1Y": {
+          "sharpe": -0.278548,
+          "sortino": -0.397464,
+          "alpha": -0.0628,
+          "max_drawdown": -0.135791
+        },
+        "3Y": {
+          "sharpe": 0.121157,
+          "sortino": 0.162719,
+          "alpha": 0.039303,
+          "max_drawdown": -0.381979
+        },
+        "5Y": {
+          "sharpe": 0.413183,
+          "sortino": 0.576049,
+          "alpha": 0.139652,
+          "max_drawdown": -0.381979
+        }
+      }
     },
     {
       "kod": "NKC",
@@ -929,7 +4205,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 166,
       "gun_kapsami": 234,
-      "dosya": "data/NKC_tefas.json"
+      "dosya": "data/NKC_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.243094,
+          "sortino": 0.347835,
+          "alpha": 0.04678,
+          "max_drawdown": -0.107635
+        },
+        "YTD": {
+          "sharpe": 1.036044,
+          "sortino": 1.504587,
+          "alpha": 0.210418,
+          "max_drawdown": -0.107635
+        },
+        "1Y": {
+          "sharpe": -0.246941,
+          "sortino": -0.354313,
+          "alpha": -0.03971,
+          "max_drawdown": -0.107635
+        },
+        "3Y": {
+          "sharpe": -0.246941,
+          "sortino": -0.354313,
+          "alpha": -0.03971,
+          "max_drawdown": -0.107635
+        },
+        "5Y": {
+          "sharpe": -0.246941,
+          "sortino": -0.354313,
+          "alpha": -0.03971,
+          "max_drawdown": -0.107635
+        }
+      }
     },
     {
       "kod": "NKM",
@@ -938,7 +4246,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 32,
       "gun_kapsami": 44,
-      "dosya": "data/NKM_tefas.json"
+      "dosya": "data/NKM_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -4.823324,
+          "sortino": -5.720155,
+          "alpha": -0.578688,
+          "max_drawdown": -0.096772
+        },
+        "YTD": {
+          "sharpe": -4.823324,
+          "sortino": -5.720155,
+          "alpha": -0.578688,
+          "max_drawdown": -0.096772
+        },
+        "1Y": {
+          "sharpe": -4.823324,
+          "sortino": -5.720155,
+          "alpha": -0.578688,
+          "max_drawdown": -0.096772
+        },
+        "3Y": {
+          "sharpe": -4.823324,
+          "sortino": -5.720155,
+          "alpha": -0.578688,
+          "max_drawdown": -0.096772
+        },
+        "5Y": {
+          "sharpe": -4.823324,
+          "sortino": -5.720155,
+          "alpha": -0.578688,
+          "max_drawdown": -0.096772
+        }
+      }
     },
     {
       "kod": "NKT",
@@ -947,7 +4287,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 85,
       "gun_kapsami": 120,
-      "dosya": "data/NKT_tefas.json"
+      "dosya": "data/NKT_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.702963,
+          "sortino": 2.500319,
+          "alpha": 0.353523,
+          "max_drawdown": -0.106294
+        },
+        "YTD": {
+          "sharpe": 1.501601,
+          "sortino": 2.202781,
+          "alpha": 0.343056,
+          "max_drawdown": -0.106294
+        },
+        "1Y": {
+          "sharpe": 1.702963,
+          "sortino": 2.500319,
+          "alpha": 0.353523,
+          "max_drawdown": -0.106294
+        },
+        "3Y": {
+          "sharpe": 1.702963,
+          "sortino": 2.500319,
+          "alpha": 0.353523,
+          "max_drawdown": -0.106294
+        },
+        "5Y": {
+          "sharpe": 1.702963,
+          "sortino": 2.500319,
+          "alpha": 0.353523,
+          "max_drawdown": -0.106294
+        }
+      }
     },
     {
       "kod": "NLE",
@@ -956,7 +4328,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 226,
       "gun_kapsami": 324,
-      "dosya": "data/NLE_tefas.json"
+      "dosya": "data/NLE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.478926,
+          "sortino": -1.980037,
+          "alpha": -0.259815,
+          "max_drawdown": -0.125108
+        },
+        "YTD": {
+          "sharpe": -0.221612,
+          "sortino": -0.307508,
+          "alpha": -0.06388,
+          "max_drawdown": -0.125108
+        },
+        "1Y": {
+          "sharpe": -0.116336,
+          "sortino": -0.177173,
+          "alpha": -0.023964,
+          "max_drawdown": -0.125108
+        },
+        "3Y": {
+          "sharpe": -0.116336,
+          "sortino": -0.177173,
+          "alpha": -0.023964,
+          "max_drawdown": -0.125108
+        },
+        "5Y": {
+          "sharpe": -0.116336,
+          "sortino": -0.177173,
+          "alpha": -0.023964,
+          "max_drawdown": -0.125108
+        }
+      }
     },
     {
       "kod": "NNF",
@@ -965,7 +4369,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/NNF_tefas.json"
+      "dosya": "data/NNF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.962507,
+          "sortino": -1.32087,
+          "alpha": -0.199742,
+          "max_drawdown": -0.192765
+        },
+        "YTD": {
+          "sharpe": -0.538975,
+          "sortino": -0.73666,
+          "alpha": -0.149544,
+          "max_drawdown": -0.192765
+        },
+        "1Y": {
+          "sharpe": -0.460454,
+          "sortino": -0.676782,
+          "alpha": -0.101023,
+          "max_drawdown": -0.192765
+        },
+        "3Y": {
+          "sharpe": 0.316268,
+          "sortino": 0.444127,
+          "alpha": 0.090678,
+          "max_drawdown": -0.239774
+        },
+        "5Y": {
+          "sharpe": 0.664685,
+          "sortino": 0.93377,
+          "alpha": 0.201754,
+          "max_drawdown": -0.239774
+        }
+      }
     },
     {
       "kod": "NPH",
@@ -974,7 +4410,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 367,
       "gun_kapsami": 529,
-      "dosya": "data/NPH_tefas.json"
+      "dosya": "data/NPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.062087,
+          "sortino": -0.084315,
+          "alpha": -0.01413,
+          "max_drawdown": -0.17031
+        },
+        "YTD": {
+          "sharpe": -0.233711,
+          "sortino": -0.307641,
+          "alpha": -0.073493,
+          "max_drawdown": -0.17031
+        },
+        "1Y": {
+          "sharpe": -0.138767,
+          "sortino": -0.191813,
+          "alpha": -0.030502,
+          "max_drawdown": -0.17031
+        },
+        "3Y": {
+          "sharpe": 0.000369,
+          "sortino": 0.000488,
+          "alpha": 0.000846,
+          "max_drawdown": -0.17241
+        },
+        "5Y": {
+          "sharpe": 0.000369,
+          "sortino": 0.000488,
+          "alpha": 0.000846,
+          "max_drawdown": -0.17241
+        }
+      }
     },
     {
       "kod": "NST",
@@ -983,7 +4451,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 177,
       "gun_kapsami": 249,
-      "dosya": "data/NST_tefas.json"
+      "dosya": "data/NST_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.878897,
+          "sortino": -1.184064,
+          "alpha": -0.152273,
+          "max_drawdown": -0.106987
+        },
+        "YTD": {
+          "sharpe": 0.184365,
+          "sortino": 0.257744,
+          "alpha": 0.023831,
+          "max_drawdown": -0.106987
+        },
+        "1Y": {
+          "sharpe": -0.889138,
+          "sortino": -1.224763,
+          "alpha": -0.155327,
+          "max_drawdown": -0.106987
+        },
+        "3Y": {
+          "sharpe": -0.889138,
+          "sortino": -1.224763,
+          "alpha": -0.155327,
+          "max_drawdown": -0.106987
+        },
+        "5Y": {
+          "sharpe": -0.889138,
+          "sortino": -1.224763,
+          "alpha": -0.155327,
+          "max_drawdown": -0.106987
+        }
+      }
     },
     {
       "kod": "NUH",
@@ -992,7 +4492,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 105,
       "gun_kapsami": 148,
-      "dosya": "data/NUH_tefas.json"
+      "dosya": "data/NUH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.338795,
+          "sortino": -0.475697,
+          "alpha": -0.074291,
+          "max_drawdown": -0.134976
+        },
+        "YTD": {
+          "sharpe": 0.635416,
+          "sortino": 0.915814,
+          "alpha": 0.154359,
+          "max_drawdown": -0.134976
+        },
+        "1Y": {
+          "sharpe": -0.338795,
+          "sortino": -0.475697,
+          "alpha": -0.074291,
+          "max_drawdown": -0.134976
+        },
+        "3Y": {
+          "sharpe": -0.338795,
+          "sortino": -0.475697,
+          "alpha": -0.074291,
+          "max_drawdown": -0.134976
+        },
+        "5Y": {
+          "sharpe": -0.338795,
+          "sortino": -0.475697,
+          "alpha": -0.074291,
+          "max_drawdown": -0.134976
+        }
+      }
     },
     {
       "kod": "OHB",
@@ -1001,7 +4533,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/OHB_tefas.json"
+      "dosya": "data/OHB_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.06128,
+          "sortino": -0.08704,
+          "alpha": -0.012655,
+          "max_drawdown": -0.13008
+        },
+        "YTD": {
+          "sharpe": 0.611005,
+          "sortino": 0.882406,
+          "alpha": 0.135876,
+          "max_drawdown": -0.13008
+        },
+        "1Y": {
+          "sharpe": -0.192193,
+          "sortino": -0.291314,
+          "alpha": -0.038809,
+          "max_drawdown": -0.13008
+        },
+        "3Y": {
+          "sharpe": 0.292975,
+          "sortino": 0.417866,
+          "alpha": 0.080331,
+          "max_drawdown": -0.193102
+        },
+        "5Y": {
+          "sharpe": 0.676282,
+          "sortino": 0.959621,
+          "alpha": 0.194895,
+          "max_drawdown": -0.203666
+        }
+      }
     },
     {
       "kod": "OHK",
@@ -1010,7 +4574,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 815,
       "gun_kapsami": 1183,
-      "dosya": "data/OHK_tefas.json"
+      "dosya": "data/OHK_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.304082,
+          "sortino": -0.419995,
+          "alpha": -0.054353,
+          "max_drawdown": -0.088194
+        },
+        "YTD": {
+          "sharpe": 1.54551,
+          "sortino": 2.306795,
+          "alpha": 0.341785,
+          "max_drawdown": -0.088194
+        },
+        "1Y": {
+          "sharpe": -0.176741,
+          "sortino": -0.257289,
+          "alpha": -0.032593,
+          "max_drawdown": -0.092426
+        },
+        "3Y": {
+          "sharpe": -0.082637,
+          "sortino": -0.112202,
+          "alpha": -0.020234,
+          "max_drawdown": -0.227427
+        },
+        "5Y": {
+          "sharpe": -0.270874,
+          "sortino": -0.368452,
+          "alpha": -0.067057,
+          "max_drawdown": -0.227427
+        }
+      }
     },
     {
       "kod": "OMG",
@@ -1019,7 +4615,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 303,
       "gun_kapsami": 437,
-      "dosya": "data/OMG_tefas.json"
+      "dosya": "data/OMG_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.665242,
+          "sortino": 1.003978,
+          "alpha": 0.12794,
+          "max_drawdown": -0.08829
+        },
+        "YTD": {
+          "sharpe": 1.876715,
+          "sortino": 2.95235,
+          "alpha": 0.42947,
+          "max_drawdown": -0.08829
+        },
+        "1Y": {
+          "sharpe": 0.271798,
+          "sortino": 0.424149,
+          "alpha": 0.059531,
+          "max_drawdown": -0.08829
+        },
+        "3Y": {
+          "sharpe": 0.308019,
+          "sortino": 0.442069,
+          "alpha": 0.078468,
+          "max_drawdown": -0.140483
+        },
+        "5Y": {
+          "sharpe": 0.308019,
+          "sortino": 0.442069,
+          "alpha": 0.078468,
+          "max_drawdown": -0.140483
+        }
+      }
     },
     {
       "kod": "OPH",
@@ -1028,7 +4656,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/OPH_tefas.json"
+      "dosya": "data/OPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.110367,
+          "sortino": -0.152275,
+          "alpha": -0.021295,
+          "max_drawdown": -0.132908
+        },
+        "YTD": {
+          "sharpe": 0.258164,
+          "sortino": 0.36391,
+          "alpha": 0.04634,
+          "max_drawdown": -0.132908
+        },
+        "1Y": {
+          "sharpe": -0.542262,
+          "sortino": -0.799161,
+          "alpha": -0.108964,
+          "max_drawdown": -0.132908
+        },
+        "3Y": {
+          "sharpe": 0.049426,
+          "sortino": 0.068368,
+          "alpha": 0.013093,
+          "max_drawdown": -0.26578
+        },
+        "5Y": {
+          "sharpe": 0.492827,
+          "sortino": 0.672653,
+          "alpha": 0.142379,
+          "max_drawdown": -0.26578
+        }
+      }
     },
     {
       "kod": "OPI",
@@ -1037,7 +4697,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/OPI_tefas.json"
+      "dosya": "data/OPI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.153603,
+          "sortino": -0.213479,
+          "alpha": -0.028795,
+          "max_drawdown": -0.115723
+        },
+        "YTD": {
+          "sharpe": 0.453765,
+          "sortino": 0.648188,
+          "alpha": 0.094314,
+          "max_drawdown": -0.115723
+        },
+        "1Y": {
+          "sharpe": -0.596159,
+          "sortino": -0.868809,
+          "alpha": -0.112748,
+          "max_drawdown": -0.115723
+        },
+        "3Y": {
+          "sharpe": 0.059775,
+          "sortino": 0.082583,
+          "alpha": 0.01534,
+          "max_drawdown": -0.248155
+        },
+        "5Y": {
+          "sharpe": 0.526788,
+          "sortino": 0.720364,
+          "alpha": 0.147008,
+          "max_drawdown": -0.248155
+        }
+      }
     },
     {
       "kod": "PGS",
@@ -1046,7 +4738,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 249,
       "gun_kapsami": 359,
-      "dosya": "data/PGS_tefas.json"
+      "dosya": "data/PGS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.819854,
+          "sortino": -1.095295,
+          "alpha": -0.187681,
+          "max_drawdown": -0.204125
+        },
+        "YTD": {
+          "sharpe": -0.025982,
+          "sortino": -0.035246,
+          "alpha": -0.037122,
+          "max_drawdown": -0.204125
+        },
+        "1Y": {
+          "sharpe": -0.749238,
+          "sortino": -1.038117,
+          "alpha": -0.167025,
+          "max_drawdown": -0.204125
+        },
+        "3Y": {
+          "sharpe": -0.749238,
+          "sortino": -1.038117,
+          "alpha": -0.167025,
+          "max_drawdown": -0.204125
+        },
+        "5Y": {
+          "sharpe": -0.749238,
+          "sortino": -1.038117,
+          "alpha": -0.167025,
+          "max_drawdown": -0.204125
+        }
+      }
     },
     {
       "kod": "PHE",
@@ -1055,7 +4779,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 504,
       "gun_kapsami": 736,
-      "dosya": "data/PHE_tefas.json"
+      "dosya": "data/PHE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 5.743132,
+          "sortino": 11.198679,
+          "alpha": 1.980901,
+          "max_drawdown": -0.071263
+        },
+        "YTD": {
+          "sharpe": 11.748711,
+          "sortino": 40.501724,
+          "alpha": 6.380594,
+          "max_drawdown": -0.011448
+        },
+        "1Y": {
+          "sharpe": 2.522076,
+          "sortino": 4.273997,
+          "alpha": 0.748397,
+          "max_drawdown": -0.112314
+        },
+        "3Y": {
+          "sharpe": 0.597075,
+          "sortino": 0.854037,
+          "alpha": 0.172579,
+          "max_drawdown": -0.243171
+        },
+        "5Y": {
+          "sharpe": 0.597075,
+          "sortino": 0.854037,
+          "alpha": 0.172579,
+          "max_drawdown": -0.243171
+        }
+      }
     },
     {
       "kod": "PHI",
@@ -1064,7 +4820,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 335,
       "gun_kapsami": 484,
-      "dosya": "data/PHI_tefas.json"
+      "dosya": "data/PHI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.637139,
+          "sortino": -0.892324,
+          "alpha": -0.104887,
+          "max_drawdown": -0.118114
+        },
+        "YTD": {
+          "sharpe": 1.018761,
+          "sortino": 1.478587,
+          "alpha": 0.188633,
+          "max_drawdown": -0.118114
+        },
+        "1Y": {
+          "sharpe": -0.297353,
+          "sortino": -0.440667,
+          "alpha": -0.050017,
+          "max_drawdown": -0.118114
+        },
+        "3Y": {
+          "sharpe": -0.638663,
+          "sortino": -0.867822,
+          "alpha": -0.106193,
+          "max_drawdown": -0.122606
+        },
+        "5Y": {
+          "sharpe": -0.638663,
+          "sortino": -0.867822,
+          "alpha": -0.106193,
+          "max_drawdown": -0.122606
+        }
+      }
     },
     {
       "kod": "PHK",
@@ -1073,7 +4861,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 212,
       "gun_kapsami": 303,
-      "dosya": "data/PHK_tefas.json"
+      "dosya": "data/PHK_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.214053,
+          "sortino": -0.304415,
+          "alpha": -0.041155,
+          "max_drawdown": -0.09765
+        },
+        "YTD": {
+          "sharpe": 1.625692,
+          "sortino": 2.485743,
+          "alpha": 0.413675,
+          "max_drawdown": -0.09765
+        },
+        "1Y": {
+          "sharpe": 0.078251,
+          "sortino": 0.116897,
+          "alpha": 0.015012,
+          "max_drawdown": -0.122557
+        },
+        "3Y": {
+          "sharpe": 0.078251,
+          "sortino": 0.116897,
+          "alpha": 0.015012,
+          "max_drawdown": -0.122557
+        },
+        "5Y": {
+          "sharpe": 0.078251,
+          "sortino": 0.116897,
+          "alpha": 0.015012,
+          "max_drawdown": -0.122557
+        }
+      }
     },
     {
       "kod": "PPB",
@@ -1082,7 +4902,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1099,
       "gun_kapsami": 1591,
-      "dosya": "data/PPB_tefas.json"
+      "dosya": "data/PPB_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.259591,
+          "sortino": -0.364619,
+          "alpha": -0.071805,
+          "max_drawdown": -0.18987
+        },
+        "YTD": {
+          "sharpe": -0.285587,
+          "sortino": -0.401335,
+          "alpha": -0.109038,
+          "max_drawdown": -0.18987
+        },
+        "1Y": {
+          "sharpe": -0.237385,
+          "sortino": -0.354681,
+          "alpha": -0.066235,
+          "max_drawdown": -0.219654
+        },
+        "3Y": {
+          "sharpe": 0.330628,
+          "sortino": 0.47491,
+          "alpha": 0.112875,
+          "max_drawdown": -0.289021
+        },
+        "5Y": {
+          "sharpe": 0.63269,
+          "sortino": 0.89141,
+          "alpha": 0.212825,
+          "max_drawdown": -0.289021
+        }
+      }
     },
     {
       "kod": "PPH",
@@ -1091,7 +4943,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 286,
       "gun_kapsami": 414,
-      "dosya": "data/PPH_tefas.json"
+      "dosya": "data/PPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.545251,
+          "sortino": -1.97674,
+          "alpha": -0.254732,
+          "max_drawdown": -0.114271
+        },
+        "YTD": {
+          "sharpe": -0.397077,
+          "sortino": -0.515218,
+          "alpha": -0.099944,
+          "max_drawdown": -0.114271
+        },
+        "1Y": {
+          "sharpe": 0.255983,
+          "sortino": 0.36129,
+          "alpha": 0.052409,
+          "max_drawdown": -0.114271
+        },
+        "3Y": {
+          "sharpe": 0.076927,
+          "sortino": 0.102048,
+          "alpha": 0.021418,
+          "max_drawdown": -0.136618
+        },
+        "5Y": {
+          "sharpe": 0.076927,
+          "sortino": 0.102048,
+          "alpha": 0.021418,
+          "max_drawdown": -0.136618
+        }
+      }
     },
     {
       "kod": "PTO",
@@ -1100,7 +4984,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 288,
       "gun_kapsami": 416,
-      "dosya": "data/PTO_tefas.json"
+      "dosya": "data/PTO_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.849852,
+          "sortino": 1.263983,
+          "alpha": 0.153743,
+          "max_drawdown": -0.087784
+        },
+        "YTD": {
+          "sharpe": 2.574333,
+          "sortino": 4.009791,
+          "alpha": 0.543145,
+          "max_drawdown": -0.087784
+        },
+        "1Y": {
+          "sharpe": 0.304662,
+          "sortino": 0.474568,
+          "alpha": 0.061241,
+          "max_drawdown": -0.091001
+        },
+        "3Y": {
+          "sharpe": -0.329263,
+          "sortino": -0.46361,
+          "alpha": -0.049026,
+          "max_drawdown": -0.124653
+        },
+        "5Y": {
+          "sharpe": -0.329263,
+          "sortino": -0.46361,
+          "alpha": -0.049026,
+          "max_drawdown": -0.124653
+        }
+      }
     },
     {
       "kod": "RBH",
@@ -1109,7 +5025,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/RBH_tefas.json"
+      "dosya": "data/RBH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.202994,
+          "sortino": -0.293559,
+          "alpha": -0.037608,
+          "max_drawdown": -0.087619
+        },
+        "YTD": {
+          "sharpe": 1.551082,
+          "sortino": 2.397085,
+          "alpha": 0.380693,
+          "max_drawdown": -0.087619
+        },
+        "1Y": {
+          "sharpe": 0.180689,
+          "sortino": 0.274542,
+          "alpha": 0.037615,
+          "max_drawdown": -0.095443
+        },
+        "3Y": {
+          "sharpe": 0.245948,
+          "sortino": 0.343812,
+          "alpha": 0.061819,
+          "max_drawdown": -0.171446
+        },
+        "5Y": {
+          "sharpe": 0.50285,
+          "sortino": 0.698168,
+          "alpha": 0.132311,
+          "max_drawdown": -0.236669
+        }
+      }
     },
     {
       "kod": "RHI",
@@ -1118,7 +5066,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 240,
       "gun_kapsami": 346,
-      "dosya": "data/RHI_tefas.json"
+      "dosya": "data/RHI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.257778,
+          "sortino": 0.38249,
+          "alpha": 0.055872,
+          "max_drawdown": -0.108712
+        },
+        "YTD": {
+          "sharpe": 2.227495,
+          "sortino": 3.52197,
+          "alpha": 0.64384,
+          "max_drawdown": -0.108712
+        },
+        "1Y": {
+          "sharpe": 0.232641,
+          "sortino": 0.359616,
+          "alpha": 0.052336,
+          "max_drawdown": -0.13737
+        },
+        "3Y": {
+          "sharpe": 0.232641,
+          "sortino": 0.359616,
+          "alpha": 0.052336,
+          "max_drawdown": -0.13737
+        },
+        "5Y": {
+          "sharpe": 0.232641,
+          "sortino": 0.359616,
+          "alpha": 0.052336,
+          "max_drawdown": -0.13737
+        }
+      }
     },
     {
       "kod": "RHS",
@@ -1127,7 +5107,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 896,
       "gun_kapsami": 1296,
-      "dosya": "data/RHS_tefas.json"
+      "dosya": "data/RHS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.652658,
+          "sortino": 0.951966,
+          "alpha": 0.142304,
+          "max_drawdown": -0.113747
+        },
+        "YTD": {
+          "sharpe": 1.005819,
+          "sortino": 1.496672,
+          "alpha": 0.251727,
+          "max_drawdown": -0.113747
+        },
+        "1Y": {
+          "sharpe": 0.296179,
+          "sortino": 0.448797,
+          "alpha": 0.065728,
+          "max_drawdown": -0.113747
+        },
+        "3Y": {
+          "sharpe": 0.780569,
+          "sortino": 1.133238,
+          "alpha": 0.207112,
+          "max_drawdown": -0.202497
+        },
+        "5Y": {
+          "sharpe": 0.793267,
+          "sortino": 1.160059,
+          "alpha": 0.234698,
+          "max_drawdown": -0.203333
+        }
+      }
     },
     {
       "kod": "RPI",
@@ -1136,7 +5148,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 438,
       "gun_kapsami": 632,
-      "dosya": "data/RPI_tefas.json"
+      "dosya": "data/RPI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.317002,
+          "sortino": -0.504198,
+          "alpha": -0.065592,
+          "max_drawdown": -0.088402
+        },
+        "YTD": {
+          "sharpe": 1.028217,
+          "sortino": 1.564274,
+          "alpha": 0.195916,
+          "max_drawdown": -0.086536
+        },
+        "1Y": {
+          "sharpe": -0.329308,
+          "sortino": -0.524628,
+          "alpha": -0.06921,
+          "max_drawdown": -0.09565
+        },
+        "3Y": {
+          "sharpe": -0.801625,
+          "sortino": -1.12565,
+          "alpha": -0.153699,
+          "max_drawdown": -0.177155
+        },
+        "5Y": {
+          "sharpe": -0.801625,
+          "sortino": -1.12565,
+          "alpha": -0.153699,
+          "max_drawdown": -0.177155
+        }
+      }
     },
     {
       "kod": "SAS",
@@ -1145,7 +5189,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 520,
       "gun_kapsami": 758,
-      "dosya": "data/SAS_tefas.json"
+      "dosya": "data/SAS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.115094,
+          "sortino": -0.162592,
+          "alpha": -0.025056,
+          "max_drawdown": -0.127711
+        },
+        "YTD": {
+          "sharpe": 0.245776,
+          "sortino": 0.353247,
+          "alpha": 0.033199,
+          "max_drawdown": -0.127711
+        },
+        "1Y": {
+          "sharpe": -0.258395,
+          "sortino": -0.383349,
+          "alpha": -0.054237,
+          "max_drawdown": -0.130331
+        },
+        "3Y": {
+          "sharpe": -0.427903,
+          "sortino": -0.590652,
+          "alpha": -0.080207,
+          "max_drawdown": -0.219306
+        },
+        "5Y": {
+          "sharpe": -0.427903,
+          "sortino": -0.590652,
+          "alpha": -0.080207,
+          "max_drawdown": -0.219306
+        }
+      }
     },
     {
       "kod": "SKO",
@@ -1154,7 +5230,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 186,
       "gun_kapsami": 263,
-      "dosya": "data/SKO_tefas.json"
+      "dosya": "data/SKO_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.591237,
+          "sortino": 2.485223,
+          "alpha": 0.319471,
+          "max_drawdown": -0.084101
+        },
+        "YTD": {
+          "sharpe": 2.32755,
+          "sortino": 3.801601,
+          "alpha": 0.575803,
+          "max_drawdown": -0.084101
+        },
+        "1Y": {
+          "sharpe": 1.372541,
+          "sortino": 2.200392,
+          "alpha": 0.298204,
+          "max_drawdown": -0.084101
+        },
+        "3Y": {
+          "sharpe": 1.372541,
+          "sortino": 2.200392,
+          "alpha": 0.298204,
+          "max_drawdown": -0.084101
+        },
+        "5Y": {
+          "sharpe": 1.372541,
+          "sortino": 2.200392,
+          "alpha": 0.298204,
+          "max_drawdown": -0.084101
+        }
+      }
     },
     {
       "kod": "SLG",
@@ -1163,7 +5271,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 96,
       "gun_kapsami": 135,
-      "dosya": "data/SLG_tefas.json"
+      "dosya": "data/SLG_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.11477,
+          "sortino": 1.602534,
+          "alpha": 0.244559,
+          "max_drawdown": -0.097928
+        },
+        "YTD": {
+          "sharpe": 1.246469,
+          "sortino": 1.782605,
+          "alpha": 0.326566,
+          "max_drawdown": -0.097928
+        },
+        "1Y": {
+          "sharpe": 1.11477,
+          "sortino": 1.602534,
+          "alpha": 0.244559,
+          "max_drawdown": -0.097928
+        },
+        "3Y": {
+          "sharpe": 1.11477,
+          "sortino": 1.602534,
+          "alpha": 0.244559,
+          "max_drawdown": -0.097928
+        },
+        "5Y": {
+          "sharpe": 1.11477,
+          "sortino": 1.602534,
+          "alpha": 0.244559,
+          "max_drawdown": -0.097928
+        }
+      }
     },
     {
       "kod": "SRL",
@@ -1172,7 +5312,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 218,
       "gun_kapsami": 311,
-      "dosya": "data/SRL_tefas.json"
+      "dosya": "data/SRL_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.292279,
+          "sortino": 0.429525,
+          "alpha": 0.056548,
+          "max_drawdown": -0.126386
+        },
+        "YTD": {
+          "sharpe": -0.280593,
+          "sortino": -0.391471,
+          "alpha": -0.073309,
+          "max_drawdown": -0.126386
+        },
+        "1Y": {
+          "sharpe": 0.007478,
+          "sortino": 0.011311,
+          "alpha": -0.003285,
+          "max_drawdown": -0.126386
+        },
+        "3Y": {
+          "sharpe": 0.007478,
+          "sortino": 0.011311,
+          "alpha": -0.003285,
+          "max_drawdown": -0.126386
+        },
+        "5Y": {
+          "sharpe": 0.007478,
+          "sortino": 0.011311,
+          "alpha": -0.003285,
+          "max_drawdown": -0.126386
+        }
+      }
     },
     {
       "kod": "SSS",
@@ -1181,7 +5353,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 259,
       "gun_kapsami": 375,
-      "dosya": "data/SSS_tefas.json"
+      "dosya": "data/SSS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.052612,
+          "sortino": -1.460848,
+          "alpha": -0.185554,
+          "max_drawdown": -0.09696
+        },
+        "YTD": {
+          "sharpe": 0.442921,
+          "sortino": 0.658085,
+          "alpha": 0.089609,
+          "max_drawdown": -0.09696
+        },
+        "1Y": {
+          "sharpe": -0.564351,
+          "sortino": -0.825852,
+          "alpha": -0.108066,
+          "max_drawdown": -0.118277
+        },
+        "3Y": {
+          "sharpe": -0.264357,
+          "sortino": -0.400222,
+          "alpha": -0.052168,
+          "max_drawdown": -0.118277
+        },
+        "5Y": {
+          "sharpe": -0.264357,
+          "sortino": -0.400222,
+          "alpha": -0.052168,
+          "max_drawdown": -0.118277
+        }
+      }
     },
     {
       "kod": "ST1",
@@ -1190,7 +5394,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ST1_tefas.json"
+      "dosya": "data/ST1_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.986596,
+          "sortino": -1.305216,
+          "alpha": -0.226167,
+          "max_drawdown": -0.144202
+        },
+        "YTD": {
+          "sharpe": 0.295326,
+          "sortino": 0.396463,
+          "alpha": 0.049838,
+          "max_drawdown": -0.144202
+        },
+        "1Y": {
+          "sharpe": -0.520145,
+          "sortino": -0.751177,
+          "alpha": -0.145282,
+          "max_drawdown": -0.209609
+        },
+        "3Y": {
+          "sharpe": -0.083736,
+          "sortino": -0.113835,
+          "alpha": -0.028233,
+          "max_drawdown": -0.27119
+        },
+        "5Y": {
+          "sharpe": 0.401114,
+          "sortino": 0.549171,
+          "alpha": 0.147704,
+          "max_drawdown": -0.357632
+        }
+      }
     },
     {
       "kod": "SUR",
@@ -1199,7 +5435,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 71,
       "gun_kapsami": 100,
-      "dosya": "data/SUR_tefas.json"
+      "dosya": "data/SUR_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.396519,
+          "sortino": 0.564162,
+          "alpha": 0.07035,
+          "max_drawdown": -0.128026
+        },
+        "YTD": {
+          "sharpe": 0.520695,
+          "sortino": 0.744128,
+          "alpha": 0.106801,
+          "max_drawdown": -0.128026
+        },
+        "1Y": {
+          "sharpe": 0.396519,
+          "sortino": 0.564162,
+          "alpha": 0.07035,
+          "max_drawdown": -0.128026
+        },
+        "3Y": {
+          "sharpe": 0.396519,
+          "sortino": 0.564162,
+          "alpha": 0.07035,
+          "max_drawdown": -0.128026
+        },
+        "5Y": {
+          "sharpe": 0.396519,
+          "sortino": 0.564162,
+          "alpha": 0.07035,
+          "max_drawdown": -0.128026
+        }
+      }
     },
     {
       "kod": "TAU",
@@ -1208,7 +5476,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TAU_tefas.json"
+      "dosya": "data/TAU_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.618111,
+          "sortino": -0.842314,
+          "alpha": -0.18919,
+          "max_drawdown": -0.238947
+        },
+        "YTD": {
+          "sharpe": -0.87121,
+          "sortino": -1.181969,
+          "alpha": -0.307956,
+          "max_drawdown": -0.238947
+        },
+        "1Y": {
+          "sharpe": -0.191867,
+          "sortino": -0.276736,
+          "alpha": -0.057041,
+          "max_drawdown": -0.238947
+        },
+        "3Y": {
+          "sharpe": 0.39259,
+          "sortino": 0.578415,
+          "alpha": 0.165289,
+          "max_drawdown": -0.306407
+        },
+        "5Y": {
+          "sharpe": 0.642318,
+          "sortino": 0.961487,
+          "alpha": 0.285937,
+          "max_drawdown": -0.388711
+        }
+      }
     },
     {
       "kod": "THD",
@@ -1217,7 +5517,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 692,
       "gun_kapsami": 1002,
-      "dosya": "data/THD_tefas.json"
+      "dosya": "data/THD_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.326178,
+          "sortino": -0.460536,
+          "alpha": -0.064846,
+          "max_drawdown": -0.139199
+        },
+        "YTD": {
+          "sharpe": 0.687231,
+          "sortino": 1.001333,
+          "alpha": 0.167386,
+          "max_drawdown": -0.139199
+        },
+        "1Y": {
+          "sharpe": -0.590621,
+          "sortino": -0.868047,
+          "alpha": -0.124384,
+          "max_drawdown": -0.139199
+        },
+        "3Y": {
+          "sharpe": 0.001681,
+          "sortino": 0.002358,
+          "alpha": 0.001519,
+          "max_drawdown": -0.220747
+        },
+        "5Y": {
+          "sharpe": 0.001681,
+          "sortino": 0.002358,
+          "alpha": 0.001519,
+          "max_drawdown": -0.220747
+        }
+      }
     },
     {
       "kod": "THF",
@@ -1226,7 +5558,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 271,
       "gun_kapsami": 393,
-      "dosya": "data/THF_tefas.json"
+      "dosya": "data/THF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 1.332111,
+          "sortino": 2.070095,
+          "alpha": 0.304502,
+          "max_drawdown": -0.068438
+        },
+        "YTD": {
+          "sharpe": 1.580942,
+          "sortino": 2.467685,
+          "alpha": 0.438453,
+          "max_drawdown": -0.068438
+        },
+        "1Y": {
+          "sharpe": 1.100786,
+          "sortino": 1.711389,
+          "alpha": 0.252901,
+          "max_drawdown": -0.078265
+        },
+        "3Y": {
+          "sharpe": 1.216475,
+          "sortino": 1.834823,
+          "alpha": 0.30472,
+          "max_drawdown": -0.083692
+        },
+        "5Y": {
+          "sharpe": 1.216475,
+          "sortino": 1.834823,
+          "alpha": 0.30472,
+          "max_drawdown": -0.083692
+        }
+      }
     },
     {
       "kod": "TI2",
@@ -1235,7 +5599,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TI2_tefas.json"
+      "dosya": "data/TI2_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.296575,
+          "sortino": -0.41349,
+          "alpha": -0.056588,
+          "max_drawdown": -0.130728
+        },
+        "YTD": {
+          "sharpe": 0.523175,
+          "sortino": 0.737951,
+          "alpha": 0.095453,
+          "max_drawdown": -0.130728
+        },
+        "1Y": {
+          "sharpe": -0.345691,
+          "sortino": -0.516769,
+          "alpha": -0.066569,
+          "max_drawdown": -0.130728
+        },
+        "3Y": {
+          "sharpe": -0.319908,
+          "sortino": -0.334185,
+          "alpha": -0.182868,
+          "max_drawdown": -0.99992
+        },
+        "5Y": {
+          "sharpe": 0.019824,
+          "sortino": 0.021205,
+          "alpha": 0.006606,
+          "max_drawdown": -0.99992
+        }
+      }
     },
     {
       "kod": "TI3",
@@ -1244,7 +5640,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TI3_tefas.json"
+      "dosya": "data/TI3_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.516992,
+          "sortino": -0.732838,
+          "alpha": -0.126357,
+          "max_drawdown": -0.160647
+        },
+        "YTD": {
+          "sharpe": 0.060578,
+          "sortino": 0.086154,
+          "alpha": -0.003518,
+          "max_drawdown": -0.160647
+        },
+        "1Y": {
+          "sharpe": -0.642929,
+          "sortino": -0.943286,
+          "alpha": -0.150314,
+          "max_drawdown": -0.172607
+        },
+        "3Y": {
+          "sharpe": -0.459852,
+          "sortino": -0.487498,
+          "alpha": -0.259238,
+          "max_drawdown": -0.999927
+        },
+        "5Y": {
+          "sharpe": -0.065284,
+          "sortino": -0.071822,
+          "alpha": -0.037989,
+          "max_drawdown": -0.999927
+        }
+      }
     },
     {
       "kod": "TIE",
@@ -1253,7 +5681,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TIE_tefas.json"
+      "dosya": "data/TIE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.233423,
+          "sortino": 0.345107,
+          "alpha": 0.051598,
+          "max_drawdown": -0.094383
+        },
+        "YTD": {
+          "sharpe": 1.848437,
+          "sortino": 2.893162,
+          "alpha": 0.537239,
+          "max_drawdown": -0.083933
+        },
+        "1Y": {
+          "sharpe": 0.116221,
+          "sortino": 0.180022,
+          "alpha": 0.031023,
+          "max_drawdown": -0.123727
+        },
+        "3Y": {
+          "sharpe": 0.100443,
+          "sortino": 0.145304,
+          "alpha": 0.027576,
+          "max_drawdown": -0.207294
+        },
+        "5Y": {
+          "sharpe": 0.494675,
+          "sortino": 0.704153,
+          "alpha": 0.145939,
+          "max_drawdown": -0.22316
+        }
+      }
     },
     {
       "kod": "TIL",
@@ -1262,7 +5722,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 149,
       "gun_kapsami": 211,
-      "dosya": "data/TIL_tefas.json"
+      "dosya": "data/TIL_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.200441,
+          "sortino": 0.289871,
+          "alpha": 0.034809,
+          "max_drawdown": -0.080347
+        },
+        "YTD": {
+          "sharpe": 1.118896,
+          "sortino": 1.654702,
+          "alpha": 0.217951,
+          "max_drawdown": -0.080347
+        },
+        "1Y": {
+          "sharpe": 0.158187,
+          "sortino": 0.234205,
+          "alpha": 0.031913,
+          "max_drawdown": -0.080347
+        },
+        "3Y": {
+          "sharpe": 0.158187,
+          "sortino": 0.234205,
+          "alpha": 0.031913,
+          "max_drawdown": -0.080347
+        },
+        "5Y": {
+          "sharpe": 0.158187,
+          "sortino": 0.234205,
+          "alpha": 0.031913,
+          "max_drawdown": -0.080347
+        }
+      }
     },
     {
       "kod": "TKF",
@@ -1271,7 +5763,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TKF_tefas.json"
+      "dosya": "data/TKF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.037044,
+          "sortino": -0.053618,
+          "alpha": -0.006186,
+          "max_drawdown": -0.107874
+        },
+        "YTD": {
+          "sharpe": 0.740232,
+          "sortino": 1.079632,
+          "alpha": 0.130703,
+          "max_drawdown": -0.107874
+        },
+        "1Y": {
+          "sharpe": -0.049257,
+          "sortino": -0.07599,
+          "alpha": -0.006724,
+          "max_drawdown": -0.107874
+        },
+        "3Y": {
+          "sharpe": 0.15581,
+          "sortino": 0.219358,
+          "alpha": 0.04159,
+          "max_drawdown": -0.216453
+        },
+        "5Y": {
+          "sharpe": 0.360217,
+          "sortino": 0.502227,
+          "alpha": 0.097742,
+          "max_drawdown": -0.273564
+        }
+      }
     },
     {
       "kod": "TLH",
@@ -1280,7 +5804,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TLH_tefas.json"
+      "dosya": "data/TLH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.251945,
+          "sortino": 0.37167,
+          "alpha": 0.059109,
+          "max_drawdown": -0.11056
+        },
+        "YTD": {
+          "sharpe": 1.260804,
+          "sortino": 1.928465,
+          "alpha": 0.3367,
+          "max_drawdown": -0.11056
+        },
+        "1Y": {
+          "sharpe": 0.311502,
+          "sortino": 0.480513,
+          "alpha": 0.084382,
+          "max_drawdown": -0.116102
+        },
+        "3Y": {
+          "sharpe": 0.293539,
+          "sortino": 0.410459,
+          "alpha": 0.086401,
+          "max_drawdown": -0.268384
+        },
+        "5Y": {
+          "sharpe": 0.634054,
+          "sortino": 0.876071,
+          "alpha": 0.191895,
+          "max_drawdown": -0.269423
+        }
+      }
     },
     {
       "kod": "TLZ",
@@ -1289,7 +5845,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TLZ_tefas.json"
+      "dosya": "data/TLZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.073249,
+          "sortino": -0.105949,
+          "alpha": -0.013051,
+          "max_drawdown": -0.096006
+        },
+        "YTD": {
+          "sharpe": 0.743592,
+          "sortino": 1.103076,
+          "alpha": 0.164172,
+          "max_drawdown": -0.096006
+        },
+        "1Y": {
+          "sharpe": -0.196961,
+          "sortino": -0.29577,
+          "alpha": -0.034108,
+          "max_drawdown": -0.096006
+        },
+        "3Y": {
+          "sharpe": 0.025154,
+          "sortino": 0.034798,
+          "alpha": 0.006268,
+          "max_drawdown": -0.267439
+        },
+        "5Y": {
+          "sharpe": 0.544096,
+          "sortino": 0.747275,
+          "alpha": 0.150388,
+          "max_drawdown": -0.267439
+        }
+      }
     },
     {
       "kod": "TTE",
@@ -1298,7 +5886,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TTE_tefas.json"
+      "dosya": "data/TTE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.437182,
+          "sortino": 0.629456,
+          "alpha": 0.100936,
+          "max_drawdown": -0.117449
+        },
+        "YTD": {
+          "sharpe": 3.077482,
+          "sortino": 4.838335,
+          "alpha": 1.09852,
+          "max_drawdown": -0.049881
+        },
+        "1Y": {
+          "sharpe": 0.162935,
+          "sortino": 0.2411,
+          "alpha": 0.036182,
+          "max_drawdown": -0.166761
+        },
+        "3Y": {
+          "sharpe": 0.597515,
+          "sortino": 0.847757,
+          "alpha": 0.187404,
+          "max_drawdown": -0.364953
+        },
+        "5Y": {
+          "sharpe": 0.344975,
+          "sortino": 0.472831,
+          "alpha": 0.107381,
+          "max_drawdown": -0.376841
+        }
+      }
     },
     {
       "kod": "TYH",
@@ -1307,7 +5927,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TYH_tefas.json"
+      "dosya": "data/TYH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.374079,
+          "sortino": -0.526375,
+          "alpha": -0.077071,
+          "max_drawdown": -0.148079
+        },
+        "YTD": {
+          "sharpe": 0.408747,
+          "sortino": 0.590703,
+          "alpha": 0.083846,
+          "max_drawdown": -0.148079
+        },
+        "1Y": {
+          "sharpe": -0.559722,
+          "sortino": -0.818438,
+          "alpha": -0.119593,
+          "max_drawdown": -0.148079
+        },
+        "3Y": {
+          "sharpe": 0.329086,
+          "sortino": 0.474619,
+          "alpha": 0.090583,
+          "max_drawdown": -0.248768
+        },
+        "5Y": {
+          "sharpe": 0.7459,
+          "sortino": 1.063911,
+          "alpha": 0.212024,
+          "max_drawdown": -0.248768
+        }
+      }
     },
     {
       "kod": "TZD",
@@ -1316,7 +5968,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/TZD_tefas.json"
+      "dosya": "data/TZD_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.618074,
+          "sortino": -0.839389,
+          "alpha": -0.127607,
+          "max_drawdown": -0.128419
+        },
+        "YTD": {
+          "sharpe": -0.026368,
+          "sortino": -0.035973,
+          "alpha": -0.027427,
+          "max_drawdown": -0.128419
+        },
+        "1Y": {
+          "sharpe": -0.123613,
+          "sortino": -0.185768,
+          "alpha": -0.025733,
+          "max_drawdown": -0.138283
+        },
+        "3Y": {
+          "sharpe": 0.037312,
+          "sortino": 0.051163,
+          "alpha": 0.010957,
+          "max_drawdown": -0.240081
+        },
+        "5Y": {
+          "sharpe": 0.535551,
+          "sortino": 0.736201,
+          "alpha": 0.157194,
+          "max_drawdown": -0.240081
+        }
+      }
     },
     {
       "kod": "UPH",
@@ -1325,7 +6009,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/UPH_tefas.json"
+      "dosya": "data/UPH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.371569,
+          "sortino": -0.518501,
+          "alpha": -0.080024,
+          "max_drawdown": -0.148142
+        },
+        "YTD": {
+          "sharpe": 0.388379,
+          "sortino": 0.550751,
+          "alpha": 0.075206,
+          "max_drawdown": -0.148142
+        },
+        "1Y": {
+          "sharpe": -0.45361,
+          "sortino": -0.667304,
+          "alpha": -0.097985,
+          "max_drawdown": -0.148142
+        },
+        "3Y": {
+          "sharpe": 0.238169,
+          "sortino": 0.34065,
+          "alpha": 0.065954,
+          "max_drawdown": -0.238348
+        },
+        "5Y": {
+          "sharpe": 0.54028,
+          "sortino": 0.765421,
+          "alpha": 0.151702,
+          "max_drawdown": -0.238348
+        }
+      }
     },
     {
       "kod": "VAY",
@@ -1334,7 +6050,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 589,
       "gun_kapsami": 856,
-      "dosya": "data/VAY_tefas.json"
+      "dosya": "data/VAY_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.888479,
+          "sortino": -1.19612,
+          "alpha": -0.173464,
+          "max_drawdown": -0.154913
+        },
+        "YTD": {
+          "sharpe": -0.397857,
+          "sortino": -0.534621,
+          "alpha": -0.115224,
+          "max_drawdown": -0.154913
+        },
+        "1Y": {
+          "sharpe": -0.565674,
+          "sortino": -0.842159,
+          "alpha": -0.115634,
+          "max_drawdown": -0.154913
+        },
+        "3Y": {
+          "sharpe": -0.71905,
+          "sortino": -0.983081,
+          "alpha": -0.143516,
+          "max_drawdown": -0.222574
+        },
+        "5Y": {
+          "sharpe": -0.71905,
+          "sortino": -0.983081,
+          "alpha": -0.143516,
+          "max_drawdown": -0.222574
+        }
+      }
     },
     {
       "kod": "YAS",
@@ -1343,7 +6091,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YAS_tefas.json"
+      "dosya": "data/YAS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -1.271021,
+          "sortino": -1.769608,
+          "alpha": -0.218314,
+          "max_drawdown": -0.116406
+        },
+        "YTD": {
+          "sharpe": -0.137185,
+          "sortino": -0.204584,
+          "alpha": -0.04754,
+          "max_drawdown": -0.116406
+        },
+        "1Y": {
+          "sharpe": -0.726956,
+          "sortino": -1.078044,
+          "alpha": -0.141038,
+          "max_drawdown": -0.120521
+        },
+        "3Y": {
+          "sharpe": -0.127661,
+          "sortino": -0.182355,
+          "alpha": -0.030923,
+          "max_drawdown": -0.305731
+        },
+        "5Y": {
+          "sharpe": 0.33325,
+          "sortino": 0.471115,
+          "alpha": 0.084362,
+          "max_drawdown": -0.305731
+        }
+      }
     },
     {
       "kod": "YDI",
@@ -1352,7 +6132,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YDI_tefas.json"
+      "dosya": "data/YDI_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.534806,
+          "sortino": -0.754241,
+          "alpha": -0.102014,
+          "max_drawdown": -0.142751
+        },
+        "YTD": {
+          "sharpe": -0.087562,
+          "sortino": -0.122966,
+          "alpha": -0.040535,
+          "max_drawdown": -0.142751
+        },
+        "1Y": {
+          "sharpe": -0.396853,
+          "sortino": -0.599151,
+          "alpha": -0.078293,
+          "max_drawdown": -0.142751
+        },
+        "3Y": {
+          "sharpe": 0.192326,
+          "sortino": 0.275584,
+          "alpha": 0.051071,
+          "max_drawdown": -0.243881
+        },
+        "5Y": {
+          "sharpe": 0.522556,
+          "sortino": 0.74143,
+          "alpha": 0.141315,
+          "max_drawdown": -0.243881
+        }
+      }
     },
     {
       "kod": "YEF",
@@ -1361,7 +6173,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YEF_tefas.json"
+      "dosya": "data/YEF_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.257221,
+          "sortino": 0.381028,
+          "alpha": 0.054838,
+          "max_drawdown": -0.091619
+        },
+        "YTD": {
+          "sharpe": 1.808718,
+          "sortino": 2.822114,
+          "alpha": 0.489099,
+          "max_drawdown": -0.086209
+        },
+        "1Y": {
+          "sharpe": 0.089888,
+          "sortino": 0.138873,
+          "alpha": 0.024675,
+          "max_drawdown": -0.122093
+        },
+        "3Y": {
+          "sharpe": 0.188805,
+          "sortino": 0.273177,
+          "alpha": 0.051325,
+          "max_drawdown": -0.215319
+        },
+        "5Y": {
+          "sharpe": 0.551963,
+          "sortino": 0.790435,
+          "alpha": 0.161844,
+          "max_drawdown": -0.215319
+        }
+      }
     },
     {
       "kod": "YHB",
@@ -1370,7 +6214,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 651,
       "gun_kapsami": 942,
-      "dosya": "data/YHB_tefas.json"
+      "dosya": "data/YHB_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.317787,
+          "sortino": -0.439317,
+          "alpha": -0.056016,
+          "max_drawdown": -0.098225
+        },
+        "YTD": {
+          "sharpe": 1.794021,
+          "sortino": 2.564543,
+          "alpha": 0.413809,
+          "max_drawdown": -0.098225
+        },
+        "1Y": {
+          "sharpe": 0.105874,
+          "sortino": 0.156301,
+          "alpha": 0.021379,
+          "max_drawdown": -0.098225
+        },
+        "3Y": {
+          "sharpe": -0.190045,
+          "sortino": -0.2516,
+          "alpha": -0.049383,
+          "max_drawdown": -0.221087
+        },
+        "5Y": {
+          "sharpe": -0.190045,
+          "sortino": -0.2516,
+          "alpha": -0.049383,
+          "max_drawdown": -0.221087
+        }
+      }
     },
     {
       "kod": "YHK",
@@ -1379,7 +6255,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 489,
       "gun_kapsami": 709,
-      "dosya": "data/YHK_tefas.json"
+      "dosya": "data/YHK_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.793988,
+          "sortino": 1.187062,
+          "alpha": 0.155837,
+          "max_drawdown": -0.079548
+        },
+        "YTD": {
+          "sharpe": 3.083212,
+          "sortino": 5.051335,
+          "alpha": 0.828491,
+          "max_drawdown": -0.079548
+        },
+        "1Y": {
+          "sharpe": 0.755067,
+          "sortino": 1.189489,
+          "alpha": 0.162296,
+          "max_drawdown": -0.086162
+        },
+        "3Y": {
+          "sharpe": -0.354703,
+          "sortino": -0.477843,
+          "alpha": -0.063141,
+          "max_drawdown": -0.186471
+        },
+        "5Y": {
+          "sharpe": -0.354703,
+          "sortino": -0.477843,
+          "alpha": -0.063141,
+          "max_drawdown": -0.186471
+        }
+      }
     },
     {
       "kod": "YHS",
@@ -1388,7 +6296,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YHS_tefas.json"
+      "dosya": "data/YHS_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.488121,
+          "sortino": -0.681285,
+          "alpha": -0.096088,
+          "max_drawdown": -0.144752
+        },
+        "YTD": {
+          "sharpe": 0.36547,
+          "sortino": 0.520227,
+          "alpha": 0.069438,
+          "max_drawdown": -0.144752
+        },
+        "1Y": {
+          "sharpe": -0.262133,
+          "sortino": -0.395363,
+          "alpha": -0.052188,
+          "max_drawdown": -0.144752
+        },
+        "3Y": {
+          "sharpe": 0.279409,
+          "sortino": 0.401993,
+          "alpha": 0.079916,
+          "max_drawdown": -0.272955
+        },
+        "5Y": {
+          "sharpe": 0.583798,
+          "sortino": 0.830749,
+          "alpha": 0.168122,
+          "max_drawdown": -0.272955
+        }
+      }
     },
     {
       "kod": "YHZ",
@@ -1397,7 +6337,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YHZ_tefas.json"
+      "dosya": "data/YHZ_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.304197,
+          "sortino": 0.440994,
+          "alpha": 0.069124,
+          "max_drawdown": -0.096716
+        },
+        "YTD": {
+          "sharpe": 2.491513,
+          "sortino": 3.881002,
+          "alpha": 0.845808,
+          "max_drawdown": -0.053477
+        },
+        "1Y": {
+          "sharpe": 0.29966,
+          "sortino": 0.454276,
+          "alpha": 0.068886,
+          "max_drawdown": -0.143375
+        },
+        "3Y": {
+          "sharpe": 0.639501,
+          "sortino": 0.919324,
+          "alpha": 0.195072,
+          "max_drawdown": -0.295361
+        },
+        "5Y": {
+          "sharpe": 0.232882,
+          "sortino": 0.321768,
+          "alpha": 0.068689,
+          "max_drawdown": -0.347083
+        }
+      }
     },
     {
       "kod": "YLE",
@@ -1406,7 +6378,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1045,
       "gun_kapsami": 1515,
-      "dosya": "data/YLE_tefas.json"
+      "dosya": "data/YLE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.459867,
+          "sortino": -0.652128,
+          "alpha": -0.087586,
+          "max_drawdown": -0.114518
+        },
+        "YTD": {
+          "sharpe": 0.76057,
+          "sortino": 1.128844,
+          "alpha": 0.168944,
+          "max_drawdown": -0.114518
+        },
+        "1Y": {
+          "sharpe": -0.298541,
+          "sortino": -0.44875,
+          "alpha": -0.058033,
+          "max_drawdown": -0.128186
+        },
+        "3Y": {
+          "sharpe": 0.279436,
+          "sortino": 0.405642,
+          "alpha": 0.075901,
+          "max_drawdown": -0.223632
+        },
+        "5Y": {
+          "sharpe": 0.609823,
+          "sortino": 0.892388,
+          "alpha": 0.179955,
+          "max_drawdown": -0.223632
+        }
+      }
     },
     {
       "kod": "YPR",
@@ -1415,7 +6419,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 249,
       "gun_kapsami": 359,
-      "dosya": "data/YPR_tefas.json"
+      "dosya": "data/YPR_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": 0.608881,
+          "sortino": 0.902538,
+          "alpha": 0.111613,
+          "max_drawdown": -0.120991
+        },
+        "YTD": {
+          "sharpe": 1.070819,
+          "sortino": 1.564931,
+          "alpha": 0.205051,
+          "max_drawdown": -0.120991
+        },
+        "1Y": {
+          "sharpe": 0.291596,
+          "sortino": 0.452416,
+          "alpha": 0.061992,
+          "max_drawdown": -0.120991
+        },
+        "3Y": {
+          "sharpe": 0.291596,
+          "sortino": 0.452416,
+          "alpha": 0.061992,
+          "max_drawdown": -0.120991
+        },
+        "5Y": {
+          "sharpe": 0.291596,
+          "sortino": 0.452416,
+          "alpha": 0.061992,
+          "max_drawdown": -0.120991
+        }
+      }
     },
     {
       "kod": "YZH",
@@ -1424,7 +6460,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/YZH_tefas.json"
+      "dosya": "data/YZH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.581985,
+          "sortino": -0.795423,
+          "alpha": -0.182097,
+          "max_drawdown": -0.246012
+        },
+        "YTD": {
+          "sharpe": -0.807905,
+          "sortino": -1.101912,
+          "alpha": -0.294588,
+          "max_drawdown": -0.246012
+        },
+        "1Y": {
+          "sharpe": -0.167243,
+          "sortino": -0.241345,
+          "alpha": -0.049313,
+          "max_drawdown": -0.246012
+        },
+        "3Y": {
+          "sharpe": 0.378503,
+          "sortino": 0.554671,
+          "alpha": 0.159888,
+          "max_drawdown": -0.313609
+        },
+        "5Y": {
+          "sharpe": 0.627577,
+          "sortino": 0.936717,
+          "alpha": 0.277737,
+          "max_drawdown": -0.372141
+        }
+      }
     },
     {
       "kod": "ZHH",
@@ -1433,7 +6501,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 418,
       "gun_kapsami": 603,
-      "dosya": "data/ZHH_tefas.json"
+      "dosya": "data/ZHH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.182661,
+          "sortino": -0.256693,
+          "alpha": -0.037052,
+          "max_drawdown": -0.149343
+        },
+        "YTD": {
+          "sharpe": 0.36023,
+          "sortino": 0.511619,
+          "alpha": 0.062034,
+          "max_drawdown": -0.149343
+        },
+        "1Y": {
+          "sharpe": -0.293394,
+          "sortino": -0.436475,
+          "alpha": -0.058424,
+          "max_drawdown": -0.149343
+        },
+        "3Y": {
+          "sharpe": -0.76062,
+          "sortino": -1.029816,
+          "alpha": -0.151879,
+          "max_drawdown": -0.162284
+        },
+        "5Y": {
+          "sharpe": -0.76062,
+          "sortino": -1.029816,
+          "alpha": -0.151879,
+          "max_drawdown": -0.162284
+        }
+      }
     },
     {
       "kod": "ZJL",
@@ -1442,7 +6542,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1181,
       "gun_kapsami": 1709,
-      "dosya": "data/ZJL_tefas.json"
+      "dosya": "data/ZJL_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.721831,
+          "sortino": -0.980199,
+          "alpha": -0.123188,
+          "max_drawdown": -0.123593
+        },
+        "YTD": {
+          "sharpe": -1.164332,
+          "sortino": -1.54661,
+          "alpha": -0.206028,
+          "max_drawdown": -0.123593
+        },
+        "1Y": {
+          "sharpe": -0.115328,
+          "sortino": -0.169488,
+          "alpha": -0.020601,
+          "max_drawdown": -0.123593
+        },
+        "3Y": {
+          "sharpe": 0.339837,
+          "sortino": 0.459118,
+          "alpha": 0.090094,
+          "max_drawdown": -0.258375
+        },
+        "5Y": {
+          "sharpe": 0.811292,
+          "sortino": 1.098714,
+          "alpha": 0.240695,
+          "max_drawdown": -0.334521
+        }
+      }
     },
     {
       "kod": "ZJV",
@@ -1451,7 +6583,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1181,
       "gun_kapsami": 1709,
-      "dosya": "data/ZJV_tefas.json"
+      "dosya": "data/ZJV_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.969743,
+          "sortino": -1.340955,
+          "alpha": -0.163578,
+          "max_drawdown": -0.132793
+        },
+        "YTD": {
+          "sharpe": -0.652508,
+          "sortino": -0.907345,
+          "alpha": -0.136631,
+          "max_drawdown": -0.132793
+        },
+        "1Y": {
+          "sharpe": -0.669982,
+          "sortino": -0.97005,
+          "alpha": -0.119363,
+          "max_drawdown": -0.132793
+        },
+        "3Y": {
+          "sharpe": 0.06055,
+          "sortino": 0.082393,
+          "alpha": 0.015019,
+          "max_drawdown": -0.231491
+        },
+        "5Y": {
+          "sharpe": 0.587826,
+          "sortino": 0.799078,
+          "alpha": 0.168812,
+          "max_drawdown": -0.341729
+        }
+      }
     },
     {
       "kod": "ZLH",
@@ -1460,7 +6624,39 @@
       "neden": "bes_yildan_kisa",
       "kayit": 1155,
       "gun_kapsami": 1670,
-      "dosya": "data/ZLH_tefas.json"
+      "dosya": "data/ZLH_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.091958,
+          "sortino": -0.129614,
+          "alpha": -0.017172,
+          "max_drawdown": -0.138648
+        },
+        "YTD": {
+          "sharpe": -1.068211,
+          "sortino": -1.442004,
+          "alpha": -0.208912,
+          "max_drawdown": -0.138648
+        },
+        "1Y": {
+          "sharpe": -0.472446,
+          "sortino": -0.685891,
+          "alpha": -0.091777,
+          "max_drawdown": -0.138648
+        },
+        "3Y": {
+          "sharpe": 0.132251,
+          "sortino": 0.18211,
+          "alpha": 0.034809,
+          "max_drawdown": -0.249044
+        },
+        "5Y": {
+          "sharpe": 0.679388,
+          "sortino": 0.928345,
+          "alpha": 0.201922,
+          "max_drawdown": -0.259088
+        }
+      }
     },
     {
       "kod": "ZPE",
@@ -1469,7 +6665,39 @@
       "neden": null,
       "kayit": 1254,
       "gun_kapsami": 1823,
-      "dosya": "data/ZPE_tefas.json"
+      "dosya": "data/ZPE_tefas.json",
+      "stats": {
+        "6M": {
+          "sharpe": -0.407165,
+          "sortino": -0.566557,
+          "alpha": -0.069438,
+          "max_drawdown": -0.083759
+        },
+        "YTD": {
+          "sharpe": 0.619113,
+          "sortino": 0.900157,
+          "alpha": 0.130178,
+          "max_drawdown": -0.083759
+        },
+        "1Y": {
+          "sharpe": -0.095889,
+          "sortino": -0.142005,
+          "alpha": -0.016278,
+          "max_drawdown": -0.083759
+        },
+        "3Y": {
+          "sharpe": 0.142963,
+          "sortino": 0.200476,
+          "alpha": 0.035243,
+          "max_drawdown": -0.178156
+        },
+        "5Y": {
+          "sharpe": 0.469981,
+          "sortino": 0.655212,
+          "alpha": 0.123399,
+          "max_drawdown": -0.208836
+        }
+      }
     }
   ]
 }

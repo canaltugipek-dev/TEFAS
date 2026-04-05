@@ -3,62 +3,137 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TEFAS Hisse Senedi Analiz</title>
+  <title>TEFAS Terminal</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="app">
-    <header class="top-bar">
-      <div class="top-bar__brand">
-        <span class="top-bar__logo" aria-hidden="true"></span>
-        <h1 class="top-bar__title">TEFAS HİSSE SENEDİ ANALİZ</h1>
+  <nav class="terminal-nav" aria-label="Ana gezinme">
+    <div class="terminal-nav__inner">
+      <button type="button" class="terminal-nav__brand" data-route="dashboard">
+        <span class="terminal-nav__logo" aria-hidden="true"></span>
+        <span class="terminal-nav__title">TEFAS Terminal</span>
+      </button>
+      <div class="terminal-nav__links">
+        <button type="button" class="terminal-nav__link" data-route="dashboard">Dashboard</button>
+        <button type="button" class="terminal-nav__link" data-route="analiz">Fon Getiri Analizi</button>
+        <button type="button" class="terminal-nav__link" data-route="karsilastirma">Matematiksel Karşılaştırma</button>
       </div>
-      <p class="top-bar__hint">Soldaki liste <code>data/manifest.json</code> dosyasından yüklenir. Veriyi güncellemek için: <code>py tefas_scraper.py</code> (tüm HSYF, 5 yıl). Paneli görmek için klasörde <code>py -m http.server 8080</code> çalıştırıp <code>http://localhost:8080</code> açın.</p>
-    </header>
-
-    <div class="layout">
-      <aside class="sidebar" aria-label="Fon listesi">
-        <div class="sidebar__head">
-          <h2>Hisse senedi yoğun fonlar</h2>
-          <span class="sidebar__count" id="fundCount"></span>
-        </div>
-        <ul class="fund-list" id="fundList"></ul>
-      </aside>
-
-      <main class="panel">
-        <div class="panel__empty" id="emptyState">
-          <p>Başlamak için soldan bir fon koduna tıklayın.</p>
-        </div>
-
-        <div class="panel__content hidden" id="panelContent">
-          <div class="panel__header">
-            <div>
-              <span class="panel__badge" id="fundCodeBadge"></span>
-              <h2 class="panel__name" id="fundName"></h2>
-            </div>
-            <div class="panel__meta">
-              <span class="panel__tag" id="dataSourceTag">—</span>
-              <span class="panel__return" id="mockReturn"></span>
-            </div>
-          </div>
-
-          <div class="chart-card">
-            <div class="chart-card__title" id="chartCardTitle">Grafik</div>
-            <div class="chart-wrap">
-              <canvas id="returnChart" aria-label="Fon getiri grafiği"></canvas>
-              <div id="chartPlaceholder" class="chart-placeholder hidden" role="status"></div>
-            </div>
-          </div>
-
-          <p class="panel__footnote" id="panelFootnote">
-            Veriler <code>data/</code> altındaki TEFAS çıktılarıdır; grafik pay fiyatına göre baz 100 serisidir.
-          </p>
-        </div>
-      </main>
     </div>
+  </nav>
+
+  <div class="app">
+    <section id="view-dashboard" class="view-section view-section--dashboard">
+      <header class="dashboard-hero">
+        <h1 class="dashboard-hero__title">Yatırım analiz terminaline hoş geldiniz</h1>
+        <p class="dashboard-hero__sub">TEFAS hisse senedi yoğun fon verileri, baz 100 getiri eğrileri ve risk-ayarlı metrikler (Sharpe, Sortino, Alpha, Max Drawdown).</p>
+      </header>
+      <div class="dashboard-cards">
+        <button type="button" class="dash-card dash-card--primary" data-route="analiz">
+          <span class="dash-card__icon" aria-hidden="true">📈</span>
+          <span class="dash-card__label">Fon Getiri Analizi</span>
+          <span class="dash-card__desc">Fon seçin, dönem bazlı baz 100 grafiği ve toplam getiriyi inceleyin.</span>
+        </button>
+        <button type="button" class="dash-card dash-card--secondary" data-route="karsilastirma">
+          <span class="dash-card__icon" aria-hidden="true">▦</span>
+          <span class="dash-card__label">Matematiksel Karşılaştırma</span>
+          <span class="dash-card__desc">Excel tarzı tablo: Sharpe, Sortino, Alpha (BIST 100), Max Drawdown — döneme göre sıralanır.</span>
+        </button>
+      </div>
+      <p class="dashboard-hint">Veri: <code>py tefas_scraper.py</code> · Sunucu: <code>py -m http.server 8080</code> → <code>http://localhost:8080</code></p>
+    </section>
+
+    <section id="view-analiz" class="view-section hidden">
+      <div class="period-toolbar" id="periodToolbarAnaliz" aria-label="Dönem seçimi">
+        <span class="period-toolbar__label">Dönem</span>
+        <div class="period-toolbar__btns">
+          <button type="button" class="period-btn" data-period="6M">6A</button>
+          <button type="button" class="period-btn" data-period="YTD">YTD</button>
+          <button type="button" class="period-btn" data-period="1Y">1Y</button>
+          <button type="button" class="period-btn" data-period="3Y">3Y</button>
+          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        </div>
+      </div>
+      <div class="layout">
+        <aside class="sidebar" aria-label="Fon listesi">
+          <div class="sidebar__head">
+            <h2>Hisse senedi yoğun fonlar</h2>
+            <span class="sidebar__count" id="fundCount"></span>
+          </div>
+          <ul class="fund-list" id="fundList"></ul>
+        </aside>
+
+        <main class="panel">
+          <div class="panel__empty" id="emptyState">
+            <p>Başlamak için soldan bir fon koduna tıklayın.</p>
+          </div>
+
+          <div class="panel__content hidden" id="panelContent">
+            <div class="panel__header">
+              <div>
+                <span class="panel__badge" id="fundCodeBadge"></span>
+                <h2 class="panel__name" id="fundName"></h2>
+              </div>
+              <div class="panel__meta">
+                <span class="panel__tag" id="dataSourceTag">—</span>
+                <span class="panel__return" id="mockReturn"></span>
+              </div>
+            </div>
+
+            <div class="chart-card">
+              <div class="chart-card__head">
+                <div class="chart-card__title" id="chartCardTitle">Grafik</div>
+                <span class="chart-card__period-hint" id="chartPeriodHint">5Y</span>
+              </div>
+              <div class="chart-wrap">
+                <canvas id="returnChart" aria-label="Fon getiri grafiği"></canvas>
+                <div id="chartPlaceholder" class="chart-placeholder hidden" role="status"></div>
+              </div>
+            </div>
+
+            <p class="panel__footnote" id="panelFootnote">
+              Veriler <code>data/</code> altındaki TEFAS çıktılarıdır. İstatistikler <code>manifest.json</code> içindeki <code>stats</code> alanından gelir.
+            </p>
+          </div>
+        </main>
+      </div>
+    </section>
+
+    <section id="view-karsilastirma" class="view-section hidden">
+      <div class="period-toolbar" id="periodToolbarKarsilastirma" aria-label="Dönem seçimi">
+        <span class="period-toolbar__label">Dönem</span>
+        <div class="period-toolbar__btns">
+          <button type="button" class="period-btn" data-period="6M">6A</button>
+          <button type="button" class="period-btn" data-period="YTD">YTD</button>
+          <button type="button" class="period-btn" data-period="1Y">1Y</button>
+          <button type="button" class="period-btn" data-period="3Y">3Y</button>
+          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        </div>
+      </div>
+      <div class="table-panel">
+        <div class="table-panel__head">
+          <h2 class="table-panel__title">Matematiksel karşılaştırma</h2>
+          <p class="table-panel__meta" id="tableBenchmarkHint"></p>
+        </div>
+        <div class="table-scroll">
+          <table class="stats-table" id="statsTable">
+            <thead>
+              <tr>
+                <th data-sort="kod" class="stats-table__th stats-table__th--sortable">Fon Kodu</th>
+                <th data-sort="sharpe" class="stats-table__th stats-table__th--sortable">Sharpe</th>
+                <th data-sort="sortino" class="stats-table__th stats-table__th--sortable">Sortino</th>
+                <th data-sort="alpha" class="stats-table__th stats-table__th--sortable">Alpha (BIST100)</th>
+                <th data-sort="max_drawdown" class="stats-table__th stats-table__th--sortable">Max Drawdown</th>
+              </tr>
+            </thead>
+            <tbody id="statsTableBody"></tbody>
+          </table>
+        </div>
+        <p class="table-panel__foot">Sütun başlığına tıklayarak büyükten küçüğe sıralayın. Boş hücre: yetersiz veri veya istatistik üretilmedi.</p>
+      </div>
+    </section>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
