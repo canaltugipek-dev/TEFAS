@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TEFAS Hisse Senedi Analiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top-bar">
+      <div class="top-bar__brand">
+        <span class="top-bar__logo" aria-hidden="true"></span>
+        <h1 class="top-bar__title">TEFAS HİSSE SENEDİ ANALİZ</h1>
+      </div>
+      <p class="top-bar__hint">Soldaki liste <code>data/manifest.json</code> dosyasından yüklenir. Veriyi güncellemek için: <code>py tefas_scraper.py</code> (tüm HSYF, 5 yıl). Paneli görmek için klasörde <code>py -m http.server 8080</code> çalıştırıp <code>http://localhost:8080</code> açın.</p>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar" aria-label="Fon listesi">
+        <div class="sidebar__head">
+          <h2>Hisse senedi yoğun fonlar</h2>
+          <span class="sidebar__count" id="fundCount"></span>
+        </div>
+        <ul class="fund-list" id="fundList"></ul>
+      </aside>
+
+      <main class="panel">
+        <div class="panel__empty" id="emptyState">
+          <p>Başlamak için soldan bir fon koduna tıklayın.</p>
+        </div>
+
+        <div class="panel__content hidden" id="panelContent">
+          <div class="panel__header">
+            <div>
+              <span class="panel__badge" id="fundCodeBadge"></span>
+              <h2 class="panel__name" id="fundName"></h2>
+            </div>
+            <div class="panel__meta">
+              <span class="panel__tag" id="dataSourceTag">—</span>
+              <span class="panel__return" id="mockReturn"></span>
+            </div>
+          </div>
+
+          <div class="chart-card">
+            <div class="chart-card__title" id="chartCardTitle">Grafik</div>
+            <div class="chart-wrap">
+              <canvas id="returnChart" aria-label="Fon getiri grafiği"></canvas>
+              <div id="chartPlaceholder" class="chart-placeholder hidden" role="status"></div>
+            </div>
+          </div>
+
+          <p class="panel__footnote" id="panelFootnote">
+            Veriler <code>data/</code> altındaki TEFAS çıktılarıdır; grafik pay fiyatına göre baz 100 serisidir.
+          </p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
