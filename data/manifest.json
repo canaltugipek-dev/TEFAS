@@ -1,0 +1,1475 @@
+{
+  "guncelleme": "2026-04-05T20:08:34",
+  "hedef_gun": 1825,
+  "kategori": "Hisse Senedi Yoğun Fon",
+  "beklenen_min_gun": 1760,
+  "fonlar": [
+    {
+      "kod": "AAV",
+      "ad": "ATA ASSET MANAGEMENT SECOND EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/AAV_tefas.json"
+    },
+    {
+      "kod": "ACC",
+      "ad": "İSTANBUL ASSET MANAGEMENT FOURTH  EQUITY FUND (EQUITY-INTENSIVE)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ACC_tefas.json"
+    },
+    {
+      "kod": "ADP",
+      "ad": "AK ASSET MANAGEMENT BIST BANK INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ADP_tefas.json"
+    },
+    {
+      "kod": "AEV",
+      "ad": "ALLBATROSS PORTFÖY SANAYİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 664,
+      "gun_kapsami": 962,
+      "dosya": "data/AEV_tefas.json"
+    },
+    {
+      "kod": "AHI",
+      "ad": "ATLAS ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/AHI_tefas.json"
+    },
+    {
+      "kod": "AK3",
+      "ad": "AK ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/AK3_tefas.json"
+    },
+    {
+      "kod": "AKU",
+      "ad": "AK ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/AKU_tefas.json"
+    },
+    {
+      "kod": "ALC",
+      "ad": "AK PORTFÖY DIVIDEND PAYING COMPANIES EQUITY (TL) FUND (EQUITY INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ALC_tefas.json"
+    },
+    {
+      "kod": "ASJ",
+      "ad": "AKTİF PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 727,
+      "gun_kapsami": 1057,
+      "dosya": "data/ASJ_tefas.json"
+    },
+    {
+      "kod": "AYA",
+      "ad": "ATA ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/AYA_tefas.json"
+    },
+    {
+      "kod": "BDS",
+      "ad": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 478,
+      "gun_kapsami": 693,
+      "dosya": "data/BDS_tefas.json"
+    },
+    {
+      "kod": "BDY",
+      "ad": "AK PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 488,
+      "gun_kapsami": 708,
+      "dosya": "data/BDY_tefas.json"
+    },
+    {
+      "kod": "BFT",
+      "ad": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 321,
+      "gun_kapsami": 464,
+      "dosya": "data/BFT_tefas.json"
+    },
+    {
+      "kod": "BHA",
+      "ad": "BULLS PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 246,
+      "gun_kapsami": 354,
+      "dosya": "data/BHA_tefas.json"
+    },
+    {
+      "kod": "BID",
+      "ad": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 752,
+      "gun_kapsami": 1094,
+      "dosya": "data/BID_tefas.json"
+    },
+    {
+      "kod": "BIG",
+      "ad": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 328,
+      "gun_kapsami": 473,
+      "dosya": "data/BIG_tefas.json"
+    },
+    {
+      "kod": "BIH",
+      "ad": "PARDUS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 617,
+      "gun_kapsami": 896,
+      "dosya": "data/BIH_tefas.json"
+    },
+    {
+      "kod": "BIO",
+      "ad": "İŞ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 615,
+      "gun_kapsami": 892,
+      "dosya": "data/BIO_tefas.json"
+    },
+    {
+      "kod": "BIY",
+      "ad": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 87,
+      "gun_kapsami": 122,
+      "dosya": "data/BIY_tefas.json"
+    },
+    {
+      "kod": "BTZ",
+      "ad": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 431,
+      "gun_kapsami": 620,
+      "dosya": "data/BTZ_tefas.json"
+    },
+    {
+      "kod": "BUY",
+      "ad": "AK PORTFÖY BÜYÜYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 687,
+      "gun_kapsami": 995,
+      "dosya": "data/BUY_tefas.json"
+    },
+    {
+      "kod": "BV1",
+      "ad": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 250,
+      "gun_kapsami": 360,
+      "dosya": "data/BV1_tefas.json"
+    },
+    {
+      "kod": "DAH",
+      "ad": "DENİZ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/DAH_tefas.json"
+    },
+    {
+      "kod": "DHJ",
+      "ad": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1063,
+      "gun_kapsami": 1541,
+      "dosya": "data/DHJ_tefas.json"
+    },
+    {
+      "kod": "DKH",
+      "ad": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 699,
+      "gun_kapsami": 1016,
+      "dosya": "data/DKH_tefas.json"
+    },
+    {
+      "kod": "DLD",
+      "ad": "DENİZ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1033,
+      "gun_kapsami": 1499,
+      "dosya": "data/DLD_tefas.json"
+    },
+    {
+      "kod": "DPT",
+      "ad": "DENİZ ASSET MANAGEMENT BIST DIVIDEND 25 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/DPT_tefas.json"
+    },
+    {
+      "kod": "DTH",
+      "ad": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 81,
+      "gun_kapsami": 114,
+      "dosya": "data/DTH_tefas.json"
+    },
+    {
+      "kod": "DTL",
+      "ad": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 779,
+      "gun_kapsami": 1131,
+      "dosya": "data/DTL_tefas.json"
+    },
+    {
+      "kod": "DXP",
+      "ad": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 584,
+      "gun_kapsami": 849,
+      "dosya": "data/DXP_tefas.json"
+    },
+    {
+      "kod": "DZE",
+      "ad": "DENİZ ASSET MANAGEMENT BIST 100 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/DZE_tefas.json"
+    },
+    {
+      "kod": "EC2",
+      "ad": "GLOBAL MD ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/EC2_tefas.json"
+    },
+    {
+      "kod": "EID",
+      "ad": "QİNVEST ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/EID_tefas.json"
+    },
+    {
+      "kod": "ELZ",
+      "ad": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ELZ_tefas.json"
+    },
+    {
+      "kod": "ENJ",
+      "ad": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 431,
+      "gun_kapsami": 620,
+      "dosya": "data/ENJ_tefas.json"
+    },
+    {
+      "kod": "FPH",
+      "ad": "FİBA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/FPH_tefas.json"
+    },
+    {
+      "kod": "FUA",
+      "ad": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1039,
+      "gun_kapsami": 1507,
+      "dosya": "data/FUA_tefas.json"
+    },
+    {
+      "kod": "FYD",
+      "ad": "QNB ASSET MANAGEMENT FIRST EQUITY FUND  (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/FYD_tefas.json"
+    },
+    {
+      "kod": "GAE",
+      "ad": "GARANTİ ASSET MANAGEMENT BIST30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GAE_tefas.json"
+    },
+    {
+      "kod": "GAF",
+      "ad": "INVEO ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GAF_tefas.json"
+    },
+    {
+      "kod": "GHS",
+      "ad": "GARANTİ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GHS_tefas.json"
+    },
+    {
+      "kod": "GIE",
+      "ad": "GARANTİ PORTFÖY GARANTİ BBVA İKLİM ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 813,
+      "gun_kapsami": 1179,
+      "dosya": "data/GIE_tefas.json"
+    },
+    {
+      "kod": "GIH",
+      "ad": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 709,
+      "gun_kapsami": 1030,
+      "dosya": "data/GIH_tefas.json"
+    },
+    {
+      "kod": "GKG",
+      "ad": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 265,
+      "gun_kapsami": 385,
+      "dosya": "data/GKG_tefas.json"
+    },
+    {
+      "kod": "GKV",
+      "ad": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 930,
+      "gun_kapsami": 1345,
+      "dosya": "data/GKV_tefas.json"
+    },
+    {
+      "kod": "GL1",
+      "ad": "AZİMUT ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GL1_tefas.json"
+    },
+    {
+      "kod": "GMR",
+      "ad": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GMR_tefas.json"
+    },
+    {
+      "kod": "GNH",
+      "ad": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 231,
+      "gun_kapsami": 331,
+      "dosya": "data/GNH_tefas.json"
+    },
+    {
+      "kod": "GNS",
+      "ad": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 285,
+      "gun_kapsami": 413,
+      "dosya": "data/GNS_tefas.json"
+    },
+    {
+      "kod": "GO9",
+      "ad": "ONE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 608,
+      "gun_kapsami": 883,
+      "dosya": "data/GO9_tefas.json"
+    },
+    {
+      "kod": "GOH",
+      "ad": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1218,
+      "gun_kapsami": 1767,
+      "dosya": "data/GOH_tefas.json"
+    },
+    {
+      "kod": "GRT",
+      "ad": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 295,
+      "gun_kapsami": 427,
+      "dosya": "data/GRT_tefas.json"
+    },
+    {
+      "kod": "GSP",
+      "ad": "AZİMUT ASSET MANAGEMENT DIVIDEND-PAYING COMPANIES EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GSP_tefas.json"
+    },
+    {
+      "kod": "GTH",
+      "ad": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 290,
+      "gun_kapsami": 420,
+      "dosya": "data/GTH_tefas.json"
+    },
+    {
+      "kod": "GTM",
+      "ad": "GARANTİ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 925,
+      "gun_kapsami": 1338,
+      "dosya": "data/GTM_tefas.json"
+    },
+    {
+      "kod": "GZR",
+      "ad": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/GZR_tefas.json"
+    },
+    {
+      "kod": "HBU",
+      "ad": "HSBC ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/HBU_tefas.json"
+    },
+    {
+      "kod": "HFR",
+      "ad": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 119,
+      "gun_kapsami": 169,
+      "dosya": "data/HFR_tefas.json"
+    },
+    {
+      "kod": "HGM",
+      "ad": "HEDEF PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 707,
+      "gun_kapsami": 1026,
+      "dosya": "data/HGM_tefas.json"
+    },
+    {
+      "kod": "HIH",
+      "ad": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 202,
+      "gun_kapsami": 287,
+      "dosya": "data/HIH_tefas.json"
+    },
+    {
+      "kod": "HKH",
+      "ad": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 936,
+      "gun_kapsami": 1353,
+      "dosya": "data/HKH_tefas.json"
+    },
+    {
+      "kod": "HMS",
+      "ad": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1086,
+      "gun_kapsami": 1572,
+      "dosya": "data/HMS_tefas.json"
+    },
+    {
+      "kod": "HNC",
+      "ad": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 257,
+      "gun_kapsami": 373,
+      "dosya": "data/HNC_tefas.json"
+    },
+    {
+      "kod": "HRZ",
+      "ad": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 374,
+      "gun_kapsami": 540,
+      "dosya": "data/HRZ_tefas.json"
+    },
+    {
+      "kod": "HVI",
+      "ad": "DENİZ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 110,
+      "gun_kapsami": 155,
+      "dosya": "data/HVI_tefas.json"
+    },
+    {
+      "kod": "HVS",
+      "ad": "HSBC ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/HVS_tefas.json"
+    },
+    {
+      "kod": "HVZ",
+      "ad": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 909,
+      "gun_kapsami": 1316,
+      "dosya": "data/HVZ_tefas.json"
+    },
+    {
+      "kod": "ICF",
+      "ad": "ICBC TURKEY ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ICF_tefas.json"
+    },
+    {
+      "kod": "ICZ",
+      "ad": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ICZ_tefas.json"
+    },
+    {
+      "kod": "IDH",
+      "ad": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/IDH_tefas.json"
+    },
+    {
+      "kod": "IDI",
+      "ad": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 282,
+      "gun_kapsami": 408,
+      "dosya": "data/IDI_tefas.json"
+    },
+    {
+      "kod": "IFN",
+      "ad": "ICBC TURKEY PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1013,
+      "gun_kapsami": 1471,
+      "dosya": "data/IFN_tefas.json"
+    },
+    {
+      "kod": "IHA",
+      "ad": "ALLBATROSS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 709,
+      "gun_kapsami": 1030,
+      "dosya": "data/IHA_tefas.json"
+    },
+    {
+      "kod": "IHK",
+      "ad": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/IHK_tefas.json"
+    },
+    {
+      "kod": "IHT",
+      "ad": "İŞ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 878,
+      "gun_kapsami": 1270,
+      "dosya": "data/IHT_tefas.json"
+    },
+    {
+      "kod": "IIH",
+      "ad": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/IIH_tefas.json"
+    },
+    {
+      "kod": "IMB",
+      "ad": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 263,
+      "gun_kapsami": 381,
+      "dosya": "data/IMB_tefas.json"
+    },
+    {
+      "kod": "IML",
+      "ad": "İŞ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 354,
+      "gun_kapsami": 511,
+      "dosya": "data/IML_tefas.json"
+    },
+    {
+      "kod": "ITC",
+      "ad": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 62,
+      "gun_kapsami": 86,
+      "dosya": "data/ITC_tefas.json"
+    },
+    {
+      "kod": "IVF",
+      "ad": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1042,
+      "gun_kapsami": 1512,
+      "dosya": "data/IVF_tefas.json"
+    },
+    {
+      "kod": "KH1",
+      "ad": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 155,
+      "gun_kapsami": 219,
+      "dosya": "data/KH1_tefas.json"
+    },
+    {
+      "kod": "KHA",
+      "ad": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 540,
+      "gun_kapsami": 786,
+      "dosya": "data/KHA_tefas.json"
+    },
+    {
+      "kod": "KHB",
+      "ad": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 299,
+      "gun_kapsami": 431,
+      "dosya": "data/KHB_tefas.json"
+    },
+    {
+      "kod": "KHC",
+      "ad": "PARDUS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 538,
+      "gun_kapsami": 784,
+      "dosya": "data/KHC_tefas.json"
+    },
+    {
+      "kod": "KHJ",
+      "ad": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 429,
+      "gun_kapsami": 618,
+      "dosya": "data/KHJ_tefas.json"
+    },
+    {
+      "kod": "KOT",
+      "ad": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 249,
+      "gun_kapsami": 359,
+      "dosya": "data/KOT_tefas.json"
+    },
+    {
+      "kod": "KPA",
+      "ad": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 396,
+      "gun_kapsami": 570,
+      "dosya": "data/KPA_tefas.json"
+    },
+    {
+      "kod": "KPC",
+      "ad": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/KPC_tefas.json"
+    },
+    {
+      "kod": "KPH",
+      "ad": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 443,
+      "gun_kapsami": 639,
+      "dosya": "data/KPH_tefas.json"
+    },
+    {
+      "kod": "KPU",
+      "ad": "KUVEYT TÜRK PORTFÖY İKİNCİ KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 717,
+      "gun_kapsami": 1040,
+      "dosya": "data/KPU_tefas.json"
+    },
+    {
+      "kod": "KST",
+      "ad": "ALLBATROSS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 578,
+      "gun_kapsami": 841,
+      "dosya": "data/KST_tefas.json"
+    },
+    {
+      "kod": "KTI",
+      "ad": "AZİMUT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 595,
+      "gun_kapsami": 864,
+      "dosya": "data/KTI_tefas.json"
+    },
+    {
+      "kod": "KVT",
+      "ad": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 324,
+      "gun_kapsami": 469,
+      "dosya": "data/KVT_tefas.json"
+    },
+    {
+      "kod": "KYA",
+      "ad": "KARE ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/KYA_tefas.json"
+    },
+    {
+      "kod": "MAC",
+      "ad": "MARMARA CAPITAL ASSET MANAGEMENT EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/MAC_tefas.json"
+    },
+    {
+      "kod": "MHF",
+      "ad": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 235,
+      "gun_kapsami": 338,
+      "dosya": "data/MHF_tefas.json"
+    },
+    {
+      "kod": "MKA",
+      "ad": "MARMARA CAPİTAL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 308,
+      "gun_kapsami": 444,
+      "dosya": "data/MKA_tefas.json"
+    },
+    {
+      "kod": "MMH",
+      "ad": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/MMH_tefas.json"
+    },
+    {
+      "kod": "MPS",
+      "ad": "AKTİF ASSET MANAGEMENT PARTICIPATION EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/MPS_tefas.json"
+    },
+    {
+      "kod": "MTH",
+      "ad": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 324,
+      "gun_kapsami": 469,
+      "dosya": "data/MTH_tefas.json"
+    },
+    {
+      "kod": "MTK",
+      "ad": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 198,
+      "gun_kapsami": 281,
+      "dosya": "data/MTK_tefas.json"
+    },
+    {
+      "kod": "NHY",
+      "ad": "NEO PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 913,
+      "gun_kapsami": 1320,
+      "dosya": "data/NHY_tefas.json"
+    },
+    {
+      "kod": "NKC",
+      "ad": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 166,
+      "gun_kapsami": 234,
+      "dosya": "data/NKC_tefas.json"
+    },
+    {
+      "kod": "NKM",
+      "ad": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 32,
+      "gun_kapsami": 44,
+      "dosya": "data/NKM_tefas.json"
+    },
+    {
+      "kod": "NKT",
+      "ad": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 85,
+      "gun_kapsami": 120,
+      "dosya": "data/NKT_tefas.json"
+    },
+    {
+      "kod": "NLE",
+      "ad": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 226,
+      "gun_kapsami": 324,
+      "dosya": "data/NLE_tefas.json"
+    },
+    {
+      "kod": "NNF",
+      "ad": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/NNF_tefas.json"
+    },
+    {
+      "kod": "NPH",
+      "ad": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 367,
+      "gun_kapsami": 529,
+      "dosya": "data/NPH_tefas.json"
+    },
+    {
+      "kod": "NST",
+      "ad": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 177,
+      "gun_kapsami": 249,
+      "dosya": "data/NST_tefas.json"
+    },
+    {
+      "kod": "NUH",
+      "ad": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 105,
+      "gun_kapsami": 148,
+      "dosya": "data/NUH_tefas.json"
+    },
+    {
+      "kod": "OHB",
+      "ad": "OYAK ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/OHB_tefas.json"
+    },
+    {
+      "kod": "OHK",
+      "ad": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 815,
+      "gun_kapsami": 1183,
+      "dosya": "data/OHK_tefas.json"
+    },
+    {
+      "kod": "OMG",
+      "ad": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 303,
+      "gun_kapsami": 437,
+      "dosya": "data/OMG_tefas.json"
+    },
+    {
+      "kod": "OPH",
+      "ad": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/OPH_tefas.json"
+    },
+    {
+      "kod": "OPI",
+      "ad": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/OPI_tefas.json"
+    },
+    {
+      "kod": "PGS",
+      "ad": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 249,
+      "gun_kapsami": 359,
+      "dosya": "data/PGS_tefas.json"
+    },
+    {
+      "kod": "PHE",
+      "ad": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 504,
+      "gun_kapsami": 736,
+      "dosya": "data/PHE_tefas.json"
+    },
+    {
+      "kod": "PHI",
+      "ad": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 335,
+      "gun_kapsami": 484,
+      "dosya": "data/PHI_tefas.json"
+    },
+    {
+      "kod": "PHK",
+      "ad": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 212,
+      "gun_kapsami": 303,
+      "dosya": "data/PHK_tefas.json"
+    },
+    {
+      "kod": "PPB",
+      "ad": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1099,
+      "gun_kapsami": 1591,
+      "dosya": "data/PPB_tefas.json"
+    },
+    {
+      "kod": "PPH",
+      "ad": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 286,
+      "gun_kapsami": 414,
+      "dosya": "data/PPH_tefas.json"
+    },
+    {
+      "kod": "PTO",
+      "ad": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 288,
+      "gun_kapsami": 416,
+      "dosya": "data/PTO_tefas.json"
+    },
+    {
+      "kod": "RBH",
+      "ad": "ALBARAKA ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/RBH_tefas.json"
+    },
+    {
+      "kod": "RHI",
+      "ad": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 240,
+      "gun_kapsami": 346,
+      "dosya": "data/RHI_tefas.json"
+    },
+    {
+      "kod": "RHS",
+      "ad": "ROTA PORTFÖY HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 896,
+      "gun_kapsami": 1296,
+      "dosya": "data/RHS_tefas.json"
+    },
+    {
+      "kod": "RPI",
+      "ad": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 438,
+      "gun_kapsami": 632,
+      "dosya": "data/RPI_tefas.json"
+    },
+    {
+      "kod": "SAS",
+      "ad": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 520,
+      "gun_kapsami": 758,
+      "dosya": "data/SAS_tefas.json"
+    },
+    {
+      "kod": "SKO",
+      "ad": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 186,
+      "gun_kapsami": 263,
+      "dosya": "data/SKO_tefas.json"
+    },
+    {
+      "kod": "SLG",
+      "ad": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 96,
+      "gun_kapsami": 135,
+      "dosya": "data/SLG_tefas.json"
+    },
+    {
+      "kod": "SRL",
+      "ad": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 218,
+      "gun_kapsami": 311,
+      "dosya": "data/SRL_tefas.json"
+    },
+    {
+      "kod": "SSS",
+      "ad": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 259,
+      "gun_kapsami": 375,
+      "dosya": "data/SSS_tefas.json"
+    },
+    {
+      "kod": "ST1",
+      "ad": "STRATEJİ ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ST1_tefas.json"
+    },
+    {
+      "kod": "SUR",
+      "ad": "EMAA BLUE PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 71,
+      "gun_kapsami": 100,
+      "dosya": "data/SUR_tefas.json"
+    },
+    {
+      "kod": "TAU",
+      "ad": "İŞ ASSET MANAGEMENT BIST BANKS INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TAU_tefas.json"
+    },
+    {
+      "kod": "THD",
+      "ad": "TRIVE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 692,
+      "gun_kapsami": 1002,
+      "dosya": "data/THD_tefas.json"
+    },
+    {
+      "kod": "THF",
+      "ad": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 271,
+      "gun_kapsami": 393,
+      "dosya": "data/THF_tefas.json"
+    },
+    {
+      "kod": "TI2",
+      "ad": "İŞ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TI2_tefas.json"
+    },
+    {
+      "kod": "TI3",
+      "ad": "İŞ ASSET MANAGEMENT İŞ BANK SUBSIDIARIES INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TI3_tefas.json"
+    },
+    {
+      "kod": "TIE",
+      "ad": "İŞ ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TIE_tefas.json"
+    },
+    {
+      "kod": "TIL",
+      "ad": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 149,
+      "gun_kapsami": 211,
+      "dosya": "data/TIL_tefas.json"
+    },
+    {
+      "kod": "TKF",
+      "ad": "TACİRLER ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TKF_tefas.json"
+    },
+    {
+      "kod": "TLH",
+      "ad": "AURA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TLH_tefas.json"
+    },
+    {
+      "kod": "TLZ",
+      "ad": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TLZ_tefas.json"
+    },
+    {
+      "kod": "TTE",
+      "ad": "İŞ ASSET MANAGEMENT BIST TECHNOLOGY CAPPED INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TTE_tefas.json"
+    },
+    {
+      "kod": "TYH",
+      "ad": "TEB ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TYH_tefas.json"
+    },
+    {
+      "kod": "TZD",
+      "ad": "ZİRAAT ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/TZD_tefas.json"
+    },
+    {
+      "kod": "UPH",
+      "ad": "ÜNLÜ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/UPH_tefas.json"
+    },
+    {
+      "kod": "VAY",
+      "ad": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 589,
+      "gun_kapsami": 856,
+      "dosya": "data/VAY_tefas.json"
+    },
+    {
+      "kod": "YAS",
+      "ad": "YAPI KREDİ ASSET MANAGEMENT KOÇ HOLDING SUBSIDIARIES AND EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YAS_tefas.json"
+    },
+    {
+      "kod": "YDI",
+      "ad": "YAPI KREDİ ASSET MANAGEMENT MODEL PORTFOLİO EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YDI_tefas.json"
+    },
+    {
+      "kod": "YEF",
+      "ad": "YAPI KREDİ ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YEF_tefas.json"
+    },
+    {
+      "kod": "YHB",
+      "ad": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 651,
+      "gun_kapsami": 942,
+      "dosya": "data/YHB_tefas.json"
+    },
+    {
+      "kod": "YHK",
+      "ad": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 489,
+      "gun_kapsami": 709,
+      "dosya": "data/YHK_tefas.json"
+    },
+    {
+      "kod": "YHS",
+      "ad": "YAPI KREDİ ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YHS_tefas.json"
+    },
+    {
+      "kod": "YHZ",
+      "ad": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YHZ_tefas.json"
+    },
+    {
+      "kod": "YLE",
+      "ad": "YAPI KREDİ PORTFÖY BIST SÜRDÜRÜLEBİLİRLİK ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1045,
+      "gun_kapsami": 1515,
+      "dosya": "data/YLE_tefas.json"
+    },
+    {
+      "kod": "YPR",
+      "ad": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 249,
+      "gun_kapsami": 359,
+      "dosya": "data/YPR_tefas.json"
+    },
+    {
+      "kod": "YZH",
+      "ad": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/YZH_tefas.json"
+    },
+    {
+      "kod": "ZHH",
+      "ad": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 418,
+      "gun_kapsami": 603,
+      "dosya": "data/ZHH_tefas.json"
+    },
+    {
+      "kod": "ZJL",
+      "ad": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1181,
+      "gun_kapsami": 1709,
+      "dosya": "data/ZJL_tefas.json"
+    },
+    {
+      "kod": "ZJV",
+      "ad": "ZİRAAT PORTFÖY BIST 30 DIŞI YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1181,
+      "gun_kapsami": 1709,
+      "dosya": "data/ZJV_tefas.json"
+    },
+    {
+      "kod": "ZLH",
+      "ad": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+      "durum": "veri_eksik",
+      "neden": "bes_yildan_kisa",
+      "kayit": 1155,
+      "gun_kapsami": 1670,
+      "dosya": "data/ZLH_tefas.json"
+    },
+    {
+      "kod": "ZPE",
+      "ad": "ZİRAAT ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "durum": "tam",
+      "neden": null,
+      "kayit": 1254,
+      "gun_kapsami": 1823,
+      "dosya": "data/ZPE_tefas.json"
+    }
+  ]
+}

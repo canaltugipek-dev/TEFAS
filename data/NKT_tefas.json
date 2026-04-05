@@ -1,0 +1,864 @@
+{
+  "fon_kodu": "NKT",
+  "fon_unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "fontip": "YAT",
+  "baslangic": "2021-04-06",
+  "bitis": "2026-04-05",
+  "kaynak": "https://fundturkey.com.tr",
+  "kayit_sayisi": 85,
+  "gun_kapsami": 120,
+  "durum_panel": "veri_eksik",
+  "neden": "bes_yildan_kisa",
+  "veri": [
+    {
+      "TARIH": "1764806400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.997809,
+      "TEDPAYSAYISI": 20000000.0,
+      "KISISAYISI": 1.0,
+      "PORTFOYBUYUKLUK": 19956184.19,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764892800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.992501,
+      "TEDPAYSAYISI": 20060230.0,
+      "KISISAYISI": 4.0,
+      "PORTFOYBUYUKLUK": 19909792.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765152000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.996068,
+      "TEDPAYSAYISI": 20198956.0,
+      "KISISAYISI": 12.0,
+      "PORTFOYBUYUKLUK": 20119538.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765238400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.010282,
+      "TEDPAYSAYISI": 20200484.0,
+      "KISISAYISI": 14.0,
+      "PORTFOYBUYUKLUK": 20408176.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765324800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.01623,
+      "TEDPAYSAYISI": 27131319.0,
+      "KISISAYISI": 15.0,
+      "PORTFOYBUYUKLUK": 27571671.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765411200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.012034,
+      "TEDPAYSAYISI": 27201370.0,
+      "KISISAYISI": 19.0,
+      "PORTFOYBUYUKLUK": 27528711.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765497600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.025092,
+      "TEDPAYSAYISI": 27212977.0,
+      "KISISAYISI": 23.0,
+      "PORTFOYBUYUKLUK": 27895808.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765756800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.03389,
+      "TEDPAYSAYISI": 27244605.0,
+      "KISISAYISI": 26.0,
+      "PORTFOYBUYUKLUK": 28167935.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765843200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.043693,
+      "TEDPAYSAYISI": 27213257.0,
+      "KISISAYISI": 28.0,
+      "PORTFOYBUYUKLUK": 28402296.56,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765929600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.038094,
+      "TEDPAYSAYISI": 28956407.0,
+      "KISISAYISI": 42.0,
+      "PORTFOYBUYUKLUK": 30059475.59,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766016000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.033278,
+      "TEDPAYSAYISI": 29605979.0,
+      "KISISAYISI": 49.0,
+      "PORTFOYBUYUKLUK": 30591207.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766102400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.034561,
+      "TEDPAYSAYISI": 30024419.0,
+      "KISISAYISI": 56.0,
+      "PORTFOYBUYUKLUK": 31062107.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766361600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.035252,
+      "TEDPAYSAYISI": 30149191.0,
+      "KISISAYISI": 61.0,
+      "PORTFOYBUYUKLUK": 31212002.07,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766448000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.033132,
+      "TEDPAYSAYISI": 30164871.0,
+      "KISISAYISI": 61.0,
+      "PORTFOYBUYUKLUK": 31164287.16,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766534400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.035843,
+      "TEDPAYSAYISI": 30142170.0,
+      "KISISAYISI": 66.0,
+      "PORTFOYBUYUKLUK": 31222563.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766620800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.042551,
+      "TEDPAYSAYISI": 29145375.0,
+      "KISISAYISI": 67.0,
+      "PORTFOYBUYUKLUK": 30385539.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766707200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.048049,
+      "TEDPAYSAYISI": 29077418.0,
+      "KISISAYISI": 65.0,
+      "PORTFOYBUYUKLUK": 30474570.89,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766966400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.049637,
+      "TEDPAYSAYISI": 29080394.0,
+      "KISISAYISI": 65.0,
+      "PORTFOYBUYUKLUK": 30523850.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767052800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.029977,
+      "TEDPAYSAYISI": 29084692.0,
+      "KISISAYISI": 66.0,
+      "PORTFOYBUYUKLUK": 29956559.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767139200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.042652,
+      "TEDPAYSAYISI": 29121999.0,
+      "KISISAYISI": 72.0,
+      "PORTFOYBUYUKLUK": 30364113.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767312000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.057836,
+      "TEDPAYSAYISI": 29232736.0,
+      "KISISAYISI": 77.0,
+      "PORTFOYBUYUKLUK": 30923451.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767571200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.068163,
+      "TEDPAYSAYISI": 29234448.0,
+      "KISISAYISI": 78.0,
+      "PORTFOYBUYUKLUK": 31227169.15,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767657600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.076106,
+      "TEDPAYSAYISI": 29299960.0,
+      "KISISAYISI": 81.0,
+      "PORTFOYBUYUKLUK": 31529853.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767744000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.096588,
+      "TEDPAYSAYISI": 29440905.0,
+      "KISISAYISI": 92.0,
+      "PORTFOYBUYUKLUK": 32284553.6,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767830400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.094008,
+      "TEDPAYSAYISI": 30062533.0,
+      "KISISAYISI": 99.0,
+      "PORTFOYBUYUKLUK": 32888638.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767916800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.103315,
+      "TEDPAYSAYISI": 31306785.0,
+      "KISISAYISI": 120.0,
+      "PORTFOYBUYUKLUK": 34541238.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768176000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.113597,
+      "TEDPAYSAYISI": 31806035.0,
+      "KISISAYISI": 127.0,
+      "PORTFOYBUYUKLUK": 35419117.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768262400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.130029,
+      "TEDPAYSAYISI": 33739339.0,
+      "KISISAYISI": 134.0,
+      "PORTFOYBUYUKLUK": 38126420.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768348800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.143133,
+      "TEDPAYSAYISI": 34216434.0,
+      "KISISAYISI": 156.0,
+      "PORTFOYBUYUKLUK": 39113929.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768435200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.139864,
+      "TEDPAYSAYISI": 37357046.0,
+      "KISISAYISI": 175.0,
+      "PORTFOYBUYUKLUK": 42581950.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768521600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.158796,
+      "TEDPAYSAYISI": 39052323.0,
+      "KISISAYISI": 190.0,
+      "PORTFOYBUYUKLUK": 45253689.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768780800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.17732,
+      "TEDPAYSAYISI": 39628479.0,
+      "KISISAYISI": 200.0,
+      "PORTFOYBUYUKLUK": 46655382.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768867200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.190596,
+      "TEDPAYSAYISI": 37166935.0,
+      "KISISAYISI": 204.0,
+      "PORTFOYBUYUKLUK": 44250815.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768953600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.188612,
+      "TEDPAYSAYISI": 39686555.0,
+      "KISISAYISI": 228.0,
+      "PORTFOYBUYUKLUK": 47171898.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769040000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.183229,
+      "TEDPAYSAYISI": 46274082.0,
+      "KISISAYISI": 263.0,
+      "PORTFOYBUYUKLUK": 54752848.09,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769126400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.209846,
+      "TEDPAYSAYISI": 47472817.0,
+      "KISISAYISI": 276.0,
+      "PORTFOYBUYUKLUK": 57434794.92,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769385600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.226082,
+      "TEDPAYSAYISI": 48280843.0,
+      "KISISAYISI": 288.0,
+      "PORTFOYBUYUKLUK": 59196290.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769472000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.246378,
+      "TEDPAYSAYISI": 52618828.0,
+      "KISISAYISI": 299.0,
+      "PORTFOYBUYUKLUK": 65582974.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769558400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.25458,
+      "TEDPAYSAYISI": 53782437.0,
+      "KISISAYISI": 340.0,
+      "PORTFOYBUYUKLUK": 67474373.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769644800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.279754,
+      "TEDPAYSAYISI": 56362401.0,
+      "KISISAYISI": 376.0,
+      "PORTFOYBUYUKLUK": 72130024.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769731200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.28847,
+      "TEDPAYSAYISI": 60049669.0,
+      "KISISAYISI": 415.0,
+      "PORTFOYBUYUKLUK": 77372218.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769990400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.285046,
+      "TEDPAYSAYISI": 75957246.0,
+      "KISISAYISI": 457.0,
+      "PORTFOYBUYUKLUK": 97608520.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770076800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.25489,
+      "TEDPAYSAYISI": 80175236.0,
+      "KISISAYISI": 484.0,
+      "PORTFOYBUYUKLUK": 100611134.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770163200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.268838,
+      "TEDPAYSAYISI": 79636479.0,
+      "KISISAYISI": 507.0,
+      "PORTFOYBUYUKLUK": 101045808.92,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770249600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.262309,
+      "TEDPAYSAYISI": 82484884.0,
+      "KISISAYISI": 523.0,
+      "PORTFOYBUYUKLUK": 104121439.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770336000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.24472,
+      "TEDPAYSAYISI": 81706696.0,
+      "KISISAYISI": 533.0,
+      "PORTFOYBUYUKLUK": 101701999.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770595200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.242706,
+      "TEDPAYSAYISI": 80063872.0,
+      "KISISAYISI": 531.0,
+      "PORTFOYBUYUKLUK": 99495835.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770681600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.273285,
+      "TEDPAYSAYISI": 78551118.0,
+      "KISISAYISI": 526.0,
+      "PORTFOYBUYUKLUK": 100017952.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770768000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.279857,
+      "TEDPAYSAYISI": 78991707.0,
+      "KISISAYISI": 515.0,
+      "PORTFOYBUYUKLUK": 101098059.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770854400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.284522,
+      "TEDPAYSAYISI": 80948025.0,
+      "KISISAYISI": 526.0,
+      "PORTFOYBUYUKLUK": 103979528.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770940800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.306689,
+      "TEDPAYSAYISI": 81361495.0,
+      "KISISAYISI": 526.0,
+      "PORTFOYBUYUKLUK": 106314165.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771200000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.312364,
+      "TEDPAYSAYISI": 80998320.0,
+      "KISISAYISI": 541.0,
+      "PORTFOYBUYUKLUK": 106299277.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771286400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.3301,
+      "TEDPAYSAYISI": 81523052.0,
+      "KISISAYISI": 550.0,
+      "PORTFOYBUYUKLUK": 108433802.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771372800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.318423,
+      "TEDPAYSAYISI": 76582350.0,
+      "KISISAYISI": 592.0,
+      "PORTFOYBUYUKLUK": 100967913.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771459200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.304437,
+      "TEDPAYSAYISI": 79233413.0,
+      "KISISAYISI": 612.0,
+      "PORTFOYBUYUKLUK": 103355003.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771545600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.256176,
+      "TEDPAYSAYISI": 77481853.0,
+      "KISISAYISI": 630.0,
+      "PORTFOYBUYUKLUK": 97330818.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771804800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.26084,
+      "TEDPAYSAYISI": 75285255.0,
+      "KISISAYISI": 634.0,
+      "PORTFOYBUYUKLUK": 94922688.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771891200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.275246,
+      "TEDPAYSAYISI": 70394750.0,
+      "KISISAYISI": 615.0,
+      "PORTFOYBUYUKLUK": 89770620.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771977600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.269505,
+      "TEDPAYSAYISI": 66296512.0,
+      "KISISAYISI": 605.0,
+      "PORTFOYBUYUKLUK": 84163786.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772064000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.241613,
+      "TEDPAYSAYISI": 62840452.0,
+      "KISISAYISI": 599.0,
+      "PORTFOYBUYUKLUK": 78023519.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772150400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.238859,
+      "TEDPAYSAYISI": 62568761.0,
+      "KISISAYISI": 583.0,
+      "PORTFOYBUYUKLUK": 77513886.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772409600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.23456,
+      "TEDPAYSAYISI": 60917402.0,
+      "KISISAYISI": 568.0,
+      "PORTFOYBUYUKLUK": 75206194.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772496000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.205702,
+      "TEDPAYSAYISI": 59522318.0,
+      "KISISAYISI": 559.0,
+      "PORTFOYBUYUKLUK": 71766196.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772582400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.189959,
+      "TEDPAYSAYISI": 57614487.0,
+      "KISISAYISI": 552.0,
+      "PORTFOYBUYUKLUK": 68558870.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772668800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.188718,
+      "TEDPAYSAYISI": 54418973.0,
+      "KISISAYISI": 533.0,
+      "PORTFOYBUYUKLUK": 64688826.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772755200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.217657,
+      "TEDPAYSAYISI": 53463844.0,
+      "KISISAYISI": 523.0,
+      "PORTFOYBUYUKLUK": 65100644.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773014400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.20922,
+      "TEDPAYSAYISI": 53291671.0,
+      "KISISAYISI": 517.0,
+      "PORTFOYBUYUKLUK": 64441339.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773100800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.20834,
+      "TEDPAYSAYISI": 53540298.0,
+      "KISISAYISI": 515.0,
+      "PORTFOYBUYUKLUK": 64694889.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773187200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.254013,
+      "TEDPAYSAYISI": 49248956.0,
+      "KISISAYISI": 511.0,
+      "PORTFOYBUYUKLUK": 61758840.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773273600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.257118,
+      "TEDPAYSAYISI": 48990047.0,
+      "KISISAYISI": 496.0,
+      "PORTFOYBUYUKLUK": 61586286.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773360000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.258068,
+      "TEDPAYSAYISI": 49020773.0,
+      "KISISAYISI": 496.0,
+      "PORTFOYBUYUKLUK": 61671445.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773619200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.242243,
+      "TEDPAYSAYISI": 49024707.0,
+      "KISISAYISI": 491.0,
+      "PORTFOYBUYUKLUK": 60900586.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773705600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.241396,
+      "TEDPAYSAYISI": 46362730.0,
+      "KISISAYISI": 490.0,
+      "PORTFOYBUYUKLUK": 57554518.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773792000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.250979,
+      "TEDPAYSAYISI": 45989825.0,
+      "KISISAYISI": 487.0,
+      "PORTFOYBUYUKLUK": 57532298.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773878400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.236302,
+      "TEDPAYSAYISI": 45686252.0,
+      "KISISAYISI": 476.0,
+      "PORTFOYBUYUKLUK": 56482025.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774224000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.23736,
+      "TEDPAYSAYISI": 45685218.0,
+      "KISISAYISI": 476.0,
+      "PORTFOYBUYUKLUK": 56529052.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774310400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.2426,
+      "TEDPAYSAYISI": 45672431.0,
+      "KISISAYISI": 469.0,
+      "PORTFOYBUYUKLUK": 56752551.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774396800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.222773,
+      "TEDPAYSAYISI": 45205238.0,
+      "KISISAYISI": 468.0,
+      "PORTFOYBUYUKLUK": 55275739.09,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774483200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.23079,
+      "TEDPAYSAYISI": 44967047.0,
+      "KISISAYISI": 460.0,
+      "PORTFOYBUYUKLUK": 55344977.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774569600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.219482,
+      "TEDPAYSAYISI": 44935883.0,
+      "KISISAYISI": 455.0,
+      "PORTFOYBUYUKLUK": 54798503.82,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774828800000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.210157,
+      "TEDPAYSAYISI": 44644963.0,
+      "KISISAYISI": 450.0,
+      "PORTFOYBUYUKLUK": 54027414.92,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774915200000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.217554,
+      "TEDPAYSAYISI": 44594047.0,
+      "KISISAYISI": 447.0,
+      "PORTFOYBUYUKLUK": 54295664.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775001600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.233807,
+      "TEDPAYSAYISI": 42917879.0,
+      "KISISAYISI": 448.0,
+      "PORTFOYBUYUKLUK": 52952399.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775088000000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.246048,
+      "TEDPAYSAYISI": 43150022.0,
+      "KISISAYISI": 439.0,
+      "PORTFOYBUYUKLUK": 53766987.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775174400000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.251908,
+      "TEDPAYSAYISI": 42264896.0,
+      "KISISAYISI": 439.0,
+      "PORTFOYBUYUKLUK": 52911775.93,
+      "BilFiyat": "-"
+    }
+  ]
+}

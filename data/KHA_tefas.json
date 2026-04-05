@@ -1,0 +1,5414 @@
+{
+  "fon_kodu": "KHA",
+  "fon_unvan": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "fontip": "YAT",
+  "baslangic": "2021-04-06",
+  "bitis": "2026-04-05",
+  "kaynak": "https://fundturkey.com.tr",
+  "kayit_sayisi": 540,
+  "gun_kapsami": 786,
+  "durum_panel": "veri_eksik",
+  "neden": "bes_yildan_kisa",
+  "veri": [
+    {
+      "TARIH": "1707264000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": 0.0,
+      "KISISAYISI": 2.0,
+      "PORTFOYBUYUKLUK": 0.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707350400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.998468,
+      "TEDPAYSAYISI": 21000000.0,
+      "KISISAYISI": 14.0,
+      "PORTFOYBUYUKLUK": 20967826.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707436800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.006599,
+      "TEDPAYSAYISI": 21152914.0,
+      "KISISAYISI": 88.0,
+      "PORTFOYBUYUKLUK": 21292498.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707696000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.01002,
+      "TEDPAYSAYISI": 24323518.0,
+      "KISISAYISI": 109.0,
+      "PORTFOYBUYUKLUK": 24567241.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707782400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.010838,
+      "TEDPAYSAYISI": 74375518.0,
+      "KISISAYISI": 122.0,
+      "PORTFOYBUYUKLUK": 75181597.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707868800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.018792,
+      "TEDPAYSAYISI": 76517601.0,
+      "KISISAYISI": 133.0,
+      "PORTFOYBUYUKLUK": 77955556.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1707955200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.03015,
+      "TEDPAYSAYISI": 76440251.0,
+      "KISISAYISI": 140.0,
+      "PORTFOYBUYUKLUK": 78744960.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708041600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.042902,
+      "TEDPAYSAYISI": 94032951.0,
+      "KISISAYISI": 164.0,
+      "PORTFOYBUYUKLUK": 98067154.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708300800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.054894,
+      "TEDPAYSAYISI": 96685083.0,
+      "KISISAYISI": 174.0,
+      "PORTFOYBUYUKLUK": 101992549.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708387200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.065354,
+      "TEDPAYSAYISI": 101251770.0,
+      "KISISAYISI": 195.0,
+      "PORTFOYBUYUKLUK": 107868970.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708473600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.075848,
+      "TEDPAYSAYISI": 124376364.0,
+      "KISISAYISI": 255.0,
+      "PORTFOYBUYUKLUK": 133810043.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708560000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.085798,
+      "TEDPAYSAYISI": 132984203.0,
+      "KISISAYISI": 288.0,
+      "PORTFOYBUYUKLUK": 144393958.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708646400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.109631,
+      "TEDPAYSAYISI": 134030541.0,
+      "KISISAYISI": 320.0,
+      "PORTFOYBUYUKLUK": 148724393.85,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708905600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.131254,
+      "TEDPAYSAYISI": 137668653.0,
+      "KISISAYISI": 348.0,
+      "PORTFOYBUYUKLUK": 155738191.68,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1708992000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.154801,
+      "TEDPAYSAYISI": 143307318.0,
+      "KISISAYISI": 410.0,
+      "PORTFOYBUYUKLUK": 165491404.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709078400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.179092,
+      "TEDPAYSAYISI": 147608205.0,
+      "KISISAYISI": 459.0,
+      "PORTFOYBUYUKLUK": 174043617.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709164800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.19186,
+      "TEDPAYSAYISI": 148988233.0,
+      "KISISAYISI": 520.0,
+      "PORTFOYBUYUKLUK": 177573068.89,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709251200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.206836,
+      "TEDPAYSAYISI": 156941607.0,
+      "KISISAYISI": 620.0,
+      "PORTFOYBUYUKLUK": 189402779.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709510400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.223068,
+      "TEDPAYSAYISI": 180843482.0,
+      "KISISAYISI": 763.0,
+      "PORTFOYBUYUKLUK": 221183926.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709596800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.223149,
+      "TEDPAYSAYISI": 167665178.0,
+      "KISISAYISI": 935.0,
+      "PORTFOYBUYUKLUK": 205079542.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709683200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.223894,
+      "TEDPAYSAYISI": 207295796.0,
+      "KISISAYISI": 1062.0,
+      "PORTFOYBUYUKLUK": 253707982.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709769600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.222808,
+      "TEDPAYSAYISI": 213927572.0,
+      "KISISAYISI": 1127.0,
+      "PORTFOYBUYUKLUK": 261592438.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1709856000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.231285,
+      "TEDPAYSAYISI": 190879859.0,
+      "KISISAYISI": 1196.0,
+      "PORTFOYBUYUKLUK": 235027458.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710115200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.234469,
+      "TEDPAYSAYISI": 200505717.0,
+      "KISISAYISI": 1293.0,
+      "PORTFOYBUYUKLUK": 247518052.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710201600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.238187,
+      "TEDPAYSAYISI": 209512950.0,
+      "KISISAYISI": 1708.0,
+      "PORTFOYBUYUKLUK": 259416310.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710288000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.241051,
+      "TEDPAYSAYISI": 222694157.0,
+      "KISISAYISI": 1941.0,
+      "PORTFOYBUYUKLUK": 276374861.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710374400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.240267,
+      "TEDPAYSAYISI": 232967605.0,
+      "KISISAYISI": 2134.0,
+      "PORTFOYBUYUKLUK": 288942004.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710460800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.245745,
+      "TEDPAYSAYISI": 222412586.0,
+      "KISISAYISI": 2399.0,
+      "PORTFOYBUYUKLUK": 277069395.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710720000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.247201,
+      "TEDPAYSAYISI": 204183300.0,
+      "KISISAYISI": 2698.0,
+      "PORTFOYBUYUKLUK": 254657605.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710806400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.245804,
+      "TEDPAYSAYISI": 180519561.0,
+      "KISISAYISI": 3666.0,
+      "PORTFOYBUYUKLUK": 224891922.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710892800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.250234,
+      "TEDPAYSAYISI": 165183312.0,
+      "KISISAYISI": 5031.0,
+      "PORTFOYBUYUKLUK": 206517732.89,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1710979200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.252169,
+      "TEDPAYSAYISI": 196500088.0,
+      "KISISAYISI": 5868.0,
+      "PORTFOYBUYUKLUK": 246051250.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711065600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.258359,
+      "TEDPAYSAYISI": 220234286.0,
+      "KISISAYISI": 6449.0,
+      "PORTFOYBUYUKLUK": 277133880.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711324800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.258727,
+      "TEDPAYSAYISI": 230272845.0,
+      "KISISAYISI": 6820.0,
+      "PORTFOYBUYUKLUK": 289850665.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711411200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.257174,
+      "TEDPAYSAYISI": 245694143.0,
+      "KISISAYISI": 7412.0,
+      "PORTFOYBUYUKLUK": 308880307.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711497600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.248912,
+      "TEDPAYSAYISI": 255889522.0,
+      "KISISAYISI": 7627.0,
+      "PORTFOYBUYUKLUK": 319583538.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711584000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.249416,
+      "TEDPAYSAYISI": 242518190.0,
+      "KISISAYISI": 7668.0,
+      "PORTFOYBUYUKLUK": 303006072.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711670400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260647,
+      "TEDPAYSAYISI": 231357414.0,
+      "KISISAYISI": 7653.0,
+      "PORTFOYBUYUKLUK": 291660057.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1711929600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.264531,
+      "TEDPAYSAYISI": 231354211.0,
+      "KISISAYISI": 7671.0,
+      "PORTFOYBUYUKLUK": 292554664.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712016000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260836,
+      "TEDPAYSAYISI": 232579972.0,
+      "KISISAYISI": 7715.0,
+      "PORTFOYBUYUKLUK": 293245093.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712102400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.255898,
+      "TEDPAYSAYISI": 224307676.0,
+      "KISISAYISI": 7727.0,
+      "PORTFOYBUYUKLUK": 281707620.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712188800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.253979,
+      "TEDPAYSAYISI": 212900642.0,
+      "KISISAYISI": 7658.0,
+      "PORTFOYBUYUKLUK": 266973011.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712275200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260983,
+      "TEDPAYSAYISI": 210044039.0,
+      "KISISAYISI": 7588.0,
+      "PORTFOYBUYUKLUK": 264861860.32,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712534400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.303063,
+      "TEDPAYSAYISI": 210776480.0,
+      "KISISAYISI": 7536.0,
+      "PORTFOYBUYUKLUK": 274654958.51,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1712620800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.324621,
+      "TEDPAYSAYISI": 208847233.0,
+      "KISISAYISI": 7540.0,
+      "PORTFOYBUYUKLUK": 276643443.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713139200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.328473,
+      "TEDPAYSAYISI": 209888025.0,
+      "KISISAYISI": 7535.0,
+      "PORTFOYBUYUKLUK": 278830570.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713225600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.310257,
+      "TEDPAYSAYISI": 211445657.0,
+      "KISISAYISI": 7635.0,
+      "PORTFOYBUYUKLUK": 277048136.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713312000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.298776,
+      "TEDPAYSAYISI": 208585919.0,
+      "KISISAYISI": 7599.0,
+      "PORTFOYBUYUKLUK": 270906316.57,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713398400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.29207,
+      "TEDPAYSAYISI": 193036466.0,
+      "KISISAYISI": 7543.0,
+      "PORTFOYBUYUKLUK": 249416634.68,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713484800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.289797,
+      "TEDPAYSAYISI": 189659586.0,
+      "KISISAYISI": 7509.0,
+      "PORTFOYBUYUKLUK": 244622302.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713744000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.303129,
+      "TEDPAYSAYISI": 187144595.0,
+      "KISISAYISI": 7444.0,
+      "PORTFOYBUYUKLUK": 243873492.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1713916800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.305556,
+      "TEDPAYSAYISI": 185675362.0,
+      "KISISAYISI": 7417.0,
+      "PORTFOYBUYUKLUK": 242409599.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714003200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.318962,
+      "TEDPAYSAYISI": 182520009.0,
+      "KISISAYISI": 7373.0,
+      "PORTFOYBUYUKLUK": 240736998.16,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714089600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.326413,
+      "TEDPAYSAYISI": 181262291.0,
+      "KISISAYISI": 7333.0,
+      "PORTFOYBUYUKLUK": 240428682.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714348800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.340857,
+      "TEDPAYSAYISI": 181441335.0,
+      "KISISAYISI": 7310.0,
+      "PORTFOYBUYUKLUK": 243286870.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714435200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.361489,
+      "TEDPAYSAYISI": 181200468.0,
+      "KISISAYISI": 7294.0,
+      "PORTFOYBUYUKLUK": 246702415.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714608000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.356333,
+      "TEDPAYSAYISI": 180830938.0,
+      "KISISAYISI": 7253.0,
+      "PORTFOYBUYUKLUK": 245266958.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714694400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.381149,
+      "TEDPAYSAYISI": 186767774.0,
+      "KISISAYISI": 7230.0,
+      "PORTFOYBUYUKLUK": 257954145.24,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1714953600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.387059,
+      "TEDPAYSAYISI": 187955752.0,
+      "KISISAYISI": 7213.0,
+      "PORTFOYBUYUKLUK": 260705652.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715040000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.387319,
+      "TEDPAYSAYISI": 186241373.0,
+      "KISISAYISI": 7224.0,
+      "PORTFOYBUYUKLUK": 258376160.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715126400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.395201,
+      "TEDPAYSAYISI": 187237695.0,
+      "KISISAYISI": 7202.0,
+      "PORTFOYBUYUKLUK": 261234190.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715212800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.388576,
+      "TEDPAYSAYISI": 188093050.0,
+      "KISISAYISI": 7172.0,
+      "PORTFOYBUYUKLUK": 261181454.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715299200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.39929,
+      "TEDPAYSAYISI": 188962144.0,
+      "KISISAYISI": 7150.0,
+      "PORTFOYBUYUKLUK": 264412791.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715558400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.403389,
+      "TEDPAYSAYISI": 188575800.0,
+      "KISISAYISI": 7140.0,
+      "PORTFOYBUYUKLUK": 264645241.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715644800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.381702,
+      "TEDPAYSAYISI": 188066887.0,
+      "KISISAYISI": 7131.0,
+      "PORTFOYBUYUKLUK": 259852380.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715731200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.383078,
+      "TEDPAYSAYISI": 187995958.0,
+      "KISISAYISI": 7089.0,
+      "PORTFOYBUYUKLUK": 260012983.82,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715817600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.379732,
+      "TEDPAYSAYISI": 188067035.0,
+      "KISISAYISI": 7066.0,
+      "PORTFOYBUYUKLUK": 259482050.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1715904000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.401413,
+      "TEDPAYSAYISI": 170769492.0,
+      "KISISAYISI": 7042.0,
+      "PORTFOYBUYUKLUK": 239318660.46,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716163200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.43468,
+      "TEDPAYSAYISI": 162336722.0,
+      "KISISAYISI": 7005.0,
+      "PORTFOYBUYUKLUK": 232901233.24,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716249600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.457302,
+      "TEDPAYSAYISI": 160435439.0,
+      "KISISAYISI": 6977.0,
+      "PORTFOYBUYUKLUK": 233802855.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716336000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.459889,
+      "TEDPAYSAYISI": 155800141.0,
+      "KISISAYISI": 6955.0,
+      "PORTFOYBUYUKLUK": 227450983.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716422400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.466212,
+      "TEDPAYSAYISI": 154600699.0,
+      "KISISAYISI": 6953.0,
+      "PORTFOYBUYUKLUK": 226677353.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716508800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456966,
+      "TEDPAYSAYISI": 155865754.0,
+      "KISISAYISI": 6948.0,
+      "PORTFOYBUYUKLUK": 227091102.75,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716768000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.44792,
+      "TEDPAYSAYISI": 156373268.0,
+      "KISISAYISI": 6937.0,
+      "PORTFOYBUYUKLUK": 226415907.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716854400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.442945,
+      "TEDPAYSAYISI": 156035368.0,
+      "KISISAYISI": 6926.0,
+      "PORTFOYBUYUKLUK": 225150409.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1716940800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.451892,
+      "TEDPAYSAYISI": 154410507.0,
+      "KISISAYISI": 6897.0,
+      "PORTFOYBUYUKLUK": 224187360.51,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717027200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.428791,
+      "TEDPAYSAYISI": 145342749.0,
+      "KISISAYISI": 6876.0,
+      "PORTFOYBUYUKLUK": 207664465.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717113600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.425987,
+      "TEDPAYSAYISI": 145264393.0,
+      "KISISAYISI": 6848.0,
+      "PORTFOYBUYUKLUK": 207145187.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717372800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.403007,
+      "TEDPAYSAYISI": 143452721.0,
+      "KISISAYISI": 6806.0,
+      "PORTFOYBUYUKLUK": 201265184.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717459200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.433602,
+      "TEDPAYSAYISI": 141901706.0,
+      "KISISAYISI": 6782.0,
+      "PORTFOYBUYUKLUK": 203430591.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717545600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.422661,
+      "TEDPAYSAYISI": 150433853.0,
+      "KISISAYISI": 6718.0,
+      "PORTFOYBUYUKLUK": 214016376.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717632000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.414292,
+      "TEDPAYSAYISI": 144986074.0,
+      "KISISAYISI": 6678.0,
+      "PORTFOYBUYUKLUK": 205052640.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717718400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.415568,
+      "TEDPAYSAYISI": 142464342.0,
+      "KISISAYISI": 6649.0,
+      "PORTFOYBUYUKLUK": 201668001.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1717977600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.39974,
+      "TEDPAYSAYISI": 139398314.0,
+      "KISISAYISI": 6625.0,
+      "PORTFOYBUYUKLUK": 195121359.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718064000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.374469,
+      "TEDPAYSAYISI": 138040099.0,
+      "KISISAYISI": 6584.0,
+      "PORTFOYBUYUKLUK": 189731866.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718150400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.376764,
+      "TEDPAYSAYISI": 165886508.0,
+      "KISISAYISI": 6545.0,
+      "PORTFOYBUYUKLUK": 228386496.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718236800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.413314,
+      "TEDPAYSAYISI": 171518301.0,
+      "KISISAYISI": 6498.0,
+      "PORTFOYBUYUKLUK": 242409292.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718323200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.436062,
+      "TEDPAYSAYISI": 169396910.0,
+      "KISISAYISI": 6478.0,
+      "PORTFOYBUYUKLUK": 243264477.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718841600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.435744,
+      "TEDPAYSAYISI": 183867061.0,
+      "KISISAYISI": 6479.0,
+      "PORTFOYBUYUKLUK": 263985973.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1718928000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456137,
+      "TEDPAYSAYISI": 183924665.0,
+      "KISISAYISI": 6497.0,
+      "PORTFOYBUYUKLUK": 267819515.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719187200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.461672,
+      "TEDPAYSAYISI": 182636195.0,
+      "KISISAYISI": 6443.0,
+      "PORTFOYBUYUKLUK": 266954161.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719273600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.466225,
+      "TEDPAYSAYISI": 176521643.0,
+      "KISISAYISI": 6418.0,
+      "PORTFOYBUYUKLUK": 258820526.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719360000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.460545,
+      "TEDPAYSAYISI": 171974935.0,
+      "KISISAYISI": 6341.0,
+      "PORTFOYBUYUKLUK": 251177122.59,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719446400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.435046,
+      "TEDPAYSAYISI": 169958437.0,
+      "KISISAYISI": 6302.0,
+      "PORTFOYBUYUKLUK": 243898256.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719532800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.457156,
+      "TEDPAYSAYISI": 168701257.0,
+      "KISISAYISI": 6253.0,
+      "PORTFOYBUYUKLUK": 245824093.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719792000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.464892,
+      "TEDPAYSAYISI": 167012025.0,
+      "KISISAYISI": 6239.0,
+      "PORTFOYBUYUKLUK": 244654649.16,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719878400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.415412,
+      "TEDPAYSAYISI": 165349566.0,
+      "KISISAYISI": 6224.0,
+      "PORTFOYBUYUKLUK": 234037814.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719964800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.42808,
+      "TEDPAYSAYISI": 134650867.0,
+      "KISISAYISI": 6183.0,
+      "PORTFOYBUYUKLUK": 192292194.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720051200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456097,
+      "TEDPAYSAYISI": 127414450.0,
+      "KISISAYISI": 6154.0,
+      "PORTFOYBUYUKLUK": 185527822.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720137600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.48993,
+      "TEDPAYSAYISI": 124601959.0,
+      "KISISAYISI": 6125.0,
+      "PORTFOYBUYUKLUK": 185648189.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720396800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487997,
+      "TEDPAYSAYISI": 131861839.0,
+      "KISISAYISI": 6103.0,
+      "PORTFOYBUYUKLUK": 196210003.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720483200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.489546,
+      "TEDPAYSAYISI": 132635137.0,
+      "KISISAYISI": 6102.0,
+      "PORTFOYBUYUKLUK": 197566149.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720569600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487412,
+      "TEDPAYSAYISI": 129354543.0,
+      "KISISAYISI": 6069.0,
+      "PORTFOYBUYUKLUK": 192403547.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720656000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.481732,
+      "TEDPAYSAYISI": 128410786.0,
+      "KISISAYISI": 6043.0,
+      "PORTFOYBUYUKLUK": 190270341.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720742400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.512726,
+      "TEDPAYSAYISI": 128108090.0,
+      "KISISAYISI": 6023.0,
+      "PORTFOYBUYUKLUK": 193792425.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721088000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.5179,
+      "TEDPAYSAYISI": 126944563.0,
+      "KISISAYISI": 6002.0,
+      "PORTFOYBUYUKLUK": 192689104.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721174400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.525394,
+      "TEDPAYSAYISI": 98549113.0,
+      "KISISAYISI": 6011.0,
+      "PORTFOYBUYUKLUK": 150326272.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721260800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.524684,
+      "TEDPAYSAYISI": 98495857.0,
+      "KISISAYISI": 5977.0,
+      "PORTFOYBUYUKLUK": 150175046.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721347200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.519281,
+      "TEDPAYSAYISI": 84190046.0,
+      "KISISAYISI": 5954.0,
+      "PORTFOYBUYUKLUK": 127908350.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721606400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.513599,
+      "TEDPAYSAYISI": 84052353.0,
+      "KISISAYISI": 5929.0,
+      "PORTFOYBUYUKLUK": 127221572.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721692800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.523792,
+      "TEDPAYSAYISI": 83786315.0,
+      "KISISAYISI": 5919.0,
+      "PORTFOYBUYUKLUK": 127672935.29,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721779200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.507774,
+      "TEDPAYSAYISI": 83236346.0,
+      "KISISAYISI": 5877.0,
+      "PORTFOYBUYUKLUK": 125501576.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721865600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.496065,
+      "TEDPAYSAYISI": 82231246.0,
+      "KISISAYISI": 5863.0,
+      "PORTFOYBUYUKLUK": 123023302.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721952000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.492255,
+      "TEDPAYSAYISI": 81358404.0,
+      "KISISAYISI": 5842.0,
+      "PORTFOYBUYUKLUK": 121407490.6,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722211200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.494493,
+      "TEDPAYSAYISI": 81130394.0,
+      "KISISAYISI": 5813.0,
+      "PORTFOYBUYUKLUK": 121248805.15,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722297600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.470974,
+      "TEDPAYSAYISI": 81312691.0,
+      "KISISAYISI": 5779.0,
+      "PORTFOYBUYUKLUK": 119608836.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722384000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.46643,
+      "TEDPAYSAYISI": 80360720.0,
+      "KISISAYISI": 5685.0,
+      "PORTFOYBUYUKLUK": 117843369.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722470400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.455501,
+      "TEDPAYSAYISI": 77596594.0,
+      "KISISAYISI": 5636.0,
+      "PORTFOYBUYUKLUK": 112941917.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722556800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.47931,
+      "TEDPAYSAYISI": 76851977.0,
+      "KISISAYISI": 5583.0,
+      "PORTFOYBUYUKLUK": 113687877.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722816000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444255,
+      "TEDPAYSAYISI": 76202450.0,
+      "KISISAYISI": 5552.0,
+      "PORTFOYBUYUKLUK": 110055767.82,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722902400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.363029,
+      "TEDPAYSAYISI": 75677281.0,
+      "KISISAYISI": 5522.0,
+      "PORTFOYBUYUKLUK": 103150319.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722988800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.36649,
+      "TEDPAYSAYISI": 72863045.0,
+      "KISISAYISI": 5427.0,
+      "PORTFOYBUYUKLUK": 99566624.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723075200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.389913,
+      "TEDPAYSAYISI": 72241706.0,
+      "KISISAYISI": 5389.0,
+      "PORTFOYBUYUKLUK": 100409690.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723161600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.404895,
+      "TEDPAYSAYISI": 71756352.0,
+      "KISISAYISI": 5363.0,
+      "PORTFOYBUYUKLUK": 100810175.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723420800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.383581,
+      "TEDPAYSAYISI": 71573659.0,
+      "KISISAYISI": 5347.0,
+      "PORTFOYBUYUKLUK": 99027974.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723507200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.374407,
+      "TEDPAYSAYISI": 107362076.0,
+      "KISISAYISI": 5337.0,
+      "PORTFOYBUYUKLUK": 147559167.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723593600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.382784,
+      "TEDPAYSAYISI": 153577428.0,
+      "KISISAYISI": 5285.0,
+      "PORTFOYBUYUKLUK": 212364341.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723680000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.385901,
+      "TEDPAYSAYISI": 155339204.0,
+      "KISISAYISI": 5233.0,
+      "PORTFOYBUYUKLUK": 215284815.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1723766400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.399883,
+      "TEDPAYSAYISI": 154860758.0,
+      "KISISAYISI": 5218.0,
+      "PORTFOYBUYUKLUK": 216787015.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724025600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.399705,
+      "TEDPAYSAYISI": 154372947.0,
+      "KISISAYISI": 5192.0,
+      "PORTFOYBUYUKLUK": 216076592.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724112000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.416006,
+      "TEDPAYSAYISI": 154875539.0,
+      "KISISAYISI": 5179.0,
+      "PORTFOYBUYUKLUK": 219304636.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724198400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.426228,
+      "TEDPAYSAYISI": 154452174.0,
+      "KISISAYISI": 5145.0,
+      "PORTFOYBUYUKLUK": 220283952.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724284800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.421065,
+      "TEDPAYSAYISI": 139399879.0,
+      "KISISAYISI": 5118.0,
+      "PORTFOYBUYUKLUK": 198096231.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724371200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.426187,
+      "TEDPAYSAYISI": 125205999.0,
+      "KISISAYISI": 5096.0,
+      "PORTFOYBUYUKLUK": 178567114.46,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724630400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.407704,
+      "TEDPAYSAYISI": 113513141.0,
+      "KISISAYISI": 5089.0,
+      "PORTFOYBUYUKLUK": 159792927.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724716800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.394001,
+      "TEDPAYSAYISI": 100311989.0,
+      "KISISAYISI": 5080.0,
+      "PORTFOYBUYUKLUK": 139834969.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724803200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.41082,
+      "TEDPAYSAYISI": 85816967.0,
+      "KISISAYISI": 5046.0,
+      "PORTFOYBUYUKLUK": 121072321.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1724889600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.41334,
+      "TEDPAYSAYISI": 80699784.0,
+      "KISISAYISI": 5018.0,
+      "PORTFOYBUYUKLUK": 114056195.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725235200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.421162,
+      "TEDPAYSAYISI": 80158485.0,
+      "KISISAYISI": 4999.0,
+      "PORTFOYBUYUKLUK": 113918180.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725321600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.447343,
+      "TEDPAYSAYISI": 80100160.0,
+      "KISISAYISI": 4999.0,
+      "PORTFOYBUYUKLUK": 115932371.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725408000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.435623,
+      "TEDPAYSAYISI": 80209927.0,
+      "KISISAYISI": 4986.0,
+      "PORTFOYBUYUKLUK": 115151177.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725494400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.42857,
+      "TEDPAYSAYISI": 79869474.0,
+      "KISISAYISI": 4957.0,
+      "PORTFOYBUYUKLUK": 114099150.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725580800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.425296,
+      "TEDPAYSAYISI": 65015893.0,
+      "KISISAYISI": 4935.0,
+      "PORTFOYBUYUKLUK": 92666863.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725840000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.409275,
+      "TEDPAYSAYISI": 65814046.0,
+      "KISISAYISI": 4924.0,
+      "PORTFOYBUYUKLUK": 92750110.32,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1725926400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.404161,
+      "TEDPAYSAYISI": 65736748.0,
+      "KISISAYISI": 4913.0,
+      "PORTFOYBUYUKLUK": 92304991.09,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726012800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.399064,
+      "TEDPAYSAYISI": 64843800.0,
+      "KISISAYISI": 4879.0,
+      "PORTFOYBUYUKLUK": 90720656.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726099200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.365089,
+      "TEDPAYSAYISI": 64160863.0,
+      "KISISAYISI": 4846.0,
+      "PORTFOYBUYUKLUK": 87585264.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726185600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.379874,
+      "TEDPAYSAYISI": 63609161.0,
+      "KISISAYISI": 4825.0,
+      "PORTFOYBUYUKLUK": 87772647.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726444800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.408326,
+      "TEDPAYSAYISI": 63396720.0,
+      "KISISAYISI": 4805.0,
+      "PORTFOYBUYUKLUK": 89283241.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726531200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.395971,
+      "TEDPAYSAYISI": 63279174.0,
+      "KISISAYISI": 4795.0,
+      "PORTFOYBUYUKLUK": 88335869.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726617600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.420105,
+      "TEDPAYSAYISI": 62967154.0,
+      "KISISAYISI": 4773.0,
+      "PORTFOYBUYUKLUK": 89419967.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726704000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.419453,
+      "TEDPAYSAYISI": 62627131.0,
+      "KISISAYISI": 4760.0,
+      "PORTFOYBUYUKLUK": 88896293.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1726790400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.446783,
+      "TEDPAYSAYISI": 61660160.0,
+      "KISISAYISI": 4746.0,
+      "PORTFOYBUYUKLUK": 89208897.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727049600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.440221,
+      "TEDPAYSAYISI": 61464390.0,
+      "KISISAYISI": 4746.0,
+      "PORTFOYBUYUKLUK": 88522289.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727136000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.433307,
+      "TEDPAYSAYISI": 61943963.0,
+      "KISISAYISI": 4736.0,
+      "PORTFOYBUYUKLUK": 88784721.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727222400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444339,
+      "TEDPAYSAYISI": 60803093.0,
+      "KISISAYISI": 4721.0,
+      "PORTFOYBUYUKLUK": 87820262.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727308800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.421753,
+      "TEDPAYSAYISI": 59702628.0,
+      "KISISAYISI": 4702.0,
+      "PORTFOYBUYUKLUK": 84882370.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727395200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.41602,
+      "TEDPAYSAYISI": 59480880.0,
+      "KISISAYISI": 4688.0,
+      "PORTFOYBUYUKLUK": 84226135.59,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727654400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.417799,
+      "TEDPAYSAYISI": 59405422.0,
+      "KISISAYISI": 4677.0,
+      "PORTFOYBUYUKLUK": 84224972.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727740800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.403659,
+      "TEDPAYSAYISI": 59119169.0,
+      "KISISAYISI": 4666.0,
+      "PORTFOYBUYUKLUK": 82983163.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727827200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.358624,
+      "TEDPAYSAYISI": 58731145.0,
+      "KISISAYISI": 4645.0,
+      "PORTFOYBUYUKLUK": 79793547.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727913600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.324324,
+      "TEDPAYSAYISI": 58423529.0,
+      "KISISAYISI": 4628.0,
+      "PORTFOYBUYUKLUK": 77371660.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728000000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.323433,
+      "TEDPAYSAYISI": 58325687.0,
+      "KISISAYISI": 4598.0,
+      "PORTFOYBUYUKLUK": 77190135.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728259200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.334405,
+      "TEDPAYSAYISI": 58011678.0,
+      "KISISAYISI": 4582.0,
+      "PORTFOYBUYUKLUK": 77411076.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728345600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.329657,
+      "TEDPAYSAYISI": 58409118.0,
+      "KISISAYISI": 4564.0,
+      "PORTFOYBUYUKLUK": 77664116.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728432000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.333672,
+      "TEDPAYSAYISI": 58322764.0,
+      "KISISAYISI": 4548.0,
+      "PORTFOYBUYUKLUK": 77783456.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728518400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.337745,
+      "TEDPAYSAYISI": 58182176.0,
+      "KISISAYISI": 4529.0,
+      "PORTFOYBUYUKLUK": 77832940.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728604800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.332737,
+      "TEDPAYSAYISI": 57115488.0,
+      "KISISAYISI": 4513.0,
+      "PORTFOYBUYUKLUK": 76119940.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728864000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.328432,
+      "TEDPAYSAYISI": 56966761.0,
+      "KISISAYISI": 4502.0,
+      "PORTFOYBUYUKLUK": 75676469.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728950400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.335602,
+      "TEDPAYSAYISI": 56853124.0,
+      "KISISAYISI": 4488.0,
+      "PORTFOYBUYUKLUK": 75933156.07,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729036800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.347708,
+      "TEDPAYSAYISI": 56378452.0,
+      "KISISAYISI": 4453.0,
+      "PORTFOYBUYUKLUK": 75981672.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729123200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.352541,
+      "TEDPAYSAYISI": 55962950.0,
+      "KISISAYISI": 4408.0,
+      "PORTFOYBUYUKLUK": 75692160.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729209600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.365241,
+      "TEDPAYSAYISI": 55549725.0,
+      "KISISAYISI": 4398.0,
+      "PORTFOYBUYUKLUK": 75838783.37,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729468800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.346216,
+      "TEDPAYSAYISI": 55546680.0,
+      "KISISAYISI": 4387.0,
+      "PORTFOYBUYUKLUK": 74777849.85,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729555200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.336045,
+      "TEDPAYSAYISI": 55902619.0,
+      "KISISAYISI": 4377.0,
+      "PORTFOYBUYUKLUK": 74688430.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729641600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.356633,
+      "TEDPAYSAYISI": 55775744.0,
+      "KISISAYISI": 4360.0,
+      "PORTFOYBUYUKLUK": 75667190.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729728000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.342981,
+      "TEDPAYSAYISI": 55864838.0,
+      "KISISAYISI": 4346.0,
+      "PORTFOYBUYUKLUK": 75025420.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1729814400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.355045,
+      "TEDPAYSAYISI": 55706440.0,
+      "KISISAYISI": 4328.0,
+      "PORTFOYBUYUKLUK": 75484756.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730073600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.354974,
+      "TEDPAYSAYISI": 55594476.0,
+      "KISISAYISI": 4328.0,
+      "PORTFOYBUYUKLUK": 75329079.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730246400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.358291,
+      "TEDPAYSAYISI": 55532761.0,
+      "KISISAYISI": 4309.0,
+      "PORTFOYBUYUKLUK": 75429657.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730332800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.360747,
+      "TEDPAYSAYISI": 55495664.0,
+      "KISISAYISI": 4304.0,
+      "PORTFOYBUYUKLUK": 75515560.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730419200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.350484,
+      "TEDPAYSAYISI": 55124030.0,
+      "KISISAYISI": 4291.0,
+      "PORTFOYBUYUKLUK": 74444143.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730678400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.35653,
+      "TEDPAYSAYISI": 55058090.0,
+      "KISISAYISI": 4290.0,
+      "PORTFOYBUYUKLUK": 74687929.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730764800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.346967,
+      "TEDPAYSAYISI": 55005034.0,
+      "KISISAYISI": 4289.0,
+      "PORTFOYBUYUKLUK": 74089973.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730851200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.341966,
+      "TEDPAYSAYISI": 54988984.0,
+      "KISISAYISI": 4276.0,
+      "PORTFOYBUYUKLUK": 73793346.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730937600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.365151,
+      "TEDPAYSAYISI": 54748551.0,
+      "KISISAYISI": 4264.0,
+      "PORTFOYBUYUKLUK": 74740057.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731024000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.372494,
+      "TEDPAYSAYISI": 54662655.0,
+      "KISISAYISI": 4258.0,
+      "PORTFOYBUYUKLUK": 75024155.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731283200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.39317,
+      "TEDPAYSAYISI": 54627013.0,
+      "KISISAYISI": 4253.0,
+      "PORTFOYBUYUKLUK": 76104729.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731369600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.40482,
+      "TEDPAYSAYISI": 54990432.0,
+      "KISISAYISI": 4265.0,
+      "PORTFOYBUYUKLUK": 77251663.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731456000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.408397,
+      "TEDPAYSAYISI": 55619442.0,
+      "KISISAYISI": 4254.0,
+      "PORTFOYBUYUKLUK": 78334275.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731542400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.418857,
+      "TEDPAYSAYISI": 55683461.0,
+      "KISISAYISI": 4247.0,
+      "PORTFOYBUYUKLUK": 79006876.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731628800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.436343,
+      "TEDPAYSAYISI": 55580231.0,
+      "KISISAYISI": 4239.0,
+      "PORTFOYBUYUKLUK": 79832288.16,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731888000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.429986,
+      "TEDPAYSAYISI": 55717790.0,
+      "KISISAYISI": 4239.0,
+      "PORTFOYBUYUKLUK": 79675638.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731974400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.430492,
+      "TEDPAYSAYISI": 55966407.0,
+      "KISISAYISI": 4241.0,
+      "PORTFOYBUYUKLUK": 80059519.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732060800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.417265,
+      "TEDPAYSAYISI": 58343767.0,
+      "KISISAYISI": 4216.0,
+      "PORTFOYBUYUKLUK": 82688566.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732147200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.386125,
+      "TEDPAYSAYISI": 58341558.0,
+      "KISISAYISI": 4212.0,
+      "PORTFOYBUYUKLUK": 80868664.09,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732233600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.430235,
+      "TEDPAYSAYISI": 58341483.0,
+      "KISISAYISI": 4204.0,
+      "PORTFOYBUYUKLUK": 83442002.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732492800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.445382,
+      "TEDPAYSAYISI": 57551602.0,
+      "KISISAYISI": 4197.0,
+      "PORTFOYBUYUKLUK": 83184031.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732579200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.458931,
+      "TEDPAYSAYISI": 57575160.0,
+      "KISISAYISI": 4197.0,
+      "PORTFOYBUYUKLUK": 83998212.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732665600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.454574,
+      "TEDPAYSAYISI": 57450605.0,
+      "KISISAYISI": 4183.0,
+      "PORTFOYBUYUKLUK": 83566146.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732752000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.450473,
+      "TEDPAYSAYISI": 57286596.0,
+      "KISISAYISI": 4169.0,
+      "PORTFOYBUYUKLUK": 83092660.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732838400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.447606,
+      "TEDPAYSAYISI": 57311754.0,
+      "KISISAYISI": 4161.0,
+      "PORTFOYBUYUKLUK": 82964852.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733097600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.454492,
+      "TEDPAYSAYISI": 56202984.0,
+      "KISISAYISI": 4152.0,
+      "PORTFOYBUYUKLUK": 81746815.19,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733184000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456843,
+      "TEDPAYSAYISI": 55652867.0,
+      "KISISAYISI": 4147.0,
+      "PORTFOYBUYUKLUK": 81077517.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733270400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.478747,
+      "TEDPAYSAYISI": 55306637.0,
+      "KISISAYISI": 4127.0,
+      "PORTFOYBUYUKLUK": 81784504.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733356800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.490892,
+      "TEDPAYSAYISI": 55034244.0,
+      "KISISAYISI": 4112.0,
+      "PORTFOYBUYUKLUK": 82050109.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733443200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.499294,
+      "TEDPAYSAYISI": 55050275.0,
+      "KISISAYISI": 4107.0,
+      "PORTFOYBUYUKLUK": 82536523.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733702400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.515362,
+      "TEDPAYSAYISI": 55138524.0,
+      "KISISAYISI": 4100.0,
+      "PORTFOYBUYUKLUK": 83554836.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733788800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.536733,
+      "TEDPAYSAYISI": 54973678.0,
+      "KISISAYISI": 4091.0,
+      "PORTFOYBUYUKLUK": 84479869.56,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733875200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.517423,
+      "TEDPAYSAYISI": 54682554.0,
+      "KISISAYISI": 4075.0,
+      "PORTFOYBUYUKLUK": 82976545.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733961600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.521174,
+      "TEDPAYSAYISI": 55253979.0,
+      "KISISAYISI": 4061.0,
+      "PORTFOYBUYUKLUK": 84050908.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734048000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.521966,
+      "TEDPAYSAYISI": 54753089.0,
+      "KISISAYISI": 4057.0,
+      "PORTFOYBUYUKLUK": 83332324.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734307200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.537602,
+      "TEDPAYSAYISI": 54578095.0,
+      "KISISAYISI": 4051.0,
+      "PORTFOYBUYUKLUK": 83919403.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734393600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.523914,
+      "TEDPAYSAYISI": 54885614.0,
+      "KISISAYISI": 4054.0,
+      "PORTFOYBUYUKLUK": 83640957.77,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734480000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.526249,
+      "TEDPAYSAYISI": 54776089.0,
+      "KISISAYISI": 4031.0,
+      "PORTFOYBUYUKLUK": 83601945.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734566400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.526259,
+      "TEDPAYSAYISI": 51363555.0,
+      "KISISAYISI": 4024.0,
+      "PORTFOYBUYUKLUK": 78394097.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734652800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.50262,
+      "TEDPAYSAYISI": 50969844.0,
+      "KISISAYISI": 4015.0,
+      "PORTFOYBUYUKLUK": 76588318.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734912000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.496433,
+      "TEDPAYSAYISI": 51181507.0,
+      "KISISAYISI": 4005.0,
+      "PORTFOYBUYUKLUK": 76589676.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734998400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.485339,
+      "TEDPAYSAYISI": 51196281.0,
+      "KISISAYISI": 3999.0,
+      "PORTFOYBUYUKLUK": 76043853.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735084800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.493686,
+      "TEDPAYSAYISI": 51073572.0,
+      "KISISAYISI": 3983.0,
+      "PORTFOYBUYUKLUK": 76287884.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735171200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.515946,
+      "TEDPAYSAYISI": 50950836.0,
+      "KISISAYISI": 3972.0,
+      "PORTFOYBUYUKLUK": 77238733.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735257600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.515672,
+      "TEDPAYSAYISI": 54779009.0,
+      "KISISAYISI": 3958.0,
+      "PORTFOYBUYUKLUK": 83027031.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735516800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.52746,
+      "TEDPAYSAYISI": 54763459.0,
+      "KISISAYISI": 3956.0,
+      "PORTFOYBUYUKLUK": 83648979.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735603200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.505606,
+      "TEDPAYSAYISI": 54759929.0,
+      "KISISAYISI": 3951.0,
+      "PORTFOYBUYUKLUK": 82446867.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735776000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.49804,
+      "TEDPAYSAYISI": 55516080.0,
+      "KISISAYISI": 3945.0,
+      "PORTFOYBUYUKLUK": 83165300.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1735862400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.506567,
+      "TEDPAYSAYISI": 55546005.0,
+      "KISISAYISI": 3951.0,
+      "PORTFOYBUYUKLUK": 83683776.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736121600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.512934,
+      "TEDPAYSAYISI": 55182517.0,
+      "KISISAYISI": 3945.0,
+      "PORTFOYBUYUKLUK": 83487509.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736208000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.512285,
+      "TEDPAYSAYISI": 55066720.0,
+      "KISISAYISI": 3953.0,
+      "PORTFOYBUYUKLUK": 83276557.56,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736294400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.503667,
+      "TEDPAYSAYISI": 51799969.0,
+      "KISISAYISI": 3932.0,
+      "PORTFOYBUYUKLUK": 77889922.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736380800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.494914,
+      "TEDPAYSAYISI": 51565174.0,
+      "KISISAYISI": 3917.0,
+      "PORTFOYBUYUKLUK": 77085513.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736467200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.508189,
+      "TEDPAYSAYISI": 51504938.0,
+      "KISISAYISI": 3904.0,
+      "PORTFOYBUYUKLUK": 77679179.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736726400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.499374,
+      "TEDPAYSAYISI": 51316322.0,
+      "KISISAYISI": 3892.0,
+      "PORTFOYBUYUKLUK": 76942358.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736812800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.48028,
+      "TEDPAYSAYISI": 51153560.0,
+      "KISISAYISI": 3884.0,
+      "PORTFOYBUYUKLUK": 75721608.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736899200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.47137,
+      "TEDPAYSAYISI": 50882554.0,
+      "KISISAYISI": 3862.0,
+      "PORTFOYBUYUKLUK": 74867074.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1736985600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.473834,
+      "TEDPAYSAYISI": 50907391.0,
+      "KISISAYISI": 3843.0,
+      "PORTFOYBUYUKLUK": 75029022.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737072000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487331,
+      "TEDPAYSAYISI": 50877614.0,
+      "KISISAYISI": 3846.0,
+      "PORTFOYBUYUKLUK": 75671841.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737331200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.501795,
+      "TEDPAYSAYISI": 50606340.0,
+      "KISISAYISI": 3840.0,
+      "PORTFOYBUYUKLUK": 76000352.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737417600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.506314,
+      "TEDPAYSAYISI": 50475306.0,
+      "KISISAYISI": 3832.0,
+      "PORTFOYBUYUKLUK": 76031638.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737504000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.49777,
+      "TEDPAYSAYISI": 50281199.0,
+      "KISISAYISI": 3806.0,
+      "PORTFOYBUYUKLUK": 75309685.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737590400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.513298,
+      "TEDPAYSAYISI": 56369520.0,
+      "KISISAYISI": 3789.0,
+      "PORTFOYBUYUKLUK": 85303904.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737676800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.51762,
+      "TEDPAYSAYISI": 60878299.0,
+      "KISISAYISI": 3775.0,
+      "PORTFOYBUYUKLUK": 92390113.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737936000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.52238,
+      "TEDPAYSAYISI": 60097232.0,
+      "KISISAYISI": 3765.0,
+      "PORTFOYBUYUKLUK": 91490833.46,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738022400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.505515,
+      "TEDPAYSAYISI": 60316298.0,
+      "KISISAYISI": 3759.0,
+      "PORTFOYBUYUKLUK": 90807110.79,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738108800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.519192,
+      "TEDPAYSAYISI": 60083139.0,
+      "KISISAYISI": 3741.0,
+      "PORTFOYBUYUKLUK": 91277824.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738195200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.512557,
+      "TEDPAYSAYISI": 59638100.0,
+      "KISISAYISI": 3741.0,
+      "PORTFOYBUYUKLUK": 90206027.57,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738281600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.508524,
+      "TEDPAYSAYISI": 59467620.0,
+      "KISISAYISI": 3729.0,
+      "PORTFOYBUYUKLUK": 89708328.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738540800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.502818,
+      "TEDPAYSAYISI": 59337170.0,
+      "KISISAYISI": 3714.0,
+      "PORTFOYBUYUKLUK": 89172953.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738627200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.472056,
+      "TEDPAYSAYISI": 59324672.0,
+      "KISISAYISI": 3705.0,
+      "PORTFOYBUYUKLUK": 87329224.79,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738713600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.477073,
+      "TEDPAYSAYISI": 59482359.0,
+      "KISISAYISI": 3700.0,
+      "PORTFOYBUYUKLUK": 87859760.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738800000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.463385,
+      "TEDPAYSAYISI": 59221775.0,
+      "KISISAYISI": 3680.0,
+      "PORTFOYBUYUKLUK": 86664249.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738886400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.482241,
+      "TEDPAYSAYISI": 58432789.0,
+      "KISISAYISI": 3664.0,
+      "PORTFOYBUYUKLUK": 86611475.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739145600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.49891,
+      "TEDPAYSAYISI": 58388419.0,
+      "KISISAYISI": 3650.0,
+      "PORTFOYBUYUKLUK": 87518995.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739232000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.488802,
+      "TEDPAYSAYISI": 58312150.0,
+      "KISISAYISI": 3645.0,
+      "PORTFOYBUYUKLUK": 86815271.75,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739318400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.493111,
+      "TEDPAYSAYISI": 57486892.0,
+      "KISISAYISI": 3639.0,
+      "PORTFOYBUYUKLUK": 85834299.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739404800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.480685,
+      "TEDPAYSAYISI": 57202618.0,
+      "KISISAYISI": 3626.0,
+      "PORTFOYBUYUKLUK": 84699043.75,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739491200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.493005,
+      "TEDPAYSAYISI": 56982935.0,
+      "KISISAYISI": 3616.0,
+      "PORTFOYBUYUKLUK": 85075789.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739750400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.488395,
+      "TEDPAYSAYISI": 56743273.0,
+      "KISISAYISI": 3602.0,
+      "PORTFOYBUYUKLUK": 84456411.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739836800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.486556,
+      "TEDPAYSAYISI": 56657639.0,
+      "KISISAYISI": 3578.0,
+      "PORTFOYBUYUKLUK": 84224761.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739923200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.508923,
+      "TEDPAYSAYISI": 56410563.0,
+      "KISISAYISI": 3576.0,
+      "PORTFOYBUYUKLUK": 85119221.77,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740009600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.480189,
+      "TEDPAYSAYISI": 55000980.0,
+      "KISISAYISI": 3556.0,
+      "PORTFOYBUYUKLUK": 81411828.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740096000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.483609,
+      "TEDPAYSAYISI": 54778188.0,
+      "KISISAYISI": 3543.0,
+      "PORTFOYBUYUKLUK": 81269389.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740355200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456603,
+      "TEDPAYSAYISI": 54698718.0,
+      "KISISAYISI": 3529.0,
+      "PORTFOYBUYUKLUK": 79674336.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740441600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.457126,
+      "TEDPAYSAYISI": 54389956.0,
+      "KISISAYISI": 3518.0,
+      "PORTFOYBUYUKLUK": 79253010.77,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740528000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.440463,
+      "TEDPAYSAYISI": 54323939.0,
+      "KISISAYISI": 3508.0,
+      "PORTFOYBUYUKLUK": 78251649.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740614400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.452701,
+      "TEDPAYSAYISI": 54111948.0,
+      "KISISAYISI": 3487.0,
+      "PORTFOYBUYUKLUK": 78608487.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740700800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.471297,
+      "TEDPAYSAYISI": 54031525.0,
+      "KISISAYISI": 3467.0,
+      "PORTFOYBUYUKLUK": 79496421.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740960000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.465996,
+      "TEDPAYSAYISI": 54013562.0,
+      "KISISAYISI": 3456.0,
+      "PORTFOYBUYUKLUK": 79183691.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741046400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.491288,
+      "TEDPAYSAYISI": 54007785.0,
+      "KISISAYISI": 3447.0,
+      "PORTFOYBUYUKLUK": 80541151.57,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741132800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.496656,
+      "TEDPAYSAYISI": 54167815.0,
+      "KISISAYISI": 3447.0,
+      "PORTFOYBUYUKLUK": 81070591.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741219200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.537699,
+      "TEDPAYSAYISI": 54103381.0,
+      "KISISAYISI": 3436.0,
+      "PORTFOYBUYUKLUK": 83194697.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741305600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.56715,
+      "TEDPAYSAYISI": 54055704.0,
+      "KISISAYISI": 3430.0,
+      "PORTFOYBUYUKLUK": 84713379.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741564800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.568508,
+      "TEDPAYSAYISI": 53840316.0,
+      "KISISAYISI": 3424.0,
+      "PORTFOYBUYUKLUK": 84448990.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741651200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.555832,
+      "TEDPAYSAYISI": 54720685.0,
+      "KISISAYISI": 3413.0,
+      "PORTFOYBUYUKLUK": 85136174.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741737600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.566045,
+      "TEDPAYSAYISI": 54701511.0,
+      "KISISAYISI": 3405.0,
+      "PORTFOYBUYUKLUK": 85665002.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741824000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.589629,
+      "TEDPAYSAYISI": 54678494.0,
+      "KISISAYISI": 3390.0,
+      "PORTFOYBUYUKLUK": 86918509.82,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741910400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.612175,
+      "TEDPAYSAYISI": 54633304.0,
+      "KISISAYISI": 3386.0,
+      "PORTFOYBUYUKLUK": 88078420.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742169600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.634521,
+      "TEDPAYSAYISI": 54571989.0,
+      "KISISAYISI": 3377.0,
+      "PORTFOYBUYUKLUK": 89199078.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742256000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.643414,
+      "TEDPAYSAYISI": 54638114.0,
+      "KISISAYISI": 3373.0,
+      "PORTFOYBUYUKLUK": 89793047.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742342400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.653725,
+      "TEDPAYSAYISI": 54902034.0,
+      "KISISAYISI": 3376.0,
+      "PORTFOYBUYUKLUK": 90792861.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742428800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.527589,
+      "TEDPAYSAYISI": 55379196.0,
+      "KISISAYISI": 3365.0,
+      "PORTFOYBUYUKLUK": 84596656.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742515200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.518813,
+      "TEDPAYSAYISI": 54892523.0,
+      "KISISAYISI": 3351.0,
+      "PORTFOYBUYUKLUK": 83371478.85,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742774400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.393993,
+      "TEDPAYSAYISI": 57133315.0,
+      "KISISAYISI": 3333.0,
+      "PORTFOYBUYUKLUK": 79643445.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742860800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.433343,
+      "TEDPAYSAYISI": 57068746.0,
+      "KISISAYISI": 3317.0,
+      "PORTFOYBUYUKLUK": 81799089.32,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742947200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487128,
+      "TEDPAYSAYISI": 56960791.0,
+      "KISISAYISI": 3300.0,
+      "PORTFOYBUYUKLUK": 84708005.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743033600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.474253,
+      "TEDPAYSAYISI": 56587410.0,
+      "KISISAYISI": 3273.0,
+      "PORTFOYBUYUKLUK": 83424178.89,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743120000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.476086,
+      "TEDPAYSAYISI": 56393417.0,
+      "KISISAYISI": 3255.0,
+      "PORTFOYBUYUKLUK": 83241534.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743552000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.482091,
+      "TEDPAYSAYISI": 55828195.0,
+      "KISISAYISI": 3240.0,
+      "PORTFOYBUYUKLUK": 82742443.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743638400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.467226,
+      "TEDPAYSAYISI": 55931698.0,
+      "KISISAYISI": 3235.0,
+      "PORTFOYBUYUKLUK": 82064417.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743724800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.464892,
+      "TEDPAYSAYISI": 55706510.0,
+      "KISISAYISI": 3228.0,
+      "PORTFOYBUYUKLUK": 81604027.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743984000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.449185,
+      "TEDPAYSAYISI": 56393535.0,
+      "KISISAYISI": 3215.0,
+      "PORTFOYBUYUKLUK": 81724687.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744070400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.461644,
+      "TEDPAYSAYISI": 56334460.0,
+      "KISISAYISI": 3214.0,
+      "PORTFOYBUYUKLUK": 82340946.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744156800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.48353,
+      "TEDPAYSAYISI": 56135923.0,
+      "KISISAYISI": 3205.0,
+      "PORTFOYBUYUKLUK": 83279322.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744243200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.462316,
+      "TEDPAYSAYISI": 56251067.0,
+      "KISISAYISI": 3198.0,
+      "PORTFOYBUYUKLUK": 82256859.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744329600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.475295,
+      "TEDPAYSAYISI": 56056907.0,
+      "KISISAYISI": 3188.0,
+      "PORTFOYBUYUKLUK": 82700467.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744588800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.478753,
+      "TEDPAYSAYISI": 55955263.0,
+      "KISISAYISI": 3179.0,
+      "PORTFOYBUYUKLUK": 82743988.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744675200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.485711,
+      "TEDPAYSAYISI": 52860091.0,
+      "KISISAYISI": 3170.0,
+      "PORTFOYBUYUKLUK": 78534811.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744761600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.481676,
+      "TEDPAYSAYISI": 52728284.0,
+      "KISISAYISI": 3166.0,
+      "PORTFOYBUYUKLUK": 78126251.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744848000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.465284,
+      "TEDPAYSAYISI": 52865202.0,
+      "KISISAYISI": 3151.0,
+      "PORTFOYBUYUKLUK": 77462548.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744934400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.486522,
+      "TEDPAYSAYISI": 52655252.0,
+      "KISISAYISI": 3135.0,
+      "PORTFOYBUYUKLUK": 78273198.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745193600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.478228,
+      "TEDPAYSAYISI": 52551269.0,
+      "KISISAYISI": 3127.0,
+      "PORTFOYBUYUKLUK": 77682769.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745280000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.472345,
+      "TEDPAYSAYISI": 52369126.0,
+      "KISISAYISI": 3120.0,
+      "PORTFOYBUYUKLUK": 77105436.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745452800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.474843,
+      "TEDPAYSAYISI": 52155349.0,
+      "KISISAYISI": 3107.0,
+      "PORTFOYBUYUKLUK": 76920931.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745539200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.497083,
+      "TEDPAYSAYISI": 51835211.0,
+      "KISISAYISI": 3076.0,
+      "PORTFOYBUYUKLUK": 77601629.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745798400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.492832,
+      "TEDPAYSAYISI": 51518109.0,
+      "KISISAYISI": 3051.0,
+      "PORTFOYBUYUKLUK": 76907901.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745884800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.479911,
+      "TEDPAYSAYISI": 56384901.0,
+      "KISISAYISI": 3028.0,
+      "PORTFOYBUYUKLUK": 83444628.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745971200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.467435,
+      "TEDPAYSAYISI": 55851009.0,
+      "KISISAYISI": 3016.0,
+      "PORTFOYBUYUKLUK": 81957748.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746144000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.451186,
+      "TEDPAYSAYISI": 57752063.0,
+      "KISISAYISI": 2995.0,
+      "PORTFOYBUYUKLUK": 83809002.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746403200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.465125,
+      "TEDPAYSAYISI": 57692895.0,
+      "KISISAYISI": 2982.0,
+      "PORTFOYBUYUKLUK": 84527295.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746489600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.479679,
+      "TEDPAYSAYISI": 57653608.0,
+      "KISISAYISI": 2973.0,
+      "PORTFOYBUYUKLUK": 85308843.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746576000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.488292,
+      "TEDPAYSAYISI": 57604116.0,
+      "KISISAYISI": 2963.0,
+      "PORTFOYBUYUKLUK": 85731755.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746662400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.469818,
+      "TEDPAYSAYISI": 55509369.0,
+      "KISISAYISI": 2947.0,
+      "PORTFOYBUYUKLUK": 81588657.29,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746748800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487,
+      "TEDPAYSAYISI": 55549497.0,
+      "KISISAYISI": 2935.0,
+      "PORTFOYBUYUKLUK": 82602124.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747008000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.503803,
+      "TEDPAYSAYISI": 54693578.0,
+      "KISISAYISI": 2922.0,
+      "PORTFOYBUYUKLUK": 82248347.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747094400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.5483,
+      "TEDPAYSAYISI": 54566334.0,
+      "KISISAYISI": 2911.0,
+      "PORTFOYBUYUKLUK": 84485070.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747180800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.541452,
+      "TEDPAYSAYISI": 54547812.0,
+      "KISISAYISI": 2902.0,
+      "PORTFOYBUYUKLUK": 84082858.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747267200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.534616,
+      "TEDPAYSAYISI": 54646737.0,
+      "KISISAYISI": 2893.0,
+      "PORTFOYBUYUKLUK": 83861745.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747353600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.510538,
+      "TEDPAYSAYISI": 54323590.0,
+      "KISISAYISI": 2885.0,
+      "PORTFOYBUYUKLUK": 82057843.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747699200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.527247,
+      "TEDPAYSAYISI": 54198371.0,
+      "KISISAYISI": 2873.0,
+      "PORTFOYBUYUKLUK": 82774294.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747785600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.515171,
+      "TEDPAYSAYISI": 54151102.0,
+      "KISISAYISI": 2864.0,
+      "PORTFOYBUYUKLUK": 82048198.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747872000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.504339,
+      "TEDPAYSAYISI": 53685599.0,
+      "KISISAYISI": 2855.0,
+      "PORTFOYBUYUKLUK": 80761348.57,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747958400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.514088,
+      "TEDPAYSAYISI": 53846701.0,
+      "KISISAYISI": 2840.0,
+      "PORTFOYBUYUKLUK": 81528644.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748217600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.499885,
+      "TEDPAYSAYISI": 53800182.0,
+      "KISISAYISI": 2837.0,
+      "PORTFOYBUYUKLUK": 80694111.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748304000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.497118,
+      "TEDPAYSAYISI": 53347634.0,
+      "KISISAYISI": 2834.0,
+      "PORTFOYBUYUKLUK": 79867708.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748390400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.477646,
+      "TEDPAYSAYISI": 53228253.0,
+      "KISISAYISI": 2822.0,
+      "PORTFOYBUYUKLUK": 78652509.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748476800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.468877,
+      "TEDPAYSAYISI": 52956696.0,
+      "KISISAYISI": 2807.0,
+      "PORTFOYBUYUKLUK": 77786870.07,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748563200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.464186,
+      "TEDPAYSAYISI": 52955390.0,
+      "KISISAYISI": 2792.0,
+      "PORTFOYBUYUKLUK": 77536563.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748822400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.451212,
+      "TEDPAYSAYISI": 53062621.0,
+      "KISISAYISI": 2786.0,
+      "PORTFOYBUYUKLUK": 77005121.51,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748908800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444614,
+      "TEDPAYSAYISI": 52446216.0,
+      "KISISAYISI": 2774.0,
+      "PORTFOYBUYUKLUK": 75764520.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1748995200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.485554,
+      "TEDPAYSAYISI": 52374818.0,
+      "KISISAYISI": 2766.0,
+      "PORTFOYBUYUKLUK": 77805601.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1749081600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.516922,
+      "TEDPAYSAYISI": 52353861.0,
+      "KISISAYISI": 2755.0,
+      "PORTFOYBUYUKLUK": 79416742.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1749513600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.512172,
+      "TEDPAYSAYISI": 52237918.0,
+      "KISISAYISI": 2755.0,
+      "PORTFOYBUYUKLUK": 78992739.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1749600000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.542451,
+      "TEDPAYSAYISI": 52325312.0,
+      "KISISAYISI": 2744.0,
+      "PORTFOYBUYUKLUK": 80709238.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1749686400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.552201,
+      "TEDPAYSAYISI": 52244138.0,
+      "KISISAYISI": 2748.0,
+      "PORTFOYBUYUKLUK": 81093406.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1749772800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.52929,
+      "TEDPAYSAYISI": 52089729.0,
+      "KISISAYISI": 2740.0,
+      "PORTFOYBUYUKLUK": 79660326.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750032000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.492861,
+      "TEDPAYSAYISI": 52084876.0,
+      "KISISAYISI": 2733.0,
+      "PORTFOYBUYUKLUK": 77755473.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750118400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.514533,
+      "TEDPAYSAYISI": 52022036.0,
+      "KISISAYISI": 2730.0,
+      "PORTFOYBUYUKLUK": 78789080.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750204800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.513369,
+      "TEDPAYSAYISI": 51892546.0,
+      "KISISAYISI": 2723.0,
+      "PORTFOYBUYUKLUK": 78532576.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750291200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.495816,
+      "TEDPAYSAYISI": 51854404.0,
+      "KISISAYISI": 2718.0,
+      "PORTFOYBUYUKLUK": 77564623.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750377600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.468581,
+      "TEDPAYSAYISI": 51797596.0,
+      "KISISAYISI": 2712.0,
+      "PORTFOYBUYUKLUK": 76068976.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750636800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.488452,
+      "TEDPAYSAYISI": 51789772.0,
+      "KISISAYISI": 2709.0,
+      "PORTFOYBUYUKLUK": 77086603.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750723200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.478396,
+      "TEDPAYSAYISI": 51652023.0,
+      "KISISAYISI": 2707.0,
+      "PORTFOYBUYUKLUK": 76362162.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750809600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.536275,
+      "TEDPAYSAYISI": 51397464.0,
+      "KISISAYISI": 2705.0,
+      "PORTFOYBUYUKLUK": 78960662.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750896000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.536953,
+      "TEDPAYSAYISI": 51368871.0,
+      "KISISAYISI": 2690.0,
+      "PORTFOYBUYUKLUK": 78951530.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1750982400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.533214,
+      "TEDPAYSAYISI": 51227362.0,
+      "KISISAYISI": 2681.0,
+      "PORTFOYBUYUKLUK": 78542498.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751241600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.536931,
+      "TEDPAYSAYISI": 51056657.0,
+      "KISISAYISI": 2670.0,
+      "PORTFOYBUYUKLUK": 78470543.53,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751328000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.603182,
+      "TEDPAYSAYISI": 51010657.0,
+      "KISISAYISI": 2663.0,
+      "PORTFOYBUYUKLUK": 81779348.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751414400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.634907,
+      "TEDPAYSAYISI": 33283395.0,
+      "KISISAYISI": 2659.0,
+      "PORTFOYBUYUKLUK": 54415270.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751500800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.655541,
+      "TEDPAYSAYISI": 32772489.0,
+      "KISISAYISI": 2658.0,
+      "PORTFOYBUYUKLUK": 54256193.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751587200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.660403,
+      "TEDPAYSAYISI": 32892971.0,
+      "KISISAYISI": 2646.0,
+      "PORTFOYBUYUKLUK": 54615597.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751846400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.67023,
+      "TEDPAYSAYISI": 32872644.0,
+      "KISISAYISI": 2645.0,
+      "PORTFOYBUYUKLUK": 54904886.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1751932800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.641268,
+      "TEDPAYSAYISI": 41786240.0,
+      "KISISAYISI": 2641.0,
+      "PORTFOYBUYUKLUK": 68582434.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752019200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.638446,
+      "TEDPAYSAYISI": 41695143.0,
+      "KISISAYISI": 2637.0,
+      "PORTFOYBUYUKLUK": 68315251.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752105600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.658334,
+      "TEDPAYSAYISI": 41742376.0,
+      "KISISAYISI": 2629.0,
+      "PORTFOYBUYUKLUK": 69222793.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752192000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.672434,
+      "TEDPAYSAYISI": 41698799.0,
+      "KISISAYISI": 2627.0,
+      "PORTFOYBUYUKLUK": 69738506.82,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752451200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.674218,
+      "TEDPAYSAYISI": 41669665.0,
+      "KISISAYISI": 2622.0,
+      "PORTFOYBUYUKLUK": 69764086.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752624000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.654807,
+      "TEDPAYSAYISI": 41705385.0,
+      "KISISAYISI": 2624.0,
+      "PORTFOYBUYUKLUK": 69014353.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752710400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.638303,
+      "TEDPAYSAYISI": 41690981.0,
+      "KISISAYISI": 2618.0,
+      "PORTFOYBUYUKLUK": 68302444.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1752796800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.683223,
+      "TEDPAYSAYISI": 41586372.0,
+      "KISISAYISI": 2610.0,
+      "PORTFOYBUYUKLUK": 69999144.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753056000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.685275,
+      "TEDPAYSAYISI": 41576024.0,
+      "KISISAYISI": 2601.0,
+      "PORTFOYBUYUKLUK": 70067026.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753142400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.723723,
+      "TEDPAYSAYISI": 42144072.0,
+      "KISISAYISI": 2597.0,
+      "PORTFOYBUYUKLUK": 72644725.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753228800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.713132,
+      "TEDPAYSAYISI": 42180213.0,
+      "KISISAYISI": 2600.0,
+      "PORTFOYBUYUKLUK": 72260253.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753315200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.706985,
+      "TEDPAYSAYISI": 42139123.0,
+      "KISISAYISI": 2599.0,
+      "PORTFOYBUYUKLUK": 71930836.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753401600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.714411,
+      "TEDPAYSAYISI": 41998487.0,
+      "KISISAYISI": 2595.0,
+      "PORTFOYBUYUKLUK": 72002684.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753660800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.706691,
+      "TEDPAYSAYISI": 40091315.0,
+      "KISISAYISI": 2591.0,
+      "PORTFOYBUYUKLUK": 68423477.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753747200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.705042,
+      "TEDPAYSAYISI": 40102874.0,
+      "KISISAYISI": 2588.0,
+      "PORTFOYBUYUKLUK": 68377078.46,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753833600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.706642,
+      "TEDPAYSAYISI": 40571032.0,
+      "KISISAYISI": 2585.0,
+      "PORTFOYBUYUKLUK": 69240233.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753920000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.72541,
+      "TEDPAYSAYISI": 31598420.0,
+      "KISISAYISI": 2577.0,
+      "PORTFOYBUYUKLUK": 54520241.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754006400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.750836,
+      "TEDPAYSAYISI": 31530101.0,
+      "KISISAYISI": 2575.0,
+      "PORTFOYBUYUKLUK": 55204028.19,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754265600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.775155,
+      "TEDPAYSAYISI": 32055366.0,
+      "KISISAYISI": 2576.0,
+      "PORTFOYBUYUKLUK": 56903240.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754352000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.791962,
+      "TEDPAYSAYISI": 32100402.0,
+      "KISISAYISI": 2577.0,
+      "PORTFOYBUYUKLUK": 57522690.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754438400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.785926,
+      "TEDPAYSAYISI": 32563112.0,
+      "KISISAYISI": 2597.0,
+      "PORTFOYBUYUKLUK": 58155307.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754524800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.788365,
+      "TEDPAYSAYISI": 32598807.0,
+      "KISISAYISI": 2603.0,
+      "PORTFOYBUYUKLUK": 58298561.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754611200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.800762,
+      "TEDPAYSAYISI": 33034710.0,
+      "KISISAYISI": 2615.0,
+      "PORTFOYBUYUKLUK": 59487648.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754870400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.803468,
+      "TEDPAYSAYISI": 33725846.0,
+      "KISISAYISI": 2614.0,
+      "PORTFOYBUYUKLUK": 60823470.09,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754956800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.91303,
+      "TEDPAYSAYISI": 35305917.0,
+      "KISISAYISI": 2630.0,
+      "PORTFOYBUYUKLUK": 67541276.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755043200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.884086,
+      "TEDPAYSAYISI": 35334584.0,
+      "KISISAYISI": 2637.0,
+      "PORTFOYBUYUKLUK": 66573382.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755129600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.911985,
+      "TEDPAYSAYISI": 35870367.0,
+      "KISISAYISI": 2719.0,
+      "PORTFOYBUYUKLUK": 68583587.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755216000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.920612,
+      "TEDPAYSAYISI": 37009235.0,
+      "KISISAYISI": 2787.0,
+      "PORTFOYBUYUKLUK": 71080398.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755475200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.943475,
+      "TEDPAYSAYISI": 40173607.0,
+      "KISISAYISI": 2849.0,
+      "PORTFOYBUYUKLUK": 78076383.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755561600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.968742,
+      "TEDPAYSAYISI": 42822865.0,
+      "KISISAYISI": 2945.0,
+      "PORTFOYBUYUKLUK": 84307157.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755648000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.966842,
+      "TEDPAYSAYISI": 51657365.0,
+      "KISISAYISI": 3188.0,
+      "PORTFOYBUYUKLUK": 101601892.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755734400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.988901,
+      "TEDPAYSAYISI": 62828721.0,
+      "KISISAYISI": 3609.0,
+      "PORTFOYBUYUKLUK": 124960110.16,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755820800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.00961,
+      "TEDPAYSAYISI": 73899166.0,
+      "KISISAYISI": 4221.0,
+      "PORTFOYBUYUKLUK": 148508517.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756080000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.01175,
+      "TEDPAYSAYISI": 96964893.0,
+      "KISISAYISI": 4726.0,
+      "PORTFOYBUYUKLUK": 195069119.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756166400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.065911,
+      "TEDPAYSAYISI": 110219259.0,
+      "KISISAYISI": 5299.0,
+      "PORTFOYBUYUKLUK": 227703221.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756252800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.062417,
+      "TEDPAYSAYISI": 130512830.0,
+      "KISISAYISI": 6277.0,
+      "PORTFOYBUYUKLUK": 269171886.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756339200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.045395,
+      "TEDPAYSAYISI": 163603884.0,
+      "KISISAYISI": 7282.0,
+      "PORTFOYBUYUKLUK": 334634637.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756425600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.044351,
+      "TEDPAYSAYISI": 182484528.0,
+      "KISISAYISI": 7874.0,
+      "PORTFOYBUYUKLUK": 373062364.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756684800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.023028,
+      "TEDPAYSAYISI": 201492814.0,
+      "KISISAYISI": 8259.0,
+      "PORTFOYBUYUKLUK": 407625656.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756771200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.018634,
+      "TEDPAYSAYISI": 214793484.0,
+      "KISISAYISI": 8528.0,
+      "PORTFOYBUYUKLUK": 433589371.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756857600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.960291,
+      "TEDPAYSAYISI": 213614966.0,
+      "KISISAYISI": 8840.0,
+      "PORTFOYBUYUKLUK": 418747433.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756944000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.94932,
+      "TEDPAYSAYISI": 214726571.0,
+      "KISISAYISI": 8960.0,
+      "PORTFOYBUYUKLUK": 418570735.75,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757030400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.969145,
+      "TEDPAYSAYISI": 201738405.0,
+      "KISISAYISI": 9010.0,
+      "PORTFOYBUYUKLUK": 397252216.07,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757289600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.948235,
+      "TEDPAYSAYISI": 200511697.0,
+      "KISISAYISI": 8767.0,
+      "PORTFOYBUYUKLUK": 390643846.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757376000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.897941,
+      "TEDPAYSAYISI": 199853023.0,
+      "KISISAYISI": 8764.0,
+      "PORTFOYBUYUKLUK": 379309157.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757462400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.91611,
+      "TEDPAYSAYISI": 189433084.0,
+      "KISISAYISI": 8783.0,
+      "PORTFOYBUYUKLUK": 362974536.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757548800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.923923,
+      "TEDPAYSAYISI": 184365460.0,
+      "KISISAYISI": 8595.0,
+      "PORTFOYBUYUKLUK": 354704871.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757635200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.901023,
+      "TEDPAYSAYISI": 177252838.0,
+      "KISISAYISI": 8502.0,
+      "PORTFOYBUYUKLUK": 336961675.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757894400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.900816,
+      "TEDPAYSAYISI": 176273932.0,
+      "KISISAYISI": 8457.0,
+      "PORTFOYBUYUKLUK": 335064269.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1757980800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.996624,
+      "TEDPAYSAYISI": 174146455.0,
+      "KISISAYISI": 8450.0,
+      "PORTFOYBUYUKLUK": 347705044.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758067200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.027845,
+      "TEDPAYSAYISI": 179911429.0,
+      "KISISAYISI": 8470.0,
+      "PORTFOYBUYUKLUK": 364832526.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758153600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.035004,
+      "TEDPAYSAYISI": 179356157.0,
+      "KISISAYISI": 8481.0,
+      "PORTFOYBUYUKLUK": 364990527.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758240000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.041365,
+      "TEDPAYSAYISI": 180138247.0,
+      "KISISAYISI": 8484.0,
+      "PORTFOYBUYUKLUK": 367727901.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758499200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.079913,
+      "TEDPAYSAYISI": 179983455.0,
+      "KISISAYISI": 8464.0,
+      "PORTFOYBUYUKLUK": 374349874.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758585600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.12363,
+      "TEDPAYSAYISI": 179488909.0,
+      "KISISAYISI": 8469.0,
+      "PORTFOYBUYUKLUK": 381168107.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758672000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.111436,
+      "TEDPAYSAYISI": 182386570.0,
+      "KISISAYISI": 8560.0,
+      "PORTFOYBUYUKLUK": 385097610.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758758400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.103571,
+      "TEDPAYSAYISI": 182724217.0,
+      "KISISAYISI": 8635.0,
+      "PORTFOYBUYUKLUK": 384373281.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758844800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.110328,
+      "TEDPAYSAYISI": 184171806.0,
+      "KISISAYISI": 8685.0,
+      "PORTFOYBUYUKLUK": 388662854.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759104000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.074611,
+      "TEDPAYSAYISI": 185432051.0,
+      "KISISAYISI": 8732.0,
+      "PORTFOYBUYUKLUK": 384699462.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759190400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.060669,
+      "TEDPAYSAYISI": 184828661.0,
+      "KISISAYISI": 8763.0,
+      "PORTFOYBUYUKLUK": 380870700.15,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759276800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.067498,
+      "TEDPAYSAYISI": 179022874.0,
+      "KISISAYISI": 8770.0,
+      "PORTFOYBUYUKLUK": 370129486.92,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759363200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.091428,
+      "TEDPAYSAYISI": 176556634.0,
+      "KISISAYISI": 8718.0,
+      "PORTFOYBUYUKLUK": 369255560.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759449600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.079823,
+      "TEDPAYSAYISI": 173703287.0,
+      "KISISAYISI": 8688.0,
+      "PORTFOYBUYUKLUK": 361272018.39,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759708800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.055998,
+      "TEDPAYSAYISI": 174541676.0,
+      "KISISAYISI": 8676.0,
+      "PORTFOYBUYUKLUK": 358857274.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759795200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.05805,
+      "TEDPAYSAYISI": 174593256.0,
+      "KISISAYISI": 8678.0,
+      "PORTFOYBUYUKLUK": 359321697.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759881600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.073111,
+      "TEDPAYSAYISI": 172769918.0,
+      "KISISAYISI": 8712.0,
+      "PORTFOYBUYUKLUK": 358171158.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759968000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.0667,
+      "TEDPAYSAYISI": 172354342.0,
+      "KISISAYISI": 8702.0,
+      "PORTFOYBUYUKLUK": 356204678.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760054400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.074101,
+      "TEDPAYSAYISI": 173616534.0,
+      "KISISAYISI": 8705.0,
+      "PORTFOYBUYUKLUK": 360098225.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760313600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.082689,
+      "TEDPAYSAYISI": 172848852.0,
+      "KISISAYISI": 8721.0,
+      "PORTFOYBUYUKLUK": 359990332.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760400000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.060999,
+      "TEDPAYSAYISI": 172866458.0,
+      "KISISAYISI": 8704.0,
+      "PORTFOYBUYUKLUK": 356277513.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760486400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.045492,
+      "TEDPAYSAYISI": 172889306.0,
+      "KISISAYISI": 8761.0,
+      "PORTFOYBUYUKLUK": 353643653.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760572800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.100896,
+      "TEDPAYSAYISI": 173652204.0,
+      "KISISAYISI": 8796.0,
+      "PORTFOYBUYUKLUK": 364825289.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760659200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.084378,
+      "TEDPAYSAYISI": 173026170.0,
+      "KISISAYISI": 8822.0,
+      "PORTFOYBUYUKLUK": 360651936.15,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760918400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.055904,
+      "TEDPAYSAYISI": 173640178.0,
+      "KISISAYISI": 8842.0,
+      "PORTFOYBUYUKLUK": 356987528.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761004800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.092048,
+      "TEDPAYSAYISI": 173023516.0,
+      "KISISAYISI": 8830.0,
+      "PORTFOYBUYUKLUK": 361973437.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761091200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.091902,
+      "TEDPAYSAYISI": 174606439.0,
+      "KISISAYISI": 8834.0,
+      "PORTFOYBUYUKLUK": 365259510.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761177600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.108265,
+      "TEDPAYSAYISI": 174688526.0,
+      "KISISAYISI": 8814.0,
+      "PORTFOYBUYUKLUK": 368289702.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761264000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.117255,
+      "TEDPAYSAYISI": 175019470.0,
+      "KISISAYISI": 8831.0,
+      "PORTFOYBUYUKLUK": 370560772.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761523200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.177247,
+      "TEDPAYSAYISI": 176349043.0,
+      "KISISAYISI": 8828.0,
+      "PORTFOYBUYUKLUK": 383955485.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761609600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.166046,
+      "TEDPAYSAYISI": 180397660.0,
+      "KISISAYISI": 8854.0,
+      "PORTFOYBUYUKLUK": 390749595.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761782400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.163124,
+      "TEDPAYSAYISI": 178129408.0,
+      "KISISAYISI": 8854.0,
+      "PORTFOYBUYUKLUK": 385316035.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1761868800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.163559,
+      "TEDPAYSAYISI": 184237530.0,
+      "KISISAYISI": 8957.0,
+      "PORTFOYBUYUKLUK": 398608695.46,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762128000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.185846,
+      "TEDPAYSAYISI": 186968196.0,
+      "KISISAYISI": 9013.0,
+      "PORTFOYBUYUKLUK": 408683685.75,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762214400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.20463,
+      "TEDPAYSAYISI": 190512288.0,
+      "KISISAYISI": 9045.0,
+      "PORTFOYBUYUKLUK": 420009013.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762300800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.191276,
+      "TEDPAYSAYISI": 197422280.0,
+      "KISISAYISI": 9128.0,
+      "PORTFOYBUYUKLUK": 432606625.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762387200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.208809,
+      "TEDPAYSAYISI": 198404482.0,
+      "KISISAYISI": 9173.0,
+      "PORTFOYBUYUKLUK": 438237683.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762473600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.246341,
+      "TEDPAYSAYISI": 200132006.0,
+      "KISISAYISI": 9188.0,
+      "PORTFOYBUYUKLUK": 449564640.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762732800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.215003,
+      "TEDPAYSAYISI": 203201638.0,
+      "KISISAYISI": 9244.0,
+      "PORTFOYBUYUKLUK": 450092308.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762819200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.200406,
+      "TEDPAYSAYISI": 217969908.0,
+      "KISISAYISI": 9317.0,
+      "PORTFOYBUYUKLUK": 479622352.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762905600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.171069,
+      "TEDPAYSAYISI": 222229876.0,
+      "KISISAYISI": 9370.0,
+      "PORTFOYBUYUKLUK": 482476477.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762992000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.183027,
+      "TEDPAYSAYISI": 225799269.0,
+      "KISISAYISI": 9396.0,
+      "PORTFOYBUYUKLUK": 492925860.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763078400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.189811,
+      "TEDPAYSAYISI": 226829021.0,
+      "KISISAYISI": 9421.0,
+      "PORTFOYBUYUKLUK": 496712776.45,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763337600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.183591,
+      "TEDPAYSAYISI": 234319256.0,
+      "KISISAYISI": 9399.0,
+      "PORTFOYBUYUKLUK": 511657506.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763424000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.201966,
+      "TEDPAYSAYISI": 240688906.0,
+      "KISISAYISI": 9386.0,
+      "PORTFOYBUYUKLUK": 529988738.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763510400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.208501,
+      "TEDPAYSAYISI": 242629939.0,
+      "KISISAYISI": 9415.0,
+      "PORTFOYBUYUKLUK": 535848558.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763596800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.243729,
+      "TEDPAYSAYISI": 247259316.0,
+      "KISISAYISI": 9418.0,
+      "PORTFOYBUYUKLUK": 554782968.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763683200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.253688,
+      "TEDPAYSAYISI": 264849390.0,
+      "KISISAYISI": 9423.0,
+      "PORTFOYBUYUKLUK": 596887940.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763942400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.250589,
+      "TEDPAYSAYISI": 283840523.0,
+      "KISISAYISI": 9470.0,
+      "PORTFOYBUYUKLUK": 638808297.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764028800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.260404,
+      "TEDPAYSAYISI": 285676415.0,
+      "KISISAYISI": 9496.0,
+      "PORTFOYBUYUKLUK": 645744148.86,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764115200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.267002,
+      "TEDPAYSAYISI": 287059429.0,
+      "KISISAYISI": 9538.0,
+      "PORTFOYBUYUKLUK": 650764426.6,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764201600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.274366,
+      "TEDPAYSAYISI": 291713656.0,
+      "KISISAYISI": 9556.0,
+      "PORTFOYBUYUKLUK": 663463507.19,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764288000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.276436,
+      "TEDPAYSAYISI": 294590034.0,
+      "KISISAYISI": 9579.0,
+      "PORTFOYBUYUKLUK": 670615223.24,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764547200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.278162,
+      "TEDPAYSAYISI": 299601650.0,
+      "KISISAYISI": 9614.0,
+      "PORTFOYBUYUKLUK": 682541017.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764633600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.322587,
+      "TEDPAYSAYISI": 300398002.0,
+      "KISISAYISI": 9623.0,
+      "PORTFOYBUYUKLUK": 697700411.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764720000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.324772,
+      "TEDPAYSAYISI": 308679736.0,
+      "KISISAYISI": 9679.0,
+      "PORTFOYBUYUKLUK": 717609956.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764806400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.317906,
+      "TEDPAYSAYISI": 328772369.0,
+      "KISISAYISI": 9747.0,
+      "PORTFOYBUYUKLUK": 762063487.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764892800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.291499,
+      "TEDPAYSAYISI": 333897374.0,
+      "KISISAYISI": 9792.0,
+      "PORTFOYBUYUKLUK": 765125509.11,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765152000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.305074,
+      "TEDPAYSAYISI": 336534868.0,
+      "KISISAYISI": 9843.0,
+      "PORTFOYBUYUKLUK": 775737808.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765238400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.339583,
+      "TEDPAYSAYISI": 339801556.0,
+      "KISISAYISI": 9859.0,
+      "PORTFOYBUYUKLUK": 794993798.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765324800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.344326,
+      "TEDPAYSAYISI": 342772816.0,
+      "KISISAYISI": 9922.0,
+      "PORTFOYBUYUKLUK": 803571232.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765411200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.324446,
+      "TEDPAYSAYISI": 341777606.0,
+      "KISISAYISI": 9963.0,
+      "PORTFOYBUYUKLUK": 794443451.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765497600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.332743,
+      "TEDPAYSAYISI": 346432367.0,
+      "KISISAYISI": 9987.0,
+      "PORTFOYBUYUKLUK": 808137578.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765756800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.363901,
+      "TEDPAYSAYISI": 347770406.0,
+      "KISISAYISI": 10012.0,
+      "PORTFOYBUYUKLUK": 822094708.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765843200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.385163,
+      "TEDPAYSAYISI": 348298039.0,
+      "KISISAYISI": 10047.0,
+      "PORTFOYBUYUKLUK": 830747672.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765929600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.370573,
+      "TEDPAYSAYISI": 353473108.0,
+      "KISISAYISI": 10161.0,
+      "PORTFOYBUYUKLUK": 837933887.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766016000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.365827,
+      "TEDPAYSAYISI": 358428466.0,
+      "KISISAYISI": 10275.0,
+      "PORTFOYBUYUKLUK": 847979705.28,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766102400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.371862,
+      "TEDPAYSAYISI": 364120825.0,
+      "KISISAYISI": 10333.0,
+      "PORTFOYBUYUKLUK": 863644187.49,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766361600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.381056,
+      "TEDPAYSAYISI": 366576833.0,
+      "KISISAYISI": 10372.0,
+      "PORTFOYBUYUKLUK": 872839808.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766448000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.374126,
+      "TEDPAYSAYISI": 366790542.0,
+      "KISISAYISI": 10387.0,
+      "PORTFOYBUYUKLUK": 870807017.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766534400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.366969,
+      "TEDPAYSAYISI": 368468603.0,
+      "KISISAYISI": 10453.0,
+      "PORTFOYBUYUKLUK": 872153728.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766620800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.377095,
+      "TEDPAYSAYISI": 365142767.0,
+      "KISISAYISI": 10438.0,
+      "PORTFOYBUYUKLUK": 867978867.85,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766707200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.379182,
+      "TEDPAYSAYISI": 366111521.0,
+      "KISISAYISI": 10404.0,
+      "PORTFOYBUYUKLUK": 871045764.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766966400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.375437,
+      "TEDPAYSAYISI": 361427588.0,
+      "KISISAYISI": 10353.0,
+      "PORTFOYBUYUKLUK": 858548462.59,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767052800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.345468,
+      "TEDPAYSAYISI": 360985195.0,
+      "KISISAYISI": 10350.0,
+      "PORTFOYBUYUKLUK": 846679223.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767139200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.325411,
+      "TEDPAYSAYISI": 360448512.0,
+      "KISISAYISI": 10359.0,
+      "PORTFOYBUYUKLUK": 838191094.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767312000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.319044,
+      "TEDPAYSAYISI": 354418174.0,
+      "KISISAYISI": 10312.0,
+      "PORTFOYBUYUKLUK": 821911437.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767571200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.363012,
+      "TEDPAYSAYISI": 349994206.0,
+      "KISISAYISI": 10255.0,
+      "PORTFOYBUYUKLUK": 827040386.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767657600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.388659,
+      "TEDPAYSAYISI": 343136748.0,
+      "KISISAYISI": 10243.0,
+      "PORTFOYBUYUKLUK": 819636533.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767744000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.438505,
+      "TEDPAYSAYISI": 339989835.0,
+      "KISISAYISI": 10243.0,
+      "PORTFOYBUYUKLUK": 829066845.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767830400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.414083,
+      "TEDPAYSAYISI": 346465078.0,
+      "KISISAYISI": 10221.0,
+      "PORTFOYBUYUKLUK": 836395524.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767916800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.428026,
+      "TEDPAYSAYISI": 350902088.0,
+      "KISISAYISI": 10276.0,
+      "PORTFOYBUYUKLUK": 851999248.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768176000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.425906,
+      "TEDPAYSAYISI": 343181614.0,
+      "KISISAYISI": 10333.0,
+      "PORTFOYBUYUKLUK": 832526429.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768262400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.44204,
+      "TEDPAYSAYISI": 343468691.0,
+      "KISISAYISI": 10336.0,
+      "PORTFOYBUYUKLUK": 838764345.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768348800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.456168,
+      "TEDPAYSAYISI": 343319501.0,
+      "KISISAYISI": 10384.0,
+      "PORTFOYBUYUKLUK": 843250504.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768435200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.45066,
+      "TEDPAYSAYISI": 338408589.0,
+      "KISISAYISI": 10350.0,
+      "PORTFOYBUYUKLUK": 829324371.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768521600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.470198,
+      "TEDPAYSAYISI": 337119507.0,
+      "KISISAYISI": 10298.0,
+      "PORTFOYBUYUKLUK": 832751799.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768780800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.514732,
+      "TEDPAYSAYISI": 329729772.0,
+      "KISISAYISI": 10296.0,
+      "PORTFOYBUYUKLUK": 829182065.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768867200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.536993,
+      "TEDPAYSAYISI": 329276605.0,
+      "KISISAYISI": 10293.0,
+      "PORTFOYBUYUKLUK": 835372432.94,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1768953600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.505921,
+      "TEDPAYSAYISI": 330647454.0,
+      "KISISAYISI": 10395.0,
+      "PORTFOYBUYUKLUK": 828576323.23,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769040000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.528614,
+      "TEDPAYSAYISI": 324434480.0,
+      "KISISAYISI": 10426.0,
+      "PORTFOYBUYUKLUK": 820369457.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769126400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.566671,
+      "TEDPAYSAYISI": 318386514.0,
+      "KISISAYISI": 10440.0,
+      "PORTFOYBUYUKLUK": 817193452.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769385600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.594532,
+      "TEDPAYSAYISI": 319633732.0,
+      "KISISAYISI": 10443.0,
+      "PORTFOYBUYUKLUK": 829299976.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769472000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.614332,
+      "TEDPAYSAYISI": 320968702.0,
+      "KISISAYISI": 10475.0,
+      "PORTFOYBUYUKLUK": 839118716.89,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769558400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.606739,
+      "TEDPAYSAYISI": 322231383.0,
+      "KISISAYISI": 10573.0,
+      "PORTFOYBUYUKLUK": 839973261.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769644800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.658168,
+      "TEDPAYSAYISI": 324777854.0,
+      "KISISAYISI": 10627.0,
+      "PORTFOYBUYUKLUK": 863314256.2,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769731200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.713364,
+      "TEDPAYSAYISI": 325915083.0,
+      "KISISAYISI": 10649.0,
+      "PORTFOYBUYUKLUK": 884326149.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1769990400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.726941,
+      "TEDPAYSAYISI": 329817572.0,
+      "KISISAYISI": 10696.0,
+      "PORTFOYBUYUKLUK": 899393043.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770076800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.711926,
+      "TEDPAYSAYISI": 332273162.0,
+      "KISISAYISI": 10780.0,
+      "PORTFOYBUYUKLUK": 901100076.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770163200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.773759,
+      "TEDPAYSAYISI": 330007290.0,
+      "KISISAYISI": 10852.0,
+      "PORTFOYBUYUKLUK": 915360776.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770249600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.762784,
+      "TEDPAYSAYISI": 334869160.0,
+      "KISISAYISI": 10884.0,
+      "PORTFOYBUYUKLUK": 925171092.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770336000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.71966,
+      "TEDPAYSAYISI": 341388186.0,
+      "KISISAYISI": 11017.0,
+      "PORTFOYBUYUKLUK": 928459665.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770595200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.713417,
+      "TEDPAYSAYISI": 345438041.0,
+      "KISISAYISI": 11153.0,
+      "PORTFOYBUYUKLUK": 937317423.14,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770681600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.773546,
+      "TEDPAYSAYISI": 345953583.0,
+      "KISISAYISI": 11208.0,
+      "PORTFOYBUYUKLUK": 959518313.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770768000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.763474,
+      "TEDPAYSAYISI": 344548254.0,
+      "KISISAYISI": 11303.0,
+      "PORTFOYBUYUKLUK": 952150080.34,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770854400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.779877,
+      "TEDPAYSAYISI": 347724021.0,
+      "KISISAYISI": 11432.0,
+      "PORTFOYBUYUKLUK": 966630036.57,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1770940800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.8632,
+      "TEDPAYSAYISI": 350132365.0,
+      "KISISAYISI": 11550.0,
+      "PORTFOYBUYUKLUK": 1002498919.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771200000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.877896,
+      "TEDPAYSAYISI": 353063188.0,
+      "KISISAYISI": 11623.0,
+      "PORTFOYBUYUKLUK": 1016079026.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771286400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.908132,
+      "TEDPAYSAYISI": 357476739.0,
+      "KISISAYISI": 11725.0,
+      "PORTFOYBUYUKLUK": 1039589663.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771372800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.888669,
+      "TEDPAYSAYISI": 360184284.0,
+      "KISISAYISI": 11974.0,
+      "PORTFOYBUYUKLUK": 1040453029.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771459200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.871588,
+      "TEDPAYSAYISI": 367438086.0,
+      "KISISAYISI": 12191.0,
+      "PORTFOYBUYUKLUK": 1055130819.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771545600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.789766,
+      "TEDPAYSAYISI": 363490303.0,
+      "KISISAYISI": 12337.0,
+      "PORTFOYBUYUKLUK": 1014052915.81,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771804800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.832494,
+      "TEDPAYSAYISI": 356179548.0,
+      "KISISAYISI": 12441.0,
+      "PORTFOYBUYUKLUK": 1008876559.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771891200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.918378,
+      "TEDPAYSAYISI": 355450712.0,
+      "KISISAYISI": 12438.0,
+      "PORTFOYBUYUKLUK": 1037339699.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1771977600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.927706,
+      "TEDPAYSAYISI": 355958633.0,
+      "KISISAYISI": 12540.0,
+      "PORTFOYBUYUKLUK": 1042142107.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772064000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.893808,
+      "TEDPAYSAYISI": 357811276.0,
+      "KISISAYISI": 12671.0,
+      "PORTFOYBUYUKLUK": 1035437242.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772150400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.907124,
+      "TEDPAYSAYISI": 360685476.0,
+      "KISISAYISI": 12819.0,
+      "PORTFOYBUYUKLUK": 1048557489.04,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772409600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.85285,
+      "TEDPAYSAYISI": 367423493.0,
+      "KISISAYISI": 12893.0,
+      "PORTFOYBUYUKLUK": 1048204063.07,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772496000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.758431,
+      "TEDPAYSAYISI": 370397563.0,
+      "KISISAYISI": 12917.0,
+      "PORTFOYBUYUKLUK": 1021716226.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772582400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.721672,
+      "TEDPAYSAYISI": 356296440.0,
+      "KISISAYISI": 12992.0,
+      "PORTFOYBUYUKLUK": 969722152.27,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772668800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.740312,
+      "TEDPAYSAYISI": 351328340.0,
+      "KISISAYISI": 12884.0,
+      "PORTFOYBUYUKLUK": 962749295.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1772755200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.770924,
+      "TEDPAYSAYISI": 347295293.0,
+      "KISISAYISI": 12834.0,
+      "PORTFOYBUYUKLUK": 962328927.37,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773014400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.720558,
+      "TEDPAYSAYISI": 347767638.0,
+      "KISISAYISI": 12805.0,
+      "PORTFOYBUYUKLUK": 946121944.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773100800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.731177,
+      "TEDPAYSAYISI": 333296164.0,
+      "KISISAYISI": 12814.0,
+      "PORTFOYBUYUKLUK": 910290652.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773187200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.836743,
+      "TEDPAYSAYISI": 326550763.0,
+      "KISISAYISI": 12853.0,
+      "PORTFOYBUYUKLUK": 926340543.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773273600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.838684,
+      "TEDPAYSAYISI": 328075918.0,
+      "KISISAYISI": 12796.0,
+      "PORTFOYBUYUKLUK": 931303811.29,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773360000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.855075,
+      "TEDPAYSAYISI": 327431047.0,
+      "KISISAYISI": 12799.0,
+      "PORTFOYBUYUKLUK": 934840315.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773619200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.821289,
+      "TEDPAYSAYISI": 327504697.0,
+      "KISISAYISI": 12817.0,
+      "PORTFOYBUYUKLUK": 923985235.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773705600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.805255,
+      "TEDPAYSAYISI": 326908108.0,
+      "KISISAYISI": 12808.0,
+      "PORTFOYBUYUKLUK": 917060698.68,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773792000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.854445,
+      "TEDPAYSAYISI": 325761627.0,
+      "KISISAYISI": 12837.0,
+      "PORTFOYBUYUKLUK": 929868750.59,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1773878400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.85601,
+      "TEDPAYSAYISI": 325999612.0,
+      "KISISAYISI": 12796.0,
+      "PORTFOYBUYUKLUK": 931058129.22,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774224000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.846543,
+      "TEDPAYSAYISI": 325257928.0,
+      "KISISAYISI": 12796.0,
+      "PORTFOYBUYUKLUK": 925860682.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774310400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.865719,
+      "TEDPAYSAYISI": 324970447.0,
+      "KISISAYISI": 12798.0,
+      "PORTFOYBUYUKLUK": 931274031.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774396800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.847631,
+      "TEDPAYSAYISI": 320661133.0,
+      "KISISAYISI": 12840.0,
+      "PORTFOYBUYUKLUK": 913124669.0,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774483200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.918362,
+      "TEDPAYSAYISI": 320109874.0,
+      "KISISAYISI": 12733.0,
+      "PORTFOYBUYUKLUK": 934196432.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774569600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.901469,
+      "TEDPAYSAYISI": 318565920.0,
+      "KISISAYISI": 12684.0,
+      "PORTFOYBUYUKLUK": 924309126.87,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774828800000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.89801,
+      "TEDPAYSAYISI": 318918730.0,
+      "KISISAYISI": 12650.0,
+      "PORTFOYBUYUKLUK": 924229775.12,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1774915200000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.888853,
+      "TEDPAYSAYISI": 318195439.0,
+      "KISISAYISI": 12633.0,
+      "PORTFOYBUYUKLUK": 919219780.35,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775001600000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.926749,
+      "TEDPAYSAYISI": 317061649.0,
+      "KISISAYISI": 12661.0,
+      "PORTFOYBUYUKLUK": 927959728.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775088000000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.955077,
+      "TEDPAYSAYISI": 315006461.0,
+      "KISISAYISI": 12659.0,
+      "PORTFOYBUYUKLUK": 930868354.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775174400000",
+      "FONKODU": "KHA",
+      "FONUNVAN": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.95629,
+      "TEDPAYSAYISI": 317324000.0,
+      "KISISAYISI": 12675.0,
+      "PORTFOYBUYUKLUK": 938101749.04,
+      "BilFiyat": "-"
+    }
+  ]
+}
