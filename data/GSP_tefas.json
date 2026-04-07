@@ -2,24 +2,14 @@
   "fon_kodu": "GSP",
   "fon_unvan": "AZİMUT ASSET MANAGEMENT DIVIDEND-PAYING COMPANIES EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "GSP",
-      "FONUNVAN": "AZİMUT ASSET MANAGEMENT DIVIDEND-PAYING COMPANIES EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.049232,
-      "TEDPAYSAYISI": 11011937586.0,
-      "KISISAYISI": 1405.0,
-      "PORTFOYBUYUKLUK": 542140630.08,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "GSP",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 4557582306.0,
       "KISISAYISI": 13880.0,
       "PORTFOYBUYUKLUK": 2300354196.91,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GSP",
+      "FONUNVAN": "AZİMUT ASSET MANAGEMENT DIVIDEND-PAYING COMPANIES EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.501073,
+      "TEDPAYSAYISI": 4561399425.0,
+      "KISISAYISI": 13873.0,
+      "PORTFOYBUYUKLUK": 2285596245.84,
       "BilFiyat": "-"
     }
   ]

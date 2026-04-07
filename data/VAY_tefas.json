@@ -2,11 +2,11 @@
   "fon_kodu": "VAY",
   "fon_unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 589,
-  "gun_kapsami": 856,
+  "kayit_sayisi": 590,
+  "gun_kapsami": 859,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -5898,6 +5898,16 @@
       "TEDPAYSAYISI": 29850556.0,
       "KISISAYISI": 3332.0,
       "PORTFOYBUYUKLUK": 43928497.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "VAY",
+      "FONUNVAN": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.465229,
+      "TEDPAYSAYISI": 29843958.0,
+      "KISISAYISI": 3327.0,
+      "PORTFOYBUYUKLUK": 43728217.86,
       "BilFiyat": "-"
     }
   ]

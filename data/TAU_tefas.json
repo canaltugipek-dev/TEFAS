@@ -2,24 +2,14 @@
   "fon_kodu": "TAU",
   "fon_unvan": "İŞ ASSET MANAGEMENT BIST BANKS INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TAU",
-      "FONUNVAN": "İŞ ASSET MANAGEMENT BIST BANKS INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.040686,
-      "TEDPAYSAYISI": 1505841183.0,
-      "KISISAYISI": 1977.0,
-      "PORTFOYBUYUKLUK": 61266961.72,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TAU",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 3940445212.0,
       "KISISAYISI": 39517.0,
       "PORTFOYBUYUKLUK": 2464655768.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TAU",
+      "FONUNVAN": "İŞ ASSET MANAGEMENT BIST BANKS INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.623859,
+      "TEDPAYSAYISI": 3957419220.0,
+      "KISISAYISI": 39474.0,
+      "PORTFOYBUYUKLUK": 2468873266.79,
       "BilFiyat": "-"
     }
   ]

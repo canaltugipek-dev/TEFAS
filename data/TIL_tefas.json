@@ -2,11 +2,11 @@
   "fon_kodu": "TIL",
   "fon_unvan": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 149,
-  "gun_kapsami": 211,
+  "kayit_sayisi": 150,
+  "gun_kapsami": 214,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1498,6 +1498,16 @@
       "TEDPAYSAYISI": 64223620.0,
       "KISISAYISI": 1510.0,
       "PORTFOYBUYUKLUK": 80520850.38,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.249415,
+      "TEDPAYSAYISI": 64150628.0,
+      "KISISAYISI": 1507.0,
+      "PORTFOYBUYUKLUK": 80150788.94,
       "BilFiyat": "-"
     }
   ]

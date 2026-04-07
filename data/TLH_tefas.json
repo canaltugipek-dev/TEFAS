@@ -2,24 +2,14 @@
   "fon_kodu": "TLH",
   "fon_unvan": "AURA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TLH",
-      "FONUNVAN": "AURA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.277382,
-      "TEDPAYSAYISI": 12239431.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 27873865.96,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TLH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 4965347.0,
       "KISISAYISI": 456.0,
       "PORTFOYBUYUKLUK": 143417144.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TLH",
+      "FONUNVAN": "AURA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 28.517929,
+      "TEDPAYSAYISI": 4862743.0,
+      "KISISAYISI": 454.0,
+      "PORTFOYBUYUKLUK": 138675359.81,
       "BilFiyat": "-"
     }
   ]

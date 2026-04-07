@@ -2,24 +2,14 @@
   "fon_kodu": "KYA",
   "fon_unvan": "KARE ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "KYA",
-      "FONUNVAN": "KARE ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.092219,
-      "TEDPAYSAYISI": 139385100.0,
-      "KISISAYISI": 66.0,
-      "PORTFOYBUYUKLUK": 12853917.81,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "KYA",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 66057951.0,
       "KISISAYISI": 1988.0,
       "PORTFOYBUYUKLUK": 78183904.64,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KYA",
+      "FONUNVAN": "KARE ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.178485,
+      "TEDPAYSAYISI": 66038451.0,
+      "KISISAYISI": 1988.0,
+      "PORTFOYBUYUKLUK": 77825343.49,
       "BilFiyat": "-"
     }
   ]

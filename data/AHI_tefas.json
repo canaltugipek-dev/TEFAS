@@ -2,24 +2,14 @@
   "fon_kodu": "AHI",
   "fon_unvan": "ATLAS ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "AHI",
-      "FONUNVAN": "ATLAS ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.098058,
-      "TEDPAYSAYISI": 10790305.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 22638688.06,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "AHI",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 3976393.0,
       "KISISAYISI": 2724.0,
       "PORTFOYBUYUKLUK": 139860692.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "AHI",
+      "FONUNVAN": "ATLAS ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 34.941799,
+      "TEDPAYSAYISI": 3966284.0,
+      "KISISAYISI": 2718.0,
+      "PORTFOYBUYUKLUK": 138589099.93,
       "BilFiyat": "-"
     }
   ]

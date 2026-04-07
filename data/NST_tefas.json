@@ -2,11 +2,11 @@
   "fon_kodu": "NST",
   "fon_unvan": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 177,
-  "gun_kapsami": 249,
+  "kayit_sayisi": 178,
+  "gun_kapsami": 252,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1778,6 +1778,16 @@
       "TEDPAYSAYISI": 87927382.0,
       "KISISAYISI": 4384.0,
       "PORTFOYBUYUKLUK": 99342143.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NST",
+      "FONUNVAN": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.137371,
+      "TEDPAYSAYISI": 87910413.0,
+      "KISISAYISI": 4368.0,
+      "PORTFOYBUYUKLUK": 99986736.61,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "ELZ",
   "fon_unvan": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ELZ",
-      "FONUNVAN": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.190944,
-      "TEDPAYSAYISI": 15521203.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 18484883.11,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ELZ",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 41138700.0,
       "KISISAYISI": 795.0,
       "PORTFOYBUYUKLUK": 516890755.66,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ELZ",
+      "FONUNVAN": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 12.580092,
+      "TEDPAYSAYISI": 41136485.0,
+      "KISISAYISI": 796.0,
+      "PORTFOYBUYUKLUK": 517500761.05,
       "BilFiyat": "-"
     }
   ]

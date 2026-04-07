@@ -2,11 +2,11 @@
   "fon_kodu": "YLE",
   "fon_unvan": "YAPI KREDİ PORTFÖY BIST SÜRDÜRÜLEBİLİRLİK ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1045,
-  "gun_kapsami": 1515,
+  "kayit_sayisi": 1046,
+  "gun_kapsami": 1518,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10458,6 +10458,16 @@
       "TEDPAYSAYISI": 40461061.0,
       "KISISAYISI": 2495.0,
       "PORTFOYBUYUKLUK": 321201341.99,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YLE",
+      "FONUNVAN": "YAPI KREDİ PORTFÖY BIST SÜRDÜRÜLEBİLİRLİK ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 7.873161,
+      "TEDPAYSAYISI": 40415093.0,
+      "KISISAYISI": 2494.0,
+      "PORTFOYBUYUKLUK": 318194544.14,
       "BilFiyat": "-"
     }
   ]

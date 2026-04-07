@@ -2,11 +2,11 @@
   "fon_kodu": "GNS",
   "fon_unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 285,
-  "gun_kapsami": 413,
+  "kayit_sayisi": 286,
+  "gun_kapsami": 416,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2858,6 +2858,16 @@
       "TEDPAYSAYISI": 44341360.0,
       "KISISAYISI": 1261.0,
       "PORTFOYBUYUKLUK": 64279832.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GNS",
+      "FONUNVAN": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444269,
+      "TEDPAYSAYISI": 44313551.0,
+      "KISISAYISI": 1271.0,
+      "PORTFOYBUYUKLUK": 64000680.86,
       "BilFiyat": "-"
     }
   ]

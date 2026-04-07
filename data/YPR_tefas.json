@@ -2,11 +2,11 @@
   "fon_kodu": "YPR",
   "fon_unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 249,
-  "gun_kapsami": 359,
+  "kayit_sayisi": 250,
+  "gun_kapsami": 362,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2498,6 +2498,16 @@
       "TEDPAYSAYISI": 142690605.0,
       "KISISAYISI": 294.0,
       "PORTFOYBUYUKLUK": 213391517.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.48421,
+      "TEDPAYSAYISI": 129025897.0,
+      "KISISAYISI": 293.0,
+      "PORTFOYBUYUKLUK": 191501513.98,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "ZPE",
   "fon_unvan": "ZİRAAT ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ZPE",
-      "FONUNVAN": "ZİRAAT ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 3.107966,
-      "TEDPAYSAYISI": 28351291.513,
-      "KISISAYISI": 2715.0,
-      "PORTFOYBUYUKLUK": 88114842.6,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ZPE",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 36782203.836,
       "KISISAYISI": 6553.0,
       "PORTFOYBUYUKLUK": 1112307737.02,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ZPE",
+      "FONUNVAN": "ZİRAAT ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 30.074996,
+      "TEDPAYSAYISI": 36862580.836,
+      "KISISAYISI": 6557.0,
+      "PORTFOYBUYUKLUK": 1108641961.5,
       "BilFiyat": "-"
     }
   ]

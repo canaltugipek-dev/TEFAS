@@ -2,24 +2,14 @@
   "fon_kodu": "TYH",
   "fon_unvan": "TEB ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TYH",
-      "FONUNVAN": "TEB ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.139681,
-      "TEDPAYSAYISI": 162648089.441,
-      "KISISAYISI": 1293.0,
-      "PORTFOYBUYUKLUK": 22718914.86,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TYH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 950683237.836,
       "KISISAYISI": 7217.0,
       "PORTFOYBUYUKLUK": 1882159558.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TYH",
+      "FONUNVAN": "TEB ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.9601,
+      "TEDPAYSAYISI": 944785847.836,
+      "KISISAYISI": 7209.0,
+      "PORTFOYBUYUKLUK": 1851874779.17,
       "BilFiyat": "-"
     }
   ]

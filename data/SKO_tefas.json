@@ -2,11 +2,11 @@
   "fon_kodu": "SKO",
   "fon_unvan": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 186,
-  "gun_kapsami": 263,
+  "kayit_sayisi": 187,
+  "gun_kapsami": 266,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1868,6 +1868,16 @@
       "TEDPAYSAYISI": 197785104.0,
       "KISISAYISI": 5247.0,
       "PORTFOYBUYUKLUK": 309603949.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "SKO",
+      "FONUNVAN": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.551421,
+      "TEDPAYSAYISI": 198034461.0,
+      "KISISAYISI": 5233.0,
+      "PORTFOYBUYUKLUK": 307234781.71,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "IML",
   "fon_unvan": "İŞ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 354,
-  "gun_kapsami": 511,
+  "kayit_sayisi": 355,
+  "gun_kapsami": 514,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3548,6 +3548,16 @@
       "TEDPAYSAYISI": 682063935.0,
       "KISISAYISI": 6713.0,
       "PORTFOYBUYUKLUK": 1076965913.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IML",
+      "FONUNVAN": "İŞ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.576527,
+      "TEDPAYSAYISI": 683066152.0,
+      "KISISAYISI": 6684.0,
+      "PORTFOYBUYUKLUK": 1076872271.28,
       "BilFiyat": "-"
     }
   ]

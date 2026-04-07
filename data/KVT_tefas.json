@@ -2,11 +2,11 @@
   "fon_kodu": "KVT",
   "fon_unvan": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 324,
-  "gun_kapsami": 469,
+  "kayit_sayisi": 325,
+  "gun_kapsami": 472,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3248,6 +3248,16 @@
       "TEDPAYSAYISI": 77577847.0,
       "KISISAYISI": 2566.0,
       "PORTFOYBUYUKLUK": 101226751.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KVT",
+      "FONUNVAN": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.308638,
+      "TEDPAYSAYISI": 78627453.0,
+      "KISISAYISI": 2603.0,
+      "PORTFOYBUYUKLUK": 102894840.99,
       "BilFiyat": "-"
     }
   ]

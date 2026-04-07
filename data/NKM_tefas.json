@@ -2,11 +2,11 @@
   "fon_kodu": "NKM",
   "fon_unvan": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 32,
-  "gun_kapsami": 44,
+  "kayit_sayisi": 33,
+  "gun_kapsami": 47,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -328,6 +328,16 @@
       "TEDPAYSAYISI": 53110839.0,
       "KISISAYISI": 582.0,
       "PORTFOYBUYUKLUK": 49272684.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NKM",
+      "FONUNVAN": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.930601,
+      "TEDPAYSAYISI": 52935907.0,
+      "KISISAYISI": 578.0,
+      "PORTFOYBUYUKLUK": 49262193.82,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "DXP",
   "fon_unvan": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 584,
-  "gun_kapsami": 849,
+  "kayit_sayisi": 585,
+  "gun_kapsami": 852,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -5848,6 +5848,16 @@
       "TEDPAYSAYISI": 29326085.0,
       "KISISAYISI": 1204.0,
       "PORTFOYBUYUKLUK": 49333553.51,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DXP",
+      "FONUNVAN": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.664322,
+      "TEDPAYSAYISI": 29326592.0,
+      "KISISAYISI": 1202.0,
+      "PORTFOYBUYUKLUK": 48808880.88,
       "BilFiyat": "-"
     }
   ]

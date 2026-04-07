@@ -2,11 +2,11 @@
   "fon_kodu": "IVF",
   "fon_unvan": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1042,
-  "gun_kapsami": 1512,
+  "kayit_sayisi": 1043,
+  "gun_kapsami": 1515,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10428,6 +10428,16 @@
       "TEDPAYSAYISI": 26734579.0,
       "KISISAYISI": 1218.0,
       "PORTFOYBUYUKLUK": 153378744.41,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IVF",
+      "FONUNVAN": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 5.730629,
+      "TEDPAYSAYISI": 26722811.0,
+      "KISISAYISI": 1222.0,
+      "PORTFOYBUYUKLUK": 153138505.43,
       "BilFiyat": "-"
     }
   ]

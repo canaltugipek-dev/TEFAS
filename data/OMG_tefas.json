@@ -2,11 +2,11 @@
   "fon_kodu": "OMG",
   "fon_unvan": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 303,
-  "gun_kapsami": 437,
+  "kayit_sayisi": 304,
+  "gun_kapsami": 440,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3038,6 +3038,16 @@
       "TEDPAYSAYISI": 739470353.0,
       "KISISAYISI": 678.0,
       "PORTFOYBUYUKLUK": 1205980379.26,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "OMG",
+      "FONUNVAN": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.621334,
+      "TEDPAYSAYISI": 739037940.0,
+      "KISISAYISI": 677.0,
+      "PORTFOYBUYUKLUK": 1198227444.2,
       "BilFiyat": "-"
     }
   ]

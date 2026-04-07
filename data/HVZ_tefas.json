@@ -2,11 +2,11 @@
   "fon_kodu": "HVZ",
   "fon_unvan": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 909,
-  "gun_kapsami": 1316,
+  "kayit_sayisi": 910,
+  "gun_kapsami": 1319,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -9098,6 +9098,16 @@
       "TEDPAYSAYISI": 15740452.0,
       "KISISAYISI": 2134.0,
       "PORTFOYBUYUKLUK": 102302042.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "HVZ",
+      "FONUNVAN": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 6.47591,
+      "TEDPAYSAYISI": 15704327.0,
+      "KISISAYISI": 2128.0,
+      "PORTFOYBUYUKLUK": 101699804.16,
       "BilFiyat": "-"
     }
   ]

@@ -26,6 +26,11 @@ let activeFundMeta = null;
 let fullSeriesCache = null;
 let chartInstance = null;
 let tableSortKey = "sharpe";
+let fundSearchQuery = "";
+const compareSeriesCache = new Map();
+let compareRenderToken = 0;
+let benchmarks = null;
+let selectedBenchmark = "none";
 
 async function fetchJson(url) {
   const r = await fetch(url, { cache: "no-store" });
@@ -42,6 +47,15 @@ async function loadManifest() {
   for (const u of candidates) {
     const m = await fetchJson(u);
     if (m && Array.isArray(m.fonlar) && m.fonlar.length > 0) return m;
+  }
+  return null;
+}
+
+async function loadBenchmarks() {
+  const candidates = ["data/benchmarks.json", "benchmarks.json"];
+  for (const u of candidates) {
+    const b = await fetchJson(u);
+    if (b && b.series) return b;
   }
   return null;
 }
@@ -171,7 +185,7 @@ function sliceSeriesByPeriod(full, period) {
     values.push(Number(((full.p[i] / p0) * 100).toFixed(4)));
   }
   const totalReturn = ((values[values.length - 1] - 100) / 100) * 100;
-  return { labels, values, totalReturn };
+  return { labels, values, totalReturn, t: idx.map((i) => full.t[i]) };
 }
 
 function setChartArea(showChart) {
@@ -182,7 +196,7 @@ function setChartArea(showChart) {
   ph.classList.toggle("hidden", showChart);
 }
 
-function renderChart(labels, values, datasetLabel) {
+function renderChart(labels, datasets) {
   const ctx = document.getElementById("returnChart");
   if (!ctx) return;
   if (chartInstance) {
@@ -195,23 +209,12 @@ function renderChart(labels, values, datasetLabel) {
     type: "line",
     data: {
       labels,
-      datasets: [
-        {
-          label: datasetLabel || "Baz 100",
-          data: values,
-          borderColor: "#5ee9b5",
-          backgroundColor: "rgba(94, 233, 181, 0.1)",
-          borderWidth: 2,
-          fill: true,
-          tension: 0.22,
-          pointRadius: 0,
-          pointHoverRadius: 4,
-        },
-      ],
+      datasets,
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      spanGaps: false,
       interaction: { intersect: false, mode: "index" },
       plugins: {
         legend: { display: false },
@@ -238,6 +241,84 @@ function renderChart(labels, values, datasetLabel) {
   });
 }
 
+function benchmarkRowsToSeries(rows) {
+  if (!Array.isArray(rows) || rows.length === 0) return null;
+  const points = [];
+  rows.forEach((r) => {
+    const dt = parseRowDate(r.tarih);
+    const val = numOrNull(r.deger);
+    if (!dt || val == null || val <= 0) return;
+    points.push({ t: dt.getTime(), p: val });
+  });
+  points.sort((a, b) => a.t - b.t);
+  if (points.length < 2) return null;
+  return { t: points.map((x) => x.t), p: points.map((x) => x.p) };
+}
+
+function getBenchmarkSeriesByKey(key) {
+  if (!benchmarks || !benchmarks.series) return null;
+  if (key === "usd") return benchmarkRowsToSeries(benchmarks.series.usdtry || []);
+  if (key === "bist100") return benchmarkRowsToSeries(benchmarks.series.bist100 || []);
+  if (key === "tufe") return benchmarkRowsToSeries(benchmarks.series.tufe_index || []);
+  return null;
+}
+
+/** Seri zaman damgasi <= tMs olan son gozlem (aylik TUFEda gunluk fon tarihleri icin zorunlu). */
+function benchmarkValueAsOf(bs, tMs) {
+  if (!bs || !bs.t || bs.t.length === 0) return null;
+  const t = Number(tMs);
+  if (!Number.isFinite(t)) return null;
+  if (t < bs.t[0]) return bs.p[0];
+  const last = bs.t.length - 1;
+  if (t >= bs.t[last]) return bs.p[last];
+  let lo = 0;
+  let hi = last;
+  let ans = -1;
+  while (lo <= hi) {
+    const mid = (lo + hi) >> 1;
+    if (bs.t[mid] <= t) {
+      ans = mid;
+      lo = mid + 1;
+    } else {
+      hi = mid - 1;
+    }
+  }
+  if (ans < 0) return bs.p[0];
+  const v = bs.p[ans];
+  return v != null && Number.isFinite(v) && v > 0 ? v : null;
+}
+
+function buildBenchmarkOverlayValues(key, fundPeriodTimes) {
+  const bs = getBenchmarkSeriesByKey(key);
+  if (!bs || !Array.isArray(fundPeriodTimes) || fundPeriodTimes.length < 2) return null;
+  const raw = fundPeriodTimes.map((t) => benchmarkValueAsOf(bs, t));
+  const first = raw.find((v) => v != null && Number.isFinite(v) && v > 0);
+  if (first == null) return null;
+  return raw.map((v) =>
+    v == null || !Number.isFinite(v) || v <= 0 ? null : Number(((v / first) * 100).toFixed(4))
+  );
+}
+
+function seriesReturnPct(series, period) {
+  const sliced = sliceSeriesByPeriod(series, period);
+  if (!sliced) return null;
+  return sliced.totalReturn;
+}
+
+function setSummaryValue(elId, pct) {
+  const el = document.getElementById(elId);
+  if (!el) return;
+  if (pct == null || !Number.isFinite(pct)) {
+    el.textContent = "—";
+    el.classList.remove("positive", "negative");
+    return;
+  }
+  const sign = pct >= 0 ? "+" : "";
+  el.textContent = `${sign}${pct.toFixed(2)}%`;
+  el.classList.remove("positive", "negative");
+  el.classList.add(pct >= 0 ? "positive" : "negative");
+}
+
 function applyPeriodToChart() {
   const hint = document.getElementById("chartPeriodHint");
   if (hint) hint.textContent = PERIOD_LABELS[selectedPeriod] || selectedPeriod;
@@ -261,6 +342,10 @@ function applyPeriodToChart() {
       retEl.textContent = "—";
       retEl.classList.remove("positive", "negative");
     }
+    setSummaryValue("summaryFundReturn", null);
+    setSummaryValue("summaryUsdReturn", null);
+    setSummaryValue("summaryBistReturn", null);
+    setSummaryValue("summaryTufeReturn", null);
     return;
   }
 
@@ -273,7 +358,53 @@ function applyPeriodToChart() {
   }
   setChartArea(true);
   document.getElementById("chartPlaceholder").textContent = "";
-  renderChart(dl, dv, `Baz 100 — ${PERIOD_LABELS[selectedPeriod] || selectedPeriod}`);
+  const datasets = [
+    {
+      label: `Fon — ${PERIOD_LABELS[selectedPeriod] || selectedPeriod}`,
+      data: dv,
+      borderColor: "#3ecf8e",
+      backgroundColor: "rgba(62, 207, 142, 0.12)",
+      borderWidth: 3,
+      fill: true,
+      tension: 0.22,
+      pointRadius: 0,
+      pointHoverRadius: 0,
+    },
+  ];
+
+  if (selectedBenchmark !== "none") {
+    const benchmarkValsFull = buildBenchmarkOverlayValues(selectedBenchmark, sliced.t);
+    if (benchmarkValsFull) {
+      const ds = downsampleSeries(sliced.labels, benchmarkValsFull, CHART_MAX_POINTS);
+      const benchmarkStyle = {
+        usd: { label: "USD (baz 100)", color: "#fb923c" },
+        bist100: { label: "BIST100 (baz 100)", color: "#38bdf8" },
+        tufe: { label: "TÜFE (baz 100)", color: "#e879f9" },
+      };
+      const style = benchmarkStyle[selectedBenchmark];
+      if (style) {
+        datasets.push({
+          label: style.label,
+          data: ds.values,
+          borderColor: style.color,
+          backgroundColor: "transparent",
+          borderWidth: 2,
+          fill: false,
+          tension: 0.12,
+          pointRadius: 0,
+          pointHoverRadius: 0,
+          spanGaps: false,
+        });
+      }
+    }
+  }
+
+  renderChart(dl, datasets);
+
+  setSummaryValue("summaryFundReturn", sliced.totalReturn);
+  setSummaryValue("summaryUsdReturn", seriesReturnPct(getBenchmarkSeriesByKey("usd"), selectedPeriod));
+  setSummaryValue("summaryBistReturn", seriesReturnPct(getBenchmarkSeriesByKey("bist100"), selectedPeriod));
+  setSummaryValue("summaryTufeReturn", seriesReturnPct(getBenchmarkSeriesByKey("tufe"), selectedPeriod));
 }
 
 async function loadFundBundle(fundMeta) {
@@ -312,6 +443,10 @@ async function selectFund(fundMeta) {
     document.getElementById("chartPlaceholder").textContent =
       "JSON yüklenemedi. Yerel sunucu kullanın (py -m http.server 8080).";
     document.getElementById("chartPlaceholder").classList.remove("hidden");
+    setSummaryValue("summaryFundReturn", null);
+    setSummaryValue("summaryUsdReturn", null);
+    setSummaryValue("summaryBistReturn", null);
+    setSummaryValue("summaryTufeReturn", null);
     return;
   }
 
@@ -344,6 +479,10 @@ async function selectFund(fundMeta) {
       "Kayıtlarda geçerli fiyat/tarih bulunamadı.";
     document.getElementById("chartPlaceholder").classList.remove("hidden");
     document.getElementById("mockReturn").textContent = "—";
+    setSummaryValue("summaryFundReturn", null);
+    setSummaryValue("summaryUsdReturn", null);
+    setSummaryValue("summaryBistReturn", null);
+    setSummaryValue("summaryTufeReturn", null);
     return;
   }
 
@@ -355,8 +494,17 @@ function renderFundList() {
   const countEl = document.getElementById("fundCount");
   if (!list || !manifest) return;
   list.innerHTML = "";
-  const fonlar = [...manifest.fonlar].sort((a, b) => String(a.kod).localeCompare(String(b.kod)));
-  countEl.textContent = `${fonlar.length} fon`;
+  const allFunds = [...manifest.fonlar].sort((a, b) => String(a.kod).localeCompare(String(b.kod)));
+  const q = fundSearchQuery.trim().toUpperCase();
+  const fonlar = q
+    ? allFunds.filter((f) => String(f.kod || "").toUpperCase().includes(q))
+    : allFunds;
+  countEl.textContent = `${fonlar.length}/${allFunds.length} fon`;
+
+  if (fonlar.length === 0) {
+    list.innerHTML = `<li class="fund-list__error">Aramaya uygun fon bulunamadı.</li>`;
+    return;
+  }
 
   fonlar.forEach((f) => {
     const li = document.createElement("li");
@@ -392,6 +540,243 @@ function renderFundList() {
   });
 }
 
+async function getFundSeriesByCode(kod) {
+  if (!manifest || !kod) return null;
+  if (compareSeriesCache.has(kod)) return compareSeriesCache.get(kod);
+  const fundMeta = manifest.fonlar.find((f) => String(f.kod) === String(kod));
+  if (!fundMeta) return null;
+  const bundle = await loadFundBundle(fundMeta);
+  if (!bundle) return null;
+  const series = buildFullSeriesFromBundle(bundle);
+  if (series) compareSeriesCache.set(kod, series);
+  return series;
+}
+
+function computePeriodReturnAndVol(series, period) {
+  if (!series || !series.t || series.t.length < 2) return { periodReturn: null, volatility: null };
+  const last = series.t[series.t.length - 1];
+  const cut = periodStartMs(last, period);
+  const prices = [];
+  for (let i = 0; i < series.t.length; i++) {
+    if (series.t[i] >= cut) prices.push(series.p[i]);
+  }
+  if (prices.length < 2 || prices[0] <= 0) return { periodReturn: null, volatility: null };
+
+  const periodReturn = prices[prices.length - 1] / prices[0] - 1;
+  const rets = [];
+  for (let i = 1; i < prices.length; i++) {
+    if (prices[i - 1] > 0) rets.push(prices[i] / prices[i - 1] - 1);
+  }
+  if (rets.length < 2) return { periodReturn, volatility: null };
+
+  const mean = rets.reduce((a, b) => a + b, 0) / rets.length;
+  const variance = rets.reduce((a, r) => a + (r - mean) ** 2, 0) / (rets.length - 1);
+  const volatility = Math.sqrt(Math.max(variance, 0)) * Math.sqrt(252);
+  return { periodReturn, volatility };
+}
+
+const PREFERRED_COMPARE_DEFAULTS = ["AAV", "ACC", "IDH", "TCD", "TAU"];
+
+function pickCompareDefaultCodes(sortedFunds) {
+  const kodSet = new Set(sortedFunds.map((f) => String(f.kod)));
+  const out = [];
+  for (const k of PREFERRED_COMPARE_DEFAULTS) {
+    if (kodSet.has(k)) out.push(k);
+  }
+  for (const f of sortedFunds) {
+    if (out.length >= 5) break;
+    const k = String(f.kod);
+    if (!out.includes(k)) out.push(k);
+  }
+  return out.slice(0, 5);
+}
+
+function populateCompareSelectors() {
+  if (!manifest) return;
+  const sorted = [...manifest.fonlar].sort((a, b) => String(a.kod).localeCompare(String(b.kod)));
+  const selectIds = ["compareFund1", "compareFund2", "compareFund3", "compareFund4", "compareFund5"];
+  const defaults = pickCompareDefaultCodes(sorted);
+
+  selectIds.forEach((id, idx) => {
+    const sel = document.getElementById(id);
+    if (!sel) return;
+    sel.innerHTML = "";
+    const emptyOpt = document.createElement("option");
+    emptyOpt.value = "";
+    emptyOpt.textContent = "Fon seç";
+    sel.appendChild(emptyOpt);
+
+    sorted.forEach((f) => {
+      const opt = document.createElement("option");
+      opt.value = f.kod;
+      opt.textContent = `${f.kod} - ${f.ad || f.kod}`;
+      sel.appendChild(opt);
+    });
+
+    const kod = defaults[idx];
+    if (kod && sorted.some((f) => f.kod === kod)) {
+      sel.value = kod;
+    } else {
+      sel.value = "";
+    }
+  });
+}
+
+function getSelectedCompareRows() {
+  if (!manifest) return [];
+  const byKod = new Map(manifest.fonlar.map((f) => [String(f.kod), f]));
+  const selectIds = ["compareFund1", "compareFund2", "compareFund3", "compareFund4", "compareFund5"];
+  return selectIds.map((id) => {
+    const sel = document.getElementById(id);
+    const kod = sel ? String(sel.value || "") : "";
+    return kod && byKod.has(kod) ? byKod.get(kod) : null;
+  });
+}
+
+function fmtPercent(v) {
+  if (v == null || !Number.isFinite(v)) return '<span class="cell-missing">—</span>';
+  const sign = v >= 0 ? "+" : "";
+  const cls = v >= 0 ? "alpha-pos" : "alpha-neg";
+  return `<span class="${cls}">${sign}${(v * 100).toFixed(2)}%</span>`;
+}
+
+/** Yilliklandirilmis volatilite (ondalik): dusuk = yesil, yuksek = kirmizi (HSYF icin kabaca esikler). */
+function fmtVolatilityRisk(v) {
+  if (v == null || !Number.isFinite(v)) return '<span class="cell-missing">—</span>';
+  const pct = v * 100;
+  const sign = v >= 0 ? "+" : "";
+  let risk = "risk-metric--mid";
+  if (v <= 0.18) risk = "risk-metric--low";
+  else if (v > 0.28) risk = "risk-metric--high";
+  return `<span class="risk-metric ${risk}">${sign}${pct.toFixed(2)}%</span>`;
+}
+
+/** Max drawdown (ondalik, genelde negatif): 0'a yakin = yesil, cok negatif = kirmizi. */
+function fmtMaxDrawdownRisk(v) {
+  if (v == null || !Number.isFinite(v)) return '<span class="cell-missing">—</span>';
+  const pct = v * 100;
+  let risk = "risk-metric--mid";
+  if (v >= -0.1) risk = "risk-metric--low";
+  else if (v < -0.22) risk = "risk-metric--high";
+  return `<span class="risk-metric ${risk}">${pct.toFixed(2)}%</span>`;
+}
+
+async function renderMultiCompareTable() {
+  const tbody = document.getElementById("compareTableBody");
+  if (!tbody || !manifest) return;
+  const token = ++compareRenderToken;
+  tbody.innerHTML = `<div class="compare-matrix-wrap"><div class="terminal-grid__row terminal-grid__row--loading" role="row"><div class="terminal-grid__cell terminal-grid__cell--span-full terminal-grid__cell--loading" role="status">Yükleniyor...</div></div></div><div class="compare-cards-wrap" role="list"></div>`;
+  const selected = getSelectedCompareRows();
+  const headIds = ["compareHead1", "compareHead2", "compareHead3", "compareHead4", "compareHead5"];
+  selected.forEach((f, i) => {
+    const th = document.getElementById(headIds[i]);
+    if (th) th.textContent = f ? f.kod : "—";
+  });
+
+  const computed = await Promise.all(
+    selected.map(async (f) => {
+      if (!f) return { periodReturn: null, volatility: null };
+      const series = await getFundSeriesByCode(f.kod);
+      return computePeriodReturnAndVol(series, selectedPeriod);
+    })
+  );
+  if (token !== compareRenderToken) return;
+
+  const statsFor = (f) => (f && f.stats && f.stats[selectedPeriod] ? f.stats[selectedPeriod] : {});
+  const rowDefs = [
+    {
+      label: "Dönem Getirisi",
+      render: (st, idx) => fmtPercent(numOrNull(computed[idx].periodReturn)),
+    },
+    {
+      label: "Volatilite",
+      render: (st, idx) => fmtVolatilityRisk(numOrNull(computed[idx].volatility)),
+    },
+    {
+      label: "Sharpe",
+      render: (st) => formatRatio(numOrNull(st.sharpe)).html,
+    },
+    {
+      label: "Sortino",
+      render: (st) => formatRatio(numOrNull(st.sortino)).html,
+    },
+    {
+      label: "Alpha (BIST100)",
+      render: (st) => formatAlphaCell(numOrNull(st.alpha)).html,
+    },
+    {
+      label: "Max Drawdown",
+      render: (st) => fmtMaxDrawdownRisk(numOrNull(st.max_drawdown)),
+    },
+  ];
+
+  const matrixHtml = rowDefs
+    .map((rowDef) => {
+      const cells = selected
+        .map((f, idx) => {
+          const st = statsFor(f);
+          return `<div class="terminal-grid__cell terminal-grid__cell--col-num">${rowDef.render(st, idx)}</div>`;
+        })
+        .join("");
+      return `<div class="terminal-grid__row terminal-grid__row--data" role="row"><div class="terminal-grid__cell terminal-grid__cell--col-first">${escapeHtml(
+        rowDef.label
+      )}</div>${cells}</div>`;
+    })
+    .join("");
+
+  const cardsHtml = selected.map((f, idx) => buildCompareFundCard(f, idx, computed, statsFor)).join("");
+  tbody.innerHTML = `<div class="compare-matrix-wrap">${matrixHtml}</div><div class="compare-cards-wrap" role="list">${cardsHtml}</div>`;
+}
+
+/** Sharpe/Sortino hücre metnini mobil kartta renk sınıfı ile sarar. */
+function wrapCompareRatioHtml(html) {
+  if (!html || String(html).includes("cell-missing")) return html;
+  return `<span class="compare-metric-num">${html}</span>`;
+}
+
+/** Mobil: fon karşılaştırma list-kartı (Fon rasyoları ile aynı grid/hiyerarşi). */
+function buildCompareFundCard(f, idx, computed, statsFor) {
+  if (!f) return "";
+  const st = statsFor(f);
+  const pr = computed[idx];
+  const periodReturnHtml = fmtPercent(numOrNull(pr.periodReturn));
+  const volHtml = fmtVolatilityRisk(numOrNull(pr.volatility));
+  const sharpeHtml = wrapCompareRatioHtml(formatRatio(numOrNull(st.sharpe)).html);
+  const sortHtml = wrapCompareRatioHtml(formatRatio(numOrNull(st.sortino)).html);
+  const alphaCell = formatAlphaCell(numOrNull(st.alpha));
+  const alphaHtml = alphaCell && typeof alphaCell.html === "string" ? alphaCell.html : '<span class="cell-missing">—</span>';
+  const ddHtml = fmtMaxDrawdownRisk(numOrNull(st.max_drawdown));
+
+  return `<article class="compare-card" role="listitem">
+    <div class="compare-card__bar">
+      <span class="compare-card__code">${escapeHtml(f.kod)}</span>
+      <span class="compare-card__badge">${periodReturnHtml}</span>
+    </div>
+    <div class="compare-card__matrix compare-rasyo-grid">
+      <div class="compare-card__slot compare-card__slot--left">
+        <span class="compare-card__k">Volatilite</span>
+        <div class="compare-card__v">${volHtml}</div>
+      </div>
+      <div class="compare-card__slot compare-card__slot--right">
+        <span class="compare-card__k">Sharpe</span>
+        <div class="compare-card__v">${sharpeHtml}</div>
+      </div>
+      <div class="compare-card__slot compare-card__slot--left">
+        <span class="compare-card__k">Sortino</span>
+        <div class="compare-card__v">${sortHtml}</div>
+      </div>
+      <div class="compare-card__slot compare-card__slot--right">
+        <span class="compare-card__k">Alpha</span>
+        <div class="compare-card__v">${alphaHtml}</div>
+      </div>
+      <div class="compare-card__slot compare-card__slot--maxdd">
+        <span class="compare-card__k">Max DD</span>
+        <div class="compare-card__v">${ddHtml}</div>
+      </div>
+    </div>
+  </article>`;
+}
+
 function escapeHtml(s) {
   return String(s ?? "")
     .replace(/&/g, "&amp;")
@@ -418,13 +803,57 @@ function syncNavActive() {
   });
 }
 
+function closeMobileNav() {
+  const nav = document.querySelector(".terminal-nav");
+  const toggle = document.getElementById("navToggle");
+  if (nav) nav.classList.remove("is-nav-open");
+  if (toggle) toggle.setAttribute("aria-expanded", "false");
+  document.body.classList.remove("nav-open");
+}
+
+function wireMobileNav() {
+  const nav = document.querySelector(".terminal-nav");
+  const toggle = document.getElementById("navToggle");
+  const backdrop = document.getElementById("navBackdrop");
+  if (!nav || !toggle) return;
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const open = !nav.classList.contains("is-nav-open");
+    nav.classList.toggle("is-nav-open", open);
+    toggle.setAttribute("aria-expanded", String(open));
+    document.body.classList.toggle("nav-open", open);
+  });
+  if (backdrop) {
+    backdrop.addEventListener("click", closeMobileNav);
+  }
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeMobileNav();
+  });
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 768) closeMobileNav();
+    if (chartInstance) chartInstance.resize();
+  });
+}
+
 function showView(route) {
+  closeMobileNav();
   currentView = route;
   syncNavActive();
   document.getElementById("view-dashboard").classList.toggle("hidden", route !== "dashboard");
   document.getElementById("view-analiz").classList.toggle("hidden", route !== "analiz");
   document.getElementById("view-karsilastirma").classList.toggle("hidden", route !== "karsilastirma");
-  if (route === "karsilastirma") renderStatsTable();
+  document.getElementById("view-fon-karsilastirma").classList.toggle("hidden", route !== "fon-karsilastirma");
+  const vHisse = document.getElementById("view-fon-hisse-detay");
+  if (vHisse) vHisse.classList.toggle("hidden", route !== "fon-hisse-detay");
+  if (route === "karsilastirma") {
+    renderStatsTable();
+  }
+  if (route === "fon-karsilastirma") {
+    renderMultiCompareTable();
+  }
+  if (route === "fon-hisse-detay" && typeof window.FonHisseDetay !== "undefined" && window.FonHisseDetay.onRouteEnter) {
+    window.FonHisseDetay.onRouteEnter();
+  }
   if (route === "analiz" && activeFundMeta && fullSeriesCache) applyPeriodToChart();
 }
 
@@ -438,7 +867,12 @@ function setPeriod(p) {
   selectedPeriod = p;
   syncPeriodButtons();
   if (currentView === "analiz") applyPeriodToChart();
-  if (currentView === "karsilastirma") renderStatsTable();
+  if (currentView === "karsilastirma") {
+    renderStatsTable();
+  }
+  if (currentView === "fon-karsilastirma") {
+    renderMultiCompareTable();
+  }
 }
 
 function numOrNull(v) {
@@ -466,6 +900,33 @@ function formatMaxDdCell(v) {
   return { html: `<span class="alpha-neg">${pct}%</span>`, sort: v };
 }
 
+/** Fon rasyoları tablosu: Sharpe/Sortino — 1.0 üzeri hafif vurgu. */
+function formatSharpeSortinoCell(v) {
+  if (v == null || !Number.isFinite(v)) return '<span class="cell-missing">—</span>';
+  const strong = v >= 1 ? " metric-strong" : "";
+  return `<span class="cell-num${strong}">${v.toFixed(3)}</span>`;
+}
+
+/** Alpha: pozitif yeşil, negatif kırmızı (BIST100). */
+function formatAlphaStatsCell(v) {
+  if (v == null || !Number.isFinite(v)) return '<span class="cell-missing">—</span>';
+  const pct = (v * 100).toFixed(2);
+  const sign = v >= 0 ? "+" : "";
+  const cls = v >= 0 ? "metric-alpha-pos" : "metric-alpha-neg";
+  return `<span class="${cls}">${sign}${pct}%</span>`;
+}
+
+/** Mobil kart rozeti: seçili dönem Alpha (α), kompakt. */
+function formatAlphaBadgeHtml(v) {
+  if (v == null || !Number.isFinite(v)) {
+    return '<span class="ratio-card__pill ratio-card__pill--empty">—</span>';
+  }
+  const pct = (v * 100).toFixed(1);
+  const sign = v >= 0 ? "+" : "";
+  const cls = v >= 0 ? "ratio-card__pill--pos" : "ratio-card__pill--neg";
+  return `<span class="ratio-card__pill ${cls}">α${sign}${pct}%</span>`;
+}
+
 function renderStatsTable() {
   const tbody = document.getElementById("statsTableBody");
   const hint = document.getElementById("tableBenchmarkHint");
@@ -477,8 +938,8 @@ function renderStatsTable() {
   const us = b.usdtry_son != null ? ` · USD/TRY: ${Number(b.usdtry_son).toFixed(4)}` : "";
   if (hint) hint.textContent = `${rf}${xu}${us}`.trim() || (b.aciklama || "");
 
-  document.querySelectorAll(".stats-table__th--sortable").forEach((th) => {
-    th.classList.toggle("is-sorted", th.dataset.sort === tableSortKey);
+  document.querySelectorAll("#statsTableGrid .terminal-grid__cell--sortable").forEach((cell) => {
+    cell.classList.toggle("is-sorted", cell.dataset.sort === tableSortKey);
   });
 
   const rows = manifest.fonlar.map((f) => {
@@ -504,17 +965,35 @@ function renderStatsTable() {
 
   tbody.innerHTML = rows
     .map((r) => {
-      const sh = formatRatio(r.sharpe);
-      const so = formatRatio(r.sortino);
-      const al = formatAlphaCell(r.alpha);
-      const dd = formatMaxDdCell(r.max_drawdown);
-      return `<tr>
-      <td>${escapeHtml(r.kod)}</td>
-      <td>${sh.html}</td>
-      <td>${so.html}</td>
-      <td>${al.html}</td>
-      <td>${dd.html}</td>
-    </tr>`;
+      const sh = formatSharpeSortinoCell(r.sharpe);
+      const so = formatSharpeSortinoCell(r.sortino);
+      const al = formatAlphaStatsCell(r.alpha);
+      const dd = fmtMaxDrawdownRisk(r.max_drawdown);
+      const badge = formatAlphaBadgeHtml(r.alpha);
+      return `<article class="ratio-card" role="row">
+      <div class="ratio-card__bar">
+        <span class="ratio-card__code">${escapeHtml(r.kod)}</span>
+        <span class="ratio-card__badge">${badge}</span>
+      </div>
+      <div class="ratio-card__matrix rasyo-grid">
+        <div class="ratio-card__slot">
+          <span class="ratio-card__k">Sharpe</span>
+          <div class="ratio-card__v">${sh}</div>
+        </div>
+        <div class="ratio-card__slot">
+          <span class="ratio-card__k">Sortino</span>
+          <div class="ratio-card__v">${so}</div>
+        </div>
+        <div class="ratio-card__slot">
+          <span class="ratio-card__k">Alpha</span>
+          <div class="ratio-card__v">${al}</div>
+        </div>
+        <div class="ratio-card__slot">
+          <span class="ratio-card__k">Max DD</span>
+          <div class="ratio-card__v">${dd}</div>
+        </div>
+      </div>
+    </article>`;
     })
     .join("");
 }
@@ -532,9 +1011,9 @@ function wireNav() {
 }
 
 function wireTableSort() {
-  document.querySelectorAll(".stats-table__th--sortable").forEach((th) => {
-    th.addEventListener("click", () => {
-      tableSortKey = th.dataset.sort || "sharpe";
+  document.querySelectorAll("#statsTableGrid .terminal-grid__cell--sortable").forEach((cell) => {
+    cell.addEventListener("click", () => {
+      tableSortKey = cell.dataset.sort || "sharpe";
       renderStatsTable();
     });
   });
@@ -542,6 +1021,8 @@ function wireTableSort() {
 
 async function init() {
   manifest = await loadManifest();
+  benchmarks = await loadBenchmarks();
+  wireMobileNav();
   wireNav();
   wirePeriodToolbars();
   wireTableSort();
@@ -552,7 +1033,30 @@ async function init() {
     showManifestError();
     return;
   }
+  const fundSearchInput = document.getElementById("fundSearchInput");
+  if (fundSearchInput) {
+    fundSearchInput.addEventListener("input", (e) => {
+      fundSearchQuery = String(e.target.value || "");
+      renderFundList();
+    });
+  }
+  const benchmarkSelect = document.getElementById("benchmarkSelect");
+  if (benchmarkSelect) {
+    benchmarkSelect.addEventListener("change", (e) => {
+      selectedBenchmark = String(e.target.value || "none");
+      if (currentView === "analiz" && activeFundMeta && fullSeriesCache) applyPeriodToChart();
+    });
+  }
+  populateCompareSelectors();
+  const multiCompareRoot = document.getElementById("multiCompareRoot");
+  if (multiCompareRoot) {
+    multiCompareRoot.addEventListener("change", (e) => {
+      const t = e.target;
+      if (t && t.id && String(t.id).startsWith("compareFund")) renderMultiCompareTable();
+    });
+  }
   renderFundList();
+  renderMultiCompareTable();
 }
 
 document.addEventListener("DOMContentLoaded", init);

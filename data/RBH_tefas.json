@@ -2,24 +2,14 @@
   "fon_kodu": "RBH",
   "fon_unvan": "ALBARAKA ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "RBH",
-      "FONUNVAN": "ALBARAKA ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.817632,
-      "TEDPAYSAYISI": 43226350.0,
-      "KISISAYISI": 4652.0,
-      "PORTFOYBUYUKLUK": 121795931.48,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "RBH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 30801421.0,
       "KISISAYISI": 5012.0,
       "PORTFOYBUYUKLUK": 878237422.42,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "RBH",
+      "FONUNVAN": "ALBARAKA ASSET MANAGEMENT PARTICIPATION EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 28.438092,
+      "TEDPAYSAYISI": 30791530.0,
+      "KISISAYISI": 5009.0,
+      "PORTFOYBUYUKLUK": 875652350.72,
       "BilFiyat": "-"
     }
   ]

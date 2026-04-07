@@ -2,11 +2,11 @@
   "fon_kodu": "RPI",
   "fon_unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 438,
-  "gun_kapsami": 632,
+  "kayit_sayisi": 439,
+  "gun_kapsami": 635,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4388,6 +4388,16 @@
       "TEDPAYSAYISI": 13190568.0,
       "KISISAYISI": 361.0,
       "PORTFOYBUYUKLUK": 16996473.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "RPI",
+      "FONUNVAN": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.282465,
+      "TEDPAYSAYISI": 13189806.0,
+      "KISISAYISI": 362.0,
+      "PORTFOYBUYUKLUK": 16915470.96,
       "BilFiyat": "-"
     }
   ]

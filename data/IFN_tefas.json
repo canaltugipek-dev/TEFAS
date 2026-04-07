@@ -2,11 +2,11 @@
   "fon_kodu": "IFN",
   "fon_unvan": "ICBC TURKEY PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1013,
-  "gun_kapsami": 1471,
+  "kayit_sayisi": 1014,
+  "gun_kapsami": 1474,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10138,6 +10138,16 @@
       "TEDPAYSAYISI": 557538.0,
       "KISISAYISI": 493.0,
       "PORTFOYBUYUKLUK": 4917328.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IFN",
+      "FONUNVAN": "ICBC TURKEY PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 8.795619,
+      "TEDPAYSAYISI": 557072.0,
+      "KISISAYISI": 493.0,
+      "PORTFOYBUYUKLUK": 4899793.26,
       "BilFiyat": "-"
     }
   ]

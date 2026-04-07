@@ -2,24 +2,14 @@
   "fon_kodu": "FPH",
   "fon_unvan": "FİBA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "FPH",
-      "FONUNVAN": "FİBA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 3.062782,
-      "TEDPAYSAYISI": 12076482.0,
-      "KISISAYISI": 462.0,
-      "PORTFOYBUYUKLUK": 36987629.24,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "FPH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 47106399.0,
       "KISISAYISI": 4938.0,
       "PORTFOYBUYUKLUK": 1463359253.37,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "FPH",
+      "FONUNVAN": "FİBA ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 30.874171,
+      "TEDPAYSAYISI": 47065650.0,
+      "KISISAYISI": 4927.0,
+      "PORTFOYBUYUKLUK": 1453112910.1,
       "BilFiyat": "-"
     }
   ]

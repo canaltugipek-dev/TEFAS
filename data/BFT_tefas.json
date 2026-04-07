@@ -2,11 +2,11 @@
   "fon_kodu": "BFT",
   "fon_unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 321,
-  "gun_kapsami": 464,
+  "kayit_sayisi": 322,
+  "gun_kapsami": 467,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3218,6 +3218,16 @@
       "TEDPAYSAYISI": 100792640.0,
       "KISISAYISI": 540.0,
       "PORTFOYBUYUKLUK": 112832756.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.111525,
+      "TEDPAYSAYISI": 99356459.0,
+      "KISISAYISI": 539.0,
+      "PORTFOYBUYUKLUK": 110437166.58,
       "BilFiyat": "-"
     }
   ]

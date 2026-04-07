@@ -2,11 +2,11 @@
   "fon_kodu": "NKC",
   "fon_unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 166,
-  "gun_kapsami": 234,
+  "kayit_sayisi": 167,
+  "gun_kapsami": 237,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1668,6 +1668,16 @@
       "TEDPAYSAYISI": 417185896.0,
       "KISISAYISI": 1317.0,
       "PORTFOYBUYUKLUK": 509598013.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.216455,
+      "TEDPAYSAYISI": 417198219.0,
+      "KISISAYISI": 1313.0,
+      "PORTFOYBUYUKLUK": 507502968.42,
       "BilFiyat": "-"
     }
   ]

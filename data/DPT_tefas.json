@@ -2,24 +2,14 @@
   "fon_kodu": "DPT",
   "fon_unvan": "DENİZ ASSET MANAGEMENT BIST DIVIDEND 25 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "DPT",
-      "FONUNVAN": "DENİZ ASSET MANAGEMENT BIST DIVIDEND 25 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 1.781894,
-      "TEDPAYSAYISI": 5120361.0,
-      "KISISAYISI": 663.0,
-      "PORTFOYBUYUKLUK": 9123939.88,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "DPT",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 20526674.0,
       "KISISAYISI": 5595.0,
       "PORTFOYBUYUKLUK": 331107452.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DPT",
+      "FONUNVAN": "DENİZ ASSET MANAGEMENT BIST DIVIDEND 25 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 16.003626,
+      "TEDPAYSAYISI": 20485532.0,
+      "KISISAYISI": 5582.0,
+      "PORTFOYBUYUKLUK": 327842788.86,
       "BilFiyat": "-"
     }
   ]

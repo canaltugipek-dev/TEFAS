@@ -2,24 +2,14 @@
   "fon_kodu": "YZH",
   "fon_unvan": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "YZH",
-      "FONUNVAN": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
-      "FIYAT": 0.719934,
-      "TEDPAYSAYISI": 19477674.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 14022641.79,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "YZH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 101441930.0,
       "KISISAYISI": 6525.0,
       "PORTFOYBUYUKLUK": 1089425786.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YZH",
+      "FONUNVAN": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+      "FIYAT": 10.707004,
+      "TEDPAYSAYISI": 101490285.0,
+      "KISISAYISI": 6517.0,
+      "PORTFOYBUYUKLUK": 1086656909.0,
       "BilFiyat": "-"
     }
   ]

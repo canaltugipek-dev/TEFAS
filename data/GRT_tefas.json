@@ -2,11 +2,11 @@
   "fon_kodu": "GRT",
   "fon_unvan": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 295,
-  "gun_kapsami": 427,
+  "kayit_sayisi": 296,
+  "gun_kapsami": 430,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2958,6 +2958,16 @@
       "TEDPAYSAYISI": 47590695.0,
       "KISISAYISI": 1423.0,
       "PORTFOYBUYUKLUK": 67435898.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GRT",
+      "FONUNVAN": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.407453,
+      "TEDPAYSAYISI": 47435808.0,
+      "KISISAYISI": 1421.0,
+      "PORTFOYBUYUKLUK": 66763656.44,
       "BilFiyat": "-"
     }
   ]

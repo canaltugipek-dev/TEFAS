@@ -2,11 +2,11 @@
   "fon_kodu": "NUH",
   "fon_unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 105,
-  "gun_kapsami": 148,
+  "kayit_sayisi": 106,
+  "gun_kapsami": 151,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1058,6 +1058,16 @@
       "TEDPAYSAYISI": 71374531.0,
       "KISISAYISI": 849.0,
       "PORTFOYBUYUKLUK": 79856268.65,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NUH",
+      "FONUNVAN": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.138275,
+      "TEDPAYSAYISI": 71147682.0,
+      "KISISAYISI": 850.0,
+      "PORTFOYBUYUKLUK": 80985634.36,
       "BilFiyat": "-"
     }
   ]

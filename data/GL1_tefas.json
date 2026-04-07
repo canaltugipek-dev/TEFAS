@@ -2,24 +2,14 @@
   "fon_kodu": "GL1",
   "fon_unvan": "AZİMUT ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "GL1",
-      "FONUNVAN": "AZİMUT ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 99.853673,
-      "TEDPAYSAYISI": 930126.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 92876497.42,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "GL1",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 924631.0,
       "KISISAYISI": 1029.0,
       "PORTFOYBUYUKLUK": 1241983911.24,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GL1",
+      "FONUNVAN": "AZİMUT ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1331.367956,
+      "TEDPAYSAYISI": 924188.0,
+      "KISISAYISI": 1025.0,
+      "PORTFOYBUYUKLUK": 1230434288.43,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "TLZ",
   "fon_unvan": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TLZ",
-      "FONUNVAN": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.494046,
-      "TEDPAYSAYISI": 9161773.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 13688106.02,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TLZ",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 3220677.0,
       "KISISAYISI": 815.0,
       "PORTFOYBUYUKLUK": 52250737.73,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TLZ",
+      "FONUNVAN": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 16.126864,
+      "TEDPAYSAYISI": 3210226.0,
+      "KISISAYISI": 814.0,
+      "PORTFOYBUYUKLUK": 51770878.02,
       "BilFiyat": "-"
     }
   ]

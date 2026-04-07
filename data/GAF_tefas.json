@@ -2,24 +2,14 @@
   "fon_kodu": "GAF",
   "fon_unvan": "INVEO ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "GAF",
-      "FONUNVAN": "INVEO ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.106343,
-      "TEDPAYSAYISI": 74544000.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 7927245.87,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "GAF",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 127754697.0,
       "KISISAYISI": 1785.0,
       "PORTFOYBUYUKLUK": 203188815.24,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GAF",
+      "FONUNVAN": "INVEO ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.573804,
+      "TEDPAYSAYISI": 127612741.0,
+      "KISISAYISI": 1782.0,
+      "PORTFOYBUYUKLUK": 200837414.42,
       "BilFiyat": "-"
     }
   ]

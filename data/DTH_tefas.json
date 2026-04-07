@@ -2,11 +2,11 @@
   "fon_kodu": "DTH",
   "fon_unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 81,
-  "gun_kapsami": 114,
+  "kayit_sayisi": 82,
+  "gun_kapsami": 117,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -818,6 +818,16 @@
       "TEDPAYSAYISI": 139378921.0,
       "KISISAYISI": 121.0,
       "PORTFOYBUYUKLUK": 160169676.74,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.144394,
+      "TEDPAYSAYISI": 139378341.0,
+      "KISISAYISI": 121.0,
+      "PORTFOYBUYUKLUK": 159503680.77,
       "BilFiyat": "-"
     }
   ]

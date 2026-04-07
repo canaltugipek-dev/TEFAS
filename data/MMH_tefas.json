@@ -2,24 +2,14 @@
   "fon_kodu": "MMH",
   "fon_unvan": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "MMH",
-      "FONUNVAN": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.173955,
-      "TEDPAYSAYISI": 6708811.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 7875843.72,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "MMH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 10603644.0,
       "KISISAYISI": 1579.0,
       "PORTFOYBUYUKLUK": 161460862.58,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MMH",
+      "FONUNVAN": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 15.100184,
+      "TEDPAYSAYISI": 10602455.0,
+      "KISISAYISI": 1578.0,
+      "PORTFOYBUYUKLUK": 160099022.12,
       "BilFiyat": "-"
     }
   ]

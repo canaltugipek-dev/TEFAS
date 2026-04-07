@@ -2,11 +2,11 @@
   "fon_kodu": "NKT",
   "fon_unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 85,
-  "gun_kapsami": 120,
+  "kayit_sayisi": 86,
+  "gun_kapsami": 123,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -858,6 +858,16 @@
       "TEDPAYSAYISI": 42264896.0,
       "KISISAYISI": 439.0,
       "PORTFOYBUYUKLUK": 52911775.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NKT",
+      "FONUNVAN": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.254551,
+      "TEDPAYSAYISI": 42268534.0,
+      "KISISAYISI": 434.0,
+      "PORTFOYBUYUKLUK": 53028014.79,
       "BilFiyat": "-"
     }
   ]

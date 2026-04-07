@@ -2,24 +2,14 @@
   "fon_kodu": "NNF",
   "fon_unvan": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "NNF",
-      "FONUNVAN": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.625723,
-      "TEDPAYSAYISI": 394139905.0,
-      "KISISAYISI": 17921.0,
-      "PORTFOYBUYUKLUK": 640762158.82,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "NNF",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 144866985.0,
       "KISISAYISI": 22940.0,
       "PORTFOYBUYUKLUK": 3100516974.69,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "NNF",
+      "FONUNVAN": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 21.23577,
+      "TEDPAYSAYISI": 144739767.0,
+      "KISISAYISI": 22899.0,
+      "PORTFOYBUYUKLUK": 3073660342.29,
       "BilFiyat": "-"
     }
   ]

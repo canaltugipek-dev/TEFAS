@@ -2,11 +2,11 @@
   "fon_kodu": "YHK",
   "fon_unvan": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 489,
-  "gun_kapsami": 709,
+  "kayit_sayisi": 490,
+  "gun_kapsami": 712,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4898,6 +4898,16 @@
       "TEDPAYSAYISI": 382091809.0,
       "KISISAYISI": 4815.0,
       "PORTFOYBUYUKLUK": 652889672.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YHK",
+      "FONUNVAN": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.70047,
+      "TEDPAYSAYISI": 386592538.0,
+      "KISISAYISI": 4845.0,
+      "PORTFOYBUYUKLUK": 657388853.04,
       "BilFiyat": "-"
     }
   ]

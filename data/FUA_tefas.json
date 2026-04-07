@@ -2,11 +2,11 @@
   "fon_kodu": "FUA",
   "fon_unvan": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1039,
-  "gun_kapsami": 1507,
+  "kayit_sayisi": 1040,
+  "gun_kapsami": 1510,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10398,6 +10398,16 @@
       "TEDPAYSAYISI": 63574065.0,
       "KISISAYISI": 5134.0,
       "PORTFOYBUYUKLUK": 313019483.29,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "FUA",
+      "FONUNVAN": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 4.894216,
+      "TEDPAYSAYISI": 63536572.0,
+      "KISISAYISI": 5130.0,
+      "PORTFOYBUYUKLUK": 310961728.15,
       "BilFiyat": "-"
     }
   ]

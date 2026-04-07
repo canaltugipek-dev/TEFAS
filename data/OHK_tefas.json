@@ -2,11 +2,11 @@
   "fon_kodu": "OHK",
   "fon_unvan": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 815,
-  "gun_kapsami": 1183,
+  "kayit_sayisi": 816,
+  "gun_kapsami": 1186,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -8158,6 +8158,16 @@
       "TEDPAYSAYISI": 11424385.0,
       "KISISAYISI": 1107.0,
       "PORTFOYBUYUKLUK": 27157711.4,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "OHK",
+      "FONUNVAN": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.365774,
+      "TEDPAYSAYISI": 11377128.0,
+      "KISISAYISI": 1104.0,
+      "PORTFOYBUYUKLUK": 26915717.69,
       "BilFiyat": "-"
     }
   ]

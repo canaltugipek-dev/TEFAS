@@ -2,11 +2,11 @@
   "fon_kodu": "DLD",
   "fon_unvan": "DENİZ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1033,
-  "gun_kapsami": 1499,
+  "kayit_sayisi": 1034,
+  "gun_kapsami": 1502,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10338,6 +10338,16 @@
       "TEDPAYSAYISI": 10702313.0,
       "KISISAYISI": 609.0,
       "PORTFOYBUYUKLUK": 71517204.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DLD",
+      "FONUNVAN": "DENİZ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 6.627181,
+      "TEDPAYSAYISI": 10702111.0,
+      "KISISAYISI": 606.0,
+      "PORTFOYBUYUKLUK": 70924825.92,
       "BilFiyat": "-"
     }
   ]

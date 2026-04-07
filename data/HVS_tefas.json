@@ -2,24 +2,14 @@
   "fon_kodu": "HVS",
   "fon_unvan": "HSBC ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "HVS",
-      "FONUNVAN": "HSBC ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.089961,
-      "TEDPAYSAYISI": 641354625.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 57697128.13,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "HVS",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 1876644156.0,
       "KISISAYISI": 11080.0,
       "PORTFOYBUYUKLUK": 2701478513.85,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "HVS",
+      "FONUNVAN": "HSBC ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.426223,
+      "TEDPAYSAYISI": 1876475176.0,
+      "KISISAYISI": 11072.0,
+      "PORTFOYBUYUKLUK": 2676271174.67,
       "BilFiyat": "-"
     }
   ]

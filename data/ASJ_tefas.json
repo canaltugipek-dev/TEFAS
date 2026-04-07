@@ -2,11 +2,11 @@
   "fon_kodu": "ASJ",
   "fon_unvan": "AKTİF PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 727,
-  "gun_kapsami": 1057,
+  "kayit_sayisi": 728,
+  "gun_kapsami": 1060,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -7278,6 +7278,16 @@
       "TEDPAYSAYISI": 19137600.0,
       "KISISAYISI": 870.0,
       "PORTFOYBUYUKLUK": 67312408.43,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ASJ",
+      "FONUNVAN": "AKTİF PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 3.494327,
+      "TEDPAYSAYISI": 19137565.0,
+      "KISISAYISI": 869.0,
+      "PORTFOYBUYUKLUK": 66872914.63,
       "BilFiyat": "-"
     }
   ]

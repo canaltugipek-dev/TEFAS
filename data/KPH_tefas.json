@@ -2,11 +2,11 @@
   "fon_kodu": "KPH",
   "fon_unvan": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 443,
-  "gun_kapsami": 639,
+  "kayit_sayisi": 444,
+  "gun_kapsami": 642,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4438,6 +4438,16 @@
       "TEDPAYSAYISI": 485024291.0,
       "KISISAYISI": 13370.0,
       "PORTFOYBUYUKLUK": 622475262.5,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KPH",
+      "FONUNVAN": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.275599,
+      "TEDPAYSAYISI": 485258897.0,
+      "KISISAYISI": 13351.0,
+      "PORTFOYBUYUKLUK": 618995639.4,
       "BilFiyat": "-"
     }
   ]

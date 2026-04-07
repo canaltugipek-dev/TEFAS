@@ -2,11 +2,11 @@
   "fon_kodu": "SAS",
   "fon_unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 520,
-  "gun_kapsami": 758,
+  "kayit_sayisi": 521,
+  "gun_kapsami": 761,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -5208,6 +5208,16 @@
       "TEDPAYSAYISI": 1071388598.0,
       "KISISAYISI": 47954.0,
       "PORTFOYBUYUKLUK": 1689383741.13,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "SAS",
+      "FONUNVAN": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.553319,
+      "TEDPAYSAYISI": 1070399036.0,
+      "KISISAYISI": 47890.0,
+      "PORTFOYBUYUKLUK": 1662671277.6,
       "BilFiyat": "-"
     }
   ]

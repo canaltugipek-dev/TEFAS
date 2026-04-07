@@ -2,24 +2,14 @@
   "fon_kodu": "KPC",
   "fon_unvan": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "KPC",
-      "FONUNVAN": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.516967,
-      "TEDPAYSAYISI": 66833621.0,
-      "KISISAYISI": 2604.0,
-      "PORTFOYBUYUKLUK": 101384429.09,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "KPC",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 176885044.0,
       "KISISAYISI": 19858.0,
       "PORTFOYBUYUKLUK": 3174457260.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KPC",
+      "FONUNVAN": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 17.902765,
+      "TEDPAYSAYISI": 176757549.0,
+      "KISISAYISI": 19858.0,
+      "PORTFOYBUYUKLUK": 3164448864.24,
       "BilFiyat": "-"
     }
   ]

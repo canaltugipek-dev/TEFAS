@@ -2,11 +2,11 @@
   "fon_kodu": "BID",
   "fon_unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 752,
-  "gun_kapsami": 1094,
+  "kayit_sayisi": 753,
+  "gun_kapsami": 1097,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -7528,6 +7528,16 @@
       "TEDPAYSAYISI": 88557132.0,
       "KISISAYISI": 2283.0,
       "PORTFOYBUYUKLUK": 287901394.54,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BID",
+      "FONUNVAN": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 3.224253,
+      "TEDPAYSAYISI": 88574109.0,
+      "KISISAYISI": 2277.0,
+      "PORTFOYBUYUKLUK": 285585294.03,
       "BilFiyat": "-"
     }
   ]

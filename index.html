@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="fon_hisse_detay.css" />
 </head>
 <body>
   <nav class="terminal-nav" aria-label="Ana gezinme">
@@ -16,13 +17,21 @@
         <span class="terminal-nav__logo" aria-hidden="true"></span>
         <span class="terminal-nav__title">TEFAS Terminal</span>
       </button>
-      <div class="terminal-nav__links">
+      <button type="button" class="terminal-nav__toggle" id="navToggle" aria-label="Menüyü aç veya kapat" aria-expanded="false" aria-controls="navMenu">
+        <span class="terminal-nav__toggle-bar" aria-hidden="true"></span>
+        <span class="terminal-nav__toggle-bar" aria-hidden="true"></span>
+        <span class="terminal-nav__toggle-bar" aria-hidden="true"></span>
+      </button>
+      <div class="terminal-nav__links" id="navMenu">
         <button type="button" class="terminal-nav__link" data-route="dashboard">Dashboard</button>
         <button type="button" class="terminal-nav__link" data-route="analiz">Fon Getiri Analizi</button>
-        <button type="button" class="terminal-nav__link" data-route="karsilastirma">Matematiksel Karşılaştırma</button>
+        <button type="button" class="terminal-nav__link" data-route="karsilastirma">Fon Rasyoları</button>
+        <button type="button" class="terminal-nav__link" data-route="fon-karsilastirma">Fon Karşılaştırma</button>
+        <button type="button" class="terminal-nav__link" data-route="fon-hisse-detay">Fon Hisse Detay</button>
       </div>
     </div>
   </nav>
+  <button type="button" class="terminal-nav__backdrop" id="navBackdrop" aria-label="Menüyü kapat" tabindex="-1"></button>
 
   <div class="app">
     <section id="view-dashboard" class="view-section view-section--dashboard">
@@ -38,8 +47,18 @@
         </button>
         <button type="button" class="dash-card dash-card--secondary" data-route="karsilastirma">
           <span class="dash-card__icon" aria-hidden="true">▦</span>
-          <span class="dash-card__label">Matematiksel Karşılaştırma</span>
+          <span class="dash-card__label">Fon Rasyoları</span>
           <span class="dash-card__desc">Excel tarzı tablo: Sharpe, Sortino, Alpha (BIST 100), Max Drawdown — döneme göre sıralanır.</span>
+        </button>
+        <button type="button" class="dash-card dash-card--secondary" data-route="fon-karsilastirma">
+          <span class="dash-card__icon" aria-hidden="true">⚖</span>
+          <span class="dash-card__label">Fon Karşılaştırma</span>
+          <span class="dash-card__desc">5 farklı fon seçin, getiri/risk rasyolarını yan yana kıyaslayın.</span>
+        </button>
+        <button type="button" class="dash-card dash-card--secondary" data-route="fon-hisse-detay">
+          <span class="dash-card__icon" aria-hidden="true">◔</span>
+          <span class="dash-card__label">Fon Hisse Detay</span>
+          <span class="dash-card__desc">Portföy dağılımı: halka grafik ve hisse ağırlıkları (TEFAS + manuel veri).</span>
         </button>
       </div>
       <p class="dashboard-hint">Veri: <code>py tefas_scraper.py</code> · Sunucu: <code>py -m http.server 8080</code> → <code>http://localhost:8080</code></p>
@@ -62,6 +81,16 @@
             <h2>Hisse senedi yoğun fonlar</h2>
             <span class="sidebar__count" id="fundCount"></span>
           </div>
+          <div class="sidebar__search-wrap">
+            <input
+              id="fundSearchInput"
+              class="sidebar__search"
+              type="text"
+              placeholder="Fon kodu ara (örn: TCD)"
+              aria-label="Fon kodu ara"
+              autocomplete="off"
+            />
+          </div>
           <ul class="fund-list" id="fundList"></ul>
         </aside>
 
@@ -72,7 +101,7 @@
 
           <div class="panel__content hidden" id="panelContent">
             <div class="panel__header">
-              <div>
+              <div class="panel__title-group">
                 <span class="panel__badge" id="fundCodeBadge"></span>
                 <h2 class="panel__name" id="fundName"></h2>
               </div>
@@ -85,11 +114,38 @@
             <div class="chart-card">
               <div class="chart-card__head">
                 <div class="chart-card__title" id="chartCardTitle">Grafik</div>
-                <span class="chart-card__period-hint" id="chartPeriodHint">5Y</span>
+                <div class="chart-card__controls">
+                  <label class="benchmark-select-label" for="benchmarkSelect">Benchmark Seç</label>
+                  <select id="benchmarkSelect" class="benchmark-select">
+                    <option value="none">Yok</option>
+                    <option value="usd">USD</option>
+                    <option value="bist100">BIST100</option>
+                    <option value="tufe">TÜFE</option>
+                  </select>
+                  <span class="chart-card__period-hint" id="chartPeriodHint">5Y</span>
+                </div>
               </div>
               <div class="chart-wrap">
                 <canvas id="returnChart" aria-label="Fon getiri grafiği"></canvas>
                 <div id="chartPlaceholder" class="chart-placeholder hidden" role="status"></div>
+              </div>
+            </div>
+            <div class="summary-grid">
+              <div class="summary-card">
+                <div class="summary-card__label">Fon Toplam Getirisi</div>
+                <div class="summary-card__value" id="summaryFundReturn">—</div>
+              </div>
+              <div class="summary-card">
+                <div class="summary-card__label">USD Getirisi</div>
+                <div class="summary-card__value" id="summaryUsdReturn">—</div>
+              </div>
+              <div class="summary-card">
+                <div class="summary-card__label">BIST100 Getirisi</div>
+                <div class="summary-card__value" id="summaryBistReturn">—</div>
+              </div>
+              <div class="summary-card">
+                <div class="summary-card__label">TÜFE (Enflasyon)</div>
+                <div class="summary-card__value" id="summaryTufeReturn">—</div>
               </div>
             </div>
 
@@ -114,29 +170,124 @@
       </div>
       <div class="table-panel">
         <div class="table-panel__head">
-          <h2 class="table-panel__title">Matematiksel karşılaştırma</h2>
+          <h2 class="table-panel__title">Fon rasyoları</h2>
           <p class="table-panel__meta" id="tableBenchmarkHint"></p>
         </div>
-        <div class="table-scroll">
-          <table class="stats-table" id="statsTable">
-            <thead>
-              <tr>
-                <th data-sort="kod" class="stats-table__th stats-table__th--sortable">Fon Kodu</th>
-                <th data-sort="sharpe" class="stats-table__th stats-table__th--sortable">Sharpe</th>
-                <th data-sort="sortino" class="stats-table__th stats-table__th--sortable">Sortino</th>
-                <th data-sort="alpha" class="stats-table__th stats-table__th--sortable">Alpha (BIST100)</th>
-                <th data-sort="max_drawdown" class="stats-table__th stats-table__th--sortable">Max Drawdown</th>
-              </tr>
-            </thead>
-            <tbody id="statsTableBody"></tbody>
-          </table>
+        <div class="table-scroll table-scroll--ratios">
+          <div class="terminal-grid terminal-grid--cols-5" id="statsTableGrid" role="table" aria-label="Fon rasyoları tablosu">
+            <div class="terminal-grid__row terminal-grid__row--head" role="row">
+              <div role="columnheader" data-sort="kod" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--sortable terminal-grid__cell--col-first">Fon kodu</div>
+              <div role="columnheader" data-sort="sharpe" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--sortable terminal-grid__cell--col-num">Sharpe</div>
+              <div role="columnheader" data-sort="sortino" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--sortable terminal-grid__cell--col-num">Sortino</div>
+              <div role="columnheader" data-sort="alpha" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--sortable terminal-grid__cell--col-num">Alpha (BIST100)</div>
+              <div role="columnheader" data-sort="max_drawdown" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--sortable terminal-grid__cell--col-num">Max drawdown</div>
+            </div>
+            <div class="terminal-grid__body" id="statsTableBody" role="rowgroup"></div>
+          </div>
         </div>
         <p class="table-panel__foot">Sütun başlığına tıklayarak büyükten küçüğe sıralayın. Boş hücre: yetersiz veri veya istatistik üretilmedi.</p>
+      </div>
+    </section>
+
+    <section id="view-fon-karsilastirma" class="view-section hidden">
+      <div class="period-toolbar" id="periodToolbarFonKarsilastirma" aria-label="Dönem seçimi">
+        <span class="period-toolbar__label">Dönem</span>
+        <div class="period-toolbar__btns">
+          <button type="button" class="period-btn" data-period="6M">6A</button>
+          <button type="button" class="period-btn" data-period="YTD">YTD</button>
+          <button type="button" class="period-btn" data-period="1Y">1Y</button>
+          <button type="button" class="period-btn" data-period="3Y">3Y</button>
+          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        </div>
+      </div>
+      <div class="table-panel">
+        <div class="table-panel__head">
+          <h2 class="table-panel__title">Fon karşılaştırma</h2>
+          <p class="table-panel__meta">5 fon seçerek kafa kafaya özel kıyas yapın.</p>
+        </div>
+        <div class="multi-compare" id="multiCompareRoot">
+          <div class="table-scroll compare-table-wrap compare-table-wrap--heads">
+            <div class="terminal-grid terminal-grid--cols-6" id="compareTableHead" role="table" aria-label="Fon seçimi">
+              <div class="terminal-grid__row terminal-grid__row--head terminal-grid__row--select" role="row">
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--col-first">Fon seçimi</div>
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--select">
+                  <select id="compareFund1" class="multi-compare__select" aria-label="Karşılaştırma fon 1"></select>
+                </div>
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--select">
+                  <select id="compareFund2" class="multi-compare__select" aria-label="Karşılaştırma fon 2"></select>
+                </div>
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--select">
+                  <select id="compareFund3" class="multi-compare__select" aria-label="Karşılaştırma fon 3"></select>
+                </div>
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--select">
+                  <select id="compareFund4" class="multi-compare__select" aria-label="Karşılaştırma fon 4"></select>
+                </div>
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--select">
+                  <select id="compareFund5" class="multi-compare__select" aria-label="Karşılaştırma fon 5"></select>
+                </div>
+              </div>
+              <div class="terminal-grid__row terminal-grid__row--subhead" role="row">
+                <div class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--col-first">Metrik</div>
+                <div id="compareHead1" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--code">—</div>
+                <div id="compareHead2" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--code">—</div>
+                <div id="compareHead3" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--code">—</div>
+                <div id="compareHead4" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--code">—</div>
+                <div id="compareHead5" class="terminal-grid__cell terminal-grid__cell--head terminal-grid__cell--code">—</div>
+              </div>
+            </div>
+          </div>
+          <div class="terminal-grid terminal-grid--cols-6 compare-table-data" id="compareTable" role="table" aria-label="Fon karşılaştırma verileri">
+            <div class="terminal-grid__body" id="compareTableBody" role="rowgroup"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="view-fon-hisse-detay" class="view-section hidden fhd-root" aria-label="Fon hisse detay">
+      <div class="fhd-panel">
+        <header class="fhd-panel__head">
+          <h2 class="fhd-panel__title">Fon Hisse Detay</h2>
+          <p class="fhd-panel__meta">
+            Seçilen fonun portföy dağılımı: canlı TEFAS verisi (varlık sınıfları) ile
+            <code>data/fon_hisse_portfoy.json</code> içindeki hisse listesi birleştirilir.
+          </p>
+        </header>
+
+        <div class="fhd-toolbar">
+          <div class="fhd-toolbar__field">
+            <label class="fhd-toolbar__label" for="fhdFundSelect">Fon</label>
+            <select id="fhdFundSelect" class="fhd-select" aria-label="Fon kodu seçin"></select>
+          </div>
+          <div class="fhd-actions">
+            <button type="button" class="fhd-btn" id="fhdRefreshBtn" title="JSON dosyalarını yeniden oku">
+              Veriyi yenile
+            </button>
+          </div>
+        </div>
+
+        <p class="fhd-varlik-note" id="fhdVarlikNote"></p>
+        <p class="fhd-panel__meta" id="fhdFundMeta" style="margin-bottom: 1rem"></p>
+
+        <div class="fhd-layout">
+          <div>
+            <div class="fhd-chart-box">
+              <canvas id="fhdDonutCanvas" aria-label="Dağılım grafiği"></canvas>
+            </div>
+            <p class="fhd-chart-caption" id="fhdChartCaption"></p>
+          </div>
+          <div class="fhd-bars" id="fhdBars" role="list"></div>
+        </div>
+
+        <p class="fhd-foot">
+          Scrape: <code>py fon_hisse_scraper.py IDH AAV</code> → <code>data/fon_hisse_birlesik.json</code>.
+          Hisse bazlı oranlar TEFAS JSON’unda yok; gerçek tablo için manuel JSON’u güncelleyin veya KAP bildirimlerinden besleyin.
+        </p>
       </div>
     </section>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
   <script src="script.js"></script>
+  <script src="fon_hisse_detay.js"></script>
 </body>
 </html>

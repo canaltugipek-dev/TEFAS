@@ -2,24 +2,14 @@
   "fon_kodu": "HBU",
   "fon_unvan": "HSBC ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "HBU",
-      "FONUNVAN": "HSBC ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.117069,
-      "TEDPAYSAYISI": 68468400.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 8015557.77,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "HBU",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 346081600.0,
       "KISISAYISI": 2730.0,
       "PORTFOYBUYUKLUK": 456066600.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "HBU",
+      "FONUNVAN": "HSBC ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.306472,
+      "TEDPAYSAYISI": 345832200.0,
+      "KISISAYISI": 2723.0,
+      "PORTFOYBUYUKLUK": 451820237.91,
       "BilFiyat": "-"
     }
   ]

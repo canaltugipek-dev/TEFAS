@@ -2,11 +2,11 @@
   "fon_kodu": "BUY",
   "fon_unvan": "AK PORTFÖY BÜYÜYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 687,
-  "gun_kapsami": 995,
+  "kayit_sayisi": 688,
+  "gun_kapsami": 998,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -6878,6 +6878,16 @@
       "TEDPAYSAYISI": 233783433.0,
       "KISISAYISI": 18526.0,
       "PORTFOYBUYUKLUK": 393886956.68,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BUY",
+      "FONUNVAN": "AK PORTFÖY BÜYÜYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.674365,
+      "TEDPAYSAYISI": 233633201.0,
+      "KISISAYISI": 18490.0,
+      "PORTFOYBUYUKLUK": 391187248.17,
       "BilFiyat": "-"
     }
   ]

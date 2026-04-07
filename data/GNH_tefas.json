@@ -2,11 +2,11 @@
   "fon_kodu": "GNH",
   "fon_unvan": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 231,
-  "gun_kapsami": 331,
+  "kayit_sayisi": 232,
+  "gun_kapsami": 334,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2318,6 +2318,16 @@
       "TEDPAYSAYISI": 5090431.0,
       "KISISAYISI": 202.0,
       "PORTFOYBUYUKLUK": 6967723.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.370328,
+      "TEDPAYSAYISI": 5089343.0,
+      "KISISAYISI": 203.0,
+      "PORTFOYBUYUKLUK": 6974068.79,
       "BilFiyat": "-"
     }
   ]

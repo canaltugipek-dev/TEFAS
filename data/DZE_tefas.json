@@ -2,24 +2,14 @@
   "fon_kodu": "DZE",
   "fon_unvan": "DENİZ ASSET MANAGEMENT BIST 100 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "DZE",
-      "FONUNVAN": "DENİZ ASSET MANAGEMENT BIST 100 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.091588,
-      "TEDPAYSAYISI": 107588700.0,
-      "KISISAYISI": 666.0,
-      "PORTFOYBUYUKLUK": 9853868.88,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "DZE",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 250799800.0,
       "KISISAYISI": 3064.0,
       "PORTFOYBUYUKLUK": 231829845.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DZE",
+      "FONUNVAN": "DENİZ ASSET MANAGEMENT BIST 100 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.916242,
+      "TEDPAYSAYISI": 250766900.0,
+      "KISISAYISI": 3062.0,
+      "PORTFOYBUYUKLUK": 229763106.15,
       "BilFiyat": "-"
     }
   ]

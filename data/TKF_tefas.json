@@ -2,24 +2,14 @@
   "fon_kodu": "TKF",
   "fon_unvan": "TACİRLER ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TKF",
-      "FONUNVAN": "TACİRLER ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 7.126818,
-      "TEDPAYSAYISI": 109715387.0,
-      "KISISAYISI": 9992.0,
-      "PORTFOYBUYUKLUK": 781921625.79,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TKF",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 16932948.0,
       "KISISAYISI": 4707.0,
       "PORTFOYBUYUKLUK": 1032019990.78,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TKF",
+      "FONUNVAN": "TACİRLER ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 60.66262,
+      "TEDPAYSAYISI": 16935460.0,
+      "KISISAYISI": 4703.0,
+      "PORTFOYBUYUKLUK": 1027349374.69,
       "BilFiyat": "-"
     }
   ]

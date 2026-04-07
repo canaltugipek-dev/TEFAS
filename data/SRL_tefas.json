@@ -2,11 +2,11 @@
   "fon_kodu": "SRL",
   "fon_unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 218,
-  "gun_kapsami": 311,
+  "kayit_sayisi": 219,
+  "gun_kapsami": 314,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2188,6 +2188,16 @@
       "TEDPAYSAYISI": 14629090.0,
       "KISISAYISI": 333.0,
       "PORTFOYBUYUKLUK": 19827979.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "SRL",
+      "FONUNVAN": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.341594,
+      "TEDPAYSAYISI": 14614114.0,
+      "KISISAYISI": 331.0,
+      "PORTFOYBUYUKLUK": 19606207.83,
       "BilFiyat": "-"
     }
   ]

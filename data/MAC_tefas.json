@@ -2,24 +2,14 @@
   "fon_kodu": "MAC",
   "fon_unvan": "MARMARA CAPITAL ASSET MANAGEMENT EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "MAC",
-      "FONUNVAN": "MARMARA CAPITAL ASSET MANAGEMENT EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.05608,
-      "TEDPAYSAYISI": 5854169355.0,
-      "KISISAYISI": 6999.0,
-      "PORTFOYBUYUKLUK": 328301036.56,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "MAC",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 6480019686.0,
       "KISISAYISI": 39406.0,
       "PORTFOYBUYUKLUK": 4686981035.44,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MAC",
+      "FONUNVAN": "MARMARA CAPITAL ASSET MANAGEMENT EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.720825,
+      "TEDPAYSAYISI": 6478751104.0,
+      "KISISAYISI": 39354.0,
+      "PORTFOYBUYUKLUK": 4670045562.4,
       "BilFiyat": "-"
     }
   ]

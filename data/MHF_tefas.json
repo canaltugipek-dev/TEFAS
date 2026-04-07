@@ -2,11 +2,11 @@
   "fon_kodu": "MHF",
   "fon_unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 235,
-  "gun_kapsami": 338,
+  "kayit_sayisi": 236,
+  "gun_kapsami": 341,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2358,6 +2358,16 @@
       "TEDPAYSAYISI": 32152480.0,
       "KISISAYISI": 1272.0,
       "PORTFOYBUYUKLUK": 57343319.93,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.772563,
+      "TEDPAYSAYISI": 32226613.0,
+      "KISISAYISI": 1265.0,
+      "PORTFOYBUYUKLUK": 57123697.37,
       "BilFiyat": "-"
     }
   ]

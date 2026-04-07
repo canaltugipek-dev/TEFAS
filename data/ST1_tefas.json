@@ -2,24 +2,14 @@
   "fon_kodu": "ST1",
   "fon_unvan": "STRATEJİ ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ST1",
-      "FONUNVAN": "STRATEJİ ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 19.28637,
-      "TEDPAYSAYISI": 4930893.439,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 95099034.23,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ST1",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 3663666.66,
       "KISISAYISI": 3314.0,
       "PORTFOYBUYUKLUK": 661492616.76,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ST1",
+      "FONUNVAN": "STRATEJİ ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 179.974163,
+      "TEDPAYSAYISI": 3649654.66,
+      "KISISAYISI": 3299.0,
+      "PORTFOYBUYUKLUK": 656843543.89,
       "BilFiyat": "-"
     }
   ]

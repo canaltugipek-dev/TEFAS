@@ -2,11 +2,11 @@
   "fon_kodu": "PTO",
   "fon_unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 288,
-  "gun_kapsami": 416,
+  "kayit_sayisi": 289,
+  "gun_kapsami": 419,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2888,6 +2888,16 @@
       "TEDPAYSAYISI": 190712928.0,
       "KISISAYISI": 472.0,
       "PORTFOYBUYUKLUK": 266070559.37,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.397419,
+      "TEDPAYSAYISI": 190725620.0,
+      "KISISAYISI": 469.0,
+      "PORTFOYBUYUKLUK": 266523518.3,
       "BilFiyat": "-"
     }
   ]

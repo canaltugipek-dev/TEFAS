@@ -2,24 +2,14 @@
   "fon_kodu": "AYA",
   "fon_unvan": "ATA ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "AYA",
-      "FONUNVAN": "ATA ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.513876,
-      "TEDPAYSAYISI": 25334024.0,
-      "KISISAYISI": 352.0,
-      "PORTFOYBUYUKLUK": 63686596.31,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "AYA",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 65234910.0,
       "KISISAYISI": 10537.0,
       "PORTFOYBUYUKLUK": 1171582368.36,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "AYA",
+      "FONUNVAN": "ATA ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 17.85711,
+      "TEDPAYSAYISI": 65159859.0,
+      "KISISAYISI": 10525.0,
+      "PORTFOYBUYUKLUK": 1163566759.87,
       "BilFiyat": "-"
     }
   ]

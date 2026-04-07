@@ -2,11 +2,11 @@
   "fon_kodu": "PGS",
   "fon_unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 249,
-  "gun_kapsami": 359,
+  "kayit_sayisi": 250,
+  "gun_kapsami": 362,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2498,6 +2498,16 @@
       "TEDPAYSAYISI": 186667700.0,
       "KISISAYISI": 632.0,
       "PORTFOYBUYUKLUK": 217797267.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "PGS",
+      "FONUNVAN": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.151493,
+      "TEDPAYSAYISI": 186446447.0,
+      "KISISAYISI": 626.0,
+      "PORTFOYBUYUKLUK": 214691746.25,
       "BilFiyat": "-"
     }
   ]

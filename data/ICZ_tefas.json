@@ -2,24 +2,14 @@
   "fon_kodu": "ICZ",
   "fon_unvan": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ICZ",
-      "FONUNVAN": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.124836,
-      "TEDPAYSAYISI": 34408236.0,
-      "KISISAYISI": 2495.0,
-      "PORTFOYBUYUKLUK": 38703614.58,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ICZ",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 119132558.0,
       "KISISAYISI": 22257.0,
       "PORTFOYBUYUKLUK": 865242491.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ICZ",
+      "FONUNVAN": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 7.218399,
+      "TEDPAYSAYISI": 118988535.0,
+      "KISISAYISI": 22249.0,
+      "PORTFOYBUYUKLUK": 858906759.93,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "MKA",
   "fon_unvan": "MARMARA CAPİTAL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 308,
-  "gun_kapsami": 444,
+  "kayit_sayisi": 309,
+  "gun_kapsami": 447,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3088,6 +3088,16 @@
       "TEDPAYSAYISI": 76485762.0,
       "KISISAYISI": 1876.0,
       "PORTFOYBUYUKLUK": 94070340.8,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MKA",
+      "FONUNVAN": "MARMARA CAPİTAL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.232164,
+      "TEDPAYSAYISI": 76302478.0,
+      "KISISAYISI": 1874.0,
+      "PORTFOYBUYUKLUK": 94017203.43,
       "BilFiyat": "-"
     }
   ]

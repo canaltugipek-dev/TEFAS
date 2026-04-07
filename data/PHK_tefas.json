@@ -2,11 +2,11 @@
   "fon_kodu": "PHK",
   "fon_unvan": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 212,
-  "gun_kapsami": 303,
+  "kayit_sayisi": 213,
+  "gun_kapsami": 306,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2128,6 +2128,16 @@
       "TEDPAYSAYISI": 50693831.0,
       "KISISAYISI": 182.0,
       "PORTFOYBUYUKLUK": 69992245.08,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "PHK",
+      "FONUNVAN": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.373512,
+      "TEDPAYSAYISI": 50662926.0,
+      "KISISAYISI": 184.0,
+      "PORTFOYBUYUKLUK": 69586149.43,
       "BilFiyat": "-"
     }
   ]

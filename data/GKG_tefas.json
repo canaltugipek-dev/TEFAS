@@ -2,11 +2,11 @@
   "fon_kodu": "GKG",
   "fon_unvan": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 265,
-  "gun_kapsami": 385,
+  "kayit_sayisi": 266,
+  "gun_kapsami": 388,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2658,6 +2658,16 @@
       "TEDPAYSAYISI": 31765523.0,
       "KISISAYISI": 1268.0,
       "PORTFOYBUYUKLUK": 40234111.03,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.255762,
+      "TEDPAYSAYISI": 32165364.0,
+      "KISISAYISI": 1274.0,
+      "PORTFOYBUYUKLUK": 40392035.37,
       "BilFiyat": "-"
     }
   ]

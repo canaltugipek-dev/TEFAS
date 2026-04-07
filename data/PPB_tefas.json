@@ -2,11 +2,11 @@
   "fon_kodu": "PPB",
   "fon_unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1099,
-  "gun_kapsami": 1591,
+  "kayit_sayisi": 1100,
+  "gun_kapsami": 1594,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10998,6 +10998,16 @@
       "TEDPAYSAYISI": 40531927.0,
       "KISISAYISI": 1929.0,
       "PORTFOYBUYUKLUK": 384859210.77,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "PPB",
+      "FONUNVAN": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 9.442401,
+      "TEDPAYSAYISI": 40575876.0,
+      "KISISAYISI": 1932.0,
+      "PORTFOYBUYUKLUK": 383133677.46,
       "BilFiyat": "-"
     }
   ]

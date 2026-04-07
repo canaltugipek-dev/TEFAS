@@ -2,24 +2,14 @@
   "fon_kodu": "YHZ",
   "fon_unvan": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "YHZ",
-      "FONUNVAN": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.022578,
-      "TEDPAYSAYISI": 2298075.0,
-      "KISISAYISI": 375.0,
-      "PORTFOYBUYUKLUK": 2349961.66,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "YHZ",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 111155060.0,
       "KISISAYISI": 13744.0,
       "PORTFOYBUYUKLUK": 820665193.06,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YHZ",
+      "FONUNVAN": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 7.321543,
+      "TEDPAYSAYISI": 111224490.0,
+      "KISISAYISI": 13748.0,
+      "PORTFOYBUYUKLUK": 814334879.63,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "BIH",
   "fon_unvan": "PARDUS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 617,
-  "gun_kapsami": 896,
+  "kayit_sayisi": 618,
+  "gun_kapsami": 899,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -6178,6 +6178,16 @@
       "TEDPAYSAYISI": 99739263.0,
       "KISISAYISI": 405.0,
       "PORTFOYBUYUKLUK": 737452531.62,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BIH",
+      "FONUNVAN": "PARDUS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 7.328391,
+      "TEDPAYSAYISI": 99742277.0,
+      "KISISAYISI": 408.0,
+      "PORTFOYBUYUKLUK": 730950423.61,
       "BilFiyat": "-"
     }
   ]

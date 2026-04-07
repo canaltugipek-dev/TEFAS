@@ -2,11 +2,11 @@
   "fon_kodu": "KHJ",
   "fon_unvan": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 429,
-  "gun_kapsami": 618,
+  "kayit_sayisi": 430,
+  "gun_kapsami": 621,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4298,6 +4298,16 @@
       "TEDPAYSAYISI": 13814414.0,
       "KISISAYISI": 467.0,
       "PORTFOYBUYUKLUK": 14862429.48,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.075414,
+      "TEDPAYSAYISI": 14039596.0,
+      "KISISAYISI": 465.0,
+      "PORTFOYBUYUKLUK": 15098373.18,
       "BilFiyat": "-"
     }
   ]

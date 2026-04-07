@@ -2,24 +2,14 @@
   "fon_kodu": "IDH",
   "fon_unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "IDH",
-      "FONUNVAN": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.19538,
-      "TEDPAYSAYISI": 143807059.0,
-      "KISISAYISI": 5527.0,
-      "PORTFOYBUYUKLUK": 171904073.28,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "IDH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 85746269.0,
       "KISISAYISI": 22743.0,
       "PORTFOYBUYUKLUK": 1018889059.51,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IDH",
+      "FONUNVAN": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 11.921772,
+      "TEDPAYSAYISI": 85656497.0,
+      "KISISAYISI": 22727.0,
+      "PORTFOYBUYUKLUK": 1021177188.07,
       "BilFiyat": "-"
     }
   ]

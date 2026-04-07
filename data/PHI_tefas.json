@@ -2,11 +2,11 @@
   "fon_kodu": "PHI",
   "fon_unvan": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 335,
-  "gun_kapsami": 484,
+  "kayit_sayisi": 336,
+  "gun_kapsami": 487,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3358,6 +3358,16 @@
       "TEDPAYSAYISI": 108580504.0,
       "KISISAYISI": 119.0,
       "PORTFOYBUYUKLUK": 147304414.95,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.348594,
+      "TEDPAYSAYISI": 108580655.0,
+      "KISISAYISI": 121.0,
+      "PORTFOYBUYUKLUK": 146431182.52,
       "BilFiyat": "-"
     }
   ]

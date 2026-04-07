@@ -2,11 +2,11 @@
   "fon_kodu": "MTK",
   "fon_unvan": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 198,
-  "gun_kapsami": 281,
+  "kayit_sayisi": 199,
+  "gun_kapsami": 284,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1988,6 +1988,16 @@
       "TEDPAYSAYISI": 40308652.0,
       "KISISAYISI": 553.0,
       "PORTFOYBUYUKLUK": 57001046.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MTK",
+      "FONUNVAN": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.404846,
+      "TEDPAYSAYISI": 40110676.0,
+      "KISISAYISI": 550.0,
+      "PORTFOYBUYUKLUK": 56349305.8,
       "BilFiyat": "-"
     }
   ]

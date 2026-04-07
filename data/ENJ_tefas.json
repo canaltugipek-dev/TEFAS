@@ -2,11 +2,11 @@
   "fon_kodu": "ENJ",
   "fon_unvan": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 431,
-  "gun_kapsami": 620,
+  "kayit_sayisi": 432,
+  "gun_kapsami": 623,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4318,6 +4318,16 @@
       "TEDPAYSAYISI": 27833588.0,
       "KISISAYISI": 647.0,
       "PORTFOYBUYUKLUK": 35326080.33,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.270964,
+      "TEDPAYSAYISI": 28114865.0,
+      "KISISAYISI": 650.0,
+      "PORTFOYBUYUKLUK": 35732971.98,
       "BilFiyat": "-"
     }
   ]

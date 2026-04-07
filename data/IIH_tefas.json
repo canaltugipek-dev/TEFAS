@@ -2,24 +2,14 @@
   "fon_kodu": "IIH",
   "fon_unvan": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "IIH",
-      "FONUNVAN": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.726926,
-      "TEDPAYSAYISI": 12625070.0,
-      "KISISAYISI": 324.0,
-      "PORTFOYBUYUKLUK": 21802564.85,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "IIH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 72477214.0,
       "KISISAYISI": 25063.0,
       "PORTFOYBUYUKLUK": 2242556593.31,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IIH",
+      "FONUNVAN": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 30.691722,
+      "TEDPAYSAYISI": 71564276.0,
+      "KISISAYISI": 25040.0,
+      "PORTFOYBUYUKLUK": 2196430888.16,
       "BilFiyat": "-"
     }
   ]

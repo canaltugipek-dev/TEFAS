@@ -2,24 +2,14 @@
   "fon_kodu": "TI3",
   "fon_unvan": "İŞ ASSET MANAGEMENT İŞ BANK SUBSIDIARIES INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TI3",
-      "FONUNVAN": "İŞ ASSET MANAGEMENT İŞ BANK SUBSIDIARIES INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 101.549416,
-      "TEDPAYSAYISI": 1708021.0,
-      "KISISAYISI": 2212.0,
-      "PORTFOYBUYUKLUK": 173448535.49,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TI3",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 20540012881.0,
       "KISISAYISI": 25215.0,
       "PORTFOYBUYUKLUK": 2384253860.63,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TI3",
+      "FONUNVAN": "İŞ ASSET MANAGEMENT İŞ BANK SUBSIDIARIES INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.115554,
+      "TEDPAYSAYISI": 20573180687.0,
+      "KISISAYISI": 25172.0,
+      "PORTFOYBUYUKLUK": 2377306151.62,
       "BilFiyat": "-"
     }
   ]

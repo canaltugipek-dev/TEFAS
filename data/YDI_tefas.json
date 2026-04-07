@@ -2,24 +2,14 @@
   "fon_kodu": "YDI",
   "fon_unvan": "YAPI KREDİ ASSET MANAGEMENT MODEL PORTFOLİO EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "YDI",
-      "FONUNVAN": "YAPI KREDİ ASSET MANAGEMENT MODEL PORTFOLİO EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.039893,
-      "TEDPAYSAYISI": 6169802440.0,
-      "KISISAYISI": 2630.0,
-      "PORTFOYBUYUKLUK": 246134197.96,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "YDI",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 2779153406.0,
       "KISISAYISI": 7599.0,
       "PORTFOYBUYUKLUK": 1169920100.15,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "YDI",
+      "FONUNVAN": "YAPI KREDİ ASSET MANAGEMENT MODEL PORTFOLİO EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.417059,
+      "TEDPAYSAYISI": 2772115406.0,
+      "KISISAYISI": 7604.0,
+      "PORTFOYBUYUKLUK": 1156135883.88,
       "BilFiyat": "-"
     }
   ]

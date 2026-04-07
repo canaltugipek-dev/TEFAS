@@ -2,11 +2,11 @@
   "fon_kodu": "DHJ",
   "fon_unvan": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1063,
-  "gun_kapsami": 1541,
+  "kayit_sayisi": 1064,
+  "gun_kapsami": 1544,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -10638,6 +10638,16 @@
       "TEDPAYSAYISI": 32490546.0,
       "KISISAYISI": 3047.0,
       "PORTFOYBUYUKLUK": 206053436.52,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DHJ",
+      "FONUNVAN": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 6.288427,
+      "TEDPAYSAYISI": 32477674.0,
+      "KISISAYISI": 3040.0,
+      "PORTFOYBUYUKLUK": 204233491.71,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "IHK",
   "fon_unvan": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "IHK",
-      "FONUNVAN": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.94441,
-      "TEDPAYSAYISI": 23619831.0,
-      "KISISAYISI": 1188.0,
-      "PORTFOYBUYUKLUK": 22306811.84,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "IHK",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 121543423.0,
       "KISISAYISI": 33741.0,
       "PORTFOYBUYUKLUK": 1978768783.9,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IHK",
+      "FONUNVAN": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 16.154236,
+      "TEDPAYSAYISI": 121661145.0,
+      "KISISAYISI": 33701.0,
+      "PORTFOYBUYUKLUK": 1965342824.15,
       "BilFiyat": "-"
     }
   ]

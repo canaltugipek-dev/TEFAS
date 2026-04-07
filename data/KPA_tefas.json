@@ -2,11 +2,11 @@
   "fon_kodu": "KPA",
   "fon_unvan": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 396,
-  "gun_kapsami": 570,
+  "kayit_sayisi": 397,
+  "gun_kapsami": 573,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3968,6 +3968,16 @@
       "TEDPAYSAYISI": 232763128.0,
       "KISISAYISI": 11766.0,
       "PORTFOYBUYUKLUK": 325751357.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KPA",
+      "FONUNVAN": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.390534,
+      "TEDPAYSAYISI": 230294930.0,
+      "KISISAYISI": 11773.0,
+      "PORTFOYBUYUKLUK": 320232989.71,
       "BilFiyat": "-"
     }
   ]

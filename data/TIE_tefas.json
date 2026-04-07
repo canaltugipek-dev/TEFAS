@@ -2,24 +2,14 @@
   "fon_kodu": "TIE",
   "fon_unvan": "İŞ ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TIE",
-      "FONUNVAN": "İŞ ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.065695,
-      "TEDPAYSAYISI": 496853303.0,
-      "KISISAYISI": 1747.0,
-      "PORTFOYBUYUKLUK": 32640543.97,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TIE",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 2379946101.0,
       "KISISAYISI": 17554.0,
       "PORTFOYBUYUKLUK": 1630270313.96,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TIE",
+      "FONUNVAN": "İŞ ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.67955,
+      "TEDPAYSAYISI": 2377478097.0,
+      "KISISAYISI": 17525.0,
+      "PORTFOYBUYUKLUK": 1615615172.6,
       "BilFiyat": "-"
     }
   ]

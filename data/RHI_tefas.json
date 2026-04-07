@@ -2,11 +2,11 @@
   "fon_kodu": "RHI",
   "fon_unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 240,
-  "gun_kapsami": 346,
+  "kayit_sayisi": 241,
+  "gun_kapsami": 349,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2408,6 +2408,16 @@
       "TEDPAYSAYISI": 77397884.0,
       "KISISAYISI": 551.0,
       "PORTFOYBUYUKLUK": 112389168.7,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.441607,
+      "TEDPAYSAYISI": 77403472.0,
+      "KISISAYISI": 553.0,
+      "PORTFOYBUYUKLUK": 111585423.28,
       "BilFiyat": "-"
     }
   ]

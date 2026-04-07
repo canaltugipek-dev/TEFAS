@@ -2,24 +2,14 @@
   "fon_kodu": "DAH",
   "fon_unvan": "DENİZ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "DAH",
-      "FONUNVAN": "DENİZ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.285745,
-      "TEDPAYSAYISI": 93107600.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 26605062.91,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "DAH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 207058900.0,
       "KISISAYISI": 2941.0,
       "PORTFOYBUYUKLUK": 708297777.83,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DAH",
+      "FONUNVAN": "DENİZ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 3.390343,
+      "TEDPAYSAYISI": 206932400.0,
+      "KISISAYISI": 2932.0,
+      "PORTFOYBUYUKLUK": 701571788.73,
       "BilFiyat": "-"
     }
   ]

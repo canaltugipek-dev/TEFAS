@@ -2,11 +2,11 @@
   "fon_kodu": "ZJL",
   "fon_unvan": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1181,
-  "gun_kapsami": 1709,
+  "kayit_sayisi": 1182,
+  "gun_kapsami": 1712,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -11818,6 +11818,16 @@
       "TEDPAYSAYISI": 30224000.0,
       "KISISAYISI": 3016.0,
       "PORTFOYBUYUKLUK": 395617068.1,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ZJL",
+      "FONUNVAN": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 13.092083,
+      "TEDPAYSAYISI": 30197400.0,
+      "KISISAYISI": 3011.0,
+      "PORTFOYBUYUKLUK": 395346873.87,
       "BilFiyat": "-"
     }
   ]

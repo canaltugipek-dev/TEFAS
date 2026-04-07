@@ -56,8 +56,30 @@ TRADING_DAYS = 252
 RISKSIZ_YILLIK_DEFAULT = 0.45  # Kullanici tanimi: yillik %45 (basit faiz -> gunluk bilesik)
 STAT_PERIODS = ("6M", "YTD", "1Y", "3Y", "5Y")
 TICKER_BIST100 = "XU100.IS"
-TICKER_USDTRY = "USDTRY=X"
+TICKER_USDTRY = "TRY=X"
+TICKER_USDTRY_FALLBACK = "USDTRY=X"
 MIN_OBS_METRICS = 20
+
+# Manuel aylik TUFE degisimleri (ondalik, or: 0.032 -> %3.2)
+# Tarihler ay sonu olarak yorumlanir.
+MANUAL_TUFE_MONTHLY: List[Tuple[str, float]] = [
+    ("2021-01-31", 0.0168), ("2021-02-28", 0.0091), ("2021-03-31", 0.0113), ("2021-04-30", 0.0170),
+    ("2021-05-31", 0.0089), ("2021-06-30", 0.0194), ("2021-07-31", 0.0123), ("2021-08-31", 0.0121),
+    ("2021-09-30", 0.0125), ("2021-10-31", 0.0250), ("2021-11-30", 0.0315), ("2021-12-31", 0.1330),
+    ("2022-01-31", 0.1110), ("2022-02-28", 0.0481), ("2022-03-31", 0.0560), ("2022-04-30", 0.0725),
+    ("2022-05-31", 0.0298), ("2022-06-30", 0.0495), ("2022-07-31", 0.0243), ("2022-08-31", 0.0146),
+    ("2022-09-30", 0.0308), ("2022-10-31", 0.0354), ("2022-11-30", 0.0288), ("2022-12-31", 0.0118),
+    ("2023-01-31", 0.0650), ("2023-02-28", 0.0315), ("2023-03-31", 0.0250), ("2023-04-30", 0.0239),
+    ("2023-05-31", 0.0004), ("2023-06-30", 0.0341), ("2023-07-31", 0.0949), ("2023-08-31", 0.0909),
+    ("2023-09-30", 0.0468), ("2023-10-31", 0.0343), ("2023-11-30", 0.0328), ("2023-12-31", 0.0293),
+    ("2024-01-31", 0.0645), ("2024-02-29", 0.0453), ("2024-03-31", 0.0316), ("2024-04-30", 0.0318),
+    ("2024-05-31", 0.0320), ("2024-06-30", 0.0164), ("2024-07-31", 0.0332), ("2024-08-31", 0.0254),
+    ("2024-09-30", 0.0297), ("2024-10-31", 0.0311), ("2024-11-30", 0.0288), ("2024-12-31", 0.0281),
+    ("2025-01-31", 0.0415), ("2025-02-28", 0.0370), ("2025-03-31", 0.0348), ("2025-04-30", 0.0322),
+    ("2025-05-31", 0.0305), ("2025-06-30", 0.0284), ("2025-07-31", 0.0291), ("2025-08-31", 0.0276),
+    ("2025-09-30", 0.0258), ("2025-10-31", 0.0245), ("2025-11-30", 0.0239), ("2025-12-31", 0.0228),
+    ("2026-01-31", 0.0219), ("2026-02-28", 0.0206), ("2026-03-31", 0.0198),
+]
 
 BASES_HISTORY: List[Tuple[str, str]] = [
     ("https://fundturkey.com.tr", "https://fundturkey.com.tr/TarihselVeriler.aspx"),
@@ -461,21 +483,72 @@ def download_benchmark_series(
     if not _HAS_ANALYTICS or yf is None:
         return None, None, "numpy/pandas/yfinance yuklu degil"
     try:
-        s = pd.Timestamp(start.date()) - pd.Timedelta(days=7)
-        e = pd.Timestamp(end.date()) + pd.Timedelta(days=2)
-        xu = yf.download(TICKER_BIST100, start=s, end=e, progress=False, auto_adjust=False)
-        usd = yf.download(TICKER_USDTRY, start=s, end=e, progress=False, auto_adjust=False)
-        if xu is None or xu.empty:
+        s = pd.Timestamp(start.date())
+        e = pd.Timestamp(end.date())
+
+        def _history_close(ticker: str) -> Optional[Any]:
+            tk = yf.Ticker(ticker)
+            hist = tk.history(period="5y", interval="1d", auto_adjust=False)
+            if hist is None or hist.empty:
+                return None
+            close = _yf_close_column(hist).dropna()
+            close.index = pd.DatetimeIndex(pd.to_datetime(close.index).date)
+            close = close[(close.index >= s) & (close.index <= e)]
+            return close if len(close) > 0 else None
+
+        xs = _history_close(TICKER_BIST100)
+        us = _history_close(TICKER_USDTRY)
+        if us is None:
+            us = _history_close(TICKER_USDTRY_FALLBACK)
+
+        if xs is None or len(xs) == 0:
             return None, None, "XU100 verisi bos"
-        xs = _yf_close_column(xu).dropna()
-        xs.index = pd.DatetimeIndex(pd.to_datetime(xs.index).date)
-        us = None
-        if usd is not None and not usd.empty:
-            us = _yf_close_column(usd).dropna()
-            us.index = pd.DatetimeIndex(pd.to_datetime(us.index).date)
         return xs, us, None
     except Exception as exc:
         return None, None, str(exc)
+
+
+def build_manual_tufe_series(start: datetime, end: datetime) -> Optional[Any]:
+    if pd is None:
+        return None
+    points: List[Tuple[pd.Timestamp, float]] = []
+    idx_val = 100.0
+    for ds, mrate in MANUAL_TUFE_MONTHLY:
+        dt = pd.Timestamp(ds).normalize()
+        idx_val *= (1.0 + float(mrate))
+        points.append((dt, idx_val))
+    if not points:
+        return None
+    ser = pd.Series([v for _, v in points], index=pd.DatetimeIndex([d for d, _ in points]))
+    # Aylik endeks: fon serisinin baslangicindan onceki aylari da tut (JS tarafinda as-of eslestirme icin)
+    ser = ser.loc[ser.index <= pd.Timestamp(end.date())]
+    if ser.empty:
+        return None
+    return ser
+
+
+def _series_to_rows(ser: Optional[Any]) -> List[Dict[str, Any]]:
+    if ser is None or len(ser) == 0:
+        return []
+    rows: List[Dict[str, Any]] = []
+    for dt, val in ser.items():
+        rows.append({"tarih": str(pd.Timestamp(dt).date()), "deger": round(float(val), 8)})
+    return rows
+
+
+def save_benchmarks_file(data_dir: Path, xu: Optional[Any], usd: Optional[Any], tufe: Optional[Any]) -> None:
+    out = {
+        "guncelleme": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
+        "bist100_ticker": TICKER_BIST100,
+        "usdtry_ticker": TICKER_USDTRY,
+        "tufe_kaynak": "manual_monthly_array",
+        "series": {
+            "bist100": _series_to_rows(xu),
+            "usdtry": _series_to_rows(usd),
+            "tufe_index": _series_to_rows(tufe),
+        },
+    }
+    save_json(data_dir / "benchmarks.json", out)
 
 
 def _empty_stat_block() -> Dict[str, Optional[float]]:
@@ -602,6 +675,11 @@ def enrich_manifest_entries_with_stats(
         datetime.combine(min_ts.date(), datetime.min.time()),
         datetime.combine(max_ts.date(), datetime.min.time()),
     )
+    tufe = build_manual_tufe_series(
+        datetime.combine(min_ts.date(), datetime.min.time()),
+        datetime.combine(max_ts.date(), datetime.min.time()),
+    )
+    save_benchmarks_file(data_dir, xu, usd, tufe)
     meta["indirme_hatasi"] = err
     if xu is None or len(xu) < MIN_OBS_METRICS:
         for e in entries:
@@ -612,8 +690,12 @@ def enrich_manifest_entries_with_stats(
     if usd is not None and len(usd) > 0:
         meta["usdtry_son"] = float(usd.iloc[-1])
         meta["usdtry_tarih"] = str(usd.index[-1].date())
+    if tufe is not None and len(tufe) > 0:
+        meta["tufe_son"] = float(tufe.iloc[-1])
+        meta["tufe_tarih"] = str(tufe.index[-1].date())
     meta["xu100_son"] = float(xu.iloc[-1])
     meta["xu100_tarih"] = str(xu.index[-1].date())
+    meta["benchmarks_dosya"] = "data/benchmarks.json"
     meta["durum"] = "tamam"
 
     for e in entries:

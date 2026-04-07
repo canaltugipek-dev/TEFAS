@@ -2,11 +2,11 @@
   "fon_kodu": "BHA",
   "fon_unvan": "BULLS PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 246,
-  "gun_kapsami": 354,
+  "kayit_sayisi": 247,
+  "gun_kapsami": 357,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2468,6 +2468,16 @@
       "TEDPAYSAYISI": 81999184.0,
       "KISISAYISI": 923.0,
       "PORTFOYBUYUKLUK": 121282272.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BHA",
+      "FONUNVAN": "BULLS PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.466816,
+      "TEDPAYSAYISI": 81731211.0,
+      "KISISAYISI": 922.0,
+      "PORTFOYBUYUKLUK": 119884653.35,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "IMB",
   "fon_unvan": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 263,
-  "gun_kapsami": 381,
+  "kayit_sayisi": 264,
+  "gun_kapsami": 384,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2638,6 +2638,16 @@
       "TEDPAYSAYISI": 29132599.0,
       "KISISAYISI": 237.0,
       "PORTFOYBUYUKLUK": 33961073.84,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "IMB",
+      "FONUNVAN": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.158186,
+      "TEDPAYSAYISI": 28899525.0,
+      "KISISAYISI": 239.0,
+      "PORTFOYBUYUKLUK": 33471014.27,
       "BilFiyat": "-"
     }
   ]

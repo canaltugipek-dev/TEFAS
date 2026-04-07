@@ -2,11 +2,11 @@
   "fon_kodu": "BIG",
   "fon_unvan": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 328,
-  "gun_kapsami": 473,
+  "kayit_sayisi": 329,
+  "gun_kapsami": 476,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -3288,6 +3288,16 @@
       "TEDPAYSAYISI": 427988102.0,
       "KISISAYISI": 3879.0,
       "PORTFOYBUYUKLUK": 551969645.25,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BIG",
+      "FONUNVAN": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.287417,
+      "TEDPAYSAYISI": 427016213.0,
+      "KISISAYISI": 3881.0,
+      "PORTFOYBUYUKLUK": 549747845.42,
       "BilFiyat": "-"
     }
   ]

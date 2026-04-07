@@ -1,0 +1,255 @@
+/**
+ * Fon Hisse Detay — tüm sınıflar fhd- öneki ile izole (Fon Rasyoları / Karşılaştırma ile çakışmaz).
+ */
+#view-fon-hisse-detay.fhd-root {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 1.25rem 2rem;
+}
+
+.fhd-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.15rem 1.25rem 1.25rem;
+}
+
+.fhd-panel__head {
+  margin-bottom: 1rem;
+}
+
+.fhd-panel__title {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.fhd-panel__meta {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.fhd-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.fhd-toolbar__field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.28rem;
+  min-width: min(100%, 280px);
+  flex: 1 1 220px;
+}
+
+.fhd-toolbar__label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.fhd-select {
+  width: 100%;
+  max-width: 420px;
+  box-sizing: border-box;
+  padding: 0.45rem 0.55rem;
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.fhd-select:focus {
+  outline: none;
+  border-color: rgba(62, 207, 142, 0.45);
+}
+
+.fhd-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.fhd-btn {
+  font-family: var(--font);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.42rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-elevated);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.fhd-btn:hover {
+  background: var(--surface-hover);
+}
+
+.fhd-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.fhd-layout {
+  display: grid;
+  grid-template-columns: minmax(200px, 280px) 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 768px) {
+  .fhd-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .fhd-chart-box {
+    max-width: 280px;
+    margin: 0 auto;
+  }
+}
+
+.fhd-chart-box {
+  position: relative;
+  width: 100%;
+  max-width: 260px;
+  aspect-ratio: 1;
+  margin: 0 auto;
+}
+
+.fhd-chart-box canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.fhd-chart-caption {
+  margin-top: 0.5rem;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-align: center;
+  line-height: 1.35;
+}
+
+.fhd-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.38rem;
+  min-width: 0;
+}
+
+.fhd-bar-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.28rem;
+  align-items: stretch;
+  padding: 0.35rem 0.5rem;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid transparent;
+}
+
+.fhd-bar-row--top {
+  border-color: rgba(62, 207, 142, 0.28);
+  background: rgba(62, 207, 142, 0.06);
+}
+
+.fhd-bar-row__label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.08rem;
+  min-width: 0;
+}
+
+.fhd-bar-row__ticker {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 0.84rem;
+  color: var(--text);
+}
+
+.fhd-bar-row__ticker .fhd-pct {
+  font-weight: 600;
+  color: var(--accent);
+  margin-left: 0.35rem;
+}
+
+.fhd-bar-row__sub {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fhd-bar-track {
+  height: 6px;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.06);
+  overflow: hidden;
+}
+
+.fhd-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: linear-gradient(90deg, rgba(62, 207, 142, 0.35), rgba(62, 207, 142, 0.85));
+  min-width: 2px;
+  transition: width 0.35s ease;
+}
+
+.fhd-bar-row--top .fhd-bar-fill {
+  background: linear-gradient(90deg, rgba(62, 207, 142, 0.5), rgba(99, 200, 150, 0.95));
+}
+
+.fhd-empty {
+  padding: 2rem 1rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+}
+
+.fhd-foot {
+  margin: 1.1rem 0 0;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.fhd-foot code {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  background: rgba(0, 0, 0, 0.25);
+  padding: 0.1rem 0.28rem;
+  border-radius: 4px;
+}
+
+.fhd-badge {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-size: 0.58rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.12rem 0.35rem;
+  border-radius: 4px;
+  background: rgba(62, 207, 142, 0.15);
+  color: var(--accent);
+  vertical-align: middle;
+}
+
+.fhd-varlik-note {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}

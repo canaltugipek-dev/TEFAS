@@ -2,11 +2,11 @@
   "fon_kodu": "DKH",
   "fon_unvan": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 699,
-  "gun_kapsami": 1016,
+  "kayit_sayisi": 700,
+  "gun_kapsami": 1019,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -6998,6 +6998,16 @@
       "TEDPAYSAYISI": 58784463.0,
       "KISISAYISI": 1555.0,
       "PORTFOYBUYUKLUK": 190740805.01,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "DKH",
+      "FONUNVAN": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 3.238819,
+      "TEDPAYSAYISI": 58777208.0,
+      "KISISAYISI": 1553.0,
+      "PORTFOYBUYUKLUK": 190368711.92,
       "BilFiyat": "-"
     }
   ]

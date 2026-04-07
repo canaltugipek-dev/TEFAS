@@ -2,24 +2,14 @@
   "fon_kodu": "MPS",
   "fon_unvan": "AKTİF ASSET MANAGEMENT PARTICIPATION EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "MPS",
-      "FONUNVAN": "AKTİF ASSET MANAGEMENT PARTICIPATION EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.860317,
-      "TEDPAYSAYISI": 47551739.321,
-      "KISISAYISI": 3748.0,
-      "PORTFOYBUYUKLUK": 136013048.05,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "MPS",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 6904395.324,
       "KISISAYISI": 2676.0,
       "PORTFOYBUYUKLUK": 151775024.05,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "MPS",
+      "FONUNVAN": "AKTİF ASSET MANAGEMENT PARTICIPATION EQUITY (TL) FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 21.925184,
+      "TEDPAYSAYISI": 6901652.324,
+      "KISISAYISI": 2673.0,
+      "PORTFOYBUYUKLUK": 151319996.62,
       "BilFiyat": "-"
     }
   ]

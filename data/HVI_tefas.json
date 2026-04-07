@@ -2,11 +2,11 @@
   "fon_kodu": "HVI",
   "fon_unvan": "DENİZ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 110,
-  "gun_kapsami": 155,
+  "kayit_sayisi": 111,
+  "gun_kapsami": 158,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -1108,6 +1108,16 @@
       "TEDPAYSAYISI": 41705675.0,
       "KISISAYISI": 495.0,
       "PORTFOYBUYUKLUK": 49124542.18,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "HVI",
+      "FONUNVAN": "DENİZ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.170564,
+      "TEDPAYSAYISI": 41953904.0,
+      "KISISAYISI": 491.0,
+      "PORTFOYBUYUKLUK": 49109743.63,
       "BilFiyat": "-"
     }
   ]

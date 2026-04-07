@@ -2,11 +2,11 @@
   "fon_kodu": "HIH",
   "fon_unvan": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 202,
-  "gun_kapsami": 287,
+  "kayit_sayisi": 203,
+  "gun_kapsami": 290,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2028,6 +2028,16 @@
       "TEDPAYSAYISI": 282892654.0,
       "KISISAYISI": 6384.0,
       "PORTFOYBUYUKLUK": 376527413.17,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "HIH",
+      "FONUNVAN": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.320543,
+      "TEDPAYSAYISI": 282732460.0,
+      "KISISAYISI": 6374.0,
+      "PORTFOYBUYUKLUK": 373360337.75,
       "BilFiyat": "-"
     }
   ]

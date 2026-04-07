@@ -2,24 +2,14 @@
   "fon_kodu": "ADP",
   "fon_unvan": "AK ASSET MANAGEMENT BIST BANK INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ADP",
-      "FONUNVAN": "AK ASSET MANAGEMENT BIST BANK INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.080414,
-      "TEDPAYSAYISI": 553426900.0,
-      "KISISAYISI": 1954.0,
-      "PORTFOYBUYUKLUK": 44503383.94,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ADP",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 3278334208.0,
       "KISISAYISI": 22920.0,
       "PORTFOYBUYUKLUK": 4039833587.67,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ADP",
+      "FONUNVAN": "AK ASSET MANAGEMENT BIST BANK INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 1.228888,
+      "TEDPAYSAYISI": 3275750798.0,
+      "KISISAYISI": 22915.0,
+      "PORTFOYBUYUKLUK": 4025530504.61,
       "BilFiyat": "-"
     }
   ]

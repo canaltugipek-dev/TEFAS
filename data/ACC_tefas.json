@@ -2,24 +2,14 @@
   "fon_kodu": "ACC",
   "fon_unvan": "İSTANBUL ASSET MANAGEMENT FOURTH  EQUITY FUND (EQUITY-INTENSIVE)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "ACC",
-      "FONUNVAN": "İSTANBUL ASSET MANAGEMENT FOURTH  EQUITY FUND (EQUITY-INTENSIVE)",
-      "FIYAT": 2.680559,
-      "TEDPAYSAYISI": 5607269.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 15030613.48,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "ACC",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 4353367.0,
       "KISISAYISI": 1473.0,
       "PORTFOYBUYUKLUK": 179092004.21,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "ACC",
+      "FONUNVAN": "İSTANBUL ASSET MANAGEMENT FOURTH  EQUITY FUND (EQUITY-INTENSIVE)",
+      "FIYAT": 40.916621,
+      "TEDPAYSAYISI": 4350060.0,
+      "KISISAYISI": 1472.0,
+      "PORTFOYBUYUKLUK": 177989755.43,
       "BilFiyat": "-"
     }
   ]

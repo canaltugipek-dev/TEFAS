@@ -2,11 +2,11 @@
   "fon_kodu": "BV1",
   "fon_unvan": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 250,
-  "gun_kapsami": 360,
+  "kayit_sayisi": 251,
+  "gun_kapsami": 363,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2508,6 +2508,16 @@
       "TEDPAYSAYISI": 105121809.0,
       "KISISAYISI": 914.0,
       "PORTFOYBUYUKLUK": 153509263.55,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BV1",
+      "FONUNVAN": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.454327,
+      "TEDPAYSAYISI": 105105725.0,
+      "KISISAYISI": 906.0,
+      "PORTFOYBUYUKLUK": 152858045.97,
       "BilFiyat": "-"
     }
   ]

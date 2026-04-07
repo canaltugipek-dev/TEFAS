@@ -2,24 +2,14 @@
   "fon_kodu": "OPH",
   "fon_unvan": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "OPH",
-      "FONUNVAN": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 2.221111,
-      "TEDPAYSAYISI": 108949376.0,
-      "KISISAYISI": 6711.0,
-      "PORTFOYBUYUKLUK": 241988605.5,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "OPH",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 31893867.0,
       "KISISAYISI": 2787.0,
       "PORTFOYBUYUKLUK": 727293343.61,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "OPH",
+      "FONUNVAN": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 22.556568,
+      "TEDPAYSAYISI": 31890815.0,
+      "KISISAYISI": 2775.0,
+      "PORTFOYBUYUKLUK": 719347345.28,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "GHS",
   "fon_unvan": "GARANTİ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "GHS",
-      "FONUNVAN": "GARANTİ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 2.471889,
-      "TEDPAYSAYISI": 29227469.0,
-      "KISISAYISI": 2526.0,
-      "PORTFOYBUYUKLUK": 72247072.57,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "GHS",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 82009936.0,
       "KISISAYISI": 14524.0,
       "PORTFOYBUYUKLUK": 3007725978.64,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GHS",
+      "FONUNVAN": "GARANTİ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 36.291264,
+      "TEDPAYSAYISI": 81902046.0,
+      "KISISAYISI": 14532.0,
+      "PORTFOYBUYUKLUK": 2972328789.1,
       "BilFiyat": "-"
     }
   ]

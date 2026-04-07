@@ -2,11 +2,11 @@
   "fon_kodu": "BTZ",
   "fon_unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 431,
-  "gun_kapsami": 620,
+  "kayit_sayisi": 432,
+  "gun_kapsami": 623,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4318,6 +4318,16 @@
       "TEDPAYSAYISI": 6477986.0,
       "KISISAYISI": 207.0,
       "PORTFOYBUYUKLUK": 7771666.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.188565,
+      "TEDPAYSAYISI": 6481010.0,
+      "KISISAYISI": 206.0,
+      "PORTFOYBUYUKLUK": 7703102.41,
       "BilFiyat": "-"
     }
   ]

@@ -2,11 +2,11 @@
   "fon_kodu": "BIY",
   "fon_unvan": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 87,
-  "gun_kapsami": 122,
+  "kayit_sayisi": 88,
+  "gun_kapsami": 125,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -878,6 +878,16 @@
       "TEDPAYSAYISI": 46922072.0,
       "KISISAYISI": 203.0,
       "PORTFOYBUYUKLUK": 56274886.71,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "BIY",
+      "FONUNVAN": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.202286,
+      "TEDPAYSAYISI": 47924740.0,
+      "KISISAYISI": 212.0,
+      "PORTFOYBUYUKLUK": 57619234.53,
       "BilFiyat": "-"
     }
   ]

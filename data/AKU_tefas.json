@@ -2,24 +2,14 @@
   "fon_kodu": "AKU",
   "fon_unvan": "AK ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "AKU",
-      "FONUNVAN": "AK ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.082034,
-      "TEDPAYSAYISI": 563568348.0,
-      "KISISAYISI": 3887.0,
-      "PORTFOYBUYUKLUK": 46231593.88,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "AKU",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 1657543775.0,
       "KISISAYISI": 16977.0,
       "PORTFOYBUYUKLUK": 1433323720.47,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "AKU",
+      "FONUNVAN": "AK ASSET MANAGEMENT BIST 30 INDEX EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.857907,
+      "TEDPAYSAYISI": 1655089260.0,
+      "KISISAYISI": 16971.0,
+      "PORTFOYBUYUKLUK": 1419913226.87,
       "BilFiyat": "-"
     }
   ]

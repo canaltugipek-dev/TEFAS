@@ -1,0 +1,44 @@
+{
+  "aciklama": "Manuel hisse ağırlıkları (örnek). TEFAS API hisse bazlı dağılım vermez; fon_hisse_scraper.py bu listeyi birleşik dosyaya aktarır.",
+  "fonlar": {
+    "IDH": {
+      "not": "Örnek veri — gerçek oranlar için KAP / kurucu bildirimi ile güncelleyin.",
+      "hisseler": [
+        { "ticker": "THYAO", "ad": "Türk Hava Yolları", "agirlik": 8.52 },
+        { "ticker": "TUPRS", "ad": "Tüpraş", "agirlik": 7.18 },
+        { "ticker": "AKBNK", "ad": "Akbank", "agirlik": 6.45 },
+        { "ticker": "GARAN", "ad": "Garanti BBVA", "agirlik": 5.91 },
+        { "ticker": "EREGL", "ad": "Ereğli Demir Çelik", "agirlik": 5.33 },
+        { "ticker": "KCHOL", "ad": "Koç Holding", "agirlik": 4.87 },
+        { "ticker": "SAHOL", "ad": "Sabancı Holding", "agirlik": 4.22 },
+        { "ticker": "BIMAS", "ad": "BİM", "agirlik": 3.95 },
+        { "ticker": "ASELS", "ad": "Aselsan", "agirlik": 3.61 },
+        { "ticker": "PGSUS", "ad": "Pegasus", "agirlik": 3.08 },
+        { "ticker": "SISE", "ad": "Şişecam", "agirlik": 2.74 },
+        { "ticker": "TOASO", "ad": "Tofaş", "agirlik": 2.41 }
+      ]
+    },
+    "AAV": {
+      "hisseler": [
+        { "ticker": "THYAO", "ad": "Türk Hava Yolları", "agirlik": 9.1 },
+        { "ticker": "YKBNK", "ad": "Yapı Kredi Bankası", "agirlik": 7.4 },
+        { "ticker": "FROTO", "ad": "Ford Otosan", "agirlik": 6.8 },
+        { "ticker": "TCELL", "ad": "Turkcell", "agirlik": 5.9 },
+        { "ticker": "PETKM", "ad": "Petkim", "agirlik": 5.2 },
+        { "ticker": "ENJSA", "ad": "Enerjisa", "agirlik": 4.6 },
+        { "ticker": "TTRAK", "ad": "Türk Traktör", "agirlik": 4.1 },
+        { "ticker": "MGROS", "ad": "Migros", "agirlik": 3.7 }
+      ]
+    },
+    "ACC": {
+      "hisseler": [
+        { "ticker": "GARAN", "ad": "Garanti BBVA", "agirlik": 8.0 },
+        { "ticker": "ISCTR", "ad": "İş Bankası (C)", "agirlik": 7.2 },
+        { "ticker": "AKBNK", "ad": "Akbank", "agirlik": 6.5 },
+        { "ticker": "HALKB", "ad": "Halkbank", "agirlik": 5.8 },
+        { "ticker": "VAKBN", "ad": "Vakıfbank", "agirlik": 5.1 },
+        { "ticker": "YKBNK", "ad": "Yapı Kredi", "agirlik": 4.4 }
+      ]
+    }
+  }
+}

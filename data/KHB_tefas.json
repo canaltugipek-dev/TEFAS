@@ -2,11 +2,11 @@
   "fon_kodu": "KHB",
   "fon_unvan": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 299,
-  "gun_kapsami": 431,
+  "kayit_sayisi": 300,
+  "gun_kapsami": 434,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2998,6 +2998,16 @@
       "TEDPAYSAYISI": 8092280.0,
       "KISISAYISI": 217.0,
       "PORTFOYBUYUKLUK": 11819332.19,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KHB",
+      "FONUNVAN": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.463457,
+      "TEDPAYSAYISI": 12202622.0,
+      "KISISAYISI": 217.0,
+      "PORTFOYBUYUKLUK": 17858018.24,
       "BilFiyat": "-"
     }
   ]

@@ -2,24 +2,14 @@
   "fon_kodu": "TI2",
   "fon_unvan": "İŞ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "TI2",
-      "FONUNVAN": "İŞ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 79.764786,
-      "TEDPAYSAYISI": 725936.398,
-      "KISISAYISI": 1616.0,
-      "PORTFOYBUYUKLUK": 57904161.77,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "TI2",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 33595543713.0,
       "KISISAYISI": 22699.0,
       "PORTFOYBUYUKLUK": 4177517205.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "TI2",
+      "FONUNVAN": "İŞ ASSET MANAGEMENT EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 0.123564,
+      "TEDPAYSAYISI": 33527302934.0,
+      "KISISAYISI": 22687.0,
+      "PORTFOYBUYUKLUK": 4142779759.99,
       "BilFiyat": "-"
     }
   ]

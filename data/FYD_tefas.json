@@ -2,24 +2,14 @@
   "fon_kodu": "FYD",
   "fon_unvan": "QNB ASSET MANAGEMENT FIRST EQUITY FUND  (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "FYD",
-      "FONUNVAN": "QNB ASSET MANAGEMENT FIRST EQUITY FUND  (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 0.776749,
-      "TEDPAYSAYISI": 61869501.084,
-      "KISISAYISI": 799.0,
-      "PORTFOYBUYUKLUK": 48057054.58,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "FYD",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 329844443.194,
       "KISISAYISI": 6018.0,
       "PORTFOYBUYUKLUK": 3636600577.97,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "FYD",
+      "FONUNVAN": "QNB ASSET MANAGEMENT FIRST EQUITY FUND  (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 10.948683,
+      "TEDPAYSAYISI": 329301954.194,
+      "KISISAYISI": 6006.0,
+      "PORTFOYBUYUKLUK": 3605422578.48,
       "BilFiyat": "-"
     }
   ]

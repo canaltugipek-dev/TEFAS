@@ -2,11 +2,11 @@
   "fon_kodu": "SLG",
   "fon_unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 96,
-  "gun_kapsami": 135,
+  "kayit_sayisi": 97,
+  "gun_kapsami": 138,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -968,6 +968,16 @@
       "TEDPAYSAYISI": 284278914.0,
       "KISISAYISI": 987.0,
       "PORTFOYBUYUKLUK": 353049843.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.228817,
+      "TEDPAYSAYISI": 368335984.0,
+      "KISISAYISI": 985.0,
+      "PORTFOYBUYUKLUK": 452617605.68,
       "BilFiyat": "-"
     }
   ]

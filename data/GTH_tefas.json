@@ -2,11 +2,11 @@
   "fon_kodu": "GTH",
   "fon_unvan": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 290,
-  "gun_kapsami": 420,
+  "kayit_sayisi": 291,
+  "gun_kapsami": 423,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -2908,6 +2908,16 @@
       "TEDPAYSAYISI": 6485319.0,
       "KISISAYISI": 371.0,
       "PORTFOYBUYUKLUK": 8013932.72,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GTH",
+      "FONUNVAN": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.22767,
+      "TEDPAYSAYISI": 6488085.0,
+      "KISISAYISI": 372.0,
+      "PORTFOYBUYUKLUK": 7965227.23,
       "BilFiyat": "-"
     }
   ]

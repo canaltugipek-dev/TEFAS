@@ -2,11 +2,11 @@
   "fon_kodu": "KHC",
   "fon_unvan": "PARDUS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 538,
-  "gun_kapsami": 784,
+  "kayit_sayisi": 539,
+  "gun_kapsami": 787,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -5388,6 +5388,16 @@
       "TEDPAYSAYISI": 54559770.0,
       "KISISAYISI": 1631.0,
       "PORTFOYBUYUKLUK": 107793598.88,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "KHC",
+      "FONUNVAN": "PARDUS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.980466,
+      "TEDPAYSAYISI": 54507931.0,
+      "KISISAYISI": 1627.0,
+      "PORTFOYBUYUKLUK": 107951093.69,
       "BilFiyat": "-"
     }
   ]

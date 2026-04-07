@@ -2,11 +2,11 @@
   "fon_kodu": "GTM",
   "fon_unvan": "GARANTİ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 925,
-  "gun_kapsami": 1338,
+  "kayit_sayisi": 926,
+  "gun_kapsami": 1341,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -9258,6 +9258,16 @@
       "TEDPAYSAYISI": 153352814.0,
       "KISISAYISI": 14428.0,
       "PORTFOYBUYUKLUK": 1101244957.92,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GTM",
+      "FONUNVAN": "GARANTİ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 7.112616,
+      "TEDPAYSAYISI": 153419788.0,
+      "KISISAYISI": 14409.0,
+      "PORTFOYBUYUKLUK": 1091216063.95,
       "BilFiyat": "-"
     }
   ]

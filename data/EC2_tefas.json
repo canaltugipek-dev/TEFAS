@@ -2,24 +2,14 @@
   "fon_kodu": "EC2",
   "fon_unvan": "GLOBAL MD ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1254,
-  "gun_kapsami": 1823,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1617667200000",
-      "FONKODU": "EC2",
-      "FONUNVAN": "GLOBAL MD ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
-      "FIYAT": 6.107773,
-      "TEDPAYSAYISI": 421644.311,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 2575307.93,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1617753600000",
       "FONKODU": "EC2",
@@ -12548,6 +12538,16 @@
       "TEDPAYSAYISI": 1071168.8,
       "KISISAYISI": 2729.0,
       "PORTFOYBUYUKLUK": 87663203.98,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "EC2",
+      "FONUNVAN": "GLOBAL MD ASSET MANAGEMENT FIRST EQUITY FUND (EQUITY-INTENSIVE FUND)",
+      "FIYAT": 81.72266,
+      "TEDPAYSAYISI": 1065921.8,
+      "KISISAYISI": 2720.0,
+      "PORTFOYBUYUKLUK": 87109964.5,
       "BilFiyat": "-"
     }
   ]

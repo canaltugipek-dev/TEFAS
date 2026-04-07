@@ -2,11 +2,11 @@
   "fon_kodu": "GIH",
   "fon_unvan": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-06",
-  "bitis": "2026-04-05",
+  "baslangic": "2021-04-07",
+  "bitis": "2026-04-06",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 709,
-  "gun_kapsami": 1030,
+  "kayit_sayisi": 710,
+  "gun_kapsami": 1033,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -7098,6 +7098,16 @@
       "TEDPAYSAYISI": 4461652.0,
       "KISISAYISI": 603.0,
       "PORTFOYBUYUKLUK": 9947862.3,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775433600000",
+      "FONKODU": "GIH",
+      "FONUNVAN": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.216486,
+      "TEDPAYSAYISI": 4461213.0,
+      "KISISAYISI": 607.0,
+      "PORTFOYBUYUKLUK": 9888215.74,
       "BilFiyat": "-"
     }
   ]
