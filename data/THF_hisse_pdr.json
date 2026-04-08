@@ -1,0 +1,21 @@
+{
+  "kod": "THF",
+  "guncelleme": "2026-04-08T18:27:38Z",
+  "kaynak_tefas": true,
+  "unvan": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/thf-tera-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 98.81
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.19
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

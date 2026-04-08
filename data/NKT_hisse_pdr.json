@@ -1,0 +1,29 @@
+{
+  "kod": "NKT",
+  "guncelleme": "2026-04-08T18:25:53Z",
+  "kaynak_tefas": true,
+  "unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkt-nurol-portfoy-birinci-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.15
+    },
+    {
+      "tip": "Diğer",
+      "oran": 0.0
+    },
+    {
+      "tip": "BİST Taahhütlü İşlem Pazarı Alım",
+      "oran": 6.14
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.71
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

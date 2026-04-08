@@ -1,0 +1,25 @@
+{
+  "kod": "IML",
+  "guncelleme": "2026-04-08T18:24:24Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iml-is-portfoy-model-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.77
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.18
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 5.05
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,21 @@
+{
+  "kod": "BTZ",
+  "guncelleme": "2026-04-08T18:20:12Z",
+  "kaynak_tefas": true,
+  "unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/btz-atlas-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 96.8
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 3.2
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

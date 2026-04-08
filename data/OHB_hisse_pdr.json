@@ -1,0 +1,37 @@
+{
+  "kod": "OHB",
+  "guncelleme": "2026-04-08T18:26:15Z",
+  "kaynak_tefas": true,
+  "unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohb-oyak-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.71
+    },
+    {
+      "tip": "Diğer",
+      "oran": 0.01
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 3.88
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.05
+    },
+    {
+      "tip": "Borsa Yatırım Fonları Katılma Payları",
+      "oran": 2.01
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.34
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

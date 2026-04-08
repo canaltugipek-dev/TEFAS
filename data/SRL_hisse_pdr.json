@@ -1,0 +1,25 @@
+{
+  "kod": "SRL",
+  "guncelleme": "2026-04-08T18:27:10Z",
+  "kaynak_tefas": true,
+  "unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/srl-pardus-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 86.62
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.51
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 12.87
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

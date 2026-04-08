@@ -1,0 +1,30 @@
+{
+  "kod": "TAU",
+  "guncelleme": "2026-04-08T18:27:29Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tau-is-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 87.93
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.68
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 10.3
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.09
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.04.2026 09:19:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5e11aa56671d"
+}

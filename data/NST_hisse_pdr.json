@@ -1,0 +1,25 @@
+{
+  "kod": "NST",
+  "guncelleme": "2026-04-08T18:26:08Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nst-is-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 97.09
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.24
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 2.67
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

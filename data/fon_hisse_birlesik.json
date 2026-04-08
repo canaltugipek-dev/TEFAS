@@ -1,17 +1,2192 @@
 {
-  "aciklama": "TEFAS varlık dağılımı + manuel hisse listesi (fon_hisse_portfoy.json). Hisse bazlı oranlar TEFAS JSON'unda yok; manuel besleyin veya KAP'tan ekleyin.",
-  "guncelleme": "2026-04-07T21:43:01Z",
+  "aciklama": "TEFAS meta + KAP Portföy Dağılım Raporu PDF'inden okunan gerçek hisse ağırlıkları.",
+  "guncelleme": "2026-04-08T18:18:46Z",
   "fonlar": {
+    "AAV": {
+      "kod": "AAV",
+      "guncelleme": "2026-04-08T18:18:52Z",
+      "kaynak_tefas": true,
+      "unvan": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aav-ata-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.42
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.57
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 6.01
+        }
+      ],
+      "hisseler": [
+        {
+          "ticker": "KCHOL",
+          "ad": "",
+          "agirlik": 5.96
+        },
+        {
+          "ticker": "BIMAS",
+          "ad": "",
+          "agirlik": 5.83
+        },
+        {
+          "ticker": "TCELL",
+          "ad": "",
+          "agirlik": 5.52
+        },
+        {
+          "ticker": "TRALT",
+          "ad": "",
+          "agirlik": 5.12
+        },
+        {
+          "ticker": "THYAO",
+          "ad": "",
+          "agirlik": 4.95
+        },
+        {
+          "ticker": "MGROS",
+          "ad": "",
+          "agirlik": 4.71
+        },
+        {
+          "ticker": "TUPRS",
+          "ad": "",
+          "agirlik": 4.39
+        },
+        {
+          "ticker": "ASELS",
+          "ad": "",
+          "agirlik": 4.17
+        },
+        {
+          "ticker": "ENKAI",
+          "ad": "",
+          "agirlik": 4.09
+        },
+        {
+          "ticker": "AKBNK",
+          "ad": "",
+          "agirlik": 3.86
+        },
+        {
+          "ticker": "TABGD",
+          "ad": "",
+          "agirlik": 3.79
+        },
+        {
+          "ticker": "GARAN",
+          "ad": "",
+          "agirlik": 3.64
+        },
+        {
+          "ticker": "YKBNK",
+          "ad": "",
+          "agirlik": 3.22
+        },
+        {
+          "ticker": "ANSGR",
+          "ad": "",
+          "agirlik": 3.02
+        },
+        {
+          "ticker": "TOASO",
+          "ad": "",
+          "agirlik": 2.67
+        },
+        {
+          "ticker": "VAKBN",
+          "ad": "",
+          "agirlik": 2.41
+        },
+        {
+          "ticker": "AGHOL",
+          "ad": "",
+          "agirlik": 2.36
+        },
+        {
+          "ticker": "CCOLA",
+          "ad": "",
+          "agirlik": 2.29
+        },
+        {
+          "ticker": "CIMSA",
+          "ad": "",
+          "agirlik": 2.22
+        },
+        {
+          "ticker": "SAHOL",
+          "ad": "",
+          "agirlik": 2.01
+        },
+        {
+          "ticker": "MAVI",
+          "ad": "",
+          "agirlik": 1.74
+        },
+        {
+          "ticker": "EKGYO",
+          "ad": "",
+          "agirlik": 1.72
+        },
+        {
+          "ticker": "MPARK",
+          "ad": "",
+          "agirlik": 1.66
+        },
+        {
+          "ticker": "ASTOR",
+          "ad": "",
+          "agirlik": 1.55
+        },
+        {
+          "ticker": "ALARK",
+          "ad": "",
+          "agirlik": 1.44
+        },
+        {
+          "ticker": "RGYAS",
+          "ad": "",
+          "agirlik": 1.02
+        },
+        {
+          "ticker": "AKSGY",
+          "ad": "",
+          "agirlik": 1.01
+        }
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "27 hisse satırı okundu.",
+      "kap_rapor_tarihi": "07.04.2026 12:01:59",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d672760c0557d"
+    },
+    "ACC": {
+      "kod": "ACC",
+      "guncelleme": "2026-04-08T18:18:55Z",
+      "kaynak_tefas": true,
+      "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 86.64
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 1.21
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.21
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.94
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ADP": {
+      "kod": "ADP",
+      "guncelleme": "2026-04-08T18:18:58Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/adp-ak-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.58
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.33
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 6.81
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.28
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:14:21",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5e2a5d016d02"
+    },
+    "AEV": {
+      "kod": "AEV",
+      "guncelleme": "2026-04-08T18:19:01Z",
+      "kaynak_tefas": true,
+      "unvan": "ALLBATROSS PORTFÖY SANAYİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aev-allbatross-portfoy-sanayi-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 80.64
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 19.36
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "AHI": {
+      "kod": "AHI",
+      "guncelleme": "2026-04-08T18:19:05Z",
+      "kaynak_tefas": true,
+      "unvan": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ahi-atlas-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.05
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.44
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.06
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.45
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 17:15:12",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61f37ec81fb8"
+    },
+    "AK3": {
+      "kod": "AK3",
+      "guncelleme": "2026-04-08T18:19:25Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ak3-ak-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.33
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.04
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 4.98
+        },
+        {
+          "tip": "Gayrimenkul Yatırım Fonları Katılma Payları",
+          "oran": 0.28
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 4.39
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.98
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:14:22",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5e2a62856d8e"
+    },
+    "AKU": {
+      "kod": "AKU",
+      "guncelleme": "2026-04-08T18:19:29Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aku-ak-portfoy-bist-30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.28
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.07
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.04
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.61
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:14:22",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5e2a637e6da2"
+    },
+    "ALC": {
+      "kod": "ALC",
+      "guncelleme": "2026-04-08T18:19:37Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/alc-ak-portfoy-kar-payi-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.57
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.02
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.05
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.31
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.05
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:14:22",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5e2a63dc6dac"
+    },
+    "ASJ": {
+      "kod": "ASJ",
+      "guncelleme": "2026-04-08T18:19:40Z",
+      "kaynak_tefas": true,
+      "unvan": "AKTİF PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/asj-aktif-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.09
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.05
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.86
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "AYA": {
+      "kod": "AYA",
+      "guncelleme": "2026-04-08T18:19:43Z",
+      "kaynak_tefas": true,
+      "unvan": "ATA PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aya-ata-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 80.91
+        },
+        {
+          "tip": "Varlığa Dayalı Menkul Kıymetler",
+          "oran": 0.4
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 9.86
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.51
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.84
+        },
+        {
+          "tip": "Finansman Bonosu",
+          "oran": 0.72
+        },
+        {
+          "tip": "Özel Sektör Kira Sertifikaları",
+          "oran": 1.76
+        }
+      ],
+      "hisseler": [
+        {
+          "ticker": "TUPRS",
+          "ad": "",
+          "agirlik": 8.66
+        },
+        {
+          "ticker": "TRALT",
+          "ad": "",
+          "agirlik": 6.49
+        },
+        {
+          "ticker": "AKBNK",
+          "ad": "",
+          "agirlik": 5.9
+        },
+        {
+          "ticker": "TABGD",
+          "ad": "",
+          "agirlik": 4.77
+        },
+        {
+          "ticker": "TCELL",
+          "ad": "",
+          "agirlik": 4.74
+        },
+        {
+          "ticker": "TOASO",
+          "ad": "",
+          "agirlik": 4.71
+        },
+        {
+          "ticker": "BIMAS",
+          "ad": "",
+          "agirlik": 4.7
+        },
+        {
+          "ticker": "KCHOL",
+          "ad": "",
+          "agirlik": 4.36
+        },
+        {
+          "ticker": "GARAN",
+          "ad": "",
+          "agirlik": 4.35
+        },
+        {
+          "ticker": "ENKAI",
+          "ad": "",
+          "agirlik": 3.21
+        },
+        {
+          "ticker": "ANHYT",
+          "ad": "",
+          "agirlik": 3.03
+        },
+        {
+          "ticker": "MGROS",
+          "ad": "",
+          "agirlik": 2.9
+        },
+        {
+          "ticker": "ISCTR",
+          "ad": "",
+          "agirlik": 2.83
+        },
+        {
+          "ticker": "AGHOL",
+          "ad": "",
+          "agirlik": 2.71
+        },
+        {
+          "ticker": "THYAO",
+          "ad": "",
+          "agirlik": 2.53
+        },
+        {
+          "ticker": "ASTOR",
+          "ad": "",
+          "agirlik": 2.52
+        },
+        {
+          "ticker": "AEFES",
+          "ad": "",
+          "agirlik": 2.16
+        },
+        {
+          "ticker": "GLCVY",
+          "ad": "",
+          "agirlik": 1.59
+        },
+        {
+          "ticker": "ASELS",
+          "ad": "",
+          "agirlik": 1.38
+        },
+        {
+          "ticker": "BESLR",
+          "ad": "",
+          "agirlik": 1.13
+        },
+        {
+          "ticker": "TSKB",
+          "ad": "",
+          "agirlik": 1.05
+        },
+        {
+          "ticker": "ULKER",
+          "ad": "",
+          "agirlik": 1.01
+        },
+        {
+          "ticker": "NTHOL",
+          "ad": "",
+          "agirlik": 1.0
+        },
+        {
+          "ticker": "BALSU",
+          "ad": "",
+          "agirlik": 0.98
+        },
+        {
+          "ticker": "SAHOL",
+          "ad": "",
+          "agirlik": 0.77
+        },
+        {
+          "ticker": "CANTE",
+          "ad": "",
+          "agirlik": 0.56
+        },
+        {
+          "ticker": "ISMEN",
+          "ad": "",
+          "agirlik": 0.56
+        },
+        {
+          "ticker": "AHGAZ",
+          "ad": "",
+          "agirlik": 0.39
+        },
+        {
+          "ticker": "BASGZ",
+          "ad": "",
+          "agirlik": 0.38
+        },
+        {
+          "ticker": "GLYHO",
+          "ad": "",
+          "agirlik": 0.36
+        }
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "30 hisse satırı okundu.",
+      "kap_rapor_tarihi": "07.04.2026 12:02:00",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d672762c255a5"
+    },
+    "BDS": {
+      "kod": "BDS",
+      "guncelleme": "2026-04-08T18:19:46Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bds-pardus-portfoy-bist-30-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 84.96
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.08
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 9.83
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.13
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BDY": {
+      "kod": "BDY",
+      "guncelleme": "2026-04-08T18:19:49Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bdy-ak-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.27
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.9
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 4.83
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BFT": {
+      "kod": "BFT",
+      "guncelleme": "2026-04-08T18:19:51Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bft-azimut-portfoy-banka-ve-finans-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.71
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.62
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.67
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BHA": {
+      "kod": "BHA",
+      "guncelleme": "2026-04-08T18:19:54Z",
+      "kaynak_tefas": true,
+      "unvan": "BULLS PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bha-bulls-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.41
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.51
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.08
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BID": {
+      "kod": "BID",
+      "guncelleme": "2026-04-08T18:19:56Z",
+      "kaynak_tefas": true,
+      "unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bid-qnb-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.12
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.16
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 7.72
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BIG": {
+      "kod": "BIG",
+      "guncelleme": "2026-04-08T18:20:01Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/big-yapi-kredi-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.75
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.31
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 4.94
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BIH": {
+      "kod": "BIH",
+      "guncelleme": "2026-04-08T18:20:04Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bih-pardus-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 81.29
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.17
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 9.56
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.98
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BIO": {
+      "kod": "BIO",
+      "guncelleme": "2026-04-08T18:20:07Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bio-is-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.82
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.3
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.49
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.39
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BIY": {
+      "kod": "BIY",
+      "guncelleme": "2026-04-08T18:20:09Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/biy-azimut-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.68
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.32
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BTZ": {
+      "kod": "BTZ",
+      "guncelleme": "2026-04-08T18:20:12Z",
+      "kaynak_tefas": true,
+      "unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/btz-atlas-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.8
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.2
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BUY": {
+      "kod": "BUY",
+      "guncelleme": "2026-04-08T18:20:15Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY BÜYÜYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/buy-ak-portfoy-buyuyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.67
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.3
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.86
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.17
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "BV1": {
+      "kod": "BV1",
+      "guncelleme": "2026-04-08T18:20:18Z",
+      "kaynak_tefas": true,
+      "unvan": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bv1-bv-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.83
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 0.04
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.51
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.62
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DAH": {
+      "kod": "DAH",
+      "guncelleme": "2026-04-08T18:20:22Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dah-deniz-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.62
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.24
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.83
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.31
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "03.04.2026 14:30:18",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d52fa5df7586c"
+    },
+    "DHJ": {
+      "kod": "DHJ",
+      "guncelleme": "2026-04-08T18:20:25Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dhj-deniz-portfoy-teknoloji-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.54
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.41
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 3.13
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.92
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DKH": {
+      "kod": "DKH",
+      "guncelleme": "2026-04-08T18:20:27Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dkh-deniz-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.06
+        },
+        {
+          "tip": "Özel Sektör Kira Sertifikaları",
+          "oran": 1.06
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 5.88
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DLD": {
+      "kod": "DLD",
+      "guncelleme": "2026-04-08T18:20:30Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dld-deniz-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.79
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.78
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 7.43
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DPT": {
+      "kod": "DPT",
+      "guncelleme": "2026-04-08T18:20:33Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dpt-deniz-portfoy-bist-temettu-25-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.11
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.3
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 4.67
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.92
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DTH": {
+      "kod": "DTH",
+      "guncelleme": "2026-04-08T18:20:36Z",
+      "kaynak_tefas": true,
+      "unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dth-emaa-blue-portfoy-donusum-teknolojileri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.32
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.07
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.01
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.55
+        },
+        {
+          "tip": "Özel Sektör Tahvili",
+          "oran": 1.05
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DTL": {
+      "kod": "DTL",
+      "guncelleme": "2026-04-08T18:20:39Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dtl-deniz-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.65
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.35
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.53
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.47
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DXP": {
+      "kod": "DXP",
+      "guncelleme": "2026-04-08T18:20:42Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dxp-deniz-portfoy-ihracatci-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fonu",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.51
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 1.43
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.06
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "DZE": {
+      "kod": "DZE",
+      "guncelleme": "2026-04-08T18:20:47Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dze-deniz-portfoy-bist-100-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.74
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.37
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 4.01
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.88
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "03.04.2026 14:34:50",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d53161b9d6f07"
+    },
+    "EC2": {
+      "kod": "EC2",
+      "guncelleme": "2026-04-08T18:20:52Z",
+      "kaynak_tefas": true,
+      "unvan": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ec2-global-md-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 85.28
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 6.82
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 7.9
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 16:59:02",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d682aba963a22"
+    },
+    "EID": {
+      "kod": "EID",
+      "guncelleme": "2026-04-08T18:20:56Z",
+      "kaynak_tefas": true,
+      "unvan": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/eid-qinvest-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.93
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.83
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.29
+        },
+        {
+          "tip": "Diğer",
+          "oran": 2.95
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 17:06:25",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d631bd25342f8"
+    },
+    "ELZ": {
+      "kod": "ELZ",
+      "guncelleme": "2026-04-08T18:21:03Z",
+      "kaynak_tefas": true,
+      "unvan": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/elz-qinvest-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.67
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 3.52
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.81
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ENJ": {
+      "kod": "ENJ",
+      "guncelleme": "2026-04-08T18:21:05Z",
+      "kaynak_tefas": true,
+      "unvan": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/enj-aktif-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.34
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.1
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 9.56
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "FPH": {
+      "kod": "FPH",
+      "guncelleme": "2026-04-08T18:21:09Z",
+      "kaynak_tefas": true,
+      "unvan": "FİBA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fph-fiba-portfoy-hisse-senedi-fonu-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.5
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.2
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.43
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.24
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 2.13
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.5
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 15:55:43",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62dac34207e8"
+    },
+    "FUA": {
+      "kod": "FUA",
+      "guncelleme": "2026-04-08T18:21:11Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fua-ak-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.19
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.27
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 4.54
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "FYD": {
+      "kod": "FYD",
+      "guncelleme": "2026-04-08T18:21:14Z",
+      "kaynak_tefas": true,
+      "unvan": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fyd-qnb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.52
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.1
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 6.65
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.73
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 16:33:08",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6ceaeca73bde"
+    },
+    "GAE": {
+      "kod": "GAE",
+      "guncelleme": "2026-04-08T18:21:18Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY BİST30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gae-garanti-portfoy-bist30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.51
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.04
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.44
+        }
+      ],
+      "hisseler": [
+        {
+          "ticker": "TBPP",
+          "ad": "",
+          "agirlik": 2.03
+        }
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "1 hisse satırı okundu.",
+      "kap_rapor_tarihi": "08.04.2026 18:43:34",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db5d5797716"
+    },
+    "GAF": {
+      "kod": "GAF",
+      "guncelleme": "2026-04-08T18:21:29Z",
+      "kaynak_tefas": true,
+      "unvan": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gaf-inveo-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.52
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.5
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 4.2
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.78
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 19:22:05",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68aa0e6316e3"
+    },
+    "GHS": {
+      "kod": "GHS",
+      "guncelleme": "2026-04-08T18:21:33Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ghs-garanti-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.27
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 0.44
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.22
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.06
+        }
+      ],
+      "hisseler": [
+        {
+          "ticker": "TBPP",
+          "ad": "",
+          "agirlik": 2.37
+        },
+        {
+          "ticker": "TERS",
+          "ad": "",
+          "agirlik": 0.94
+        }
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "2 hisse satırı okundu.",
+      "kap_rapor_tarihi": "08.04.2026 18:43:34",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db5d5c17720"
+    },
+    "GIE": {
+      "kod": "GIE",
+      "guncelleme": "2026-04-08T18:21:36Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY GARANTİ BBVA İKLİM ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gie-garanti-portfoy-garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.09
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.52
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.39
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GIH": {
+      "kod": "GIH",
+      "guncelleme": "2026-04-08T18:21:39Z",
+      "kaynak_tefas": true,
+      "unvan": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gih-allbatross-portfoy-gida-ve-icecek-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.28
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 10.72
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GKG": {
+      "kod": "GKG",
+      "guncelleme": "2026-04-08T18:21:41Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkg-garanti-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.67
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 9.33
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GKV": {
+      "kod": "GKV",
+      "guncelleme": "2026-04-08T18:21:44Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkv-garanti-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.95
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 7.05
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GL1": {
+      "kod": "GL1",
+      "guncelleme": "2026-04-08T18:21:47Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PYŞ BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gl1-azimut-pys-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.87
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.58
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.55
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 18:18:36",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d669f9b59460d"
+    },
+    "GMR": {
+      "kod": "GMR",
+      "guncelleme": "2026-04-08T18:21:56Z",
+      "kaynak_tefas": true,
+      "unvan": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gmr-inveo-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.86
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.62
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 1.52
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 19:22:05",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68aa10a1172b"
+    },
+    "GNH": {
+      "kod": "GNH",
+      "guncelleme": "2026-04-08T18:22:00Z",
+      "kaynak_tefas": true,
+      "unvan": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gnh-global-md-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.12
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.39
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.49
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GNS": {
+      "kod": "GNS",
+      "guncelleme": "2026-04-08T18:22:03Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.51
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.47
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 8.03
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GO9": {
+      "kod": "GO9",
+      "guncelleme": "2026-04-08T18:22:06Z",
+      "kaynak_tefas": true,
+      "unvan": "ONE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/go9-one-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.72
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 5.28
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GOH": {
+      "kod": "GOH",
+      "guncelleme": "2026-04-08T18:22:09Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/goh-garanti-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.81
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.11
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 4.78
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.26
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.04
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GRT": {
+      "kod": "GRT",
+      "guncelleme": "2026-04-08T18:22:11Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/grt-garanti-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 98.52
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.25
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.23
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GSP": {
+      "kod": "GSP",
+      "guncelleme": "2026-04-08T18:22:14Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 82.77
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.07
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 15.37
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.79
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 18:17:44",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3db81470e"
+    },
+    "GTH": {
+      "kod": "GTH",
+      "guncelleme": "2026-04-08T18:22:17Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gth-garanti-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.24
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.85
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 10.91
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GTM": {
+      "kod": "GTM",
+      "guncelleme": "2026-04-08T18:22:20Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gtm-garanti-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.71
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 1.19
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.72
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.38
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "GZR": {
+      "kod": "GZR",
+      "guncelleme": "2026-04-08T18:22:22Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gzr-garanti-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 1.23
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.26
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.34
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.15
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HBU": {
+      "kod": "HBU",
+      "guncelleme": "2026-04-08T18:22:29Z",
+      "kaynak_tefas": true,
+      "unvan": "HSBC PORTFÖY BİST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hbu-hsbc-portfoy-bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.54
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.14
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.32
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 11:15:26",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c13670070e4"
+    },
+    "HFR": {
+      "kod": "HFR",
+      "guncelleme": "2026-04-08T18:22:31Z",
+      "kaynak_tefas": true,
+      "unvan": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hfr-a1-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.69
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.09
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 6.22
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HGM": {
+      "kod": "HGM",
+      "guncelleme": "2026-04-08T18:22:34Z",
+      "kaynak_tefas": true,
+      "unvan": "HEDEF PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hgm-hedef-portfoy-ikinci-hisse-senedi-tl-fon-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 86.21
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.19
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 9.6
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HIH": {
+      "kod": "HIH",
+      "guncelleme": "2026-04-08T18:22:37Z",
+      "kaynak_tefas": true,
+      "unvan": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hih-garanti-portfoy-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.01
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.87
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 8.12
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HKH": {
+      "kod": "HKH",
+      "guncelleme": "2026-04-08T18:22:40Z",
+      "kaynak_tefas": true,
+      "unvan": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hkh-hedef-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.59
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.41
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HMS": {
+      "kod": "HMS",
+      "guncelleme": "2026-04-08T18:22:43Z",
+      "kaynak_tefas": true,
+      "unvan": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hms-hsbc-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.43
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.4
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 4.17
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HNC": {
+      "kod": "HNC",
+      "guncelleme": "2026-04-08T18:22:46Z",
+      "kaynak_tefas": true,
+      "unvan": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hnc-hedef-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.06
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.11
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.83
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HRZ": {
+      "kod": "HRZ",
+      "guncelleme": "2026-04-08T18:22:49Z",
+      "kaynak_tefas": true,
+      "unvan": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hrz-aktif-portfoy-bist-halka-arz-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.08
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.24
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 12.68
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HVI": {
+      "kod": "HVI",
+      "guncelleme": "2026-04-08T18:22:52Z",
+      "kaynak_tefas": true,
+      "unvan": "DENİZ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvi-deniz-portfoy-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.34
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.03
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 6.39
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 1.24
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "HVS": {
+      "kod": "HVS",
+      "guncelleme": "2026-04-08T18:22:55Z",
+      "kaynak_tefas": true,
+      "unvan": "HSBC PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvs-hsbc-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.01
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.4
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 6.59
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 11:15:26",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c136be9717b"
+    },
+    "HVZ": {
+      "kod": "HVZ",
+      "guncelleme": "2026-04-08T18:22:58Z",
+      "kaynak_tefas": true,
+      "unvan": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvz-allbatross-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.7
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.08
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 11.22
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ICF": {
+      "kod": "ICF",
+      "guncelleme": "2026-04-08T18:23:07Z",
+      "kaynak_tefas": true,
+      "unvan": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icf-icbc-turkey-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.47
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.76
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 7.77
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "01.04.2026 19:53:31",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49f55c1547d1"
+    },
+    "ICZ": {
+      "kod": "ICZ",
+      "guncelleme": "2026-04-08T18:23:12Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icz-ak-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.34
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.66
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
     "IDH": {
       "kod": "IDH",
-      "guncelleme": "2026-04-07T21:43:02Z",
+      "guncelleme": "2026-04-08T18:23:21Z",
       "kaynak_tefas": true,
       "unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idh-is-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
       "varlik_dagilimi": [
         {
           "tip": "Hisse Senedi",
-          "oran": 95.49
+          "oran": 95.35
         },
         {
           "tip": "Vadeli İşlemler Nakit Teminatları",
@@ -19,196 +2194,2528 @@
         },
         {
           "tip": "Ters-Repo",
-          "oran": 4.16
+          "oran": 4.29
         },
         {
           "tip": "Yatırım Fonları Katılma Payları",
-          "oran": 0.33
+          "oran": 0.34
         }
       ],
-      "hisseler": [
-        {
-          "ticker": "THYAO",
-          "ad": "Türk Hava Yolları",
-          "agirlik": 8.52
-        },
-        {
-          "ticker": "TUPRS",
-          "ad": "Tüpraş",
-          "agirlik": 7.18
-        },
-        {
-          "ticker": "AKBNK",
-          "ad": "Akbank",
-          "agirlik": 6.45
-        },
-        {
-          "ticker": "GARAN",
-          "ad": "Garanti BBVA",
-          "agirlik": 5.91
-        },
-        {
-          "ticker": "EREGL",
-          "ad": "Ereğli Demir Çelik",
-          "agirlik": 5.33
-        },
-        {
-          "ticker": "KCHOL",
-          "ad": "Koç Holding",
-          "agirlik": 4.87
-        },
-        {
-          "ticker": "SAHOL",
-          "ad": "Sabancı Holding",
-          "agirlik": 4.22
-        },
-        {
-          "ticker": "BIMAS",
-          "ad": "BİM",
-          "agirlik": 3.95
-        },
-        {
-          "ticker": "ASELS",
-          "ad": "Aselsan",
-          "agirlik": 3.61
-        },
-        {
-          "ticker": "PGSUS",
-          "ad": "Pegasus",
-          "agirlik": 3.08
-        },
-        {
-          "ticker": "SISE",
-          "ad": "Şişecam",
-          "agirlik": 2.74
-        },
-        {
-          "ticker": "TOASO",
-          "ad": "Tofaş",
-          "agirlik": 2.41
-        }
-      ],
-      "not": "Örnek veri — gerçek oranlar için KAP / kurucu bildirimi ile güncelleyin."
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
     },
-    "AAV": {
-      "kod": "AAV",
-      "guncelleme": "2026-04-07T21:43:02Z",
+    "IDI": {
+      "kod": "IDI",
+      "guncelleme": "2026-04-08T18:23:31Z",
       "kaynak_tefas": true,
-      "unvan": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aav-ata-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "unvan": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idi-azimut-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
       "varlik_dagilimi": [
         {
           "tip": "Hisse Senedi",
-          "oran": 92.52
+          "oran": 91.68
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.32
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IFN": {
+      "kod": "IFN",
+      "guncelleme": "2026-04-08T18:23:36Z",
+      "kaynak_tefas": true,
+      "unvan": "ICBC TURKEY PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ifn-icbc-turkey-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.56
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.77
         },
         {
           "tip": "Vadeli İşlemler Nakit Teminatları",
-          "oran": 1.58
-        },
-        {
-          "tip": "Yatırım Fonları Katılma Payları",
-          "oran": 5.9
+          "oran": 5.67
         }
       ],
-      "hisseler": [
-        {
-          "ticker": "THYAO",
-          "ad": "Türk Hava Yolları",
-          "agirlik": 9.1
-        },
-        {
-          "ticker": "YKBNK",
-          "ad": "Yapı Kredi Bankası",
-          "agirlik": 7.4
-        },
-        {
-          "ticker": "FROTO",
-          "ad": "Ford Otosan",
-          "agirlik": 6.8
-        },
-        {
-          "ticker": "TCELL",
-          "ad": "Turkcell",
-          "agirlik": 5.9
-        },
-        {
-          "ticker": "PETKM",
-          "ad": "Petkim",
-          "agirlik": 5.2
-        },
-        {
-          "ticker": "ENJSA",
-          "ad": "Enerjisa",
-          "agirlik": 4.6
-        },
-        {
-          "ticker": "TTRAK",
-          "ad": "Türk Traktör",
-          "agirlik": 4.1
-        },
-        {
-          "ticker": "MGROS",
-          "ad": "Migros",
-          "agirlik": 3.7
-        }
-      ]
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
     },
-    "ACC": {
-      "kod": "ACC",
-      "guncelleme": "2026-04-07T21:43:03Z",
+    "IHA": {
+      "kod": "IHA",
+      "guncelleme": "2026-04-08T18:23:40Z",
       "kaynak_tefas": true,
-      "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
-      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "unvan": "ALLBATROSS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iha-allbatros-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
       "varlik_dagilimi": [
         {
           "tip": "Hisse Senedi",
-          "oran": 83.82
+          "oran": 91.87
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.13
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IHK": {
+      "kod": "IHK",
+      "guncelleme": "2026-04-08T18:23:48Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ihk-is-portfoy-is-te-kadin-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.41
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.55
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.76
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.28
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IHT": {
+      "kod": "IHT",
+      "guncelleme": "2026-04-08T18:24:00Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iht-is-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.89
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.11
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.0
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IIH": {
+      "kod": "IIH",
+      "guncelleme": "2026-04-08T18:24:07Z",
+      "kaynak_tefas": true,
+      "unvan": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iih-istanbul-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.54
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.01
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.37
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.08
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IMB": {
+      "kod": "IMB",
+      "guncelleme": "2026-04-08T18:24:18Z",
+      "kaynak_tefas": true,
+      "unvan": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/imb-istanbul-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.2
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.8
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IML": {
+      "kod": "IML",
+      "guncelleme": "2026-04-08T18:24:24Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iml-is-portfoy-model-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.77
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.18
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 5.05
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ITC": {
+      "kod": "ITC",
+      "guncelleme": "2026-04-08T18:24:26Z",
+      "kaynak_tefas": true,
+      "unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/itc-inveo-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.95
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.8
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 2.25
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "IVF": {
+      "kod": "IVF",
+      "guncelleme": "2026-04-08T18:24:30Z",
+      "kaynak_tefas": true,
+      "unvan": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ivf-istanbul-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.59
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 12.41
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KH1": {
+      "kod": "KH1",
+      "guncelleme": "2026-04-08T18:24:33Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kh1-ak-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.46
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 8.54
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KHA": {
+      "kod": "KHA",
+      "guncelleme": "2026-04-08T18:24:35Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kha-pardus-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 100.88
+        },
+        {
+          "tip": "Borsa İstanbul Para Piyasası",
+          "oran": -0.89
         },
         {
           "tip": "Mevduat (TL)",
-          "oran": 1.13
-        },
+          "oran": 0.01
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KHB": {
+      "kod": "KHB",
+      "guncelleme": "2026-04-08T18:24:38Z",
+      "kaynak_tefas": true,
+      "unvan": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khb-kare-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
         {
-          "tip": "Yatırım Fonları Katılma Payları",
-          "oran": 7.95
+          "tip": "Hisse Senedi",
+          "oran": 99.06
         },
         {
           "tip": "Vadeli İşlemler Nakit Teminatları",
-          "oran": 7.1
+          "oran": 0.94
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KHC": {
+      "kod": "KHC",
+      "guncelleme": "2026-04-08T18:24:40Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khc-pardus-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 82.91
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 17.09
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KHJ": {
+      "kod": "KHJ",
+      "guncelleme": "2026-04-08T18:24:43Z",
+      "kaynak_tefas": true,
+      "unvan": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khj-atlas-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.03
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 2.22
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 4.54
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.21
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KOT": {
+      "kod": "KOT",
+      "guncelleme": "2026-04-08T18:24:46Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kot-azimut-portfoy-koc-toplulugu-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.03
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.04
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.93
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KPA": {
+      "kod": "KPA",
+      "guncelleme": "2026-04-08T18:24:48Z",
+      "kaynak_tefas": true,
+      "unvan": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpa-kuveyt-turk-portfoy-kar-payi-odeyen-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.0
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.49
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 7.51
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KPC": {
+      "kod": "KPC",
+      "guncelleme": "2026-04-08T18:24:51Z",
+      "kaynak_tefas": true,
+      "unvan": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpc-kuveyt-turk-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 85.31
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.03
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 9.24
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.84
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 3.58
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KPH": {
+      "kod": "KPH",
+      "guncelleme": "2026-04-08T18:24:54Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kph-is-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.59
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.87
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.51
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.03
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KPU": {
+      "kod": "KPU",
+      "guncelleme": "2026-04-08T18:24:56Z",
+      "kaynak_tefas": true,
+      "unvan": "KUVEYT TÜRK PORTFÖY İKİNCİ KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpu-kuveyt-turk-portfoy-ikinci-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.36
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.97
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 6.47
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 3.2
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KST": {
+      "kod": "KST",
+      "guncelleme": "2026-04-08T18:24:59Z",
+      "kaynak_tefas": true,
+      "unvan": "ALLBATROSS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kst-allbatross-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.64
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 2.6
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 9.76
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KTI": {
+      "kod": "KTI",
+      "guncelleme": "2026-04-08T18:25:08Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kti-azimut-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.9
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 0.09
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 7.25
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.46
+        },
+        {
+          "tip": "Kamu Kira Sertifikaları (TL)",
+          "oran": 2.3
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KVT": {
+      "kod": "KVT",
+      "guncelleme": "2026-04-08T18:25:13Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kvt-ak-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.99
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 9.01
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "KYA": {
+      "kod": "KYA",
+      "guncelleme": "2026-04-08T18:25:18Z",
+      "kaynak_tefas": true,
+      "unvan": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kya-kare-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 83.72
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.78
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 8.5
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 20:43:20",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6e1f60116cbe"
+    },
+    "MAC": {
+      "kod": "MAC",
+      "guncelleme": "2026-04-08T18:25:23Z",
+      "kaynak_tefas": true,
+      "unvan": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mac-marmara-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.57
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.43
         }
       ],
       "hisseler": [
         {
-          "ticker": "GARAN",
-          "ad": "Garanti BBVA",
-          "agirlik": 8.0
-        },
-        {
-          "ticker": "ISCTR",
-          "ad": "İş Bankası (C)",
-          "agirlik": 7.2
-        },
-        {
-          "ticker": "AKBNK",
-          "ad": "Akbank",
-          "agirlik": 6.5
-        },
-        {
-          "ticker": "HALKB",
-          "ad": "Halkbank",
-          "agirlik": 5.8
-        },
-        {
-          "ticker": "VAKBN",
-          "ad": "Vakıfbank",
-          "agirlik": 5.1
-        },
-        {
-          "ticker": "YKBNK",
-          "ad": "Yapı Kredi",
-          "agirlik": 4.4
+          "ticker": "TBPP",
+          "ad": "",
+          "agirlik": 1.85
         }
-      ]
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "1 hisse satırı okundu.",
+      "kap_rapor_tarihi": "08.04.2026 16:29:49",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6d47a555541f"
+    },
+    "MHF": {
+      "kod": "MHF",
+      "guncelleme": "2026-04-08T18:25:26Z",
+      "kaynak_tefas": true,
+      "unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mhf-mt-portfoy-bist-halka-arz-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.51
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.71
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.53
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.25
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "MKA": {
+      "kod": "MKA",
+      "guncelleme": "2026-04-08T18:25:29Z",
+      "kaynak_tefas": true,
+      "unvan": "MARMARA CAPİTAL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mka-marmara-capital-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.31
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 5.69
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "MMH": {
+      "kod": "MMH",
+      "guncelleme": "2026-04-08T18:25:33Z",
+      "kaynak_tefas": true,
+      "unvan": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mmh-aktif-portfoy-bist-30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.23
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.07
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.7
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "MPS": {
+      "kod": "MPS",
+      "guncelleme": "2026-04-08T18:25:37Z",
+      "kaynak_tefas": true,
+      "unvan": "AKTİF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mps-aktif-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.29
+        },
+        {
+          "tip": "Gayrimenkul Yatırım Fonları Katılma Payları",
+          "oran": 0.01
+        },
+        {
+          "tip": "Kıymetli Madenler Cinsinden BYF",
+          "oran": 3.84
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.57
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 2.29
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "MTH": {
+      "kod": "MTH",
+      "guncelleme": "2026-04-08T18:25:40Z",
+      "kaynak_tefas": true,
+      "unvan": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mth-mt-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.46
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.04
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 11.12
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.65
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 0.73
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "MTK": {
+      "kod": "MTK",
+      "guncelleme": "2026-04-08T18:25:42Z",
+      "kaynak_tefas": true,
+      "unvan": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mtk-mt-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.59
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.41
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NHY": {
+      "kod": "NHY",
+      "guncelleme": "2026-04-08T18:25:45Z",
+      "kaynak_tefas": true,
+      "unvan": "NEO PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nhy-neo-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 106.88
+        },
+        {
+          "tip": "Borsa İstanbul Para Piyasası",
+          "oran": -6.99
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.11
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NKC": {
+      "kod": "NKC",
+      "guncelleme": "2026-04-08T18:25:47Z",
+      "kaynak_tefas": true,
+      "unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkc-neo-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.65
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.35
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NKM": {
+      "kod": "NKM",
+      "guncelleme": "2026-04-08T18:25:50Z",
+      "kaynak_tefas": true,
+      "unvan": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkm-neo-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.41
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.26
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 4.33
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NKT": {
+      "kod": "NKT",
+      "guncelleme": "2026-04-08T18:25:53Z",
+      "kaynak_tefas": true,
+      "unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkt-nurol-portfoy-birinci-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.15
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Alım",
+          "oran": 6.14
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.71
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NLE": {
+      "kod": "NLE",
+      "guncelleme": "2026-04-08T18:25:58Z",
+      "kaynak_tefas": true,
+      "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.37
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.56
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 5.07
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NNF": {
+      "kod": "NNF",
+      "guncelleme": "2026-04-08T18:26:01Z",
+      "kaynak_tefas": true,
+      "unvan": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nnf-hedef-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.45
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.55
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NPH": {
+      "kod": "NPH",
+      "guncelleme": "2026-04-08T18:26:05Z",
+      "kaynak_tefas": true,
+      "unvan": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nph-nurol-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.75
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 7.78
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.14
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.33
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NST": {
+      "kod": "NST",
+      "guncelleme": "2026-04-08T18:26:08Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nst-is-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.09
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.24
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.67
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "NUH": {
+      "kod": "NUH",
+      "guncelleme": "2026-04-08T18:26:11Z",
+      "kaynak_tefas": true,
+      "unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nuh-neo-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.45
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.55
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "OHB": {
+      "kod": "OHB",
+      "guncelleme": "2026-04-08T18:26:15Z",
+      "kaynak_tefas": true,
+      "unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohb-oyak-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.71
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.88
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.05
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 2.01
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.34
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "OHK": {
+      "kod": "OHK",
+      "guncelleme": "2026-04-08T18:26:18Z",
+      "kaynak_tefas": true,
+      "unvan": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohk-oyak-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 82.25
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 3.35
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 8.06
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 6.34
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "OMG": {
+      "kod": "OMG",
+      "guncelleme": "2026-04-08T18:26:21Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/omg-azimut-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 89.07
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.42
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 9.98
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.53
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "OPH": {
+      "kod": "OPH",
+      "guncelleme": "2026-04-08T18:26:24Z",
+      "kaynak_tefas": true,
+      "unvan": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/oph-osmanli-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 99.46
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.01
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.38
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 0.04
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.11
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "OPI": {
+      "kod": "OPI",
+      "guncelleme": "2026-04-08T18:26:26Z",
+      "kaynak_tefas": true,
+      "unvan": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/opi-osmanli-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.42
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.38
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 1.41
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.79
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PGS": {
+      "kod": "PGS",
+      "guncelleme": "2026-04-08T18:26:29Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pgs-azimut-portfoy-pay-geri-alimi-yapan-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.29
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.58
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 6.13
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PHE": {
+      "kod": "PHE",
+      "guncelleme": "2026-04-08T18:26:32Z",
+      "kaynak_tefas": true,
+      "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 77.96
+        },
+        {
+          "tip": "Borsa İstanbul Para Piyasası",
+          "oran": 1.21
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 17.72
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.11
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PHI": {
+      "kod": "PHI",
+      "guncelleme": "2026-04-08T18:26:34Z",
+      "kaynak_tefas": true,
+      "unvan": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phi-piramit-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 83.91
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.19
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 12.9
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PHK": {
+      "kod": "PHK",
+      "guncelleme": "2026-04-08T18:26:36Z",
+      "kaynak_tefas": true,
+      "unvan": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phk-phillip-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.66
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.34
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PPB": {
+      "kod": "PPB",
+      "guncelleme": "2026-04-08T18:26:39Z",
+      "kaynak_tefas": true,
+      "unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ppb-phillip-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.87
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.45
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 5.35
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 4.33
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PPH": {
+      "kod": "PPH",
+      "guncelleme": "2026-04-08T18:26:44Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pph-pardus-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 85.67
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 1.1
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 6.43
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.39
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 4.41
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "PTO": {
+      "kod": "PTO",
+      "guncelleme": "2026-04-08T18:26:47Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 82.1
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.16
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 17.37
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.37
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "RBH": {
+      "kod": "RBH",
+      "guncelleme": "2026-04-08T18:26:50Z",
+      "kaynak_tefas": true,
+      "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 98.23
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 0.62
+        },
+        {
+          "tip": "Özel Sektör Kira Sertifikaları",
+          "oran": 1.15
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "RHI": {
+      "kod": "RHI",
+      "guncelleme": "2026-04-08T18:26:52Z",
+      "kaynak_tefas": true,
+      "unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhi-re-pie-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 86.56
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 13.44
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "RHS": {
+      "kod": "RHS",
+      "guncelleme": "2026-04-08T18:26:56Z",
+      "kaynak_tefas": true,
+      "unvan": "ROTA PORTFÖY HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhs-rota-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 81.3
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 10.5
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.99
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.12
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 2.08
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "RPI": {
+      "kod": "RPI",
+      "guncelleme": "2026-04-08T18:26:59Z",
+      "kaynak_tefas": true,
+      "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.62
+        },
+        {
+          "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+          "oran": 1.28
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 10.1
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "SAS": {
+      "kod": "SAS",
+      "guncelleme": "2026-04-08T18:27:02Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.68
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 0.29
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.03
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "SKO": {
+      "kod": "SKO",
+      "guncelleme": "2026-04-08T18:27:05Z",
+      "kaynak_tefas": true,
+      "unvan": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sko-strateji-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.14
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.0
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 7.49
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 4.19
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.18
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "SLG": {
+      "kod": "SLG",
+      "guncelleme": "2026-04-08T18:27:07Z",
+      "kaynak_tefas": true,
+      "unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/slg-qnb-portfoy-algoritmik-stratejiler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.27
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.07
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.66
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "SRL": {
+      "kod": "SRL",
+      "guncelleme": "2026-04-08T18:27:10Z",
+      "kaynak_tefas": true,
+      "unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/srl-pardus-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 86.62
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.51
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 12.87
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "SSS": {
+      "kod": "SSS",
+      "guncelleme": "2026-04-08T18:27:14Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.66
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.34
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ST1": {
+      "kod": "ST1",
+      "guncelleme": "2026-04-08T18:27:17Z",
+      "kaynak_tefas": true,
+      "unvan": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/st1-strateji-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 88.61
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 6.15
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 5.24
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 11:02:13",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61cf09bf66df"
+    },
+    "SUR": {
+      "kod": "SUR",
+      "guncelleme": "2026-04-08T18:27:19Z",
+      "kaynak_tefas": true,
+      "unvan": "EMAA BLUE PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sur-emaa-blue-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.46
+        },
+        {
+          "tip": "Diğer",
+          "oran": 0.0
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 4.04
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.5
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "TAU": {
+      "kod": "TAU",
+      "guncelleme": "2026-04-08T18:27:29Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tau-is-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.93
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.68
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 10.3
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.09
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:19:17",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5e11aa56671d"
+    },
+    "THD": {
+      "kod": "THD",
+      "guncelleme": "2026-04-08T18:27:35Z",
+      "kaynak_tefas": true,
+      "unvan": "TRIVE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/thd-trive-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.63
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.93
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 6.44
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "THF": {
+      "kod": "THF",
+      "guncelleme": "2026-04-08T18:27:38Z",
+      "kaynak_tefas": true,
+      "unvan": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/thf-tera-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 98.81
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.19
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "TI2": {
+      "kod": "TI2",
+      "guncelleme": "2026-04-08T18:27:41Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti2-is-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.74
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.31
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.6
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.35
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 15:18:25",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d62acf31308d3"
+    },
+    "TI3": {
+      "kod": "TI3",
+      "guncelleme": "2026-04-08T18:27:48Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti3-is-portfoy-is-bankasi-istirakleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.23
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.55
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 6.86
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.36
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 15:18:25",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d62acf4f708dd"
+    },
+    "TIE": {
+      "kod": "TIE",
+      "guncelleme": "2026-04-08T18:28:01Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tie-is-portfoy-bist-30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.02
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.25
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 5.13
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.6
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "06.04.2026 09:19:17",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5e11a8236713"
+    },
+    "TIL": {
+      "kod": "TIL",
+      "guncelleme": "2026-04-08T18:28:03Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/til-is-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.55
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.11
+        },
+        {
+          "tip": "Kamu Kira Sertifikaları (TL)",
+          "oran": 3.98
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 1.36
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "TKF": {
+      "kod": "TKF",
+      "guncelleme": "2026-04-08T18:28:06Z",
+      "kaynak_tefas": true,
+      "unvan": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tkf-tacirler-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.8
+        },
+        {
+          "tip": "Mevduat (TL)",
+          "oran": 0.01
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.78
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.04
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.84
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 0.53
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "07.04.2026 14:19:24",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e3ba7ac1cb3"
+    },
+    "TLH": {
+      "kod": "TLH",
+      "guncelleme": "2026-04-08T18:28:09Z",
+      "kaynak_tefas": true,
+      "unvan": "AURA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlh-aura-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.26
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 3.59
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.15
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "02.04.2026 14:30:44",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4df406f3195d"
+    },
+    "TLZ": {
+      "kod": "TLZ",
+      "guncelleme": "2026-04-08T18:28:12Z",
+      "kaynak_tefas": true,
+      "unvan": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlz-ata-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.07
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.93
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "TTE": {
+      "kod": "TTE",
+      "guncelleme": "2026-04-08T18:28:15Z",
+      "kaynak_tefas": true,
+      "unvan": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tte-is-portfoy-bist-teknoloji-agirlik-sinirlamali-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.8
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.29
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.91
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "TYH": {
+      "kod": "TYH",
+      "guncelleme": "2026-04-08T18:28:19Z",
+      "kaynak_tefas": true,
+      "unvan": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tyh-teb-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 96.06
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.02
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.61
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 0.11
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.2
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "02.04.2026 17:12:20",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e6c3d792cc2"
+    },
+    "TZD": {
+      "kod": "TZD",
+      "guncelleme": "2026-04-08T18:28:25Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tzd-ziraat-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 76.97
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.08
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 11.36
+        },
+        {
+          "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+          "oran": 0.24
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 8.73
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 2.63
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 09:18:12",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bba37f10cca"
+    },
+    "UPH": {
+      "kod": "UPH",
+      "guncelleme": "2026-04-08T18:28:28Z",
+      "kaynak_tefas": true,
+      "unvan": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/uph-unlu-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.35
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.13
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 7.38
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.14
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "VAY": {
+      "kod": "VAY",
+      "guncelleme": "2026-04-08T18:28:31Z",
+      "kaynak_tefas": true,
+      "unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/vay-ak-portfoy-deger-odakli-100-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 97.57
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.43
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YAS": {
+      "kod": "YAS",
+      "guncelleme": "2026-04-08T18:28:34Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yas-yapi-kredi-portfoy-koc-holding-istirak-ve-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 87.48
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.06
+        },
+        {
+          "tip": "Özel Sektör Tahvili",
+          "oran": 5.12
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.12
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.9
+        },
+        {
+          "tip": "Finansman Bonosu",
+          "oran": 2.32
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 13:39:50",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c36de7e3187"
+    },
+    "YDI": {
+      "kod": "YDI",
+      "guncelleme": "2026-04-08T18:28:38Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ydi-yapi-kredi-portfoy-model-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.7
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.63
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.67
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 13:39:00",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c3abc7732f8"
+    },
+    "YEF": {
+      "kod": "YEF",
+      "guncelleme": "2026-04-08T18:28:44Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yef-yapi-kredi-portfoy-bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 93.77
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.06
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 3.48
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.69
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 13:37:42",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c3fd21a3491"
+    },
+    "YHB": {
+      "kod": "YHB",
+      "guncelleme": "2026-04-08T18:28:47Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhb-yapi-kredi-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.85
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.24
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 2.62
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.29
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YHK": {
+      "kod": "YHK",
+      "guncelleme": "2026-04-08T18:28:51Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhk-yapi-kredi-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.17
+        },
+        {
+          "tip": "Özel Sektör Kira Sertifikaları",
+          "oran": 3.55
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 6.28
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YHS": {
+      "kod": "YHS",
+      "guncelleme": "2026-04-08T18:28:58Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhs-yapi-kredi-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.09
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 1.88
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 2.06
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.97
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 13:39:50",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c36de15317d"
+    },
+    "YHZ": {
+      "kod": "YHZ",
+      "guncelleme": "2026-04-08T18:29:12Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhz-yapi-kredi-portfoy-bist-teknoloji-agirlik-sinirlamali-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.87
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.67
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 4.7
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 1.76
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YLE": {
+      "kod": "YLE",
+      "guncelleme": "2026-04-08T18:29:17Z",
+      "kaynak_tefas": true,
+      "unvan": "YAPI KREDİ PORTFÖY BIST SÜRDÜRÜLEBİLİRLİK ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yle-yapi-kredi-portfoy-bist-surdurulebilirlik-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 94.08
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 0.17
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 3.12
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 2.63
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YPR": {
+      "kod": "YPR",
+      "guncelleme": "2026-04-08T18:29:20Z",
+      "kaynak_tefas": true,
+      "unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ypr-azimut-portfoy-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 92.38
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 7.62
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "YZH": {
+      "kod": "YZH",
+      "guncelleme": "2026-04-08T18:29:23Z",
+      "kaynak_tefas": true,
+      "unvan": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yzh-teb-portfoy-bist-banka-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.34
+        },
+        {
+          "tip": "Takasbank Para Piyasası",
+          "oran": 0.08
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 3.21
+        },
+        {
+          "tip": "Vadeli İşlemler Nakit Teminatları",
+          "oran": 1.37
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ZHH": {
+      "kod": "ZHH",
+      "guncelleme": "2026-04-08T18:29:26Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zhh-ziraat-portfoy-halkbank-surdurulebilirlik-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 90.03
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 9.97
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ZJL": {
+      "kod": "ZJL",
+      "guncelleme": "2026-04-08T18:29:29Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjl-ziraat-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 91.07
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 6.56
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 2.36
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ZJV": {
+      "kod": "ZJV",
+      "guncelleme": "2026-04-08T18:29:31Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY BIST 30 DIŞI YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjv-ziraat-portfoy-bist-30-disi-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 81.05
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 18.94
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ZLH": {
+      "kod": "ZLH",
+      "guncelleme": "2026-04-08T18:29:42Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zlh-ziraat-portfoy-bist-100-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 95.39
+        },
+        {
+          "tip": "Yatırım Fonları Katılma Payları",
+          "oran": 0.01
+        },
+        {
+          "tip": "Ters-Repo",
+          "oran": 4.6
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+      "kap_rapor_tarihi": null
+    },
+    "ZPE": {
+      "kod": "ZPE",
+      "guncelleme": "2026-04-08T18:29:46Z",
+      "kaynak_tefas": true,
+      "unvan": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zpe-ziraat-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 80.99
+        },
+        {
+          "tip": "Kıymetli Madenler Cinsinden BYF",
+          "oran": 0.9
+        },
+        {
+          "tip": "Borsa Yatırım Fonları Katılma Payları",
+          "oran": 13.95
+        },
+        {
+          "tip": "Katılma Hesabı (TL)",
+          "oran": 4.16
+        }
+      ],
+      "hisseler": [],
+      "hisse_durumu": "bulunamadi",
+      "hisse_mesaj": "Veri okunamadı",
+      "kap_rapor_tarihi": "08.04.2026 09:35:17",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca570a134b"
     }
   }
 }

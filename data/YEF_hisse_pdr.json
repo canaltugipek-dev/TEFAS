@@ -1,0 +1,30 @@
+{
+  "kod": "YEF",
+  "guncelleme": "2026-04-08T18:28:44Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yef-yapi-kredi-portfoy-bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.77
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.06
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 3.48
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 1.69
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 13:37:42",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c3fd21a3491"
+}

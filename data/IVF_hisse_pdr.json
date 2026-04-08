@@ -1,0 +1,21 @@
+{
+  "kod": "IVF",
+  "guncelleme": "2026-04-08T18:24:30Z",
+  "kaynak_tefas": true,
+  "unvan": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ivf-istanbul-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 87.59
+    },
+    {
+      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+      "oran": 12.41
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

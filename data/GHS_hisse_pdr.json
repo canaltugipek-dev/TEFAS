@@ -1,0 +1,41 @@
+{
+  "kod": "GHS",
+  "guncelleme": "2026-04-08T18:21:33Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ghs-garanti-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 95.27
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 0.44
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.22
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 2.06
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 2.37
+    },
+    {
+      "ticker": "TERS",
+      "ad": "",
+      "agirlik": 0.94
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 18:43:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db5d5c17720"
+}

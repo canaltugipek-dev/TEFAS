@@ -1,0 +1,25 @@
+{
+  "kod": "ZLH",
+  "guncelleme": "2026-04-08T18:29:42Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zlh-ziraat-portfoy-bist-100-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 95.39
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.01
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 4.6
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

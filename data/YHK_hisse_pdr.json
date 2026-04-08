@@ -1,0 +1,25 @@
+{
+  "kod": "YHK",
+  "guncelleme": "2026-04-08T18:28:51Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhk-yapi-kredi-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 90.17
+    },
+    {
+      "tip": "Özel Sektör Kira Sertifikaları",
+      "oran": 3.55
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 6.28
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

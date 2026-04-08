@@ -1,0 +1,25 @@
+{
+  "kod": "BID",
+  "guncelleme": "2026-04-08T18:19:56Z",
+  "kaynak_tefas": true,
+  "unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bid-qnb-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.12
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.16
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 7.72
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

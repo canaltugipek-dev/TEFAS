@@ -1,0 +1,26 @@
+{
+  "kod": "YDI",
+  "guncelleme": "2026-04-08T18:28:38Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ydi-yapi-kredi-portfoy-model-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 90.7
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.63
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 7.67
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 13:39:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c3abc7732f8"
+}

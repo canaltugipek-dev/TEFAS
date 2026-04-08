@@ -1,0 +1,25 @@
+{
+  "kod": "DKH",
+  "guncelleme": "2026-04-08T18:20:27Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dkh-deniz-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.06
+    },
+    {
+      "tip": "Özel Sektör Kira Sertifikaları",
+      "oran": 1.06
+    },
+    {
+      "tip": "Katılma Hesabı (TL)",
+      "oran": 5.88
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

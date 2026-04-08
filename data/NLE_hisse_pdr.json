@@ -1,0 +1,25 @@
+{
+  "kod": "NLE",
+  "guncelleme": "2026-04-08T18:25:58Z",
+  "kaynak_tefas": true,
+  "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.37
+    },
+    {
+      "tip": "Borsa Yatırım Fonları Katılma Payları",
+      "oran": 0.56
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 5.07
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

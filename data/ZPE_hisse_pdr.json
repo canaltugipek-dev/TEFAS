@@ -1,0 +1,30 @@
+{
+  "kod": "ZPE",
+  "guncelleme": "2026-04-08T18:29:46Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zpe-ziraat-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.99
+    },
+    {
+      "tip": "Kıymetli Madenler Cinsinden BYF",
+      "oran": 0.9
+    },
+    {
+      "tip": "Borsa Yatırım Fonları Katılma Payları",
+      "oran": 13.95
+    },
+    {
+      "tip": "Katılma Hesabı (TL)",
+      "oran": 4.16
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 09:35:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca570a134b"
+}

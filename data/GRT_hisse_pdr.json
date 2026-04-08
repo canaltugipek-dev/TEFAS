@@ -1,0 +1,25 @@
+{
+  "kod": "GRT",
+  "guncelleme": "2026-04-08T18:22:11Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/grt-garanti-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 98.52
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.25
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 1.23
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

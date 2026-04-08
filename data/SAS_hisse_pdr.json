@@ -1,0 +1,25 @@
+{
+  "kod": "SAS",
+  "guncelleme": "2026-04-08T18:27:02Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.68
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 0.29
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 7.03
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,30 @@
+{
+  "kod": "GSP",
+  "guncelleme": "2026-04-08T18:22:14Z",
+  "kaynak_tefas": true,
+  "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 82.77
+    },
+    {
+      "tip": "Diğer",
+      "oran": 0.07
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 15.37
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.79
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "07.04.2026 18:17:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3db81470e"
+}

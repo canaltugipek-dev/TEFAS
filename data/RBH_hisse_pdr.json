@@ -1,0 +1,25 @@
+{
+  "kod": "RBH",
+  "guncelleme": "2026-04-08T18:26:50Z",
+  "kaynak_tefas": true,
+  "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 98.23
+    },
+    {
+      "tip": "Katılma Hesabı (TL)",
+      "oran": 0.62
+    },
+    {
+      "tip": "Özel Sektör Kira Sertifikaları",
+      "oran": 1.15
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

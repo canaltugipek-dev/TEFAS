@@ -1,0 +1,37 @@
+{
+  "kod": "DTH",
+  "guncelleme": "2026-04-08T18:20:36Z",
+  "kaynak_tefas": true,
+  "unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dth-emaa-blue-portfoy-donusum-teknolojileri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 90.32
+    },
+    {
+      "tip": "Diğer",
+      "oran": 0.0
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 5.07
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.01
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 3.55
+    },
+    {
+      "tip": "Özel Sektör Tahvili",
+      "oran": 1.05
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

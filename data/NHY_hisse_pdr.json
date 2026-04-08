@@ -1,0 +1,25 @@
+{
+  "kod": "NHY",
+  "guncelleme": "2026-04-08T18:25:45Z",
+  "kaynak_tefas": true,
+  "unvan": "NEO PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nhy-neo-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 106.88
+    },
+    {
+      "tip": "Borsa İstanbul Para Piyasası",
+      "oran": -6.99
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.11
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

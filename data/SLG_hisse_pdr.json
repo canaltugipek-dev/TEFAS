@@ -1,0 +1,25 @@
+{
+  "kod": "SLG",
+  "guncelleme": "2026-04-08T18:27:07Z",
+  "kaynak_tefas": true,
+  "unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/slg-qnb-portfoy-algoritmik-stratejiler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 97.27
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.07
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 2.66
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

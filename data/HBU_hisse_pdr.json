@@ -1,0 +1,26 @@
+{
+  "kod": "HBU",
+  "guncelleme": "2026-04-08T18:22:29Z",
+  "kaynak_tefas": true,
+  "unvan": "HSBC PORTFÖY BİST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hbu-hsbc-portfoy-bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 95.54
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 2.14
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.32
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 11:15:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c13670070e4"
+}

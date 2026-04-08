@@ -1,0 +1,26 @@
+{
+  "kod": "ICF",
+  "guncelleme": "2026-04-08T18:23:07Z",
+  "kaynak_tefas": true,
+  "unvan": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icf-icbc-turkey-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 89.47
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 2.76
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 7.77
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "01.04.2026 19:53:31",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49f55c1547d1"
+}

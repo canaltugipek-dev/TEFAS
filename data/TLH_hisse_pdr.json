@@ -1,0 +1,26 @@
+{
+  "kod": "TLH",
+  "guncelleme": "2026-04-08T18:28:09Z",
+  "kaynak_tefas": true,
+  "unvan": "AURA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlh-aura-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.26
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 3.59
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 4.15
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "02.04.2026 14:30:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4df406f3195d"
+}

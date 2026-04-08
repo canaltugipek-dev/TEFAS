@@ -1,0 +1,25 @@
+{
+  "kod": "DXP",
+  "guncelleme": "2026-04-08T18:20:42Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dxp-deniz-portfoy-ihracatci-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fonu",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 96.51
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 1.43
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 2.06
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,25 @@
+{
+  "kod": "GIE",
+  "guncelleme": "2026-04-08T18:21:36Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY GARANTİ BBVA İKLİM ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gie-garanti-portfoy-garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 91.09
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 3.52
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 5.39
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

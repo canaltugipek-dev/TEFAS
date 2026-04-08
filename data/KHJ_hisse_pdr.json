@@ -1,0 +1,29 @@
+{
+  "kod": "KHJ",
+  "guncelleme": "2026-04-08T18:24:43Z",
+  "kaynak_tefas": true,
+  "unvan": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khj-atlas-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 90.03
+    },
+    {
+      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+      "oran": 2.22
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 4.54
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 3.21
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

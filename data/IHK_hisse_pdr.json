@@ -1,0 +1,29 @@
+{
+  "kod": "IHK",
+  "guncelleme": "2026-04-08T18:23:48Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ihk-is-portfoy-is-te-kadin-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.41
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.55
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 2.76
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.28
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

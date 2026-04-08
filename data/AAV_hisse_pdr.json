@@ -1,0 +1,162 @@
+{
+  "kod": "AAV",
+  "guncelleme": "2026-04-08T18:18:52Z",
+  "kaynak_tefas": true,
+  "unvan": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aav-ata-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.42
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.57
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 6.01
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 5.96
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 5.83
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.52
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 5.12
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.71
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.09
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.86
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 3.79
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 2.41
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.01
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.72
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 1.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 12:01:59",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d672760c0557d"
+}

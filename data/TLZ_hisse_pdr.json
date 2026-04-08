@@ -1,0 +1,21 @@
+{
+  "kod": "TLZ",
+  "guncelleme": "2026-04-08T18:28:12Z",
+  "kaynak_tefas": true,
+  "unvan": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlz-ata-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 97.07
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 2.93
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

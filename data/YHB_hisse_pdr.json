@@ -1,0 +1,29 @@
+{
+  "kod": "YHB",
+  "guncelleme": "2026-04-08T18:28:47Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhb-yapi-kredi-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.85
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 1.24
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 2.62
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.29
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

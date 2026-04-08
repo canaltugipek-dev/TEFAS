@@ -1,0 +1,29 @@
+{
+  "kod": "ACC",
+  "guncelleme": "2026-04-08T18:18:55Z",
+  "kaynak_tefas": true,
+  "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 86.64
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 1.21
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 8.21
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 3.94
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,30 @@
+{
+  "kod": "DZE",
+  "guncelleme": "2026-04-08T18:20:47Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dze-deniz-portfoy-bist-100-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.74
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.37
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 4.01
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.88
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "03.04.2026 14:34:50",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d53161b9d6f07"
+}

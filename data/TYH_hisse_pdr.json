@@ -1,0 +1,34 @@
+{
+  "kod": "TYH",
+  "guncelleme": "2026-04-08T18:28:19Z",
+  "kaynak_tefas": true,
+  "unvan": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tyh-teb-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 96.06
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.02
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 3.61
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 0.11
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.2
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "02.04.2026 17:12:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e6c3d792cc2"
+}

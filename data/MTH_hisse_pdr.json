@@ -1,0 +1,33 @@
+{
+  "kod": "MTH",
+  "guncelleme": "2026-04-08T18:25:40Z",
+  "kaynak_tefas": true,
+  "unvan": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mth-mt-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 87.46
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.04
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 11.12
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.65
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 0.73
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

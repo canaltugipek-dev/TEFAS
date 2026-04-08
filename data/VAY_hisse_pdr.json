@@ -1,0 +1,21 @@
+{
+  "kod": "VAY",
+  "guncelleme": "2026-04-08T18:28:31Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/vay-ak-portfoy-deger-odakli-100-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 97.57
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.43
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

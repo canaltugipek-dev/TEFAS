@@ -1,0 +1,29 @@
+{
+  "kod": "IDH",
+  "guncelleme": "2026-04-08T18:23:21Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idh-is-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 95.35
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.02
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 4.29
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.34
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

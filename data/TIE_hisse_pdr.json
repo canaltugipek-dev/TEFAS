@@ -1,0 +1,30 @@
+{
+  "kod": "TIE",
+  "guncelleme": "2026-04-08T18:28:01Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tie-is-portfoy-bist-30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.02
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.25
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 5.13
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.6
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.04.2026 09:19:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5e11a8236713"
+}

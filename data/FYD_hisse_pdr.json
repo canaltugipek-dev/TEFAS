@@ -1,0 +1,30 @@
+{
+  "kod": "FYD",
+  "guncelleme": "2026-04-08T18:21:14Z",
+  "kaynak_tefas": true,
+  "unvan": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fyd-qnb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 89.52
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 1.1
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 6.65
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.73
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 16:33:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6ceaeca73bde"
+}

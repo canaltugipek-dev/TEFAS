@@ -1,0 +1,30 @@
+{
+  "kod": "AHI",
+  "guncelleme": "2026-04-08T18:19:05Z",
+  "kaynak_tefas": true,
+  "unvan": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ahi-atlas-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.05
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.44
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 5.06
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.45
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 17:15:12",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61f37ec81fb8"
+}

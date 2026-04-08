@@ -1,0 +1,29 @@
+{
+  "kod": "KPU",
+  "guncelleme": "2026-04-08T18:24:56Z",
+  "kaynak_tefas": true,
+  "unvan": "KUVEYT TÜRK PORTFÖY İKİNCİ KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpu-kuveyt-turk-portfoy-ikinci-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 89.36
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.97
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 6.47
+    },
+    {
+      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+      "oran": 3.2
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

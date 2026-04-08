@@ -1,0 +1,29 @@
+{
+  "kod": "DHJ",
+  "guncelleme": "2026-04-08T18:20:25Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dhj-deniz-portfoy-teknoloji-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.54
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.41
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 3.13
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 2.92
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,26 @@
+{
+  "kod": "HVS",
+  "guncelleme": "2026-04-08T18:22:55Z",
+  "kaynak_tefas": true,
+  "unvan": "HSBC PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvs-hsbc-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 90.01
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 3.4
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 6.59
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "08.04.2026 11:15:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c136be9717b"
+}

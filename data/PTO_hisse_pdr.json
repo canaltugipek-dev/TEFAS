@@ -1,0 +1,29 @@
+{
+  "kod": "PTO",
+  "guncelleme": "2026-04-08T18:26:47Z",
+  "kaynak_tefas": true,
+  "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 82.1
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.16
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 17.37
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.37
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

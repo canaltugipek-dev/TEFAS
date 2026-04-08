@@ -1,0 +1,29 @@
+{
+  "kod": "PHE",
+  "guncelleme": "2026-04-08T18:26:32Z",
+  "kaynak_tefas": true,
+  "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 77.96
+    },
+    {
+      "tip": "Borsa İstanbul Para Piyasası",
+      "oran": 1.21
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 17.72
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 3.11
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

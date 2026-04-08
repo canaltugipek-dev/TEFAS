@@ -1,0 +1,25 @@
+{
+  "kod": "GNS",
+  "guncelleme": "2026-04-08T18:22:03Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 91.51
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.47
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 8.03
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

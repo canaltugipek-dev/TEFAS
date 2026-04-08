@@ -1,0 +1,38 @@
+{
+  "kod": "TKF",
+  "guncelleme": "2026-04-08T18:28:06Z",
+  "kaynak_tefas": true,
+  "unvan": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tkf-tacirler-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.8
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.01
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 3.78
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.04
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 1.84
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 0.53
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "07.04.2026 14:19:24",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e3ba7ac1cb3"
+}

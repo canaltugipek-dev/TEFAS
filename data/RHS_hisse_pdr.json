@@ -1,0 +1,37 @@
+{
+  "kod": "RHS",
+  "guncelleme": "2026-04-08T18:26:56Z",
+  "kaynak_tefas": true,
+  "unvan": "ROTA PORTFÖY HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhs-rota-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 81.3
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.01
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 10.5
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.99
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 5.12
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 2.08
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,29 @@
+{
+  "kod": "IIH",
+  "guncelleme": "2026-04-08T18:24:07Z",
+  "kaynak_tefas": true,
+  "unvan": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iih-istanbul-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.54
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.01
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 5.37
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.08
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

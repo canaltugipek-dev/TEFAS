@@ -1,0 +1,29 @@
+{
+  "kod": "PPB",
+  "guncelleme": "2026-04-08T18:26:39Z",
+  "kaynak_tefas": true,
+  "unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ppb-phillip-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 87.87
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 2.45
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 5.35
+    },
+    {
+      "tip": "Borsa Yatırım Fonları Katılma Payları",
+      "oran": 4.33
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,25 @@
+{
+  "kod": "ITC",
+  "guncelleme": "2026-04-08T18:24:26Z",
+  "kaynak_tefas": true,
+  "unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/itc-inveo-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 96.95
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.8
+    },
+    {
+      "tip": "Borsa Yatırım Fonları Katılma Payları",
+      "oran": 2.25
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

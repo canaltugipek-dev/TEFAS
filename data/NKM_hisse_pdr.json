@@ -1,0 +1,25 @@
+{
+  "kod": "NKM",
+  "guncelleme": "2026-04-08T18:25:50Z",
+  "kaynak_tefas": true,
+  "unvan": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkm-neo-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 93.41
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 2.26
+    },
+    {
+      "tip": "Katılma Hesabı (TL)",
+      "oran": 4.33
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

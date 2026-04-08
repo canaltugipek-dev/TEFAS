@@ -1,0 +1,38 @@
+{
+  "kod": "FPH",
+  "guncelleme": "2026-04-08T18:21:09Z",
+  "kaynak_tefas": true,
+  "unvan": "FİBA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fph-fiba-portfoy-hisse-senedi-fonu-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.5
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 0.2
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 2.43
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 0.24
+    },
+    {
+      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
+      "oran": 2.13
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.5
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.04.2026 15:55:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62dac34207e8"
+}

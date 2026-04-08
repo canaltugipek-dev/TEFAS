@@ -1,0 +1,25 @@
+{
+  "kod": "RPI",
+  "guncelleme": "2026-04-08T18:26:59Z",
+  "kaynak_tefas": true,
+  "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 88.62
+    },
+    {
+      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
+      "oran": 1.28
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 10.1
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

@@ -1,0 +1,30 @@
+{
+  "kod": "ST1",
+  "guncelleme": "2026-04-08T18:27:17Z",
+  "kaynak_tefas": true,
+  "unvan": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/st1-strateji-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 88.61
+    },
+    {
+      "tip": "Diğer",
+      "oran": 0.0
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 6.15
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 5.24
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.04.2026 11:02:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61cf09bf66df"
+}

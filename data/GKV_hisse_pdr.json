@@ -1,0 +1,21 @@
+{
+  "kod": "GKV",
+  "guncelleme": "2026-04-08T18:21:44Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkv-garanti-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.95
+    },
+    {
+      "tip": "Katılma Hesabı (TL)",
+      "oran": 7.05
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

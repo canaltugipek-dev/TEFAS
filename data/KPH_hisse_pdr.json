@@ -1,0 +1,29 @@
+{
+  "kod": "KPH",
+  "guncelleme": "2026-04-08T18:24:54Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kph-is-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 92.59
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.87
+    },
+    {
+      "tip": "Ters-Repo",
+      "oran": 3.51
+    },
+    {
+      "tip": "Vadeli İşlemler Nakit Teminatları",
+      "oran": 3.03
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}

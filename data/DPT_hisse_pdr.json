@@ -1,0 +1,29 @@
+{
+  "kod": "DPT",
+  "guncelleme": "2026-04-08T18:20:33Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dpt-deniz-portfoy-bist-temettu-25-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 94.11
+    },
+    {
+      "tip": "Mevduat (TL)",
+      "oran": 0.3
+    },
+    {
+      "tip": "Takasbank Para Piyasası",
+      "oran": 4.67
+    },
+    {
+      "tip": "Yatırım Fonları Katılma Payları",
+      "oran": 0.92
+    }
+  ],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
+  "kap_rapor_tarihi": null
+}
