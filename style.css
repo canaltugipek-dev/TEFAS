@@ -256,6 +256,7 @@ body {
   flex-direction: column;
   gap: 0.5rem;
   min-height: 160px;
+  position: relative;
 }
 
 .dash-card--primary {
@@ -286,6 +287,47 @@ body {
   font-size: 0.82rem;
   color: var(--text-muted);
   line-height: 1.45;
+}
+
+.dash-card__badge {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.7rem;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.18rem 0.48rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  line-height: 1.1;
+}
+
+.dash-card__badge--beta {
+  color: #facc15;
+  background: rgba(250, 204, 21, 0.14);
+  border-color: rgba(251, 146, 60, 0.3);
+}
+
+.dash-card__desc--beta-note {
+  color: #a8b8c8;
+}
+
+@keyframes betaGlowPulse {
+  0% {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 0 rgba(251, 146, 60, 0);
+  }
+  50% {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 14px rgba(251, 146, 60, 0.16);
+  }
+  100% {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 0 rgba(251, 146, 60, 0);
+  }
+}
+
+.dash-card--beta:hover {
+  border-color: rgba(251, 146, 60, 0.42);
+  animation: betaGlowPulse 1.45s ease-in-out infinite;
 }
 
 .dashboard-hint {

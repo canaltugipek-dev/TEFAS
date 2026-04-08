@@ -55,10 +55,12 @@
           <span class="dash-card__label">Fon Karşılaştırma</span>
           <span class="dash-card__desc">5 farklı fon seçin, getiri/risk rasyolarını yan yana kıyaslayın.</span>
         </button>
-        <button type="button" class="dash-card dash-card--secondary" data-route="fon-hisse-detay">
+        <button type="button" class="dash-card dash-card--secondary dash-card--beta" data-route="fon-hisse-detay">
+          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
           <span class="dash-card__icon" aria-hidden="true">◔</span>
           <span class="dash-card__label">Fon Hisse Detay</span>
           <span class="dash-card__desc">Portföy dağılımı: halka grafik ve hisse ağırlıkları (TEFAS + manuel veri).</span>
+          <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
         </button>
       </div>
       <p class="dashboard-hint">Veri: <code>py tefas_scraper.py</code> · Sunucu: <code>py -m http.server 8080</code> → <code>http://localhost:8080</code></p>
