@@ -516,8 +516,8 @@ def main() -> int:
     else:
         codes = [c.upper() for c in args.fonlar if c.strip()]
         if not codes:
-            print("Örnek: py fon_hisse_scraper.py AAV ACC", file=sys.stderr)
-            print("       py fon_hisse_scraper.py --tum-manifest", file=sys.stderr)
+            print("Örnek: .venv/Scripts/python fon_hisse_scraper.py AAV ACC", file=sys.stderr)
+            print("       .venv/Scripts/python fon_hisse_scraper.py --tum-manifest", file=sys.stderr)
             return 1
 
     DATA.mkdir(parents=True, exist_ok=True)
