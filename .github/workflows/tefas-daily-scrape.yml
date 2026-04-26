@@ -1,0 +1,58 @@
+# TEFAS tam HSYF getiri + manifest (tefas_scraper.py)
+#
+# Zaman: Hafta içi 09:00 UTC = 12:00 Europe/Istanbul (yaz-kış aynı, TR sabit UTC+3).
+# Not: Borsanın kapalı olduğu resmi tatillerde de Pazartesi–Cuma tetiklenir; gerçek
+# tatil atlaması ileride ayrı adım (ör. TR tatil kütüphanesi) ile eklenebilir.
+
+name: TEFAS günlük veri
+
+on:
+  schedule:
+    - cron: "0 9 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tefas-daily-scrape
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Bağımlılıklar
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
+
+      - name: tefas_scraper (tüm HSYF)
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python tefas_scraper.py
+
+      - name: data/ değişikliklerini commit ve push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Yeni veri yok, commit yok"
+          else
+            git commit -m "chore(data): TEFAS otomatik güncelleme [skip ci]"
+            git push
+          fi
