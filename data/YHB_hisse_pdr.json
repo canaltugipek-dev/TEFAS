@@ -1,29 +1,179 @@
 {
   "kod": "YHB",
-  "guncelleme": "2026-04-08T18:28:47Z",
+  "guncelleme": "2026-04-26T18:31:27Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhb-yapi-kredi-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.85
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.24
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.62
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.29
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKFIS",
+      "ad": "",
+      "agirlik": 7.07
+    },
+    {
+      "ticker": "BOBET",
+      "ad": "",
+      "agirlik": 6.31
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 6.03
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.92
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 3.79
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "EGPRO",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "VAKKO",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "DESA",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.45
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 2.34
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "ULUFA",
+      "ad": "",
+      "agirlik": 2.17
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 1.95
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 1.24
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "OFSYM",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "ZERGY",
+      "ad": "",
+      "agirlik": 0.81
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 13:41:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c4d638336dd"
 }

@@ -1,29 +1,209 @@
 {
   "kod": "BV1",
-  "guncelleme": "2026-04-08T18:20:18Z",
+  "guncelleme": "2026-04-26T18:21:56Z",
   "kaynak_tefas": true,
   "unvan": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bv1-bv-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 89.83
-    },
-    {
-      "tip": "Katılma Hesabı (TL)",
-      "oran": 0.04
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 5.51
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.62
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 6.92
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 6.53
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 6.4
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.19
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 6.06
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 5.92
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.06
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.89
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.76
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.81
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.32
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "BORSK",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.72
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "HLGYO",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "KIMMR",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 0.66
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 0.56
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 0.52
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 0.36
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 0.26
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "38 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 13:17:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6760222b1463"
 }

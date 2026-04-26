@@ -2,22 +2,122 @@
   "fon_kodu": "ITC",
   "fon_unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 63,
-  "gun_kapsami": 89,
+  "kayit_sayisi": 86,
+  "gun_kapsami": 122,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1766448000000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766534400000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766620800000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766707200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1766966400000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767052800000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767139200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767312000000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767571200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1767657600000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1767744000000",
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023862,
-      "TEDPAYSAYISI": 2037652.0,
-      "KISISAYISI": 6.0,
-      "PORTFOYBUYUKLUK": 2086273.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +125,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023615,
-      "TEDPAYSAYISI": 2052398.0,
-      "KISISAYISI": 8.0,
-      "PORTFOYBUYUKLUK": 2100866.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +135,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027366,
-      "TEDPAYSAYISI": 2067078.0,
-      "KISISAYISI": 16.0,
-      "PORTFOYBUYUKLUK": 2123645.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +145,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033758,
-      "TEDPAYSAYISI": 2238788.0,
-      "KISISAYISI": 19.0,
-      "PORTFOYBUYUKLUK": 2314364.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +155,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040102,
-      "TEDPAYSAYISI": 2244174.0,
-      "KISISAYISI": 22.0,
-      "PORTFOYBUYUKLUK": 2334169.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +165,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054622,
-      "TEDPAYSAYISI": 2789539.0,
-      "KISISAYISI": 28.0,
-      "PORTFOYBUYUKLUK": 2941908.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +175,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058462,
-      "TEDPAYSAYISI": 2813357.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 2977830.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +185,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068604,
-      "TEDPAYSAYISI": 3650350.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 3900777.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +195,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085388,
-      "TEDPAYSAYISI": 3687716.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 4002603.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +205,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089324,
-      "TEDPAYSAYISI": 3817066.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 4158021.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +215,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085908,
-      "TEDPAYSAYISI": 3989726.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 4332473.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +225,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086643,
-      "TEDPAYSAYISI": 4996594.0,
-      "KISISAYISI": 82.0,
-      "PORTFOYBUYUKLUK": 5429512.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +235,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110294,
-      "TEDPAYSAYISI": 3648657.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 4051082.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +245,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126056,
-      "TEDPAYSAYISI": 5285624.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 5951911.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +255,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1384,
-      "TEDPAYSAYISI": 5567929.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 6338529.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +265,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127518,
-      "TEDPAYSAYISI": 5999501.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 6764543.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +275,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152924,
-      "TEDPAYSAYISI": 6560391.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 7563634.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +285,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.187058,
-      "TEDPAYSAYISI": 6553943.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 7779908.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +295,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195705,
-      "TEDPAYSAYISI": 6597141.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 7888232.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +305,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18244,
-      "TEDPAYSAYISI": 6845641.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 8094557.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +315,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196955,
-      "TEDPAYSAYISI": 7183401.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 8598211.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +325,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190726,
-      "TEDPAYSAYISI": 7196397.0,
-      "KISISAYISI": 166.0,
-      "PORTFOYBUYUKLUK": 8568936.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +335,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169425,
-      "TEDPAYSAYISI": 7354864.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 8600960.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +345,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171687,
-      "TEDPAYSAYISI": 7448410.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 8727208.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +355,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204992,
-      "TEDPAYSAYISI": 8981644.0,
-      "KISISAYISI": 186.0,
-      "PORTFOYBUYUKLUK": 10822804.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +365,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198686,
-      "TEDPAYSAYISI": 10487969.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 12571780.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +375,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208678,
-      "TEDPAYSAYISI": 12440908.0,
-      "KISISAYISI": 206.0,
-      "PORTFOYBUYUKLUK": 15037055.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +385,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254683,
-      "TEDPAYSAYISI": 14447357.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 18126849.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +395,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254448,
-      "TEDPAYSAYISI": 16257106.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 20393701.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +405,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265275,
-      "TEDPAYSAYISI": 19468023.0,
-      "KISISAYISI": 276.0,
-      "PORTFOYBUYUKLUK": 24632396.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +415,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251189,
-      "TEDPAYSAYISI": 21413888.0,
-      "KISISAYISI": 387.0,
-      "PORTFOYBUYUKLUK": 26792818.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +425,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254703,
-      "TEDPAYSAYISI": 22835976.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 28652357.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +435,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218879,
-      "TEDPAYSAYISI": 23965414.0,
-      "KISISAYISI": 479.0,
-      "PORTFOYBUYUKLUK": 29210943.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +445,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229637,
-      "TEDPAYSAYISI": 23755524.0,
-      "KISISAYISI": 499.0,
-      "PORTFOYBUYUKLUK": 29210662.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +455,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241181,
-      "TEDPAYSAYISI": 24386345.0,
-      "KISISAYISI": 506.0,
-      "PORTFOYBUYUKLUK": 30267879.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +465,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233706,
-      "TEDPAYSAYISI": 24089620.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 29719514.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +475,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.21938,
-      "TEDPAYSAYISI": 24305287.0,
-      "KISISAYISI": 525.0,
-      "PORTFOYBUYUKLUK": 29637378.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +485,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224011,
-      "TEDPAYSAYISI": 24525979.0,
-      "KISISAYISI": 524.0,
-      "PORTFOYBUYUKLUK": 30020067.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +495,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206979,
-      "TEDPAYSAYISI": 24106992.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 29096639.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +505,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173389,
-      "TEDPAYSAYISI": 23871894.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 28011009.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +515,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143783,
-      "TEDPAYSAYISI": 22870468.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 26158862.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +525,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144369,
-      "TEDPAYSAYISI": 22602568.0,
-      "KISISAYISI": 485.0,
-      "PORTFOYBUYUKLUK": 25865668.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +535,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158038,
-      "TEDPAYSAYISI": 22576291.0,
-      "KISISAYISI": 477.0,
-      "PORTFOYBUYUKLUK": 26144200.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +545,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13239,
-      "TEDPAYSAYISI": 22778676.0,
-      "KISISAYISI": 470.0,
-      "PORTFOYBUYUKLUK": 25794350.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +555,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120395,
-      "TEDPAYSAYISI": 22411428.0,
-      "KISISAYISI": 465.0,
-      "PORTFOYBUYUKLUK": 25109651.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +565,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160351,
-      "TEDPAYSAYISI": 21704353.0,
-      "KISISAYISI": 460.0,
-      "PORTFOYBUYUKLUK": 25184662.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +575,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155192,
-      "TEDPAYSAYISI": 21551219.0,
-      "KISISAYISI": 447.0,
-      "PORTFOYBUYUKLUK": 24895794.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +585,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162827,
-      "TEDPAYSAYISI": 21045671.0,
-      "KISISAYISI": 449.0,
-      "PORTFOYBUYUKLUK": 24472467.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +595,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150317,
-      "TEDPAYSAYISI": 20968415.0,
-      "KISISAYISI": 450.0,
-      "PORTFOYBUYUKLUK": 24120318.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +605,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144683,
-      "TEDPAYSAYISI": 20780509.0,
-      "KISISAYISI": 446.0,
-      "PORTFOYBUYUKLUK": 23787102.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +615,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167231,
-      "TEDPAYSAYISI": 20775580.0,
-      "KISISAYISI": 444.0,
-      "PORTFOYBUYUKLUK": 24249894.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +625,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160615,
-      "TEDPAYSAYISI": 20831604.0,
-      "KISISAYISI": 432.0,
-      "PORTFOYBUYUKLUK": 24177474.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +635,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158809,
-      "TEDPAYSAYISI": 20891353.0,
-      "KISISAYISI": 433.0,
-      "PORTFOYBUYUKLUK": 24209093.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +645,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.164474,
-      "TEDPAYSAYISI": 20958374.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 24405486.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +655,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148327,
-      "TEDPAYSAYISI": 20701798.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 23772428.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +665,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158271,
-      "TEDPAYSAYISI": 20660800.0,
-      "KISISAYISI": 414.0,
-      "PORTFOYBUYUKLUK": 23930796.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +675,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14523,
-      "TEDPAYSAYISI": 20611811.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 23605262.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +685,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140682,
-      "TEDPAYSAYISI": 22078072.0,
-      "KISISAYISI": 401.0,
-      "PORTFOYBUYUKLUK": 25184049.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +695,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125602,
-      "TEDPAYSAYISI": 21872314.0,
-      "KISISAYISI": 393.0,
-      "PORTFOYBUYUKLUK": 24619524.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +705,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134118,
-      "TEDPAYSAYISI": 21342210.0,
-      "KISISAYISI": 392.0,
-      "PORTFOYBUYUKLUK": 24204584.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +715,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151408,
-      "TEDPAYSAYISI": 21252594.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 24470416.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +725,9 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158583,
-      "TEDPAYSAYISI": 21141834.0,
-      "KISISAYISI": 371.0,
-      "PORTFOYBUYUKLUK": 24494573.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +735,139 @@
       "FONKODU": "ITC",
       "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150353,
-      "TEDPAYSAYISI": 21139826.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 24318269.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.167463,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.14616,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.199835,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.20853,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.240106,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.2371,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.246129,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.250805,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.245581,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.282817,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.263199,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.249603,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "ITC",
+      "FONUNVAN": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.24754,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

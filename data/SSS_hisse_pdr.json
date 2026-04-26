@@ -1,21 +1,109 @@
 {
   "kod": "SSS",
-  "guncelleme": "2026-04-08T18:27:14Z",
+  "guncelleme": "2026-04-26T18:34:22Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.66
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.34
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 19.32
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 15.53
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 15.21
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 13.77
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 11.46
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 5.49
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 3.46
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 2.31
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 1.59
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "TMSN",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.32
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 13:31:37",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6c6de54823e9"
 }

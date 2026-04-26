@@ -1,37 +1,13 @@
 {
   "kod": "AYA",
-  "guncelleme": "2026-04-08T18:19:43Z",
+  "guncelleme": "2026-04-26T15:43:02Z",
   "kaynak_tefas": true,
   "unvan": "ATA PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aya-ata-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 80.91
-    },
-    {
-      "tip": "Varlığa Dayalı Menkul Kıymetler",
-      "oran": 0.4
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 9.86
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.51
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 5.84
-    },
-    {
-      "tip": "Finansman Bonosu",
-      "oran": 0.72
-    },
-    {
-      "tip": "Özel Sektör Kira Sertifikaları",
-      "oran": 1.76
+      "oran": 80.0
     }
   ],
   "hisseler": [

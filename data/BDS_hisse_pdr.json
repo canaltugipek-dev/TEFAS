@@ -1,29 +1,164 @@
 {
   "kod": "BDS",
-  "guncelleme": "2026-04-08T18:19:46Z",
+  "guncelleme": "2026-04-26T18:21:33Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bds-pardus-portfoy-bist-30-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 84.96
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.08
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 9.83
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 5.13
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TRILC",
+      "ad": "",
+      "agirlik": 10.14
+    },
+    {
+      "ticker": "DAPGM",
+      "ad": "",
+      "agirlik": 7.83
+    },
+    {
+      "ticker": "KONKA",
+      "ad": "",
+      "agirlik": 6.07
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 5.73
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 4.44
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 4.25
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 4.25
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "RUZYE",
+      "ad": "",
+      "agirlik": 3.49
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "KLRHO",
+      "ad": "",
+      "agirlik": 3.08
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "VESTL",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 1.25
+    },
+    {
+      "ticker": "MERIT",
+      "ad": "",
+      "agirlik": 0.79
+    },
+    {
+      "ticker": "CONSE",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.23
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 0.21
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 0.19
+    },
+    {
+      "ticker": "PASEU",
+      "ad": "",
+      "agirlik": 0.14
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 0.11
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 0.1
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 0.09
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 0.04
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e96970b32b9"
 }

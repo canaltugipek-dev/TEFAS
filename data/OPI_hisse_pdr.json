@@ -1,29 +1,154 @@
 {
   "kod": "OPI",
-  "guncelleme": "2026-04-08T18:26:26Z",
+  "guncelleme": "2026-04-26T18:27:31Z",
   "kaynak_tefas": true,
   "unvan": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/opi-osmanli-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.42
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.38
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 1.41
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.79
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.29
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 6.14
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.71
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.54
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 5.44
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 5.13
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.71
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 2.92
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 2.68
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 2.68
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 2.24
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "NUHCM",
+      "ad": "",
+      "agirlik": 1.98
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "OSMEN",
+      "ad": "",
+      "agirlik": 1.38
+    },
+    {
+      "ticker": "OPTGY",
+      "ad": "",
+      "agirlik": 1.08
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 19:24:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d68bfc58f79db"
 }

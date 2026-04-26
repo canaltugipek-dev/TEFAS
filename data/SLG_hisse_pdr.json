@@ -1,25 +1,169 @@
 {
   "kod": "SLG",
-  "guncelleme": "2026-04-08T18:27:07Z",
+  "guncelleme": "2026-04-26T18:34:19Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/slg-qnb-portfoy-algoritmik-stratejiler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.27
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.07
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 2.66
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "KTLEV",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 3.58
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 3.46
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "BRYAT",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 3.27
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "ZPLIB",
+      "ad": "",
+      "agirlik": 3.24
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "BSOKE",
+      "ad": "",
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 3.14
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 3.14
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "30 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 16:33:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6ceafccc3c6a"
 }

@@ -1,25 +1,199 @@
 {
   "kod": "RBH",
-  "guncelleme": "2026-04-08T18:26:50Z",
+  "guncelleme": "2026-04-26T19:03:32Z",
   "kaynak_tefas": true,
   "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 98.23
-    },
-    {
-      "tip": "Katılma Hesabı (TL)",
-      "oran": 0.62
-    },
-    {
-      "tip": "Özel Sektör Kira Sertifikaları",
-      "oran": 1.15
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 10.1
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.49
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 8.39
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.46
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 5.89
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.65
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 4.46
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "PARSN",
+      "ad": "",
+      "agirlik": 1.32
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.3
+    },
+    {
+      "ticker": "HATSN",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "EGGUB",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 0.89
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 0.68
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 0.39
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 0.33
+    },
+    {
+      "ticker": "OBAMS",
+      "ad": "",
+      "agirlik": 0.29
+    },
+    {
+      "ticker": "ELITE",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 0.13
+    },
+    {
+      "ticker": "DMLKTG",
+      "ad": "",
+      "agirlik": 0.09
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 0.01
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "36 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.03.2026 20:17:09",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9c81f588019cb96d25ab05a8"
 }

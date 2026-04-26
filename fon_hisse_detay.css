@@ -253,3 +253,19 @@
   color: var(--text-muted);
   margin-bottom: 0.75rem;
 }
+
+.fhd-ocr-banner {
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--text);
+  background: rgba(251, 191, 36, 0.08);
+  border: 1px solid rgba(251, 191, 36, 0.32);
+  border-radius: 8px;
+}
+
+.fhd-ocr-banner strong {
+  color: #fbbf24;
+  font-weight: 700;
+}

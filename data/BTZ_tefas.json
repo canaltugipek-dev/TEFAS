@@ -2,22 +2,222 @@
   "fon_kodu": "BTZ",
   "fon_unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 432,
-  "gun_kapsami": 623,
+  "kayit_sayisi": 465,
+  "gun_kapsami": 672,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1718928000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719187200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719273600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719360000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719446400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719532800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719792000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719878400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719964800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720051200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720137600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720396800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720483200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720569600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720656000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720742400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721088000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721174400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721260800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721347200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1721606400000",
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +225,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000438,
-      "TEDPAYSAYISI": 1000000.0,
-      "KISISAYISI": 15.0,
-      "PORTFOYBUYUKLUK": 1000438.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +235,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00931,
-      "TEDPAYSAYISI": 1023712.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 1033243.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +245,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992738,
-      "TEDPAYSAYISI": 1032791.0,
-      "KISISAYISI": 32.0,
-      "PORTFOYBUYUKLUK": 1025290.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +255,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99226,
-      "TEDPAYSAYISI": 1042255.0,
-      "KISISAYISI": 36.0,
-      "PORTFOYBUYUKLUK": 1034188.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +265,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983599,
-      "TEDPAYSAYISI": 1063240.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 1045802.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +275,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963367,
-      "TEDPAYSAYISI": 1063500.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 1024540.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +285,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955398,
-      "TEDPAYSAYISI": 1070651.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 1022897.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +295,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946866,
-      "TEDPAYSAYISI": 1070657.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 1013768.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +305,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95967,
-      "TEDPAYSAYISI": 1082832.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 1039161.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +315,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957529,
-      "TEDPAYSAYISI": 2838626.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 2718067.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +325,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914089,
-      "TEDPAYSAYISI": 2839337.0,
-      "KISISAYISI": 68.0,
-      "PORTFOYBUYUKLUK": 2595406.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +335,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914511,
-      "TEDPAYSAYISI": 2848451.0,
-      "KISISAYISI": 73.0,
-      "PORTFOYBUYUKLUK": 2604940.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +345,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913879,
-      "TEDPAYSAYISI": 2939607.0,
-      "KISISAYISI": 76.0,
-      "PORTFOYBUYUKLUK": 2686443.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +355,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925359,
-      "TEDPAYSAYISI": 2941374.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 2721828.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +365,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909467,
-      "TEDPAYSAYISI": 2942490.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 2676096.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +375,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895674,
-      "TEDPAYSAYISI": 2953201.0,
-      "KISISAYISI": 80.0,
-      "PORTFOYBUYUKLUK": 2645106.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +385,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904072,
-      "TEDPAYSAYISI": 2943208.0,
-      "KISISAYISI": 81.0,
-      "PORTFOYBUYUKLUK": 2660872.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +395,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904174,
-      "TEDPAYSAYISI": 2941364.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 2659506.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +405,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918486,
-      "TEDPAYSAYISI": 2945270.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 2705188.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +415,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901248,
-      "TEDPAYSAYISI": 2946183.0,
-      "KISISAYISI": 86.0,
-      "PORTFOYBUYUKLUK": 2655240.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +425,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.905779,
-      "TEDPAYSAYISI": 3291360.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 2981244.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +435,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906182,
-      "TEDPAYSAYISI": 3298883.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 2989387.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +445,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898736,
-      "TEDPAYSAYISI": 3301446.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 2967126.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +455,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899768,
-      "TEDPAYSAYISI": 3303076.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 2972001.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +465,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882901,
-      "TEDPAYSAYISI": 3303541.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 2916699.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +475,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873939,
-      "TEDPAYSAYISI": 3299832.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 2883853.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +485,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882361,
-      "TEDPAYSAYISI": 3300607.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 2912328.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +495,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882869,
-      "TEDPAYSAYISI": 3301417.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 2914717.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +505,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89072,
-      "TEDPAYSAYISI": 3308283.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 2946752.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +515,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906958,
-      "TEDPAYSAYISI": 3308650.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 3000807.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +525,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913497,
-      "TEDPAYSAYISI": 3316747.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 3029838.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +535,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911068,
-      "TEDPAYSAYISI": 3317704.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 3022652.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +545,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908535,
-      "TEDPAYSAYISI": 3322258.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 3018387.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +555,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899637,
-      "TEDPAYSAYISI": 3316038.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 2983228.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +565,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900264,
-      "TEDPAYSAYISI": 3325532.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 2993855.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +575,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.893345,
-      "TEDPAYSAYISI": 3326155.0,
-      "KISISAYISI": 102.0,
-      "PORTFOYBUYUKLUK": 2971402.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +585,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.870746,
-      "TEDPAYSAYISI": 3332622.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 2901866.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +595,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868149,
-      "TEDPAYSAYISI": 3335040.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 2895311.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +605,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.888272,
-      "TEDPAYSAYISI": 3340180.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 2966987.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +615,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880604,
-      "TEDPAYSAYISI": 3333655.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 2935631.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +625,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.890819,
-      "TEDPAYSAYISI": 3350233.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 2984451.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +635,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.884713,
-      "TEDPAYSAYISI": 3349847.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 2963653.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +645,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.897614,
-      "TEDPAYSAYISI": 3355447.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 3011895.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +655,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899623,
-      "TEDPAYSAYISI": 3367707.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 3029668.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +665,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89436,
-      "TEDPAYSAYISI": 3367882.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 3012097.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +675,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892892,
-      "TEDPAYSAYISI": 3356036.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 2996577.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +685,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882278,
-      "TEDPAYSAYISI": 3358829.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 2963421.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +695,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88221,
-      "TEDPAYSAYISI": 3359155.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 2963479.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +705,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879307,
-      "TEDPAYSAYISI": 3357772.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 2952512.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +715,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867104,
-      "TEDPAYSAYISI": 3458200.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 2998618.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +725,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.837922,
-      "TEDPAYSAYISI": 3460428.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 2899569.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +735,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.806953,
-      "TEDPAYSAYISI": 3467245.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 2797905.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +745,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.81147,
-      "TEDPAYSAYISI": 3468929.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 2814932.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +755,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.823764,
-      "TEDPAYSAYISI": 3774857.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 3109590.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +765,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.832717,
-      "TEDPAYSAYISI": 4416116.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 3677375.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +775,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.833277,
-      "TEDPAYSAYISI": 4420574.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 3683561.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +785,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830982,
-      "TEDPAYSAYISI": 4433636.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 3684271.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +795,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.825956,
-      "TEDPAYSAYISI": 4331635.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3577738.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +805,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.80616,
-      "TEDPAYSAYISI": 4334770.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3494519.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +815,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.78037,
-      "TEDPAYSAYISI": 4321932.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 3372706.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +825,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.789245,
-      "TEDPAYSAYISI": 4318719.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 3408525.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +835,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.794794,
-      "TEDPAYSAYISI": 4319606.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 3433196.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +845,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.807973,
-      "TEDPAYSAYISI": 4320103.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 3490528.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +855,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.786815,
-      "TEDPAYSAYISI": 4320664.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 3399561.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +865,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.779222,
-      "TEDPAYSAYISI": 4327293.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 3371921.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +875,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.7916,
-      "TEDPAYSAYISI": 4334655.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 3431313.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +885,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.777231,
-      "TEDPAYSAYISI": 4307250.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 3347728.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +895,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.793727,
-      "TEDPAYSAYISI": 4307469.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 3418954.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +905,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.792539,
-      "TEDPAYSAYISI": 4307752.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 3414062.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +915,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.799151,
-      "TEDPAYSAYISI": 4308250.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 3442940.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +925,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.816041,
-      "TEDPAYSAYISI": 4302722.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 3511196.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +935,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.818754,
-      "TEDPAYSAYISI": 4308939.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3527959.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +945,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.812594,
-      "TEDPAYSAYISI": 4315892.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 3507067.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +955,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.789639,
-      "TEDPAYSAYISI": 4316198.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3408237.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +965,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.777651,
-      "TEDPAYSAYISI": 4316483.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3356716.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +975,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.788135,
-      "TEDPAYSAYISI": 4316907.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 3402304.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +985,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.795457,
-      "TEDPAYSAYISI": 4318608.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 3435266.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +995,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.808335,
-      "TEDPAYSAYISI": 4318772.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 3491015.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1005,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.819768,
-      "TEDPAYSAYISI": 4325676.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 3546051.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1015,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.815329,
-      "TEDPAYSAYISI": 4350377.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 3546987.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1025,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.817711,
-      "TEDPAYSAYISI": 4350469.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 3557425.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1035,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.835349,
-      "TEDPAYSAYISI": 4351893.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 3635347.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1045,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.832816,
-      "TEDPAYSAYISI": 4354024.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 3626102.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1055,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.833943,
-      "TEDPAYSAYISI": 4357999.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 3634323.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1065,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.832207,
-      "TEDPAYSAYISI": 4354997.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 3624261.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1075,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.825455,
-      "TEDPAYSAYISI": 4129733.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 3408907.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1085,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.84688,
-      "TEDPAYSAYISI": 4129622.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 3497295.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1095,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855904,
-      "TEDPAYSAYISI": 4163243.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 3563335.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1105,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.870269,
-      "TEDPAYSAYISI": 4162207.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 3622239.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1115,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882083,
-      "TEDPAYSAYISI": 4203978.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 3708259.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1125,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.884633,
-      "TEDPAYSAYISI": 4203894.0,
-      "KISISAYISI": 133.0,
-      "PORTFOYBUYUKLUK": 3718901.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1135,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87144,
-      "TEDPAYSAYISI": 4284374.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 3733574.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1145,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882475,
-      "TEDPAYSAYISI": 4304620.0,
-      "KISISAYISI": 136.0,
-      "PORTFOYBUYUKLUK": 3798717.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1155,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.878887,
-      "TEDPAYSAYISI": 4338847.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 3813358.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1165,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881231,
-      "TEDPAYSAYISI": 4324548.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 3810925.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1175,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885555,
-      "TEDPAYSAYISI": 4331568.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 3835841.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1185,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892034,
-      "TEDPAYSAYISI": 4438800.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 3959559.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1195,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907898,
-      "TEDPAYSAYISI": 4452627.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4042531.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1205,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916329,
-      "TEDPAYSAYISI": 4484551.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4109322.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1215,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910205,
-      "TEDPAYSAYISI": 4436815.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4038410.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1225,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906689,
-      "TEDPAYSAYISI": 4365332.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3957999.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1235,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908862,
-      "TEDPAYSAYISI": 4369005.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3970824.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1245,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916111,
-      "TEDPAYSAYISI": 4373860.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4006939.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1255,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911597,
-      "TEDPAYSAYISI": 4386206.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3998450.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1265,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915178,
-      "TEDPAYSAYISI": 4407781.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4033905.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1275,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908516,
-      "TEDPAYSAYISI": 4451604.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4044353.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1285,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903495,
-      "TEDPAYSAYISI": 4488081.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4054958.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1295,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900382,
-      "TEDPAYSAYISI": 4491987.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4044505.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1305,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.902547,
-      "TEDPAYSAYISI": 4489206.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4051720.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1315,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903352,
-      "TEDPAYSAYISI": 4456609.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4025888.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1325,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907396,
-      "TEDPAYSAYISI": 4458510.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4045632.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1335,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913687,
-      "TEDPAYSAYISI": 4458273.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4073465.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1345,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916043,
-      "TEDPAYSAYISI": 4381267.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4013427.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1355,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92215,
-      "TEDPAYSAYISI": 4381035.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4039971.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1365,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926324,
-      "TEDPAYSAYISI": 4364378.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4042829.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1375,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931767,
-      "TEDPAYSAYISI": 4332072.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4036480.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1385,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.93432,
-      "TEDPAYSAYISI": 4342317.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4057112.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1395,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935449,
-      "TEDPAYSAYISI": 4391821.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 4108323.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1405,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928073,
-      "TEDPAYSAYISI": 4367043.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 4052933.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1415,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919452,
-      "TEDPAYSAYISI": 4367388.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 4015605.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1425,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925448,
-      "TEDPAYSAYISI": 4405178.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 4076762.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1435,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929835,
-      "TEDPAYSAYISI": 4408314.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4099006.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1445,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919178,
-      "TEDPAYSAYISI": 4383444.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4029165.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1455,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91818,
-      "TEDPAYSAYISI": 4325526.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3971612.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1465,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922215,
-      "TEDPAYSAYISI": 4311535.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3976160.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1475,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.938934,
-      "TEDPAYSAYISI": 4327310.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4063057.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1485,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95309,
-      "TEDPAYSAYISI": 4336581.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4133152.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1495,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957908,
-      "TEDPAYSAYISI": 4336083.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4153570.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1505,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950635,
-      "TEDPAYSAYISI": 4381297.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 4165015.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1515,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960329,
-      "TEDPAYSAYISI": 4557045.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 4376260.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1525,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960736,
-      "TEDPAYSAYISI": 4558474.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 4379488.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1535,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956109,
-      "TEDPAYSAYISI": 4681902.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4476410.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1545,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941274,
-      "TEDPAYSAYISI": 4681480.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 4406556.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1555,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943209,
-      "TEDPAYSAYISI": 4681728.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4415847.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1565,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934278,
-      "TEDPAYSAYISI": 4535755.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4237655.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1575,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931838,
-      "TEDPAYSAYISI": 4527312.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4218721.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1585,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935344,
-      "TEDPAYSAYISI": 4527370.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4234648.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1595,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918396,
-      "TEDPAYSAYISI": 4517979.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4149293.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1605,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926995,
-      "TEDPAYSAYISI": 4517061.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4187293.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1615,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917215,
-      "TEDPAYSAYISI": 4518644.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4144565.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1625,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924171,
-      "TEDPAYSAYISI": 4523353.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4180353.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1635,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931225,
-      "TEDPAYSAYISI": 4523976.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4212839.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1645,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.933074,
-      "TEDPAYSAYISI": 4513570.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4211493.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1655,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935759,
-      "TEDPAYSAYISI": 4512353.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4222474.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1665,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922667,
-      "TEDPAYSAYISI": 4507582.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4158996.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1675,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92836,
-      "TEDPAYSAYISI": 4508192.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4185226.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1685,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927139,
-      "TEDPAYSAYISI": 4508325.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4179843.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1695,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92671,
-      "TEDPAYSAYISI": 4508398.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4177979.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1705,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930886,
-      "TEDPAYSAYISI": 4510238.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4198517.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1715,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916835,
-      "TEDPAYSAYISI": 4428789.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4060469.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1725,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924554,
-      "TEDPAYSAYISI": 4417979.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4084659.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1735,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90702,
-      "TEDPAYSAYISI": 4418193.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4007391.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1745,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910391,
-      "TEDPAYSAYISI": 4418372.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4022444.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1755,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892368,
-      "TEDPAYSAYISI": 4405168.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3931030.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1765,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899595,
-      "TEDPAYSAYISI": 4360991.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3923125.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1775,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910016,
-      "TEDPAYSAYISI": 4327511.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3938102.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1785,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908351,
-      "TEDPAYSAYISI": 4329803.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3932979.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1795,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919551,
-      "TEDPAYSAYISI": 4328823.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3980572.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1805,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912261,
-      "TEDPAYSAYISI": 4323864.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 3944493.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1815,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923484,
-      "TEDPAYSAYISI": 4328460.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 3997261.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1825,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.933129,
-      "TEDPAYSAYISI": 4329368.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4039858.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1835,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944665,
-      "TEDPAYSAYISI": 4329112.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4089559.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1845,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946491,
-      "TEDPAYSAYISI": 4301756.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4071573.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1855,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939078,
-      "TEDPAYSAYISI": 4483302.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4210171.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1865,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.938847,
-      "TEDPAYSAYISI": 4324662.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4060197.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1875,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957599,
-      "TEDPAYSAYISI": 4326631.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4143176.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1885,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966705,
-      "TEDPAYSAYISI": 4326539.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4182486.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1895,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971033,
-      "TEDPAYSAYISI": 4345011.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4219149.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1905,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.964552,
-      "TEDPAYSAYISI": 4339991.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4186147.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1915,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880212,
-      "TEDPAYSAYISI": 4353966.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 3832412.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1925,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88777,
-      "TEDPAYSAYISI": 4345603.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 3857894.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1935,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.831399,
-      "TEDPAYSAYISI": 4346565.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3613729.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1945,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842892,
-      "TEDPAYSAYISI": 4348209.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3665072.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1955,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885178,
-      "TEDPAYSAYISI": 4221453.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 3736736.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1965,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881711,
-      "TEDPAYSAYISI": 4221847.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3722447.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1975,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883505,
-      "TEDPAYSAYISI": 4226554.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 3734182.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1985,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908192,
-      "TEDPAYSAYISI": 4227288.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3839187.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1995,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912875,
-      "TEDPAYSAYISI": 4227673.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3859337.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2005,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916084,
-      "TEDPAYSAYISI": 4261388.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 3903789.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2015,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906891,
-      "TEDPAYSAYISI": 4366804.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 3960213.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2025,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908651,
-      "TEDPAYSAYISI": 4367079.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 3968150.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2035,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917916,
-      "TEDPAYSAYISI": 4348090.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 3991179.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2045,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901454,
-      "TEDPAYSAYISI": 4348087.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3919600.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2055,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908491,
-      "TEDPAYSAYISI": 4347977.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3950097.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2065,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907324,
-      "TEDPAYSAYISI": 4347066.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3944197.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2075,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911685,
-      "TEDPAYSAYISI": 4352415.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3968032.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2085,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91414,
-      "TEDPAYSAYISI": 4359378.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 3985082.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2095,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901738,
-      "TEDPAYSAYISI": 4367536.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 3938371.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2105,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914867,
-      "TEDPAYSAYISI": 4374424.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4002014.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2115,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912332,
-      "TEDPAYSAYISI": 4385354.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4000898.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2125,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918626,
-      "TEDPAYSAYISI": 4385354.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4028498.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2135,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91263,
-      "TEDPAYSAYISI": 4380272.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3997566.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2145,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924654,
-      "TEDPAYSAYISI": 4379739.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4049744.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2155,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926615,
-      "TEDPAYSAYISI": 4379739.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4058331.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2165,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922298,
-      "TEDPAYSAYISI": 4419855.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 4076421.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2175,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910669,
-      "TEDPAYSAYISI": 4432448.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 4036492.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2185,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896426,
-      "TEDPAYSAYISI": 4432788.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 3973668.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2195,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900144,
-      "TEDPAYSAYISI": 4429980.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 3987618.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2205,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.902913,
-      "TEDPAYSAYISI": 4430091.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3999986.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2215,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901364,
-      "TEDPAYSAYISI": 4415656.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 3980112.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2225,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.897066,
-      "TEDPAYSAYISI": 4426330.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 3970712.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2235,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904698,
-      "TEDPAYSAYISI": 4426497.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4004644.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2245,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915346,
-      "TEDPAYSAYISI": 4426699.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4051960.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2255,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936419,
-      "TEDPAYSAYISI": 4393699.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4114341.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2265,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930646,
-      "TEDPAYSAYISI": 4464494.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4154861.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2275,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931853,
-      "TEDPAYSAYISI": 4410462.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4109901.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2285,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92405,
-      "TEDPAYSAYISI": 4384059.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4051089.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2295,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928317,
-      "TEDPAYSAYISI": 4372872.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4059411.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2305,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91678,
-      "TEDPAYSAYISI": 4359144.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 3996376.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2315,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90612,
-      "TEDPAYSAYISI": 4359144.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 3949906.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2325,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909107,
-      "TEDPAYSAYISI": 4386844.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3988109.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2335,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901256,
-      "TEDPAYSAYISI": 4414756.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 3978825.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2345,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.897043,
-      "TEDPAYSAYISI": 4393814.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3941441.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2355,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.887011,
-      "TEDPAYSAYISI": 4372198.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3878189.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2365,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88325,
-      "TEDPAYSAYISI": 4372868.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 3862337.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2375,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882061,
-      "TEDPAYSAYISI": 4371259.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 3855718.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2385,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882949,
-      "TEDPAYSAYISI": 4371265.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 3859604.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2395,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864777,
-      "TEDPAYSAYISI": 4371378.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 3780265.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2405,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.877678,
-      "TEDPAYSAYISI": 4360210.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 3826858.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2415,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896374,
-      "TEDPAYSAYISI": 4317032.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 3869673.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2425,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898493,
-      "TEDPAYSAYISI": 4317032.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 3878821.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2435,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919744,
-      "TEDPAYSAYISI": 4322665.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 3975743.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2445,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926529,
-      "TEDPAYSAYISI": 4322983.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 4005369.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2455,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908952,
-      "TEDPAYSAYISI": 4592968.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 4174789.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2465,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.890766,
-      "TEDPAYSAYISI": 4593252.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4091513.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2475,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901543,
-      "TEDPAYSAYISI": 4588517.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4136743.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2485,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898323,
-      "TEDPAYSAYISI": 4588334.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4121805.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2495,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886556,
-      "TEDPAYSAYISI": 4578976.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4059520.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2505,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874847,
-      "TEDPAYSAYISI": 4579193.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 4006091.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2515,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87724,
-      "TEDPAYSAYISI": 4579193.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 4017053.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2525,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.86897,
-      "TEDPAYSAYISI": 4579193.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 3979180.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2535,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903395,
-      "TEDPAYSAYISI": 4569374.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 4127947.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2545,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90581,
-      "TEDPAYSAYISI": 4569153.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 4138783.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2555,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904135,
-      "TEDPAYSAYISI": 4577979.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 4139111.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2565,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91108,
-      "TEDPAYSAYISI": 4577867.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 4170802.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2575,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.965091,
-      "TEDPAYSAYISI": 4577841.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 4418034.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2585,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976162,
-      "TEDPAYSAYISI": 4579416.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 4470251.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2595,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975785,
-      "TEDPAYSAYISI": 4579416.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 4468524.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2605,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982585,
-      "TEDPAYSAYISI": 4588950.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 4509032.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2615,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98116,
-      "TEDPAYSAYISI": 4597050.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 4510442.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2625,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968536,
-      "TEDPAYSAYISI": 4430328.0,
-      "KISISAYISI": 141.0,
-      "PORTFOYBUYUKLUK": 4290933.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2635,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9684,
-      "TEDPAYSAYISI": 4425567.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 4285717.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2645,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979314,
-      "TEDPAYSAYISI": 4420673.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 4329227.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2655,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988569,
-      "TEDPAYSAYISI": 4415510.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 4365034.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2665,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991553,
-      "TEDPAYSAYISI": 4766710.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 4726446.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2675,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986336,
-      "TEDPAYSAYISI": 4767705.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 4702559.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2685,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986358,
-      "TEDPAYSAYISI": 4809393.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4743784.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2695,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004796,
-      "TEDPAYSAYISI": 4906153.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 4929683.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2705,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01193,
-      "TEDPAYSAYISI": 4907891.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 4966441.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2715,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031288,
-      "TEDPAYSAYISI": 4911008.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 5064662.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2725,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029266,
-      "TEDPAYSAYISI": 4901444.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 5044889.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2735,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015877,
-      "TEDPAYSAYISI": 4953579.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 5032225.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2745,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015268,
-      "TEDPAYSAYISI": 4856902.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4931057.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2755,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022036,
-      "TEDPAYSAYISI": 4857417.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4964455.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2765,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019404,
-      "TEDPAYSAYISI": 4857563.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 4951820.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2775,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018675,
-      "TEDPAYSAYISI": 4859241.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4949988.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2785,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021008,
-      "TEDPAYSAYISI": 4859241.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4961326.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2795,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039572,
-      "TEDPAYSAYISI": 4869524.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 5062220.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2805,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037189,
-      "TEDPAYSAYISI": 4868866.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 5049932.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2815,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042353,
-      "TEDPAYSAYISI": 4870070.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 5076332.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2825,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049717,
-      "TEDPAYSAYISI": 4877379.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 5119869.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2835,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0441,
-      "TEDPAYSAYISI": 4879715.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 5094909.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2845,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048869,
-      "TEDPAYSAYISI": 4979309.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 5222642.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2855,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049184,
-      "TEDPAYSAYISI": 4998527.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 5244376.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2865,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059106,
-      "TEDPAYSAYISI": 5003763.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 5299515.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2875,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05131,
-      "TEDPAYSAYISI": 4992856.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 5249039.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2885,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050571,
-      "TEDPAYSAYISI": 4913616.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 5162104.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2895,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044734,
-      "TEDPAYSAYISI": 4912733.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 5132500.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2905,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050975,
-      "TEDPAYSAYISI": 4912916.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 5163352.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2915,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056276,
-      "TEDPAYSAYISI": 4914152.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 5190701.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2925,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054081,
-      "TEDPAYSAYISI": 4640957.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 4891942.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2935,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060342,
-      "TEDPAYSAYISI": 4370519.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4634246.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2945,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070504,
-      "TEDPAYSAYISI": 4371498.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 4679704.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2955,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075009,
-      "TEDPAYSAYISI": 4380745.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 4709340.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2965,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083794,
-      "TEDPAYSAYISI": 4381487.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 4748628.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2975,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087531,
-      "TEDPAYSAYISI": 4381653.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 4765184.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2985,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08014,
-      "TEDPAYSAYISI": 4400926.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4753616.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2995,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086595,
-      "TEDPAYSAYISI": 4409987.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 4791870.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +3005,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088681,
-      "TEDPAYSAYISI": 4427373.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 4819998.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +3015,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096372,
-      "TEDPAYSAYISI": 4426794.0,
-      "KISISAYISI": 157.0,
-      "PORTFOYBUYUKLUK": 4853411.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +3025,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07012,
-      "TEDPAYSAYISI": 4482463.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 4796771.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +3035,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058915,
-      "TEDPAYSAYISI": 4485287.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 4749535.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +3045,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075104,
-      "TEDPAYSAYISI": 4485798.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 4822701.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +3055,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064055,
-      "TEDPAYSAYISI": 4487562.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 4775011.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +3065,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04381,
-      "TEDPAYSAYISI": 4488055.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 4684678.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +3075,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039848,
-      "TEDPAYSAYISI": 4488670.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 4667536.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +3085,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04112,
-      "TEDPAYSAYISI": 4481201.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 4665466.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +3095,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029581,
-      "TEDPAYSAYISI": 4480510.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4613048.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +3105,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03462,
-      "TEDPAYSAYISI": 4480606.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4635723.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +3115,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084287,
-      "TEDPAYSAYISI": 4475787.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 4853037.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3125,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104362,
-      "TEDPAYSAYISI": 4476532.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 4943711.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3135,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096823,
-      "TEDPAYSAYISI": 4477965.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4911536.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3145,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081804,
-      "TEDPAYSAYISI": 4489810.0,
-      "KISISAYISI": 157.0,
-      "PORTFOYBUYUKLUK": 4857095.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3155,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092409,
-      "TEDPAYSAYISI": 4557327.0,
-      "KISISAYISI": 157.0,
-      "PORTFOYBUYUKLUK": 4978463.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3165,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106072,
-      "TEDPAYSAYISI": 4548715.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 5031205.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3175,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09973,
-      "TEDPAYSAYISI": 4547905.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 5001467.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3185,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102189,
-      "TEDPAYSAYISI": 4542845.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 5007072.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3195,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099135,
-      "TEDPAYSAYISI": 4542925.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4993288.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3205,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083292,
-      "TEDPAYSAYISI": 4544140.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4922631.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3215,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067479,
-      "TEDPAYSAYISI": 4545342.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4852055.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3225,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074258,
-      "TEDPAYSAYISI": 4545214.0,
-      "KISISAYISI": 157.0,
-      "PORTFOYBUYUKLUK": 4882734.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3235,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092235,
-      "TEDPAYSAYISI": 4546732.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 4966100.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3245,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089424,
-      "TEDPAYSAYISI": 4549943.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 4956816.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3255,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079901,
-      "TEDPAYSAYISI": 4599128.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 4966604.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3265,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071503,
-      "TEDPAYSAYISI": 4638503.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 4970169.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3275,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085528,
-      "TEDPAYSAYISI": 4649136.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 5046769.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3285,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073367,
-      "TEDPAYSAYISI": 4537939.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 4870873.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3295,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081717,
-      "TEDPAYSAYISI": 4550500.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 4922353.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3305,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091567,
-      "TEDPAYSAYISI": 4551726.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 4968515.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3315,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073419,
-      "TEDPAYSAYISI": 4585345.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 4921996.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3325,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057286,
-      "TEDPAYSAYISI": 4591876.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 4854924.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3335,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068011,
-      "TEDPAYSAYISI": 4595423.0,
-      "KISISAYISI": 166.0,
-      "PORTFOYBUYUKLUK": 4907962.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3345,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062195,
-      "TEDPAYSAYISI": 4569328.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 4853515.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3355,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05288,
-      "TEDPAYSAYISI": 4569794.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 4811445.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3365,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06818,
-      "TEDPAYSAYISI": 4570350.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 4881954.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3375,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069034,
-      "TEDPAYSAYISI": 4567872.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 4883211.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3385,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07618,
-      "TEDPAYSAYISI": 4583519.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 4932690.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3395,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078086,
-      "TEDPAYSAYISI": 4586581.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 4944726.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3405,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101969,
-      "TEDPAYSAYISI": 4597426.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 5066219.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3415,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09991,
-      "TEDPAYSAYISI": 4603863.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 5063833.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3425,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103438,
-      "TEDPAYSAYISI": 4603863.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 5080075.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3435,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11281,
-      "TEDPAYSAYISI": 4617194.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 5138059.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3445,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127222,
-      "TEDPAYSAYISI": 4605631.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 5191566.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3455,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140032,
-      "TEDPAYSAYISI": 4545152.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 5181617.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3465,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141651,
-      "TEDPAYSAYISI": 4630404.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 5286304.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3475,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151368,
-      "TEDPAYSAYISI": 4644544.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 5347581.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3485,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.154103,
-      "TEDPAYSAYISI": 4763961.0,
-      "KISISAYISI": 176.0,
-      "PORTFOYBUYUKLUK": 5498101.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3495,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134356,
-      "TEDPAYSAYISI": 4761688.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 5401448.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3505,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121805,
-      "TEDPAYSAYISI": 4816648.0,
-      "KISISAYISI": 185.0,
-      "PORTFOYBUYUKLUK": 5403337.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3515,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09241,
-      "TEDPAYSAYISI": 4852169.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 5300557.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3525,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082428,
-      "TEDPAYSAYISI": 4853075.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 5253102.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3535,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076941,
-      "TEDPAYSAYISI": 4853718.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 5227165.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3545,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068865,
-      "TEDPAYSAYISI": 4856507.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 5190951.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3555,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085946,
-      "TEDPAYSAYISI": 4867561.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 5285910.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3565,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08285,
-      "TEDPAYSAYISI": 4890733.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 5295927.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3375,9 +3575,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09241,
-      "TEDPAYSAYISI": 4892756.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 5344895.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3385,9 +3585,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095044,
-      "TEDPAYSAYISI": 5095195.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 5579464.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3395,9 +3595,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089631,
-      "TEDPAYSAYISI": 5091218.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 5547548.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3405,9 +3605,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089408,
-      "TEDPAYSAYISI": 5013257.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 5461481.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3415,9 +3615,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080231,
-      "TEDPAYSAYISI": 4897481.0,
-      "KISISAYISI": 204.0,
-      "PORTFOYBUYUKLUK": 5290410.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3425,9 +3625,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078194,
-      "TEDPAYSAYISI": 4900080.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 5283238.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3435,9 +3635,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085801,
-      "TEDPAYSAYISI": 4899478.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 5319860.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3445,9 +3645,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079992,
-      "TEDPAYSAYISI": 4894524.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 5286045.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3455,9 +3655,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103988,
-      "TEDPAYSAYISI": 4893934.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 5402843.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3465,9 +3665,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113786,
-      "TEDPAYSAYISI": 4884867.0,
-      "KISISAYISI": 195.0,
-      "PORTFOYBUYUKLUK": 5440698.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3475,9 +3675,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118285,
-      "TEDPAYSAYISI": 4884956.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5462773.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3485,9 +3685,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11075,
-      "TEDPAYSAYISI": 4904508.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5447680.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3495,9 +3695,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114763,
-      "TEDPAYSAYISI": 4911352.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5474995.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3505,9 +3705,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12553,
-      "TEDPAYSAYISI": 4907618.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 5523671.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3515,9 +3715,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135513,
-      "TEDPAYSAYISI": 4867688.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 5527324.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3525,9 +3725,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122109,
-      "TEDPAYSAYISI": 4870142.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 5464832.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3535,9 +3735,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122473,
-      "TEDPAYSAYISI": 4841114.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5434021.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3545,9 +3745,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127281,
-      "TEDPAYSAYISI": 4836861.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5452503.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3555,9 +3755,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134523,
-      "TEDPAYSAYISI": 4836729.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 5487381.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3565,9 +3765,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135294,
-      "TEDPAYSAYISI": 4827360.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5480472.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3575,9 +3775,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126663,
-      "TEDPAYSAYISI": 4825728.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 5436971.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3585,9 +3785,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134061,
-      "TEDPAYSAYISI": 4823238.0,
-      "KISISAYISI": 195.0,
-      "PORTFOYBUYUKLUK": 5469845.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3595,9 +3795,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138319,
-      "TEDPAYSAYISI": 4823238.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 5490385.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3605,9 +3805,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133187,
-      "TEDPAYSAYISI": 4828913.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 5472063.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3615,9 +3815,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132941,
-      "TEDPAYSAYISI": 4765762.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 5399328.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3625,9 +3825,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137919,
-      "TEDPAYSAYISI": 4762338.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 5419154.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3635,9 +3835,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137778,
-      "TEDPAYSAYISI": 4759303.0,
-      "KISISAYISI": 188.0,
-      "PORTFOYBUYUKLUK": 5415032.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3645,9 +3845,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140308,
-      "TEDPAYSAYISI": 4759478.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 5427271.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3655,9 +3855,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118416,
-      "TEDPAYSAYISI": 4753423.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 5316302.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3665,9 +3865,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11576,
-      "TEDPAYSAYISI": 4751902.0,
-      "KISISAYISI": 185.0,
-      "PORTFOYBUYUKLUK": 5301983.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3675,9 +3875,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12787,
-      "TEDPAYSAYISI": 4752258.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 5359931.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3685,9 +3885,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138306,
-      "TEDPAYSAYISI": 4756015.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 5413801.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3695,9 +3895,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145433,
-      "TEDPAYSAYISI": 4754760.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 5446258.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3705,9 +3905,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168647,
-      "TEDPAYSAYISI": 4755021.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 5556941.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3715,9 +3915,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163458,
-      "TEDPAYSAYISI": 4761931.0,
-      "KISISAYISI": 185.0,
-      "PORTFOYBUYUKLUK": 5540307.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3725,9 +3925,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166108,
-      "TEDPAYSAYISI": 4759153.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 5549688.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3735,9 +3935,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170472,
-      "TEDPAYSAYISI": 4743394.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 5552009.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3745,9 +3945,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.183198,
-      "TEDPAYSAYISI": 4742972.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 5611875.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3755,9 +3955,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196507,
-      "TEDPAYSAYISI": 4754872.0,
-      "KISISAYISI": 185.0,
-      "PORTFOYBUYUKLUK": 5689238.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3765,9 +3965,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.193314,
-      "TEDPAYSAYISI": 6470100.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 7720861.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3775,9 +3975,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205802,
-      "TEDPAYSAYISI": 8149285.0,
-      "KISISAYISI": 186.0,
-      "PORTFOYBUYUKLUK": 9826424.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3785,9 +3985,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.220517,
-      "TEDPAYSAYISI": 8156588.0,
-      "KISISAYISI": 188.0,
-      "PORTFOYBUYUKLUK": 9955251.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3795,9 +3995,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.234328,
-      "TEDPAYSAYISI": 8069844.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 9960833.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3805,9 +4005,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231,
-      "TEDPAYSAYISI": 8072270.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 9936964.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3815,9 +4015,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233935,
-      "TEDPAYSAYISI": 8891776.0,
-      "KISISAYISI": 191.0,
-      "PORTFOYBUYUKLUK": 10971874.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3825,9 +4025,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255897,
-      "TEDPAYSAYISI": 8892184.0,
-      "KISISAYISI": 190.0,
-      "PORTFOYBUYUKLUK": 11167664.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3835,9 +4035,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27173,
-      "TEDPAYSAYISI": 8877910.0,
-      "KISISAYISI": 191.0,
-      "PORTFOYBUYUKLUK": 11290300.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3845,9 +4045,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280787,
-      "TEDPAYSAYISI": 8965328.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 11482673.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3855,9 +4055,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280078,
-      "TEDPAYSAYISI": 8171900.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 10460667.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3865,9 +4065,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289786,
-      "TEDPAYSAYISI": 8377906.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 10805707.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3875,9 +4075,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.303743,
-      "TEDPAYSAYISI": 8269348.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 10781103.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3885,9 +4085,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301237,
-      "TEDPAYSAYISI": 8255445.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 10742288.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3895,9 +4095,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289413,
-      "TEDPAYSAYISI": 8303958.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 10707228.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3905,9 +4105,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.300866,
-      "TEDPAYSAYISI": 8310007.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 10810203.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3915,9 +4115,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.293758,
-      "TEDPAYSAYISI": 8363088.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 10819811.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3925,9 +4125,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272497,
-      "TEDPAYSAYISI": 8363848.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 10642969.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3935,9 +4135,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258989,
-      "TEDPAYSAYISI": 8338012.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 10497464.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3945,9 +4145,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286451,
-      "TEDPAYSAYISI": 4975043.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 6400147.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3955,9 +4155,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.298214,
-      "TEDPAYSAYISI": 5440647.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 7063126.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3965,9 +4165,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.299169,
-      "TEDPAYSAYISI": 5397759.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 7012603.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3975,9 +4175,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.323765,
-      "TEDPAYSAYISI": 6938060.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 9184364.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3985,9 +4185,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.333206,
-      "TEDPAYSAYISI": 6935417.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 9246336.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3995,9 +4195,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.351488,
-      "TEDPAYSAYISI": 6942167.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 9382258.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4005,9 +4205,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.342993,
-      "TEDPAYSAYISI": 7408798.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 9949961.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4015,9 +4215,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.326,
-      "TEDPAYSAYISI": 7524545.0,
-      "KISISAYISI": 230.0,
-      "PORTFOYBUYUKLUK": 9977546.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4025,9 +4225,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26784,
-      "TEDPAYSAYISI": 7564808.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 9590967.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4035,9 +4235,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277316,
-      "TEDPAYSAYISI": 7383823.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 9431473.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4045,9 +4245,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286868,
-      "TEDPAYSAYISI": 7368018.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 9481663.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4055,9 +4255,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269636,
-      "TEDPAYSAYISI": 7364374.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 9350075.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4065,9 +4265,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25221,
-      "TEDPAYSAYISI": 7352124.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 9206401.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4075,9 +4275,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253341,
-      "TEDPAYSAYISI": 7351298.0,
-      "KISISAYISI": 227.0,
-      "PORTFOYBUYUKLUK": 9213685.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4085,9 +4285,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.230485,
-      "TEDPAYSAYISI": 7354638.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 9049769.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4095,9 +4295,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195453,
-      "TEDPAYSAYISI": 7348611.0,
-      "KISISAYISI": 230.0,
-      "PORTFOYBUYUKLUK": 8784921.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4105,9 +4305,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176058,
-      "TEDPAYSAYISI": 6918376.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 8136412.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4115,9 +4315,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176821,
-      "TEDPAYSAYISI": 6916482.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 8139463.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4125,9 +4325,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192324,
-      "TEDPAYSAYISI": 6899174.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 8226047.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4135,9 +4335,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182794,
-      "TEDPAYSAYISI": 6987886.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 8265228.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4145,9 +4345,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169653,
-      "TEDPAYSAYISI": 6971256.0,
-      "KISISAYISI": 223.0,
-      "PORTFOYBUYUKLUK": 8153947.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4155,9 +4355,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219488,
-      "TEDPAYSAYISI": 6800435.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 8293052.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4165,9 +4365,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.220815,
-      "TEDPAYSAYISI": 6718178.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 8201651.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4175,9 +4375,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22018,
-      "TEDPAYSAYISI": 6718353.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 8197599.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4185,9 +4385,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209198,
-      "TEDPAYSAYISI": 6678333.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 8075425.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4195,9 +4395,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192853,
-      "TEDPAYSAYISI": 6682978.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 7971813.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4205,9 +4405,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214155,
-      "TEDPAYSAYISI": 6678115.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 8108269.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4215,9 +4415,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202517,
-      "TEDPAYSAYISI": 6685694.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 8039662.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4225,9 +4425,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207814,
-      "TEDPAYSAYISI": 6685694.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 8075076.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4235,9 +4435,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206641,
-      "TEDPAYSAYISI": 6683269.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 8064307.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4245,9 +4445,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18273,
-      "TEDPAYSAYISI": 6633835.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 7846032.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4255,9 +4455,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194333,
-      "TEDPAYSAYISI": 6623849.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 7911080.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4265,9 +4465,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185244,
-      "TEDPAYSAYISI": 6622468.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 7849239.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4275,9 +4475,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169754,
-      "TEDPAYSAYISI": 6600287.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 7720713.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4285,9 +4485,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165505,
-      "TEDPAYSAYISI": 6596846.0,
-      "KISISAYISI": 206.0,
-      "PORTFOYBUYUKLUK": 7688654.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4295,9 +4495,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17805,
-      "TEDPAYSAYISI": 6450935.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 7599521.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4305,9 +4505,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198116,
-      "TEDPAYSAYISI": 6483319.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 7767769.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4315,9 +4515,9 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199704,
-      "TEDPAYSAYISI": 6477986.0,
-      "KISISAYISI": 207.0,
-      "PORTFOYBUYUKLUK": 7771666.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4325,9 +4525,139 @@
       "FONKODU": "BTZ",
       "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188565,
-      "TEDPAYSAYISI": 6481010.0,
-      "KISISAYISI": 206.0,
-      "PORTFOYBUYUKLUK": 7703102.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.201485,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.177835,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.227943,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.229532,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.253151,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.242276,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.255911,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.256359,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.245275,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.278909,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.273247,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.26714,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "BTZ",
+      "FONUNVAN": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260052,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

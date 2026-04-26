@@ -1,38 +1,169 @@
 {
   "kod": "TKF",
-  "guncelleme": "2026-04-08T18:28:06Z",
+  "guncelleme": "2026-04-26T15:48:14Z",
   "kaynak_tefas": true,
   "unvan": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tkf-tacirler-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.8
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.01
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.78
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.04
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.84
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 0.53
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 8.61
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 6.98
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 6.54
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.86
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.81
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 5.13
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.49
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 3.49
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.03
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "TBORG",
+      "ad": "",
+      "agirlik": 2.54
+    },
+    {
+      "ticker": "MAKIM",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.37
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 1.26
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.16
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 0.67
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 0.17
+    },
+    {
+      "ticker": "LXGYO",
+      "ad": "",
+      "agirlik": 0.16
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "30 hisse satırı okundu.",
   "kap_rapor_tarihi": "07.04.2026 14:19:24",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e3ba7ac1cb3"
 }

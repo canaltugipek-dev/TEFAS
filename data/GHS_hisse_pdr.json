@@ -1,41 +1,189 @@
 {
   "kod": "GHS",
-  "guncelleme": "2026-04-08T18:21:33Z",
+  "guncelleme": "2026-04-26T16:45:01Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ghs-garanti-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.27
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 0.44
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 2.22
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 2.06
+      "oran": 80.0
     }
   ],
   "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.49
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.03
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.8
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.91
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.46
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.69
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.06
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.94
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 2.6
+    },
     {
       "ticker": "TBPP",
       "ad": "",
       "agirlik": 2.37
     },
     {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.79
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 1.29
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
       "ticker": "TERS",
       "ad": "",
       "agirlik": 0.94
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 0.72
+    },
+    {
+      "ticker": "BAGFS",
+      "ad": "",
+      "agirlik": 0.58
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 0.41
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 0.2
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 0.05
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
+  "hisse_mesaj": "34 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 18:43:34",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db5d5c17720"
 }

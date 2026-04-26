@@ -1,21 +1,134 @@
 {
   "kod": "TLZ",
-  "guncelleme": "2026-04-08T18:28:12Z",
+  "guncelleme": "2026-04-26T18:31:19Z",
   "kaynak_tefas": true,
   "unvan": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlz-ata-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.07
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.93
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.42
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 6.32
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.48
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.44
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 5.44
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 4.89
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.61
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.59
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 3.4
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 1.22
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 12:02:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6727657d55e1"
 }

@@ -1,29 +1,199 @@
 {
   "kod": "SUR",
-  "guncelleme": "2026-04-08T18:27:19Z",
+  "guncelleme": "2026-04-26T19:42:55Z",
   "kaynak_tefas": true,
   "unvan": "EMAA BLUE PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sur-emaa-blue-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.46
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.0
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 4.04
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.5
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.87
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.68
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 5.19
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.19
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.91
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.01
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.31
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.11
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.38
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 1.35
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 1.23
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.21
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 0.82
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "36 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 15:27:47",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61f8a2a02adf"
 }

@@ -1,21 +1,119 @@
 {
   "kod": "IVF",
-  "guncelleme": "2026-04-08T18:24:30Z",
+  "guncelleme": "2026-04-26T19:03:13Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ivf-istanbul-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.59
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 12.41
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 7.98
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.69
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 6.75
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 5.65
+    },
+    {
+      "ticker": "KTLEV",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.63
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.44
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.92
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.81
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.58
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "GRTHO",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.37
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 15:48:14",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d3641f1acc"
 }

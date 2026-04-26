@@ -1,25 +1,109 @@
 {
   "kod": "GTH",
-  "guncelleme": "2026-04-08T18:22:17Z",
+  "guncelleme": "2026-04-26T18:22:39Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gth-garanti-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.24
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.85
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 10.91
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 10.03
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.3
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 9.16
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.64
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 8.56
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.94
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 4.79
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 4.4
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "VESTL",
+      "ad": "",
+      "agirlik": 2.8
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:55:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde1d5057f"
 }

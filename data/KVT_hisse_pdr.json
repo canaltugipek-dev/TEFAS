@@ -1,21 +1,119 @@
 {
   "kod": "KVT",
-  "guncelleme": "2026-04-08T18:25:13Z",
+  "guncelleme": "2026-04-26T18:26:43Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kvt-ak-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.99
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 9.01
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 9.35
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 9.32
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 7.55
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 6.04
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 5.7
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 4.81
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 4.46
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 3.9
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.79
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 3.34
+    },
+    {
+      "ticker": "SMRTG",
+      "ad": "",
+      "agirlik": 2.91
+    },
+    {
+      "ticker": "ALFAS",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 1.03
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 15:25:15",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d53277cb273e0"
 }

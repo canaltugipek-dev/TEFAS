@@ -1,25 +1,134 @@
 {
   "kod": "HMS",
-  "guncelleme": "2026-04-08T18:22:43Z",
+  "guncelleme": "2026-04-26T18:22:55Z",
   "kaynak_tefas": true,
   "unvan": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hms-hsbc-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.43
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 3.4
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 4.17
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 9.38
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 6.83
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.73
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 6.17
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.77
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.24
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 3.96
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.79
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 3.13
+    },
+    {
+      "ticker": "MAGEN",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "BIOEN",
+      "ad": "",
+      "agirlik": 2.84
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 1.04
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 0.67
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 11:15:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c13687a710d"
 }

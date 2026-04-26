@@ -1,30 +1,179 @@
 {
   "kod": "DAH",
-  "guncelleme": "2026-04-08T18:20:22Z",
+  "guncelleme": "2026-04-26T15:43:22Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dah-deniz-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.62
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.24
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 5.83
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 2.31
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 5.96
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 5.73
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.31
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.58
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 2.07
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.96
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.88
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 1.7
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 1.37
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
   "kap_rapor_tarihi": "03.04.2026 14:30:18",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d52fa5df7586c"
 }

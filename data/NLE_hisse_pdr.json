@@ -1,25 +1,119 @@
 {
   "kod": "NLE",
-  "guncelleme": "2026-04-08T18:25:58Z",
+  "guncelleme": "2026-04-26T19:41:16Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.37
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 0.56
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 5.07
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 16.09
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 13.66
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 12.67
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 7.54
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 6.73
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 6.64
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 6.35
+    },
+    {
+      "ticker": "HLGYO",
+      "ad": "",
+      "agirlik": 5.2
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "RYGYO",
+      "ad": "",
+      "agirlik": 3.9
+    },
+    {
+      "ticker": "ASGYO",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.91
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 1.25
+    },
+    {
+      "ticker": "FZLGY",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "DAPGM",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "EDIP",
+      "ad": "",
+      "agirlik": 0.48
+    },
+    {
+      "ticker": "KZGYO",
+      "ad": "",
+      "agirlik": 0.43
+    },
+    {
+      "ticker": "VRGYO",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "PAGYO",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
+      "ticker": "MRGYO",
+      "ad": "",
+      "agirlik": 0.24
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 10:08:40",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805fc6b7f"
 }

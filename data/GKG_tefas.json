@@ -2,22 +2,222 @@
   "fon_kodu": "GKG",
   "fon_unvan": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 266,
-  "gun_kapsami": 388,
+  "kayit_sayisi": 299,
+  "gun_kapsami": 434,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1739491200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739750400000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739836800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739923200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740009600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740096000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740355200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740441600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740528000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740614400000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740700800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740960000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741046400000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741132800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741219200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741305600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741564800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741651200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741737600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741824000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1741910400000",
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001616,
-      "TEDPAYSAYISI": 1957333.0,
-      "KISISAYISI": 68.0,
-      "PORTFOYBUYUKLUK": 1960496.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +225,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013776,
-      "TEDPAYSAYISI": 2529240.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 2564083.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +235,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021404,
-      "TEDPAYSAYISI": 2785997.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 2845627.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +245,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016616,
-      "TEDPAYSAYISI": 12300831.0,
-      "KISISAYISI": 191.0,
-      "PORTFOYBUYUKLUK": 12505227.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +255,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930512,
-      "TEDPAYSAYISI": 12527220.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 11656730.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +265,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917539,
-      "TEDPAYSAYISI": 12307589.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 11292695.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +275,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853395,
-      "TEDPAYSAYISI": 12818206.0,
-      "KISISAYISI": 243.0,
-      "PORTFOYBUYUKLUK": 10938995.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +285,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876142,
-      "TEDPAYSAYISI": 13675593.0,
-      "KISISAYISI": 247.0,
-      "PORTFOYBUYUKLUK": 11981762.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +295,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90972,
-      "TEDPAYSAYISI": 13776657.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 12532903.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +305,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900065,
-      "TEDPAYSAYISI": 13831518.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 12449267.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +315,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895607,
-      "TEDPAYSAYISI": 14210833.0,
-      "KISISAYISI": 266.0,
-      "PORTFOYBUYUKLUK": 12727315.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +325,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903115,
-      "TEDPAYSAYISI": 14334354.0,
-      "KISISAYISI": 269.0,
-      "PORTFOYBUYUKLUK": 12945568.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +335,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.890983,
-      "TEDPAYSAYISI": 14545006.0,
-      "KISISAYISI": 274.0,
-      "PORTFOYBUYUKLUK": 12959352.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +345,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.8914,
-      "TEDPAYSAYISI": 14578054.0,
-      "KISISAYISI": 290.0,
-      "PORTFOYBUYUKLUK": 12994874.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +355,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879416,
-      "TEDPAYSAYISI": 14706374.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 12933022.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +365,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883085,
-      "TEDPAYSAYISI": 15088393.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 13324340.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +375,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.894486,
-      "TEDPAYSAYISI": 15130501.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 13534018.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +385,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.877059,
-      "TEDPAYSAYISI": 15190139.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 13322655.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +395,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.884617,
-      "TEDPAYSAYISI": 15214860.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 13459330.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +405,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886706,
-      "TEDPAYSAYISI": 15304369.0,
-      "KISISAYISI": 342.0,
-      "PORTFOYBUYUKLUK": 13570475.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +415,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885473,
-      "TEDPAYSAYISI": 15373938.0,
-      "KISISAYISI": 347.0,
-      "PORTFOYBUYUKLUK": 13613211.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +425,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.877291,
-      "TEDPAYSAYISI": 15400065.0,
-      "KISISAYISI": 351.0,
-      "PORTFOYBUYUKLUK": 13510342.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +435,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.869706,
-      "TEDPAYSAYISI": 15455138.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 13441429.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +445,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88452,
-      "TEDPAYSAYISI": 15660444.0,
-      "KISISAYISI": 360.0,
-      "PORTFOYBUYUKLUK": 13851973.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +455,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87738,
-      "TEDPAYSAYISI": 15695452.0,
-      "KISISAYISI": 361.0,
-      "PORTFOYBUYUKLUK": 13770869.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +465,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880009,
-      "TEDPAYSAYISI": 15737431.0,
-      "KISISAYISI": 361.0,
-      "PORTFOYBUYUKLUK": 13849083.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +475,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87812,
-      "TEDPAYSAYISI": 15867493.0,
-      "KISISAYISI": 366.0,
-      "PORTFOYBUYUKLUK": 13933559.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +485,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899206,
-      "TEDPAYSAYISI": 15864397.0,
-      "KISISAYISI": 367.0,
-      "PORTFOYBUYUKLUK": 14265361.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +495,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89103,
-      "TEDPAYSAYISI": 15923813.0,
-      "KISISAYISI": 370.0,
-      "PORTFOYBUYUKLUK": 14188592.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +505,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.884918,
-      "TEDPAYSAYISI": 15951793.0,
-      "KISISAYISI": 376.0,
-      "PORTFOYBUYUKLUK": 14116025.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +515,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881472,
-      "TEDPAYSAYISI": 15975537.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 14081983.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +525,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.871171,
-      "TEDPAYSAYISI": 16104158.0,
-      "KISISAYISI": 378.0,
-      "PORTFOYBUYUKLUK": 14029467.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +535,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875174,
-      "TEDPAYSAYISI": 16116789.0,
-      "KISISAYISI": 381.0,
-      "PORTFOYBUYUKLUK": 14104994.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +545,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87185,
-      "TEDPAYSAYISI": 16184621.0,
-      "KISISAYISI": 383.0,
-      "PORTFOYBUYUKLUK": 14110562.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +555,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87425,
-      "TEDPAYSAYISI": 16228010.0,
-      "KISISAYISI": 389.0,
-      "PORTFOYBUYUKLUK": 14187340.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +565,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873373,
-      "TEDPAYSAYISI": 14978283.0,
-      "KISISAYISI": 389.0,
-      "PORTFOYBUYUKLUK": 13081625.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +575,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89517,
-      "TEDPAYSAYISI": 14986687.0,
-      "KISISAYISI": 387.0,
-      "PORTFOYBUYUKLUK": 13415638.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +585,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898996,
-      "TEDPAYSAYISI": 15050016.0,
-      "KISISAYISI": 389.0,
-      "PORTFOYBUYUKLUK": 13529898.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +595,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928511,
-      "TEDPAYSAYISI": 15239801.0,
-      "KISISAYISI": 393.0,
-      "PORTFOYBUYUKLUK": 14150319.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +605,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923265,
-      "TEDPAYSAYISI": 15286323.0,
-      "KISISAYISI": 397.0,
-      "PORTFOYBUYUKLUK": 14113324.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +615,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925393,
-      "TEDPAYSAYISI": 15047248.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 13924614.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +625,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910841,
-      "TEDPAYSAYISI": 15110273.0,
-      "KISISAYISI": 396.0,
-      "PORTFOYBUYUKLUK": 13763055.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +635,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922755,
-      "TEDPAYSAYISI": 15210345.0,
-      "KISISAYISI": 397.0,
-      "PORTFOYBUYUKLUK": 14035422.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +645,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903538,
-      "TEDPAYSAYISI": 15023949.0,
-      "KISISAYISI": 404.0,
-      "PORTFOYBUYUKLUK": 13574712.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +655,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.894871,
-      "TEDPAYSAYISI": 14992734.0,
-      "KISISAYISI": 411.0,
-      "PORTFOYBUYUKLUK": 13416558.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +665,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899159,
-      "TEDPAYSAYISI": 15223870.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 13688682.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +675,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88997,
-      "TEDPAYSAYISI": 15224091.0,
-      "KISISAYISI": 412.0,
-      "PORTFOYBUYUKLUK": 13548986.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +685,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892025,
-      "TEDPAYSAYISI": 15229017.0,
-      "KISISAYISI": 407.0,
-      "PORTFOYBUYUKLUK": 13584656.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +695,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881142,
-      "TEDPAYSAYISI": 15032682.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 13245931.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +705,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87813,
-      "TEDPAYSAYISI": 15125591.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 13282240.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +715,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875115,
-      "TEDPAYSAYISI": 15148813.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 13256955.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +725,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85692,
-      "TEDPAYSAYISI": 15209899.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 13033673.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +735,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858013,
-      "TEDPAYSAYISI": 15368377.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 13186270.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +745,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880207,
-      "TEDPAYSAYISI": 15264142.0,
-      "KISISAYISI": 412.0,
-      "PORTFOYBUYUKLUK": 13435600.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +755,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900316,
-      "TEDPAYSAYISI": 15273142.0,
-      "KISISAYISI": 407.0,
-      "PORTFOYBUYUKLUK": 13750659.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +765,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.902362,
-      "TEDPAYSAYISI": 15337499.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 13839972.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +775,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914477,
-      "TEDPAYSAYISI": 15358628.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 14045110.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +785,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917405,
-      "TEDPAYSAYISI": 15385259.0,
-      "KISISAYISI": 415.0,
-      "PORTFOYBUYUKLUK": 14114516.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +795,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906101,
-      "TEDPAYSAYISI": 15353885.0,
-      "KISISAYISI": 418.0,
-      "PORTFOYBUYUKLUK": 13912177.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +805,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.894223,
-      "TEDPAYSAYISI": 15467936.0,
-      "KISISAYISI": 418.0,
-      "PORTFOYBUYUKLUK": 13831786.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +815,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899323,
-      "TEDPAYSAYISI": 15472675.0,
-      "KISISAYISI": 425.0,
-      "PORTFOYBUYUKLUK": 13914935.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +825,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898314,
-      "TEDPAYSAYISI": 15495324.0,
-      "KISISAYISI": 429.0,
-      "PORTFOYBUYUKLUK": 13919659.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +835,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.889149,
-      "TEDPAYSAYISI": 15365726.0,
-      "KISISAYISI": 424.0,
-      "PORTFOYBUYUKLUK": 13662414.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +845,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.884605,
-      "TEDPAYSAYISI": 15481540.0,
-      "KISISAYISI": 423.0,
-      "PORTFOYBUYUKLUK": 13695052.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +855,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891507,
-      "TEDPAYSAYISI": 15482919.0,
-      "KISISAYISI": 422.0,
-      "PORTFOYBUYUKLUK": 13803129.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +865,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886924,
-      "TEDPAYSAYISI": 17209144.0,
-      "KISISAYISI": 420.0,
-      "PORTFOYBUYUKLUK": 15263197.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +875,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909847,
-      "TEDPAYSAYISI": 17227392.0,
-      "KISISAYISI": 421.0,
-      "PORTFOYBUYUKLUK": 15674296.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +885,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908812,
-      "TEDPAYSAYISI": 17234049.0,
-      "KISISAYISI": 420.0,
-      "PORTFOYBUYUKLUK": 15662515.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +895,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899453,
-      "TEDPAYSAYISI": 17241241.0,
-      "KISISAYISI": 419.0,
-      "PORTFOYBUYUKLUK": 15507684.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +905,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907297,
-      "TEDPAYSAYISI": 17210457.0,
-      "KISISAYISI": 423.0,
-      "PORTFOYBUYUKLUK": 15614992.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +915,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95881,
-      "TEDPAYSAYISI": 17263614.0,
-      "KISISAYISI": 428.0,
-      "PORTFOYBUYUKLUK": 16552520.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +925,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953098,
-      "TEDPAYSAYISI": 17283615.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 16472977.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +935,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962877,
-      "TEDPAYSAYISI": 17438854.0,
-      "KISISAYISI": 439.0,
-      "PORTFOYBUYUKLUK": 16791471.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +945,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966425,
-      "TEDPAYSAYISI": 17722494.0,
-      "KISISAYISI": 451.0,
-      "PORTFOYBUYUKLUK": 17127466.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +955,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973376,
-      "TEDPAYSAYISI": 17824647.0,
-      "KISISAYISI": 462.0,
-      "PORTFOYBUYUKLUK": 17350080.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +965,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956383,
-      "TEDPAYSAYISI": 17855146.0,
-      "KISISAYISI": 467.0,
-      "PORTFOYBUYUKLUK": 17076356.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +975,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948202,
-      "TEDPAYSAYISI": 17993234.0,
-      "KISISAYISI": 483.0,
-      "PORTFOYBUYUKLUK": 17061225.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +985,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962347,
-      "TEDPAYSAYISI": 17979029.0,
-      "KISISAYISI": 489.0,
-      "PORTFOYBUYUKLUK": 17302063.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +995,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976021,
-      "TEDPAYSAYISI": 17797137.0,
-      "KISISAYISI": 484.0,
-      "PORTFOYBUYUKLUK": 17370370.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1005,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9777,
-      "TEDPAYSAYISI": 17960577.0,
-      "KISISAYISI": 496.0,
-      "PORTFOYBUYUKLUK": 17560054.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1015,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968718,
-      "TEDPAYSAYISI": 18050087.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 17485450.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1025,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957506,
-      "TEDPAYSAYISI": 17711350.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 16958725.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1035,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979042,
-      "TEDPAYSAYISI": 17782158.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 17409477.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1045,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980336,
-      "TEDPAYSAYISI": 17981350.0,
-      "KISISAYISI": 528.0,
-      "PORTFOYBUYUKLUK": 17627764.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1055,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004394,
-      "TEDPAYSAYISI": 18082462.0,
-      "KISISAYISI": 532.0,
-      "PORTFOYBUYUKLUK": 18161917.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1065,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002027,
-      "TEDPAYSAYISI": 18196571.0,
-      "KISISAYISI": 543.0,
-      "PORTFOYBUYUKLUK": 18233454.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1075,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999779,
-      "TEDPAYSAYISI": 18605720.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 18601604.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1085,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009343,
-      "TEDPAYSAYISI": 18625933.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 18799951.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1095,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005884,
-      "TEDPAYSAYISI": 18633033.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 18742666.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1105,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999649,
-      "TEDPAYSAYISI": 18670419.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 18663869.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1115,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994402,
-      "TEDPAYSAYISI": 18756669.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 18651663.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1125,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009949,
-      "TEDPAYSAYISI": 18996904.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 19185909.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1135,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021282,
-      "TEDPAYSAYISI": 19076054.0,
-      "KISISAYISI": 572.0,
-      "PORTFOYBUYUKLUK": 19482027.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1145,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022998,
-      "TEDPAYSAYISI": 18906198.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 19340997.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1155,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030686,
-      "TEDPAYSAYISI": 19566484.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 20166902.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1165,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029338,
-      "TEDPAYSAYISI": 19766291.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 20346185.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1175,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031675,
-      "TEDPAYSAYISI": 19773219.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 20399538.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1185,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036827,
-      "TEDPAYSAYISI": 19578901.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 20299932.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1195,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036513,
-      "TEDPAYSAYISI": 21387845.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 22168782.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1205,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039549,
-      "TEDPAYSAYISI": 21718265.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 22577197.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1215,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030697,
-      "TEDPAYSAYISI": 21647071.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 22311579.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1225,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030216,
-      "TEDPAYSAYISI": 21807516.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 22466454.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1235,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016831,
-      "TEDPAYSAYISI": 21910686.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 22279474.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1245,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019709,
-      "TEDPAYSAYISI": 21831584.0,
-      "KISISAYISI": 619.0,
-      "PORTFOYBUYUKLUK": 22261863.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1255,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021847,
-      "TEDPAYSAYISI": 21857317.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 22334839.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1265,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020688,
-      "TEDPAYSAYISI": 21895347.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 22348321.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1275,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040428,
-      "TEDPAYSAYISI": 21970426.0,
-      "KISISAYISI": 630.0,
-      "PORTFOYBUYUKLUK": 22858649.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1285,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05382,
-      "TEDPAYSAYISI": 21940535.0,
-      "KISISAYISI": 635.0,
-      "PORTFOYBUYUKLUK": 23121370.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1295,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058032,
-      "TEDPAYSAYISI": 21852637.0,
-      "KISISAYISI": 634.0,
-      "PORTFOYBUYUKLUK": 23120797.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1305,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062382,
-      "TEDPAYSAYISI": 21905032.0,
-      "KISISAYISI": 639.0,
-      "PORTFOYBUYUKLUK": 23271513.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1315,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068633,
-      "TEDPAYSAYISI": 22330624.0,
-      "KISISAYISI": 645.0,
-      "PORTFOYBUYUKLUK": 23863239.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1325,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056388,
-      "TEDPAYSAYISI": 22338025.0,
-      "KISISAYISI": 653.0,
-      "PORTFOYBUYUKLUK": 23597628.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1335,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05738,
-      "TEDPAYSAYISI": 22563778.0,
-      "KISISAYISI": 660.0,
-      "PORTFOYBUYUKLUK": 23858494.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1345,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052383,
-      "TEDPAYSAYISI": 22645045.0,
-      "KISISAYISI": 671.0,
-      "PORTFOYBUYUKLUK": 23831249.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1355,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049509,
-      "TEDPAYSAYISI": 22672320.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 23794812.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1365,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011275,
-      "TEDPAYSAYISI": 22717640.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 22973791.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1375,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9982,
-      "TEDPAYSAYISI": 22934695.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 22893402.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1385,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009327,
-      "TEDPAYSAYISI": 22336996.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 22545329.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1395,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000824,
-      "TEDPAYSAYISI": 22487065.0,
-      "KISISAYISI": 678.0,
-      "PORTFOYBUYUKLUK": 22505600.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1405,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981865,
-      "TEDPAYSAYISI": 22493188.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 22085283.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1415,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984909,
-      "TEDPAYSAYISI": 22512825.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 22173093.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1425,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994333,
-      "TEDPAYSAYISI": 22479868.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 22352467.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1435,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981746,
-      "TEDPAYSAYISI": 22392921.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 21984150.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1445,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985839,
-      "TEDPAYSAYISI": 22427543.0,
-      "KISISAYISI": 678.0,
-      "PORTFOYBUYUKLUK": 22109953.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1455,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039585,
-      "TEDPAYSAYISI": 22475303.0,
-      "KISISAYISI": 678.0,
-      "PORTFOYBUYUKLUK": 23364977.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1465,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055697,
-      "TEDPAYSAYISI": 22445685.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 23695842.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1475,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049945,
-      "TEDPAYSAYISI": 22420606.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 23540400.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1485,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036222,
-      "TEDPAYSAYISI": 22322153.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 23130712.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1495,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060438,
-      "TEDPAYSAYISI": 22217519.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 23560292.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1505,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074145,
-      "TEDPAYSAYISI": 22245902.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 23895329.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1515,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062298,
-      "TEDPAYSAYISI": 22401698.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 23797280.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1525,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064179,
-      "TEDPAYSAYISI": 22406778.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 23844819.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1535,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060599,
-      "TEDPAYSAYISI": 22333571.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 23686952.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1545,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039768,
-      "TEDPAYSAYISI": 22572548.0,
-      "KISISAYISI": 670.0,
-      "PORTFOYBUYUKLUK": 23470221.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1555,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034448,
-      "TEDPAYSAYISI": 20142997.0,
-      "KISISAYISI": 673.0,
-      "PORTFOYBUYUKLUK": 20836890.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1565,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039469,
-      "TEDPAYSAYISI": 20123293.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 20917539.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1575,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059394,
-      "TEDPAYSAYISI": 20162383.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 21359905.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1585,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049866,
-      "TEDPAYSAYISI": 20166468.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 21172086.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1595,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032327,
-      "TEDPAYSAYISI": 20329314.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 20986490.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1605,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024005,
-      "TEDPAYSAYISI": 20393666.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 20883216.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1615,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029736,
-      "TEDPAYSAYISI": 20457945.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 21066272.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1625,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023162,
-      "TEDPAYSAYISI": 20446936.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 20920535.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1635,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019529,
-      "TEDPAYSAYISI": 20642344.0,
-      "KISISAYISI": 673.0,
-      "PORTFOYBUYUKLUK": 21045476.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1645,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018153,
-      "TEDPAYSAYISI": 20752380.0,
-      "KISISAYISI": 673.0,
-      "PORTFOYBUYUKLUK": 21129090.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1655,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003231,
-      "TEDPAYSAYISI": 20764724.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 20831804.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1665,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9853,
-      "TEDPAYSAYISI": 20474702.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 20173729.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1675,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996872,
-      "TEDPAYSAYISI": 20815303.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 20750198.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1685,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98885,
-      "TEDPAYSAYISI": 20813344.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 20581271.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1695,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978082,
-      "TEDPAYSAYISI": 20682210.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 20228894.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1705,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004816,
-      "TEDPAYSAYISI": 20598349.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 20697545.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1715,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006355,
-      "TEDPAYSAYISI": 19914599.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 20041161.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1725,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019427,
-      "TEDPAYSAYISI": 19417931.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 19795155.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1735,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025823,
-      "TEDPAYSAYISI": 19484370.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 19987523.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1745,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055804,
-      "TEDPAYSAYISI": 19646549.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 20742908.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1755,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045824,
-      "TEDPAYSAYISI": 19362531.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 20249795.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1765,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046326,
-      "TEDPAYSAYISI": 19087636.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 19971896.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1775,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040512,
-      "TEDPAYSAYISI": 19128085.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 19903001.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1785,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051222,
-      "TEDPAYSAYISI": 19105038.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 20083636.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1795,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056181,
-      "TEDPAYSAYISI": 19239493.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 20320391.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1805,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041055,
-      "TEDPAYSAYISI": 19368928.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 20164128.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1815,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046933,
-      "TEDPAYSAYISI": 19430222.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 20342146.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1825,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057781,
-      "TEDPAYSAYISI": 19332546.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 20449591.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1835,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044011,
-      "TEDPAYSAYISI": 19303888.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 20153470.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1845,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033728,
-      "TEDPAYSAYISI": 19527163.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 20185780.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1855,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018253,
-      "TEDPAYSAYISI": 19667200.0,
-      "KISISAYISI": 693.0,
-      "PORTFOYBUYUKLUK": 20026192.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1865,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025388,
-      "TEDPAYSAYISI": 20349162.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 20865783.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1875,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022076,
-      "TEDPAYSAYISI": 20744684.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 21202653.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1885,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017273,
-      "TEDPAYSAYISI": 20951554.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 21313452.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1895,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025812,
-      "TEDPAYSAYISI": 20970419.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 21511699.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1905,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030446,
-      "TEDPAYSAYISI": 21007638.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 21647241.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1915,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041784,
-      "TEDPAYSAYISI": 21236389.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 22123730.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1925,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046661,
-      "TEDPAYSAYISI": 27073877.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 28337164.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1935,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039676,
-      "TEDPAYSAYISI": 27192630.0,
-      "KISISAYISI": 703.0,
-      "PORTFOYBUYUKLUK": 28271526.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1945,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039528,
-      "TEDPAYSAYISI": 27335149.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 28415644.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1955,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037205,
-      "TEDPAYSAYISI": 27191256.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 28202897.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1965,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042357,
-      "TEDPAYSAYISI": 27099699.0,
-      "KISISAYISI": 703.0,
-      "PORTFOYBUYUKLUK": 28247571.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1975,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047079,
-      "TEDPAYSAYISI": 27111301.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 28387673.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1985,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043514,
-      "TEDPAYSAYISI": 27121502.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 28301661.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1995,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.061344,
-      "TEDPAYSAYISI": 27166869.0,
-      "KISISAYISI": 708.0,
-      "PORTFOYBUYUKLUK": 28833381.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2005,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.061935,
-      "TEDPAYSAYISI": 21753963.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 23101303.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2015,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055632,
-      "TEDPAYSAYISI": 21761710.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 22972349.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2025,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044413,
-      "TEDPAYSAYISI": 21797977.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 22766083.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2035,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053382,
-      "TEDPAYSAYISI": 21802535.0,
-      "KISISAYISI": 714.0,
-      "PORTFOYBUYUKLUK": 22966394.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2045,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073447,
-      "TEDPAYSAYISI": 21869354.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 23475594.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2055,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077951,
-      "TEDPAYSAYISI": 21902582.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 23609918.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2065,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076883,
-      "TEDPAYSAYISI": 21943096.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 23630143.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2075,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082142,
-      "TEDPAYSAYISI": 22020032.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 23828793.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2085,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093602,
-      "TEDPAYSAYISI": 22144950.0,
-      "KISISAYISI": 723.0,
-      "PORTFOYBUYUKLUK": 24217751.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2095,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110442,
-      "TEDPAYSAYISI": 22186840.0,
-      "KISISAYISI": 725.0,
-      "PORTFOYBUYUKLUK": 24637204.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2105,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100915,
-      "TEDPAYSAYISI": 21777953.0,
-      "KISISAYISI": 730.0,
-      "PORTFOYBUYUKLUK": 23975664.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2115,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09271,
-      "TEDPAYSAYISI": 22269629.0,
-      "KISISAYISI": 733.0,
-      "PORTFOYBUYUKLUK": 24334244.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2125,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095018,
-      "TEDPAYSAYISI": 22485237.0,
-      "KISISAYISI": 741.0,
-      "PORTFOYBUYUKLUK": 24621745.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2135,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095056,
-      "TEDPAYSAYISI": 22555682.0,
-      "KISISAYISI": 739.0,
-      "PORTFOYBUYUKLUK": 24699743.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2145,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094128,
-      "TEDPAYSAYISI": 22614576.0,
-      "KISISAYISI": 744.0,
-      "PORTFOYBUYUKLUK": 24743244.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2155,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090264,
-      "TEDPAYSAYISI": 22748536.0,
-      "KISISAYISI": 754.0,
-      "PORTFOYBUYUKLUK": 24801902.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2165,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096104,
-      "TEDPAYSAYISI": 22730669.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 24915174.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2175,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095692,
-      "TEDPAYSAYISI": 22931570.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 25125935.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2185,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091592,
-      "TEDPAYSAYISI": 16732214.0,
-      "KISISAYISI": 757.0,
-      "PORTFOYBUYUKLUK": 18264749.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2195,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078669,
-      "TEDPAYSAYISI": 16797099.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 18118514.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2205,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086751,
-      "TEDPAYSAYISI": 16625644.0,
-      "KISISAYISI": 763.0,
-      "PORTFOYBUYUKLUK": 18067939.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2215,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082202,
-      "TEDPAYSAYISI": 16719744.0,
-      "KISISAYISI": 764.0,
-      "PORTFOYBUYUKLUK": 18094142.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2225,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099429,
-      "TEDPAYSAYISI": 17370333.0,
-      "KISISAYISI": 766.0,
-      "PORTFOYBUYUKLUK": 19097448.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2235,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115327,
-      "TEDPAYSAYISI": 17425383.0,
-      "KISISAYISI": 773.0,
-      "PORTFOYBUYUKLUK": 19435002.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2245,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143479,
-      "TEDPAYSAYISI": 15383408.0,
-      "KISISAYISI": 782.0,
-      "PORTFOYBUYUKLUK": 17590607.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2255,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140179,
-      "TEDPAYSAYISI": 15470407.0,
-      "KISISAYISI": 780.0,
-      "PORTFOYBUYUKLUK": 17639039.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2265,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144705,
-      "TEDPAYSAYISI": 15449452.0,
-      "KISISAYISI": 790.0,
-      "PORTFOYBUYUKLUK": 17685058.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2275,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.154788,
-      "TEDPAYSAYISI": 15490270.0,
-      "KISISAYISI": 794.0,
-      "PORTFOYBUYUKLUK": 17887975.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2285,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163141,
-      "TEDPAYSAYISI": 15493940.0,
-      "KISISAYISI": 802.0,
-      "PORTFOYBUYUKLUK": 18021643.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2295,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18138,
-      "TEDPAYSAYISI": 16375936.0,
-      "KISISAYISI": 812.0,
-      "PORTFOYBUYUKLUK": 19346196.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2305,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185234,
-      "TEDPAYSAYISI": 16532264.0,
-      "KISISAYISI": 814.0,
-      "PORTFOYBUYUKLUK": 19594600.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2315,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196694,
-      "TEDPAYSAYISI": 16954093.0,
-      "KISISAYISI": 825.0,
-      "PORTFOYBUYUKLUK": 20288857.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2325,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221116,
-      "TEDPAYSAYISI": 17270585.0,
-      "KISISAYISI": 838.0,
-      "PORTFOYBUYUKLUK": 21089388.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2335,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219884,
-      "TEDPAYSAYISI": 17447437.0,
-      "KISISAYISI": 854.0,
-      "PORTFOYBUYUKLUK": 21283842.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2345,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219394,
-      "TEDPAYSAYISI": 18634756.0,
-      "KISISAYISI": 876.0,
-      "PORTFOYBUYUKLUK": 22723113.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2355,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210236,
-      "TEDPAYSAYISI": 18922290.0,
-      "KISISAYISI": 896.0,
-      "PORTFOYBUYUKLUK": 22900433.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2365,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.227937,
-      "TEDPAYSAYISI": 22995436.0,
-      "KISISAYISI": 905.0,
-      "PORTFOYBUYUKLUK": 28236949.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2375,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241872,
-      "TEDPAYSAYISI": 26820098.0,
-      "KISISAYISI": 912.0,
-      "PORTFOYBUYUKLUK": 33307130.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2385,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260197,
-      "TEDPAYSAYISI": 26911608.0,
-      "KISISAYISI": 921.0,
-      "PORTFOYBUYUKLUK": 33913918.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2395,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250648,
-      "TEDPAYSAYISI": 27144344.0,
-      "KISISAYISI": 935.0,
-      "PORTFOYBUYUKLUK": 33948030.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2405,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279771,
-      "TEDPAYSAYISI": 27278438.0,
-      "KISISAYISI": 951.0,
-      "PORTFOYBUYUKLUK": 34910143.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2415,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.313612,
-      "TEDPAYSAYISI": 27384808.0,
-      "KISISAYISI": 964.0,
-      "PORTFOYBUYUKLUK": 35972998.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2425,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.317622,
-      "TEDPAYSAYISI": 27601349.0,
-      "KISISAYISI": 979.0,
-      "PORTFOYBUYUKLUK": 36368157.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2435,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.299631,
-      "TEDPAYSAYISI": 27627762.0,
-      "KISISAYISI": 989.0,
-      "PORTFOYBUYUKLUK": 35905892.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2445,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.317432,
-      "TEDPAYSAYISI": 27395996.0,
-      "KISISAYISI": 1015.0,
-      "PORTFOYBUYUKLUK": 36092365.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2455,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.316075,
-      "TEDPAYSAYISI": 27914852.0,
-      "KISISAYISI": 1036.0,
-      "PORTFOYBUYUKLUK": 36738042.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2465,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.292563,
-      "TEDPAYSAYISI": 28599984.0,
-      "KISISAYISI": 1053.0,
-      "PORTFOYBUYUKLUK": 36967274.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2475,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290157,
-      "TEDPAYSAYISI": 30323098.0,
-      "KISISAYISI": 1068.0,
-      "PORTFOYBUYUKLUK": 39121571.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2485,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.316088,
-      "TEDPAYSAYISI": 30244915.0,
-      "KISISAYISI": 1090.0,
-      "PORTFOYBUYUKLUK": 39804979.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2495,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309451,
-      "TEDPAYSAYISI": 31335457.0,
-      "KISISAYISI": 1114.0,
-      "PORTFOYBUYUKLUK": 41032230.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2505,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31957,
-      "TEDPAYSAYISI": 31725708.0,
-      "KISISAYISI": 1120.0,
-      "PORTFOYBUYUKLUK": 41864283.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2515,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.364975,
-      "TEDPAYSAYISI": 31886799.0,
-      "KISISAYISI": 1129.0,
-      "PORTFOYBUYUKLUK": 43524677.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2525,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365791,
-      "TEDPAYSAYISI": 32155171.0,
-      "KISISAYISI": 1151.0,
-      "PORTFOYBUYUKLUK": 43917250.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2535,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.37657,
-      "TEDPAYSAYISI": 32924835.0,
-      "KISISAYISI": 1173.0,
-      "PORTFOYBUYUKLUK": 45323349.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2545,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.356176,
-      "TEDPAYSAYISI": 34300533.0,
-      "KISISAYISI": 1220.0,
-      "PORTFOYBUYUKLUK": 46517555.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2555,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.360888,
-      "TEDPAYSAYISI": 35295241.0,
-      "KISISAYISI": 1236.0,
-      "PORTFOYBUYUKLUK": 48032866.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2565,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.325893,
-      "TEDPAYSAYISI": 36071088.0,
-      "KISISAYISI": 1238.0,
-      "PORTFOYBUYUKLUK": 47826417.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2575,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.335868,
-      "TEDPAYSAYISI": 36062404.0,
-      "KISISAYISI": 1249.0,
-      "PORTFOYBUYUKLUK": 48174620.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2585,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.35023,
-      "TEDPAYSAYISI": 35319011.0,
-      "KISISAYISI": 1251.0,
-      "PORTFOYBUYUKLUK": 47688784.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2595,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.342863,
-      "TEDPAYSAYISI": 35569250.0,
-      "KISISAYISI": 1252.0,
-      "PORTFOYBUYUKLUK": 47764627.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2605,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.329254,
-      "TEDPAYSAYISI": 37563249.0,
-      "KISISAYISI": 1258.0,
-      "PORTFOYBUYUKLUK": 49931106.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2615,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.329733,
-      "TEDPAYSAYISI": 36504756.0,
-      "KISISAYISI": 1278.0,
-      "PORTFOYBUYUKLUK": 48541590.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2625,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.313968,
-      "TEDPAYSAYISI": 37142827.0,
-      "KISISAYISI": 1289.0,
-      "PORTFOYBUYUKLUK": 48804483.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2635,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.288332,
-      "TEDPAYSAYISI": 37477426.0,
-      "KISISAYISI": 1294.0,
-      "PORTFOYBUYUKLUK": 48283349.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2645,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253743,
-      "TEDPAYSAYISI": 36635251.0,
-      "KISISAYISI": 1297.0,
-      "PORTFOYBUYUKLUK": 45931177.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2655,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250898,
-      "TEDPAYSAYISI": 36885256.0,
-      "KISISAYISI": 1280.0,
-      "PORTFOYBUYUKLUK": 46139707.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2665,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264357,
-      "TEDPAYSAYISI": 33612657.0,
-      "KISISAYISI": 1280.0,
-      "PORTFOYBUYUKLUK": 42498391.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2675,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233801,
-      "TEDPAYSAYISI": 33436270.0,
-      "KISISAYISI": 1284.0,
-      "PORTFOYBUYUKLUK": 41253711.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2685,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226326,
-      "TEDPAYSAYISI": 33638350.0,
-      "KISISAYISI": 1288.0,
-      "PORTFOYBUYUKLUK": 41251567.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2695,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265598,
-      "TEDPAYSAYISI": 33531320.0,
-      "KISISAYISI": 1289.0,
-      "PORTFOYBUYUKLUK": 42437155.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2705,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26673,
-      "TEDPAYSAYISI": 33045709.0,
-      "KISISAYISI": 1284.0,
-      "PORTFOYBUYUKLUK": 41859996.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2715,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.275752,
-      "TEDPAYSAYISI": 33092404.0,
-      "KISISAYISI": 1287.0,
-      "PORTFOYBUYUKLUK": 42217691.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2725,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264537,
-      "TEDPAYSAYISI": 32843025.0,
-      "KISISAYISI": 1291.0,
-      "PORTFOYBUYUKLUK": 41531228.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2735,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254094,
-      "TEDPAYSAYISI": 32834529.0,
-      "KISISAYISI": 1290.0,
-      "PORTFOYBUYUKLUK": 41177602.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2745,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27712,
-      "TEDPAYSAYISI": 32591971.0,
-      "KISISAYISI": 1303.0,
-      "PORTFOYBUYUKLUK": 41623845.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2755,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272383,
-      "TEDPAYSAYISI": 32706411.0,
-      "KISISAYISI": 1299.0,
-      "PORTFOYBUYUKLUK": 41615065.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2765,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271612,
-      "TEDPAYSAYISI": 32797908.0,
-      "KISISAYISI": 1296.0,
-      "PORTFOYBUYUKLUK": 41706224.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2775,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280431,
-      "TEDPAYSAYISI": 32930057.0,
-      "KISISAYISI": 1294.0,
-      "PORTFOYBUYUKLUK": 42164656.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2785,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260936,
-      "TEDPAYSAYISI": 32592520.0,
-      "KISISAYISI": 1299.0,
-      "PORTFOYBUYUKLUK": 41097085.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2795,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265646,
-      "TEDPAYSAYISI": 32567116.0,
-      "KISISAYISI": 1297.0,
-      "PORTFOYBUYUKLUK": 41218428.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2805,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.244933,
-      "TEDPAYSAYISI": 32571293.0,
-      "KISISAYISI": 1297.0,
-      "PORTFOYBUYUKLUK": 40549093.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2815,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240524,
-      "TEDPAYSAYISI": 32487137.0,
-      "KISISAYISI": 1295.0,
-      "PORTFOYBUYUKLUK": 40301076.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2825,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224637,
-      "TEDPAYSAYISI": 31857488.0,
-      "KISISAYISI": 1295.0,
-      "PORTFOYBUYUKLUK": 39013843.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2835,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240242,
-      "TEDPAYSAYISI": 32241785.0,
-      "KISISAYISI": 1290.0,
-      "PORTFOYBUYUKLUK": 39987619.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2845,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254356,
-      "TEDPAYSAYISI": 31747411.0,
-      "KISISAYISI": 1277.0,
-      "PORTFOYBUYUKLUK": 39822570.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2855,9 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266597,
-      "TEDPAYSAYISI": 31765523.0,
-      "KISISAYISI": 1268.0,
-      "PORTFOYBUYUKLUK": 40234111.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2865,139 @@
       "FONKODU": "GKG",
       "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255762,
-      "TEDPAYSAYISI": 32165364.0,
-      "KISISAYISI": 1274.0,
-      "PORTFOYBUYUKLUK": 40392035.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.269898,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.254544,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.313303,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.327498,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.361738,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.365911,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.377791,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.379832,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.372649,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.400125,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.389449,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.377827,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "GKG",
+      "FONUNVAN": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.378396,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

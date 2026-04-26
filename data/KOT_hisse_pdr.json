@@ -1,25 +1,54 @@
 {
   "kod": "KOT",
-  "guncelleme": "2026-04-08T18:24:46Z",
+  "guncelleme": "2026-04-26T18:26:28Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kot-azimut-portfoy-koc-toplulugu-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.03
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.04
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 5.93
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 22.26
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 16.98
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 16.72
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 15.69
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 12.35
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 7.0
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 6.23
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "7 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:17:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3dea94758"
 }

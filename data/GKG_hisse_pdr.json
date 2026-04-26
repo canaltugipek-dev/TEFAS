@@ -1,21 +1,164 @@
 {
   "kod": "GKG",
-  "guncelleme": "2026-04-08T18:21:41Z",
+  "guncelleme": "2026-04-26T18:22:24Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkg-garanti-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.67
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 9.33
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.57
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.98
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 8.62
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 5.69
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.65
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.18
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.37
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 3.88
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.59
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 1.97
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.96
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 0.93
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 0.78
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 0.65
+    },
+    {
+      "ticker": "VESBE",
+      "ad": "",
+      "agirlik": 0.45
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:55:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde2b5059d"
 }

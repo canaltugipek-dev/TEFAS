@@ -1,29 +1,189 @@
 {
   "kod": "DHJ",
-  "guncelleme": "2026-04-08T18:20:25Z",
+  "guncelleme": "2026-04-26T19:02:59Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dhj-deniz-portfoy-teknoloji-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.54
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.41
-    },
-    {
-      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
-      "oran": 3.13
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 2.92
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 19.0
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 5.96
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 5.01
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 4.24
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.89
+    },
+    {
+      "ticker": "PATEK",
+      "ad": "",
+      "agirlik": 3.54
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "MOBTL",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 3.07
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 2.25
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "EKOS",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.91
+    },
+    {
+      "ticker": "ARENA",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "REEDR",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "KONTR",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.03
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 0.83
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 0.13
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 14:36:33",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d530a44565c50"
 }

@@ -1,25 +1,104 @@
 {
   "kod": "BID",
-  "guncelleme": "2026-04-08T18:19:56Z",
+  "guncelleme": "2026-04-26T18:21:41Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bid-qnb-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.12
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.16
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 7.72
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 9.95
+    },
+    {
+      "ticker": "BOBET",
+      "ad": "",
+      "agirlik": 9.67
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 9.44
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 9.32
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 4.48
+    },
+    {
+      "ticker": "DESA",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "UNLU",
+      "ad": "",
+      "agirlik": 0.58
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "17 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 17:07:07",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6cdf0a013652"
 }

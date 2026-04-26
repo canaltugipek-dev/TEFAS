@@ -1,37 +1,69 @@
 {
   "kod": "SKO",
-  "guncelleme": "2026-04-08T18:27:05Z",
+  "guncelleme": "2026-04-26T18:34:17Z",
   "kaynak_tefas": true,
   "unvan": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sko-strateji-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 88.14
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.0
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 7.49
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.0
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 4.19
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.18
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.0
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 2.8
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "TRCAS",
+      "ad": "",
+      "agirlik": 2.26
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.91
+    },
+    {
+      "ticker": "HATSN",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.42
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 0.45
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "10 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 11:02:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61cf096f66d5"
 }

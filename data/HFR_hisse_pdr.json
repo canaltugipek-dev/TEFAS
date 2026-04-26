@@ -1,25 +1,169 @@
 {
   "kod": "HFR",
-  "guncelleme": "2026-04-08T18:22:31Z",
+  "guncelleme": "2026-04-26T18:22:47Z",
   "kaynak_tefas": true,
   "unvan": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hfr-a1-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.69
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 3.09
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 6.22
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.29
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.26
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.96
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 4.7
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.74
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 2.91
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 1.39
+    },
+    {
+      "ticker": "CGCAM",
+      "ad": "",
+      "agirlik": 1.23
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.6
+    },
+    {
+      "ticker": "HOROZ",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 0.47
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.11
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "30 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 13:45:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62638fb9271c"
 }

@@ -1,26 +1,154 @@
 {
   "kod": "GMR",
-  "guncelleme": "2026-04-08T18:21:56Z",
+  "guncelleme": "2026-04-26T16:45:12Z",
   "kaynak_tefas": true,
   "unvan": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gmr-inveo-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.86
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.62
-    },
-    {
-      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
-      "oran": 1.52
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 6.47
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 5.83
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 5.82
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 5.4
+    },
+    {
+      "ticker": "ALGYO",
+      "ad": "",
+      "agirlik": 5.31
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 4.96
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 3.34
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 3.0
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "VAKFN",
+      "ad": "",
+      "agirlik": 2.51
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 2.26
+    },
+    {
+      "ticker": "INVEO",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "ARMGD",
+      "ad": "",
+      "agirlik": 1.59
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 0.34
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "27 hisse satırı okundu.",
   "kap_rapor_tarihi": "07.04.2026 19:22:05",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68aa10a1172b"
 }

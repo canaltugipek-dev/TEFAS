@@ -1,21 +1,13 @@
 {
   "kod": "AAV",
-  "guncelleme": "2026-04-08T18:18:52Z",
+  "guncelleme": "2026-04-26T15:42:40Z",
   "kaynak_tefas": true,
   "unvan": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aav-ata-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.42
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.57
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 6.01
+      "oran": 80.0
     }
   ],
   "hisseler": [

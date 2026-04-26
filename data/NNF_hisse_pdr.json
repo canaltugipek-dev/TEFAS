@@ -1,21 +1,134 @@
 {
   "kod": "NNF",
-  "guncelleme": "2026-04-08T18:26:01Z",
+  "guncelleme": "2026-04-26T18:27:06Z",
   "kaynak_tefas": true,
   "unvan": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nnf-hedef-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.45
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.55
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 10.38
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 9.7
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 5.1
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 4.99
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "INFO",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.65
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.64
+    },
+    {
+      "ticker": "VAKFN",
+      "ad": "",
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 4.37
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.82
+    },
+    {
+      "ticker": "GLRYH",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 3.44
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "RTALB",
+      "ad": "",
+      "agirlik": 1.54
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.43
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 11:39:14",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d532ebc34578c"
 }

@@ -2,22 +2,82 @@
   "fon_kodu": "RHI",
   "fon_unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 241,
-  "gun_kapsami": 349,
+  "kayit_sayisi": 260,
+  "gun_kapsami": 375,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1744588800000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744675200000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744761600000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744848000000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744934400000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745193600000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1745280000000",
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994834,
-      "TEDPAYSAYISI": 2000000.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 1989668.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +85,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996902,
-      "TEDPAYSAYISI": 2101448.0,
-      "KISISAYISI": 8.0,
-      "PORTFOYBUYUKLUK": 2094937.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +95,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014555,
-      "TEDPAYSAYISI": 2552945.0,
-      "KISISAYISI": 9.0,
-      "PORTFOYBUYUKLUK": 2590102.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +105,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007608,
-      "TEDPAYSAYISI": 2587670.0,
-      "KISISAYISI": 11.0,
-      "PORTFOYBUYUKLUK": 2607356.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +115,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998666,
-      "TEDPAYSAYISI": 2587560.0,
-      "KISISAYISI": 11.0,
-      "PORTFOYBUYUKLUK": 2584108.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +125,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990099,
-      "TEDPAYSAYISI": 2836687.0,
-      "KISISAYISI": 11.0,
-      "PORTFOYBUYUKLUK": 2808600.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +135,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980305,
-      "TEDPAYSAYISI": 2877087.0,
-      "KISISAYISI": 10.0,
-      "PORTFOYBUYUKLUK": 2820424.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +145,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989026,
-      "TEDPAYSAYISI": 3088568.0,
-      "KISISAYISI": 13.0,
-      "PORTFOYBUYUKLUK": 3054673.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +155,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984426,
-      "TEDPAYSAYISI": 2797937.0,
-      "KISISAYISI": 12.0,
-      "PORTFOYBUYUKLUK": 2754363.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +165,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985633,
-      "TEDPAYSAYISI": 3154642.0,
-      "KISISAYISI": 13.0,
-      "PORTFOYBUYUKLUK": 3109319.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +175,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976549,
-      "TEDPAYSAYISI": 3175033.0,
-      "KISISAYISI": 15.0,
-      "PORTFOYBUYUKLUK": 3100574.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +185,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993719,
-      "TEDPAYSAYISI": 3490269.0,
-      "KISISAYISI": 20.0,
-      "PORTFOYBUYUKLUK": 3468345.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +195,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001049,
-      "TEDPAYSAYISI": 3490600.0,
-      "KISISAYISI": 20.0,
-      "PORTFOYBUYUKLUK": 3494260.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +205,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033686,
-      "TEDPAYSAYISI": 3510850.0,
-      "KISISAYISI": 22.0,
-      "PORTFOYBUYUKLUK": 3629116.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +215,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034886,
-      "TEDPAYSAYISI": 3607533.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 3733385.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +225,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035998,
-      "TEDPAYSAYISI": 3608084.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 3737966.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +235,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021201,
-      "TEDPAYSAYISI": 3623390.0,
-      "KISISAYISI": 28.0,
-      "PORTFOYBUYUKLUK": 3700208.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +245,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031298,
-      "TEDPAYSAYISI": 3682240.0,
-      "KISISAYISI": 29.0,
-      "PORTFOYBUYUKLUK": 3797487.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +255,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02174,
-      "TEDPAYSAYISI": 3682618.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 3762677.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +265,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013816,
-      "TEDPAYSAYISI": 3585979.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 3635521.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +275,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022106,
-      "TEDPAYSAYISI": 3581243.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 3660411.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +285,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013607,
-      "TEDPAYSAYISI": 3581340.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 3630069.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +295,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013983,
-      "TEDPAYSAYISI": 3615410.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 3665964.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +305,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996984,
-      "TEDPAYSAYISI": 3615203.0,
-      "KISISAYISI": 32.0,
-      "PORTFOYBUYUKLUK": 3604299.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +315,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991519,
-      "TEDPAYSAYISI": 3742287.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 3710546.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +325,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99331,
-      "TEDPAYSAYISI": 3952420.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 3925979.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +335,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971978,
-      "TEDPAYSAYISI": 3598164.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 3497335.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +345,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973566,
-      "TEDPAYSAYISI": 3598370.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 3503249.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +355,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008855,
-      "TEDPAYSAYISI": 3598983.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 3630851.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +365,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024789,
-      "TEDPAYSAYISI": 3599078.0,
-      "KISISAYISI": 38.0,
-      "PORTFOYBUYUKLUK": 3688296.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +375,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024539,
-      "TEDPAYSAYISI": 3599078.0,
-      "KISISAYISI": 38.0,
-      "PORTFOYBUYUKLUK": 3687396.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +385,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047179,
-      "TEDPAYSAYISI": 3600151.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 3770003.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +395,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046056,
-      "TEDPAYSAYISI": 3791624.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 3966249.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +405,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027702,
-      "TEDPAYSAYISI": 3930463.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 4039346.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +415,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007216,
-      "TEDPAYSAYISI": 2971790.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 2993235.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +425,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011454,
-      "TEDPAYSAYISI": 2974325.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 3008394.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +435,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006901,
-      "TEDPAYSAYISI": 2974643.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 2995170.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +445,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996268,
-      "TEDPAYSAYISI": 2974742.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 2963639.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +455,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992649,
-      "TEDPAYSAYISI": 2875632.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 2854492.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +465,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994774,
-      "TEDPAYSAYISI": 2891811.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 2876698.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +475,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996552,
-      "TEDPAYSAYISI": 2891706.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 2881734.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +485,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028887,
-      "TEDPAYSAYISI": 2891906.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 2975445.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +495,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029148,
-      "TEDPAYSAYISI": 2901574.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 2986150.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +505,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02413,
-      "TEDPAYSAYISI": 2901719.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 2971738.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +515,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039346,
-      "TEDPAYSAYISI": 2901817.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 3015991.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +525,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093503,
-      "TEDPAYSAYISI": 2901912.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 3173250.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +535,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113144,
-      "TEDPAYSAYISI": 2903639.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 3232169.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +545,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1185,
-      "TEDPAYSAYISI": 3828464.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 4282138.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +555,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114106,
-      "TEDPAYSAYISI": 4670874.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 5203848.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +565,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117549,
-      "TEDPAYSAYISI": 4948472.0,
-      "KISISAYISI": 74.0,
-      "PORTFOYBUYUKLUK": 5530159.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +575,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10064,
-      "TEDPAYSAYISI": 4913744.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 5408263.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +585,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093854,
-      "TEDPAYSAYISI": 4464638.0,
-      "KISISAYISI": 78.0,
-      "PORTFOYBUYUKLUK": 4883662.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +595,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113907,
-      "TEDPAYSAYISI": 4413595.0,
-      "KISISAYISI": 76.0,
-      "PORTFOYBUYUKLUK": 4916334.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +605,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137937,
-      "TEDPAYSAYISI": 5515450.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 6276236.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +615,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140045,
-      "TEDPAYSAYISI": 5538661.0,
-      "KISISAYISI": 80.0,
-      "PORTFOYBUYUKLUK": 6314324.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +625,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116368,
-      "TEDPAYSAYISI": 5681447.0,
-      "KISISAYISI": 86.0,
-      "PORTFOYBUYUKLUK": 6342586.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +635,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096166,
-      "TEDPAYSAYISI": 6010411.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 6588407.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +645,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125271,
-      "TEDPAYSAYISI": 7229175.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 8134780.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +655,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127951,
-      "TEDPAYSAYISI": 7498869.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 8458353.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +665,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158555,
-      "TEDPAYSAYISI": 7578157.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 8779711.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +675,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155641,
-      "TEDPAYSAYISI": 9273415.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 10716737.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +685,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150264,
-      "TEDPAYSAYISI": 10652982.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 12253742.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +695,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160626,
-      "TEDPAYSAYISI": 10933927.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 12690200.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +705,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150124,
-      "TEDPAYSAYISI": 10424194.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 11989120.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +715,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136561,
-      "TEDPAYSAYISI": 12203687.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 13870233.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +725,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127462,
-      "TEDPAYSAYISI": 13200887.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 14883501.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +735,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140998,
-      "TEDPAYSAYISI": 13002816.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 14836190.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +745,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151659,
-      "TEDPAYSAYISI": 12967959.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 14934666.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +755,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156128,
-      "TEDPAYSAYISI": 12842871.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 14848000.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +765,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169912,
-      "TEDPAYSAYISI": 12951212.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 15151771.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +775,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169223,
-      "TEDPAYSAYISI": 13007460.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 15208621.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +785,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171393,
-      "TEDPAYSAYISI": 13747292.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 16103483.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +795,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178093,
-      "TEDPAYSAYISI": 15051365.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 17731907.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +805,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177065,
-      "TEDPAYSAYISI": 14568980.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 17148631.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +815,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186931,
-      "TEDPAYSAYISI": 14912578.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 17700197.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +825,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185853,
-      "TEDPAYSAYISI": 15200754.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 18025861.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +835,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19285,
-      "TEDPAYSAYISI": 14651491.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 17477037.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +845,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191031,
-      "TEDPAYSAYISI": 14673059.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 17476072.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +855,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201627,
-      "TEDPAYSAYISI": 14774117.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 17752983.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +865,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213993,
-      "TEDPAYSAYISI": 14795866.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 17962079.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +875,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217433,
-      "TEDPAYSAYISI": 14862330.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 18093892.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +885,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229249,
-      "TEDPAYSAYISI": 15077521.0,
-      "KISISAYISI": 190.0,
-      "PORTFOYBUYUKLUK": 18534020.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +895,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240556,
-      "TEDPAYSAYISI": 15267225.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 18939854.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +905,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.244954,
-      "TEDPAYSAYISI": 15968211.0,
-      "KISISAYISI": 226.0,
-      "PORTFOYBUYUKLUK": 19879684.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +915,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.252189,
-      "TEDPAYSAYISI": 16888304.0,
-      "KISISAYISI": 243.0,
-      "PORTFOYBUYUKLUK": 21147341.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +925,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251609,
-      "TEDPAYSAYISI": 17581116.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 22004682.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +935,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.227444,
-      "TEDPAYSAYISI": 19783833.0,
-      "KISISAYISI": 278.0,
-      "PORTFOYBUYUKLUK": 24283549.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +945,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.230378,
-      "TEDPAYSAYISI": 21019917.0,
-      "KISISAYISI": 282.0,
-      "PORTFOYBUYUKLUK": 25862440.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +955,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219215,
-      "TEDPAYSAYISI": 21152462.0,
-      "KISISAYISI": 290.0,
-      "PORTFOYBUYUKLUK": 25789389.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +965,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219497,
-      "TEDPAYSAYISI": 21051727.0,
-      "KISISAYISI": 292.0,
-      "PORTFOYBUYUKLUK": 25672508.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +975,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180921,
-      "TEDPAYSAYISI": 21217469.0,
-      "KISISAYISI": 294.0,
-      "PORTFOYBUYUKLUK": 25056161.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +985,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163249,
-      "TEDPAYSAYISI": 20834711.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 24235953.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +995,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177762,
-      "TEDPAYSAYISI": 20612185.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 24276245.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1005,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16522,
-      "TEDPAYSAYISI": 20337178.0,
-      "KISISAYISI": 282.0,
-      "PORTFOYBUYUKLUK": 23697278.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1015,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136418,
-      "TEDPAYSAYISI": 20005422.0,
-      "KISISAYISI": 282.0,
-      "PORTFOYBUYUKLUK": 22734523.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1025,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138449,
-      "TEDPAYSAYISI": 20905933.0,
-      "KISISAYISI": 283.0,
-      "PORTFOYBUYUKLUK": 23800345.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1035,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144933,
-      "TEDPAYSAYISI": 20412207.0,
-      "KISISAYISI": 276.0,
-      "PORTFOYBUYUKLUK": 23370604.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1045,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12574,
-      "TEDPAYSAYISI": 20326148.0,
-      "KISISAYISI": 271.0,
-      "PORTFOYBUYUKLUK": 22881960.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1055,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121032,
-      "TEDPAYSAYISI": 20343311.0,
-      "KISISAYISI": 266.0,
-      "PORTFOYBUYUKLUK": 22805511.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1065,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186725,
-      "TEDPAYSAYISI": 20260529.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 24043668.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1075,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205155,
-      "TEDPAYSAYISI": 20291578.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 24454503.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1085,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200933,
-      "TEDPAYSAYISI": 20298034.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 24376579.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1095,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189088,
-      "TEDPAYSAYISI": 20375729.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 24228531.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1105,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206691,
-      "TEDPAYSAYISI": 20356785.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 24564355.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1115,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226353,
-      "TEDPAYSAYISI": 20256917.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 24842140.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1125,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214907,
-      "TEDPAYSAYISI": 18858664.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 22911522.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1135,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212714,
-      "TEDPAYSAYISI": 18759092.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 22749416.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1145,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213303,
-      "TEDPAYSAYISI": 18555969.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 22514007.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1155,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.187431,
-      "TEDPAYSAYISI": 16997179.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 20182971.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1165,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169278,
-      "TEDPAYSAYISI": 15637724.0,
-      "KISISAYISI": 246.0,
-      "PORTFOYBUYUKLUK": 18284847.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1175,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171623,
-      "TEDPAYSAYISI": 15618990.0,
-      "KISISAYISI": 242.0,
-      "PORTFOYBUYUKLUK": 18299565.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1185,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188106,
-      "TEDPAYSAYISI": 15621841.0,
-      "KISISAYISI": 241.0,
-      "PORTFOYBUYUKLUK": 18560400.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1195,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.184708,
-      "TEDPAYSAYISI": 15624598.0,
-      "KISISAYISI": 240.0,
-      "PORTFOYBUYUKLUK": 18510589.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1205,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162142,
-      "TEDPAYSAYISI": 15680670.0,
-      "KISISAYISI": 241.0,
-      "PORTFOYBUYUKLUK": 18223162.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1215,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150226,
-      "TEDPAYSAYISI": 15577380.0,
-      "KISISAYISI": 241.0,
-      "PORTFOYBUYUKLUK": 17917500.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1225,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152996,
-      "TEDPAYSAYISI": 14378058.0,
-      "KISISAYISI": 239.0,
-      "PORTFOYBUYUKLUK": 16577841.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1235,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15217,
-      "TEDPAYSAYISI": 14105293.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 16251693.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1245,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148913,
-      "TEDPAYSAYISI": 14105293.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 16205755.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1255,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133937,
-      "TEDPAYSAYISI": 14182147.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 16081664.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1265,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116344,
-      "TEDPAYSAYISI": 14067628.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 15704317.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1275,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094174,
-      "TEDPAYSAYISI": 13963297.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 15278279.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1285,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115212,
-      "TEDPAYSAYISI": 12419342.0,
-      "KISISAYISI": 225.0,
-      "PORTFOYBUYUKLUK": 13850196.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1295,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105661,
-      "TEDPAYSAYISI": 12500450.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 13821262.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1305,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090208,
-      "TEDPAYSAYISI": 12505124.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 13633184.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1315,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104515,
-      "TEDPAYSAYISI": 12524168.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 13833133.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1325,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100602,
-      "TEDPAYSAYISI": 12514391.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 13773365.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1335,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099174,
-      "TEDPAYSAYISI": 12542020.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 13785860.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1345,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098735,
-      "TEDPAYSAYISI": 12542927.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 13781351.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1355,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.139883,
-      "TEDPAYSAYISI": 12543473.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 14298086.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1365,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131305,
-      "TEDPAYSAYISI": 12529368.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 14174533.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1375,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120143,
-      "TEDPAYSAYISI": 12529206.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 14034499.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1385,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128028,
-      "TEDPAYSAYISI": 12530098.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 14134307.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1395,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133484,
-      "TEDPAYSAYISI": 12500567.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 14169189.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1405,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.154524,
-      "TEDPAYSAYISI": 12501889.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 14433724.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1415,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140352,
-      "TEDPAYSAYISI": 12368457.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 14104390.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1425,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141686,
-      "TEDPAYSAYISI": 12171649.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 13896195.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1435,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149731,
-      "TEDPAYSAYISI": 12271062.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 14108418.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1445,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133117,
-      "TEDPAYSAYISI": 12404816.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 14056105.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1455,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108438,
-      "TEDPAYSAYISI": 12492788.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 13847486.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1465,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080176,
-      "TEDPAYSAYISI": 12503955.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 13506477.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1475,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084742,
-      "TEDPAYSAYISI": 12414930.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 13466997.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1485,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085754,
-      "TEDPAYSAYISI": 11287762.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 12255730.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1495,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082576,
-      "TEDPAYSAYISI": 11312810.0,
-      "KISISAYISI": 206.0,
-      "PORTFOYBUYUKLUK": 12246975.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1505,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099403,
-      "TEDPAYSAYISI": 11312465.0,
-      "KISISAYISI": 204.0,
-      "PORTFOYBUYUKLUK": 12436959.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1515,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097585,
-      "TEDPAYSAYISI": 11224271.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 12319595.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1525,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119408,
-      "TEDPAYSAYISI": 11223467.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 12563642.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1535,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127133,
-      "TEDPAYSAYISI": 11219409.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 12645771.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1545,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121058,
-      "TEDPAYSAYISI": 11248820.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 12610581.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1555,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118931,
-      "TEDPAYSAYISI": 11149798.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 12475849.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1565,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121916,
-      "TEDPAYSAYISI": 11049891.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 12397054.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1575,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128012,
-      "TEDPAYSAYISI": 10174753.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 11477243.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1585,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134896,
-      "TEDPAYSAYISI": 10242680.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 11624376.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1595,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137292,
-      "TEDPAYSAYISI": 10320130.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 11736997.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1605,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.164746,
-      "TEDPAYSAYISI": 10274187.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 11966820.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1615,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171304,
-      "TEDPAYSAYISI": 9916431.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 11615155.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1625,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167566,
-      "TEDPAYSAYISI": 9871225.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 11525304.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1635,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153209,
-      "TEDPAYSAYISI": 9872464.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 11385016.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1645,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162972,
-      "TEDPAYSAYISI": 11761274.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 13678031.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1655,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177839,
-      "TEDPAYSAYISI": 11796807.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 13894737.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1665,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180949,
-      "TEDPAYSAYISI": 12025671.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 14201700.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1675,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171887,
-      "TEDPAYSAYISI": 12187665.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 14282560.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1685,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177257,
-      "TEDPAYSAYISI": 12766484.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 15029437.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1695,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195314,
-      "TEDPAYSAYISI": 12818173.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 15321746.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1705,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205973,
-      "TEDPAYSAYISI": 12755021.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 15382210.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1715,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197215,
-      "TEDPAYSAYISI": 12961820.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 15518090.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1725,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.193528,
-      "TEDPAYSAYISI": 13010113.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 15527934.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1735,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198078,
-      "TEDPAYSAYISI": 13032893.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 15614425.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1745,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19771,
-      "TEDPAYSAYISI": 12998325.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 15568229.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1755,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188579,
-      "TEDPAYSAYISI": 13347680.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 15864777.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1765,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17974,
-      "TEDPAYSAYISI": 13437977.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 15853312.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1775,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17853,
-      "TEDPAYSAYISI": 13004153.0,
-      "KISISAYISI": 236.0,
-      "PORTFOYBUYUKLUK": 15325789.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1785,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177928,
-      "TEDPAYSAYISI": 12954630.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 15259618.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1795,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174765,
-      "TEDPAYSAYISI": 12895340.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 15148987.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1805,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16603,
-      "TEDPAYSAYISI": 13021795.0,
-      "KISISAYISI": 227.0,
-      "PORTFOYBUYUKLUK": 15183808.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1815,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160651,
-      "TEDPAYSAYISI": 14663324.0,
-      "KISISAYISI": 230.0,
-      "PORTFOYBUYUKLUK": 17019004.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1825,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167616,
-      "TEDPAYSAYISI": 16549701.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 19323696.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1835,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192218,
-      "TEDPAYSAYISI": 17202562.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 20509197.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1845,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.215089,
-      "TEDPAYSAYISI": 17408853.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 21153313.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1855,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255647,
-      "TEDPAYSAYISI": 17473616.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 21940693.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1865,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260124,
-      "TEDPAYSAYISI": 29243094.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 36849914.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1875,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272956,
-      "TEDPAYSAYISI": 43282858.0,
-      "KISISAYISI": 243.0,
-      "PORTFOYBUYUKLUK": 55097187.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1885,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282026,
-      "TEDPAYSAYISI": 43560462.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 55845652.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1895,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295857,
-      "TEDPAYSAYISI": 51752163.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 67063381.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1905,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311283,
-      "TEDPAYSAYISI": 51512814.0,
-      "KISISAYISI": 293.0,
-      "PORTFOYBUYUKLUK": 67547875.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1915,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311777,
-      "TEDPAYSAYISI": 50658204.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 66452243.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1925,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.326863,
-      "TEDPAYSAYISI": 71159193.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 94418499.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1935,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.348944,
-      "TEDPAYSAYISI": 71694917.0,
-      "KISISAYISI": 331.0,
-      "PORTFOYBUYUKLUK": 96712414.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1945,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365376,
-      "TEDPAYSAYISI": 72068884.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 98401152.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +1955,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357784,
-      "TEDPAYSAYISI": 93171386.0,
-      "KISISAYISI": 352.0,
-      "PORTFOYBUYUKLUK": 126506663.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +1965,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.354669,
-      "TEDPAYSAYISI": 77062170.0,
-      "KISISAYISI": 366.0,
-      "PORTFOYBUYUKLUK": 104393762.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +1975,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.361771,
-      "TEDPAYSAYISI": 79483883.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 108238851.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +1985,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.391228,
-      "TEDPAYSAYISI": 79869667.0,
-      "KISISAYISI": 377.0,
-      "PORTFOYBUYUKLUK": 111116890.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +1995,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.407121,
-      "TEDPAYSAYISI": 86325005.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 121469715.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2005,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.39871,
-      "TEDPAYSAYISI": 85133365.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 119076884.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2015,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.419202,
-      "TEDPAYSAYISI": 100531935.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 142675106.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2025,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.466764,
-      "TEDPAYSAYISI": 101559403.0,
-      "KISISAYISI": 429.0,
-      "PORTFOYBUYUKLUK": 148963722.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2035,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.468772,
-      "TEDPAYSAYISI": 104740733.0,
-      "KISISAYISI": 450.0,
-      "PORTFOYBUYUKLUK": 153840245.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2045,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.446239,
-      "TEDPAYSAYISI": 105738268.0,
-      "KISISAYISI": 469.0,
-      "PORTFOYBUYUKLUK": 152922786.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2055,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.469614,
-      "TEDPAYSAYISI": 53345534.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 78397355.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2065,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.465928,
-      "TEDPAYSAYISI": 79610422.0,
-      "KISISAYISI": 507.0,
-      "PORTFOYBUYUKLUK": 116703112.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2075,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.435801,
-      "TEDPAYSAYISI": 83571938.0,
-      "KISISAYISI": 543.0,
-      "PORTFOYBUYUKLUK": 119992633.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2085,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.4283,
-      "TEDPAYSAYISI": 81634406.0,
-      "KISISAYISI": 553.0,
-      "PORTFOYBUYUKLUK": 116598407.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2095,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.462388,
-      "TEDPAYSAYISI": 74565598.0,
-      "KISISAYISI": 557.0,
-      "PORTFOYBUYUKLUK": 109043844.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2105,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.461167,
-      "TEDPAYSAYISI": 72788682.0,
-      "KISISAYISI": 551.0,
-      "PORTFOYBUYUKLUK": 106356401.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2115,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.468515,
-      "TEDPAYSAYISI": 72579357.0,
-      "KISISAYISI": 558.0,
-      "PORTFOYBUYUKLUK": 106583904.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2125,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.526285,
-      "TEDPAYSAYISI": 71967464.0,
-      "KISISAYISI": 557.0,
-      "PORTFOYBUYUKLUK": 109842867.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2135,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.529821,
-      "TEDPAYSAYISI": 71413042.0,
-      "KISISAYISI": 558.0,
-      "PORTFOYBUYUKLUK": 109249168.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2145,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.537078,
-      "TEDPAYSAYISI": 72051163.0,
-      "KISISAYISI": 565.0,
-      "PORTFOYBUYUKLUK": 110748230.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2155,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.524236,
-      "TEDPAYSAYISI": 76001764.0,
-      "KISISAYISI": 647.0,
-      "PORTFOYBUYUKLUK": 115844642.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2165,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.523091,
-      "TEDPAYSAYISI": 76516631.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 116541814.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2175,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.482531,
-      "TEDPAYSAYISI": 104030542.0,
-      "KISISAYISI": 693.0,
-      "PORTFOYBUYUKLUK": 154228454.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2185,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.496069,
-      "TEDPAYSAYISI": 100560199.0,
-      "KISISAYISI": 703.0,
-      "PORTFOYBUYUKLUK": 150445041.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2195,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.521112,
-      "TEDPAYSAYISI": 99457724.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 151286290.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2205,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.520521,
-      "TEDPAYSAYISI": 100156855.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 152290583.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2215,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.496876,
-      "TEDPAYSAYISI": 100329920.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 150181423.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2225,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.50184,
-      "TEDPAYSAYISI": 100224980.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 150521858.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2235,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.475934,
-      "TEDPAYSAYISI": 99892133.0,
-      "KISISAYISI": 704.0,
-      "PORTFOYBUYUKLUK": 147434222.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2245,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.432848,
-      "TEDPAYSAYISI": 99665205.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 142805066.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2255,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390906,
-      "TEDPAYSAYISI": 95527461.0,
-      "KISISAYISI": 708.0,
-      "PORTFOYBUYUKLUK": 132869695.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2265,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.3817,
-      "TEDPAYSAYISI": 90570712.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 125141536.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2275,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395267,
-      "TEDPAYSAYISI": 89347186.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 124663166.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2285,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.373785,
-      "TEDPAYSAYISI": 88988479.0,
-      "KISISAYISI": 660.0,
-      "PORTFOYBUYUKLUK": 122251037.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2295,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369979,
-      "TEDPAYSAYISI": 89192023.0,
-      "KISISAYISI": 656.0,
-      "PORTFOYBUYUKLUK": 122191235.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2305,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.410841,
-      "TEDPAYSAYISI": 88126965.0,
-      "KISISAYISI": 651.0,
-      "PORTFOYBUYUKLUK": 124333134.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2315,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.408898,
-      "TEDPAYSAYISI": 86837442.0,
-      "KISISAYISI": 635.0,
-      "PORTFOYBUYUKLUK": 122345101.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2325,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.429946,
-      "TEDPAYSAYISI": 85987854.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 122957986.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2335,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.428003,
-      "TEDPAYSAYISI": 86024202.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 122842849.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2345,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.41714,
-      "TEDPAYSAYISI": 86120233.0,
-      "KISISAYISI": 618.0,
-      "PORTFOYBUYUKLUK": 122044463.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2355,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.438669,
-      "TEDPAYSAYISI": 85913930.0,
-      "KISISAYISI": 621.0,
-      "PORTFOYBUYUKLUK": 123601734.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2365,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.42488,
-      "TEDPAYSAYISI": 85870735.0,
-      "KISISAYISI": 614.0,
-      "PORTFOYBUYUKLUK": 122355519.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2375,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.43222,
-      "TEDPAYSAYISI": 85564848.0,
-      "KISISAYISI": 614.0,
-      "PORTFOYBUYUKLUK": 122547657.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2385,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.438052,
-      "TEDPAYSAYISI": 85533509.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 123001644.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2395,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.421918,
-      "TEDPAYSAYISI": 81600903.0,
-      "KISISAYISI": 606.0,
-      "PORTFOYBUYUKLUK": 116029793.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2405,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.435345,
-      "TEDPAYSAYISI": 81505512.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 116988537.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2415,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.413225,
-      "TEDPAYSAYISI": 81140214.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 114669367.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2425,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.413345,
-      "TEDPAYSAYISI": 78146042.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 110447331.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2435,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.413044,
-      "TEDPAYSAYISI": 77977633.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 110185806.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2445,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.426102,
-      "TEDPAYSAYISI": 77608433.0,
-      "KISISAYISI": 565.0,
-      "PORTFOYBUYUKLUK": 110677562.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2455,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44354,
-      "TEDPAYSAYISI": 77355533.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 111665793.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2465,9 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.452096,
-      "TEDPAYSAYISI": 77397884.0,
-      "KISISAYISI": 551.0,
-      "PORTFOYBUYUKLUK": 112389168.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2475,139 @@
       "FONKODU": "RHI",
       "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.441607,
-      "TEDPAYSAYISI": 77403472.0,
-      "KISISAYISI": 553.0,
-      "PORTFOYBUYUKLUK": 111585423.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.460747,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.437842,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.499482,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.516006,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.561169,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.553167,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.571234,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.574134,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.559024,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.606491,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.594816,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.582184,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "RHI",
+      "FONUNVAN": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.567685,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

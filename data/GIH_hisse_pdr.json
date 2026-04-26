@@ -1,21 +1,189 @@
 {
   "kod": "GIH",
-  "guncelleme": "2026-04-08T18:21:39Z",
+  "guncelleme": "2026-04-26T18:22:22Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gih-allbatross-portfoy-gida-ve-icecek-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 89.28
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 10.72
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 6.02
+    },
+    {
+      "ticker": "GUNDG",
+      "ad": "",
+      "agirlik": 4.35
+    },
+    {
+      "ticker": "PINSU",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "PENGD",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "PNSUT",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "MERKO",
+      "ad": "",
+      "agirlik": 3.51
+    },
+    {
+      "ticker": "ERSU",
+      "ad": "",
+      "agirlik": 3.44
+    },
+    {
+      "ticker": "SELVA",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "ALKLC",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "SOKE",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "VANGD",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "PETUN",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "ARMGD",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "ELITE",
+      "ad": "",
+      "agirlik": 2.68
+    },
+    {
+      "ticker": "EKSUN",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "ULUUN",
+      "ad": "",
+      "agirlik": 2.63
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "FADE",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "ATAKP",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "FRIGO",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "KAYSE",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 1.97
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "BANVT",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "DURKN",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "OBAMS",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "AVOD",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "BORSK",
+      "ad": "",
+      "agirlik": 1.24
+    },
+    {
+      "ticker": "EFOR",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "CEMZY",
+      "ad": "",
+      "agirlik": 0.93
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 11:21:05",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e625b4d2870"
 }

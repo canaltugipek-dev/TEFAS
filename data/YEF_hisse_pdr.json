@@ -1,30 +1,174 @@
 {
   "kod": "YEF",
-  "guncelleme": "2026-04-08T18:28:44Z",
+  "guncelleme": "2026-04-26T15:48:55Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yef-yapi-kredi-portfoy-bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.77
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.06
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 3.48
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 1.69
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 12.07
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.99
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 7.1
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.78
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 6.51
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 5.18
+    },
+    {
+      "ticker": "DSTKF",
+      "ad": "",
+      "agirlik": 5.06
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.46
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.4
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 1.26
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 0.76
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 0.56
+    },
+    {
+      "ticker": "BOBET",
+      "ad": "",
+      "agirlik": 0.03
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "31 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 13:37:42",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c3fd21a3491"
 }

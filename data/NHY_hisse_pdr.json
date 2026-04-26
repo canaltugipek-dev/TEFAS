@@ -1,25 +1,204 @@
 {
   "kod": "NHY",
-  "guncelleme": "2026-04-08T18:25:45Z",
+  "guncelleme": "2026-04-26T18:26:56Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nhy-neo-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 106.88
-    },
-    {
-      "tip": "Borsa İstanbul Para Piyasası",
-      "oran": -6.99
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.11
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 10.36
+    },
+    {
+      "ticker": "IZMDC",
+      "ad": "",
+      "agirlik": 9.77
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 7.95
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 7.06
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 4.91
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.89
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 4.88
+    },
+    {
+      "ticker": "VAKFN",
+      "ad": "",
+      "agirlik": 4.79
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "ULUUN",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "INFO",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 2.48
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "GOLTS",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "KRTEK",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 1.72
+    },
+    {
+      "ticker": "BUCIM",
+      "ad": "",
+      "agirlik": 1.53
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.46
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.31
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "SNICA",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "EGSER",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 0.7
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "BANVT",
+      "ad": "",
+      "agirlik": 0.57
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 0.57
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 0.53
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "37 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 23:09:06",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d678cbebc1ba0"
 }

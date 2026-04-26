@@ -2,22 +2,242 @@
   "fon_kodu": "KHJ",
   "fon_unvan": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 430,
-  "gun_kapsami": 621,
+  "kayit_sayisi": 465,
+  "gun_kapsami": 672,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1718928000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719187200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719273600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719360000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719446400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719532800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719792000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719878400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1719964800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720051200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720137600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720396800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720483200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720569600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720656000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720742400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721088000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721174400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721260800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721347200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721606400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721692800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1721779200000",
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +245,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997139,
-      "TEDPAYSAYISI": 1000000.0,
-      "KISISAYISI": 11.0,
-      "PORTFOYBUYUKLUK": 997138.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +255,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990892,
-      "TEDPAYSAYISI": 1021624.0,
-      "KISISAYISI": 24.0,
-      "PORTFOYBUYUKLUK": 1012318.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +265,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990511,
-      "TEDPAYSAYISI": 1094375.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 1083990.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +275,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977185,
-      "TEDPAYSAYISI": 1151305.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 1125037.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +285,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977712,
-      "TEDPAYSAYISI": 1156965.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 1131178.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +295,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966175,
-      "TEDPAYSAYISI": 1169184.0,
-      "KISISAYISI": 73.0,
-      "PORTFOYBUYUKLUK": 1129636.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +305,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974439,
-      "TEDPAYSAYISI": 1179163.0,
-      "KISISAYISI": 76.0,
-      "PORTFOYBUYUKLUK": 1149022.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +315,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955635,
-      "TEDPAYSAYISI": 1179566.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 1127234.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +325,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903201,
-      "TEDPAYSAYISI": 1172837.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 1059307.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +335,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909296,
-      "TEDPAYSAYISI": 1171757.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 1065474.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +345,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917297,
-      "TEDPAYSAYISI": 1186863.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 1088705.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +355,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922803,
-      "TEDPAYSAYISI": 1189394.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 1097576.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +365,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910948,
-      "TEDPAYSAYISI": 1190956.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 1084899.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +375,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.898935,
-      "TEDPAYSAYISI": 1228981.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 1104774.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +385,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904199,
-      "TEDPAYSAYISI": 1253987.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 1133853.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +395,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904841,
-      "TEDPAYSAYISI": 1254676.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 1135282.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +405,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916384,
-      "TEDPAYSAYISI": 1252307.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 1147593.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +415,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90395,
-      "TEDPAYSAYISI": 1254221.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 1133753.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +425,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911664,
-      "TEDPAYSAYISI": 1249437.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 1139067.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +435,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903589,
-      "TEDPAYSAYISI": 1255883.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 1134802.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +445,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899552,
-      "TEDPAYSAYISI": 1255748.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 1129610.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +455,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90038,
-      "TEDPAYSAYISI": 1255965.0,
-      "KISISAYISI": 100.0,
-      "PORTFOYBUYUKLUK": 1130846.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +465,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876453,
-      "TEDPAYSAYISI": 1257994.0,
-      "KISISAYISI": 100.0,
-      "PORTFOYBUYUKLUK": 1102572.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +475,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.857244,
-      "TEDPAYSAYISI": 1258241.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 1078619.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +485,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874727,
-      "TEDPAYSAYISI": 1259418.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 1101647.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +495,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876792,
-      "TEDPAYSAYISI": 1546921.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 1356328.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +505,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.878174,
-      "TEDPAYSAYISI": 1547977.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 1359393.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +515,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.897902,
-      "TEDPAYSAYISI": 1548136.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 1390075.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +525,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.893458,
-      "TEDPAYSAYISI": 1549854.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 1384729.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +535,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883159,
-      "TEDPAYSAYISI": 1550805.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 1369607.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +545,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87866,
-      "TEDPAYSAYISI": 1553236.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 1364766.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +555,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868296,
-      "TEDPAYSAYISI": 1621562.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 1407996.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +565,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865374,
-      "TEDPAYSAYISI": 1615341.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 1397873.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +575,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855576,
-      "TEDPAYSAYISI": 1621266.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 1387116.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +585,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.836783,
-      "TEDPAYSAYISI": 1621456.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 1356806.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +595,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.837563,
-      "TEDPAYSAYISI": 1622008.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 1358534.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +605,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.854176,
-      "TEDPAYSAYISI": 1622838.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 1386189.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +615,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850129,
-      "TEDPAYSAYISI": 1623395.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 1380094.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +625,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.86137,
-      "TEDPAYSAYISI": 1625525.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 1400178.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +635,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.856337,
-      "TEDPAYSAYISI": 1627855.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 1393992.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +645,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.872327,
-      "TEDPAYSAYISI": 1631233.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 1422967.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +655,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867965,
-      "TEDPAYSAYISI": 1637096.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 1420942.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +665,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.862377,
-      "TEDPAYSAYISI": 1638366.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 1412889.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +675,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867677,
-      "TEDPAYSAYISI": 1636933.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 1420329.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +685,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.851096,
-      "TEDPAYSAYISI": 1620697.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 1379368.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +695,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852687,
-      "TEDPAYSAYISI": 1627052.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 1387365.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +705,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.836491,
-      "TEDPAYSAYISI": 1630356.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 1363777.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +715,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.837687,
-      "TEDPAYSAYISI": 1631092.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 1366343.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +725,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.809881,
-      "TEDPAYSAYISI": 1643884.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 1331350.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +735,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.789834,
-      "TEDPAYSAYISI": 1644693.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 1299033.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +745,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.790381,
-      "TEDPAYSAYISI": 1646704.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 1301522.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +755,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.797109,
-      "TEDPAYSAYISI": 1647050.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 1312879.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +765,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.802194,
-      "TEDPAYSAYISI": 1649918.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 1323554.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +775,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.802641,
-      "TEDPAYSAYISI": 1655773.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 1328991.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +785,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.79807,
-      "TEDPAYSAYISI": 1656432.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 1321948.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +795,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.785616,
-      "TEDPAYSAYISI": 1657155.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 1301888.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +805,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.775872,
-      "TEDPAYSAYISI": 1657774.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 1286220.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +815,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.75615,
-      "TEDPAYSAYISI": 1657840.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 1253575.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +825,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.764935,
-      "TEDPAYSAYISI": 1648385.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 1260907.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +835,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.771932,
-      "TEDPAYSAYISI": 1650806.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 1274310.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +845,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.776865,
-      "TEDPAYSAYISI": 1651649.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 1283107.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +855,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.760151,
-      "TEDPAYSAYISI": 1652570.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 1256203.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +865,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.751801,
-      "TEDPAYSAYISI": 1653688.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 1243244.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +875,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.760842,
-      "TEDPAYSAYISI": 1661066.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 1263808.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +885,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.744056,
-      "TEDPAYSAYISI": 1634114.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 1215872.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +895,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.756567,
-      "TEDPAYSAYISI": 1634294.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 1236452.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +905,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.759119,
-      "TEDPAYSAYISI": 1634916.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 1241096.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +915,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.762406,
-      "TEDPAYSAYISI": 1636318.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 1247538.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +925,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.772291,
-      "TEDPAYSAYISI": 1768779.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 1366011.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +935,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.76535,
-      "TEDPAYSAYISI": 1769265.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 1354107.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +945,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.763701,
-      "TEDPAYSAYISI": 1790641.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 1367513.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +955,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.747397,
-      "TEDPAYSAYISI": 1790661.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 1338333.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +965,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.741736,
-      "TEDPAYSAYISI": 1817837.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 1348355.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +975,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.758125,
-      "TEDPAYSAYISI": 1818117.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 1378359.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +985,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.762251,
-      "TEDPAYSAYISI": 1818301.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 1386002.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +995,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.777776,
-      "TEDPAYSAYISI": 1687299.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 1312340.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +1005,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.789271,
-      "TEDPAYSAYISI": 1691312.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 1334903.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +1015,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.784186,
-      "TEDPAYSAYISI": 1691616.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 1326541.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1025,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.78555,
-      "TEDPAYSAYISI": 1754868.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 1378536.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1035,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.793645,
-      "TEDPAYSAYISI": 1761513.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 1398015.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1045,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.791101,
-      "TEDPAYSAYISI": 1761994.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 1393915.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1055,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.788842,
-      "TEDPAYSAYISI": 1764313.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 1391764.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1065,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.779715,
-      "TEDPAYSAYISI": 1770983.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 1380862.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1075,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.760146,
-      "TEDPAYSAYISI": 1772495.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 1347354.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1085,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.779435,
-      "TEDPAYSAYISI": 1773692.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 1382477.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1095,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.793307,
-      "TEDPAYSAYISI": 1775145.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 1408235.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1105,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.80858,
-      "TEDPAYSAYISI": 1777324.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 1437108.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1115,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.813052,
-      "TEDPAYSAYISI": 1780252.0,
-      "KISISAYISI": 135.0,
-      "PORTFOYBUYUKLUK": 1447437.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1125,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.812932,
-      "TEDPAYSAYISI": 1792515.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 1457193.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1135,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.814641,
-      "TEDPAYSAYISI": 2003740.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 1632329.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1145,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.820509,
-      "TEDPAYSAYISI": 2006207.0,
-      "KISISAYISI": 135.0,
-      "PORTFOYBUYUKLUK": 1646111.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1155,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.822975,
-      "TEDPAYSAYISI": 2012321.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 1656088.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1165,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.825733,
-      "TEDPAYSAYISI": 2016677.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 1665236.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1175,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830728,
-      "TEDPAYSAYISI": 2037332.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 1692468.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1185,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.841922,
-      "TEDPAYSAYISI": 2054069.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 1729366.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1195,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850252,
-      "TEDPAYSAYISI": 2055135.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 1747383.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1205,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.872949,
-      "TEDPAYSAYISI": 2046575.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 1786556.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1215,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858959,
-      "TEDPAYSAYISI": 2073596.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 1781133.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1225,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852655,
-      "TEDPAYSAYISI": 2096698.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 1787759.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1235,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850182,
-      "TEDPAYSAYISI": 2316761.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 1969668.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1245,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852286,
-      "TEDPAYSAYISI": 2532727.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 2158607.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1255,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.840201,
-      "TEDPAYSAYISI": 2458978.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 2066035.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1265,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.84407,
-      "TEDPAYSAYISI": 2942836.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 2483960.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1275,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.831412,
-      "TEDPAYSAYISI": 2935169.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 2440335.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1285,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.821268,
-      "TEDPAYSAYISI": 2802819.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 2301864.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1295,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.819004,
-      "TEDPAYSAYISI": 2806445.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 2298489.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1305,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.812636,
-      "TEDPAYSAYISI": 2829996.0,
-      "KISISAYISI": 178.0,
-      "PORTFOYBUYUKLUK": 2299755.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1315,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.815359,
-      "TEDPAYSAYISI": 2844970.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 2319672.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1325,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.820532,
-      "TEDPAYSAYISI": 2853757.0,
-      "KISISAYISI": 178.0,
-      "PORTFOYBUYUKLUK": 2341597.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1335,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.824068,
-      "TEDPAYSAYISI": 2938396.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 2421438.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1345,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.831396,
-      "TEDPAYSAYISI": 2917101.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 2425265.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1355,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.833338,
-      "TEDPAYSAYISI": 3012699.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 2510595.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1365,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842191,
-      "TEDPAYSAYISI": 3005773.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 2531433.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1375,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853124,
-      "TEDPAYSAYISI": 3064897.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 2614737.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1385,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855834,
-      "TEDPAYSAYISI": 3070402.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 2627753.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1395,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855461,
-      "TEDPAYSAYISI": 3192342.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 2730923.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1405,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853498,
-      "TEDPAYSAYISI": 3190018.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 2722674.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1415,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.845977,
-      "TEDPAYSAYISI": 3338017.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 2823884.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1425,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852399,
-      "TEDPAYSAYISI": 3328747.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 2837419.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1435,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852594,
-      "TEDPAYSAYISI": 3328994.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 2838280.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1445,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.84163,
-      "TEDPAYSAYISI": 3403373.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 2864382.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1455,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.834522,
-      "TEDPAYSAYISI": 3348624.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 2794499.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1465,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.840604,
-      "TEDPAYSAYISI": 3199984.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 2689919.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1475,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.847966,
-      "TEDPAYSAYISI": 3200173.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 2713638.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1485,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852511,
-      "TEDPAYSAYISI": 3200258.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 2728253.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1495,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853842,
-      "TEDPAYSAYISI": 3198143.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 2730709.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1505,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.846655,
-      "TEDPAYSAYISI": 3160948.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 2676230.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1515,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858312,
-      "TEDPAYSAYISI": 2774067.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 2381014.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1525,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865098,
-      "TEDPAYSAYISI": 2774890.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 2400551.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1535,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.870047,
-      "TEDPAYSAYISI": 2896185.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 2519818.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1545,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858173,
-      "TEDPAYSAYISI": 2949904.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 2531527.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1555,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.863041,
-      "TEDPAYSAYISI": 3384857.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 2921269.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1565,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859567,
-      "TEDPAYSAYISI": 3663163.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3148733.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1575,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858869,
-      "TEDPAYSAYISI": 4629393.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3976040.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1585,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.861444,
-      "TEDPAYSAYISI": 4583958.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3948824.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1595,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.848654,
-      "TEDPAYSAYISI": 4594309.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 3898976.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1605,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85398,
-      "TEDPAYSAYISI": 4598131.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3926711.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1615,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842526,
-      "TEDPAYSAYISI": 4561412.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3843107.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1625,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.8481,
-      "TEDPAYSAYISI": 4571786.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3877330.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1635,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858093,
-      "TEDPAYSAYISI": 3868282.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3319344.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1645,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.851203,
-      "TEDPAYSAYISI": 3870130.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3294264.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1655,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850354,
-      "TEDPAYSAYISI": 4040520.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3435874.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1665,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.838444,
-      "TEDPAYSAYISI": 4040784.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3387972.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1675,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.841938,
-      "TEDPAYSAYISI": 4205176.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3540498.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1685,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.840646,
-      "TEDPAYSAYISI": 5387495.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 4528974.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1695,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.832181,
-      "TEDPAYSAYISI": 5298495.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 4409309.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1705,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.838574,
-      "TEDPAYSAYISI": 4078288.0,
-      "KISISAYISI": 223.0,
-      "PORTFOYBUYUKLUK": 3419947.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1715,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.823722,
-      "TEDPAYSAYISI": 4258039.0,
-      "KISISAYISI": 223.0,
-      "PORTFOYBUYUKLUK": 3507442.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1725,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.827751,
-      "TEDPAYSAYISI": 4192200.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 3470096.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1735,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.815127,
-      "TEDPAYSAYISI": 3970285.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 3236288.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1745,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.82334,
-      "TEDPAYSAYISI": 3971240.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3269680.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1755,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.80214,
-      "TEDPAYSAYISI": 3954235.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 3171850.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1765,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.808234,
-      "TEDPAYSAYISI": 3944636.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 3188188.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1775,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.822841,
-      "TEDPAYSAYISI": 3950983.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3251029.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1785,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.821181,
-      "TEDPAYSAYISI": 3941231.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 3236463.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1795,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.831974,
-      "TEDPAYSAYISI": 3947156.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 3283931.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1805,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.824962,
-      "TEDPAYSAYISI": 3920511.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3234273.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1815,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842123,
-      "TEDPAYSAYISI": 3932749.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3311858.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1825,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.862978,
-      "TEDPAYSAYISI": 3285162.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 2835022.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1835,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874493,
-      "TEDPAYSAYISI": 3285324.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 2872991.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1845,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874098,
-      "TEDPAYSAYISI": 3285907.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 2872204.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1855,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874883,
-      "TEDPAYSAYISI": 3319131.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 2903850.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1865,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879475,
-      "TEDPAYSAYISI": 3303272.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 2905143.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1875,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891706,
-      "TEDPAYSAYISI": 3365026.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3000615.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1885,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899751,
-      "TEDPAYSAYISI": 3335294.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3000933.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1895,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.905889,
-      "TEDPAYSAYISI": 3334148.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3020368.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1905,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906968,
-      "TEDPAYSAYISI": 3366007.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3052860.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1915,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.832979,
-      "TEDPAYSAYISI": 3416257.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 2845668.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1925,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842346,
-      "TEDPAYSAYISI": 3083791.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 2597618.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1935,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.791744,
-      "TEDPAYSAYISI": 3084401.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 2442056.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1945,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.808522,
-      "TEDPAYSAYISI": 3095336.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 2502646.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1955,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.834274,
-      "TEDPAYSAYISI": 3094096.0,
-      "KISISAYISI": 207.0,
-      "PORTFOYBUYUKLUK": 2581322.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1965,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.82839,
-      "TEDPAYSAYISI": 3096408.0,
-      "KISISAYISI": 207.0,
-      "PORTFOYBUYUKLUK": 2565033.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1975,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.828113,
-      "TEDPAYSAYISI": 3097516.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 2565091.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1985,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855998,
-      "TEDPAYSAYISI": 3168160.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 2711938.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1995,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.862815,
-      "TEDPAYSAYISI": 3175444.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 2739821.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +2005,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864392,
-      "TEDPAYSAYISI": 3299058.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 2851678.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +2015,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.848679,
-      "TEDPAYSAYISI": 3631692.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3082140.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2025,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.856195,
-      "TEDPAYSAYISI": 3512558.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 3007434.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2035,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867232,
-      "TEDPAYSAYISI": 3480566.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3018457.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2045,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850039,
-      "TEDPAYSAYISI": 3191173.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 2712622.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2055,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865707,
-      "TEDPAYSAYISI": 3163665.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 2738807.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2065,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865672,
-      "TEDPAYSAYISI": 3469857.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3003756.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2075,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864841,
-      "TEDPAYSAYISI": 3405681.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 2945372.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2085,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.86724,
-      "TEDPAYSAYISI": 3409753.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 2957074.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2095,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.851682,
-      "TEDPAYSAYISI": 3253155.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 2770654.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2105,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864489,
-      "TEDPAYSAYISI": 3675565.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3177484.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2115,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.861163,
-      "TEDPAYSAYISI": 3681500.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3170372.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2125,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864809,
-      "TEDPAYSAYISI": 3687562.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 3189036.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2135,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.861235,
-      "TEDPAYSAYISI": 3679797.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 3169171.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2145,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87071,
-      "TEDPAYSAYISI": 3669903.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 3195420.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2155,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.870803,
-      "TEDPAYSAYISI": 3668549.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 3194585.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2165,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.863535,
-      "TEDPAYSAYISI": 3915571.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 3381233.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2175,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859348,
-      "TEDPAYSAYISI": 3904352.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3355195.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2185,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.843869,
-      "TEDPAYSAYISI": 3908075.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3297903.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2195,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853602,
-      "TEDPAYSAYISI": 3898324.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3327617.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2205,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855767,
-      "TEDPAYSAYISI": 3899063.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3336690.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2215,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.854361,
-      "TEDPAYSAYISI": 3887440.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3321276.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2225,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852737,
-      "TEDPAYSAYISI": 3887476.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3314996.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2235,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.871176,
-      "TEDPAYSAYISI": 3624154.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3157276.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2245,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882266,
-      "TEDPAYSAYISI": 3624340.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3197630.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2255,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908004,
-      "TEDPAYSAYISI": 3617042.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 3284290.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2265,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907371,
-      "TEDPAYSAYISI": 3611185.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 3276685.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2275,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904488,
-      "TEDPAYSAYISI": 3887973.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3516624.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2285,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.897196,
-      "TEDPAYSAYISI": 3854423.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3458173.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2295,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904413,
-      "TEDPAYSAYISI": 3858111.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 3489325.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2305,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891807,
-      "TEDPAYSAYISI": 3938529.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 3512408.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2315,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880812,
-      "TEDPAYSAYISI": 3936601.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3467407.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2325,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883289,
-      "TEDPAYSAYISI": 4004566.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3537189.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2335,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874357,
-      "TEDPAYSAYISI": 3783502.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 3308131.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2345,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873009,
-      "TEDPAYSAYISI": 3787524.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3306542.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2355,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.86415,
-      "TEDPAYSAYISI": 3786682.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3272260.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2365,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855907,
-      "TEDPAYSAYISI": 3789210.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3243209.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2375,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850945,
-      "TEDPAYSAYISI": 3789455.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 3224618.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2385,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.843979,
-      "TEDPAYSAYISI": 3790278.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3198914.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2395,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.82946,
-      "TEDPAYSAYISI": 3791933.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3145256.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2405,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.847311,
-      "TEDPAYSAYISI": 4456611.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3776134.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2415,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864177,
-      "TEDPAYSAYISI": 4457325.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3851918.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2425,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.869169,
-      "TEDPAYSAYISI": 4457325.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3874168.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2435,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881736,
-      "TEDPAYSAYISI": 4458138.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3930900.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2445,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88025,
-      "TEDPAYSAYISI": 4459016.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3925048.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2455,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866039,
-      "TEDPAYSAYISI": 4564673.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3953187.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2465,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.848799,
-      "TEDPAYSAYISI": 4510825.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 3828782.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2475,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.846079,
-      "TEDPAYSAYISI": 4510081.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3815886.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2485,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.849109,
-      "TEDPAYSAYISI": 4463462.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3789966.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2495,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.839946,
-      "TEDPAYSAYISI": 4468420.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3753233.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2505,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830404,
-      "TEDPAYSAYISI": 4444404.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3690651.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2515,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.835115,
-      "TEDPAYSAYISI": 4421053.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3692085.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2525,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.822038,
-      "TEDPAYSAYISI": 3879271.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3188910.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2535,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.847219,
-      "TEDPAYSAYISI": 3876042.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3283856.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2545,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.843375,
-      "TEDPAYSAYISI": 4494587.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 3790621.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2555,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.839454,
-      "TEDPAYSAYISI": 4519093.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 3793572.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2565,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.845129,
-      "TEDPAYSAYISI": 4515785.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 3816419.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2575,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896097,
-      "TEDPAYSAYISI": 4494397.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 4027414.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2585,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.905716,
-      "TEDPAYSAYISI": 4489081.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 4065832.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2595,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906538,
-      "TEDPAYSAYISI": 4521951.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 4099321.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2605,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914367,
-      "TEDPAYSAYISI": 4474110.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 4090977.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2615,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906162,
-      "TEDPAYSAYISI": 4484765.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 4063923.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2625,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886844,
-      "TEDPAYSAYISI": 4487077.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3979338.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2635,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885038,
-      "TEDPAYSAYISI": 4377860.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3874570.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2645,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89432,
-      "TEDPAYSAYISI": 4378262.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3915569.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2655,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90659,
-      "TEDPAYSAYISI": 4333266.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3928494.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2665,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906241,
-      "TEDPAYSAYISI": 4338200.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3931455.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2675,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903248,
-      "TEDPAYSAYISI": 4353581.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3932363.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2685,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900341,
-      "TEDPAYSAYISI": 4354030.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 3920113.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2695,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918596,
-      "TEDPAYSAYISI": 3736340.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 3432185.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2705,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.920094,
-      "TEDPAYSAYISI": 3782871.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 3480597.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2715,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939532,
-      "TEDPAYSAYISI": 3775022.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 3546752.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2725,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942784,
-      "TEDPAYSAYISI": 4000906.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 3771990.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2735,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936032,
-      "TEDPAYSAYISI": 4827967.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 4519130.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2745,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939471,
-      "TEDPAYSAYISI": 4807968.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 4516945.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2755,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942019,
-      "TEDPAYSAYISI": 4799773.0,
-      "KISISAYISI": 223.0,
-      "PORTFOYBUYUKLUK": 4521475.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2765,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941269,
-      "TEDPAYSAYISI": 4781503.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 4500681.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2775,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939307,
-      "TEDPAYSAYISI": 4879161.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 4583029.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2785,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947005,
-      "TEDPAYSAYISI": 4883996.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 4625167.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2795,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962207,
-      "TEDPAYSAYISI": 4889271.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 4704488.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2805,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962046,
-      "TEDPAYSAYISI": 4773245.0,
-      "KISISAYISI": 236.0,
-      "PORTFOYBUYUKLUK": 4592081.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2815,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.964743,
-      "TEDPAYSAYISI": 4794250.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 4625220.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2825,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.96153,
-      "TEDPAYSAYISI": 4682264.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 4502137.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2835,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955886,
-      "TEDPAYSAYISI": 4856287.0,
-      "KISISAYISI": 235.0,
-      "PORTFOYBUYUKLUK": 4642055.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2845,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.951605,
-      "TEDPAYSAYISI": 4869083.0,
-      "KISISAYISI": 236.0,
-      "PORTFOYBUYUKLUK": 4633442.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2855,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953545,
-      "TEDPAYSAYISI": 4954934.0,
-      "KISISAYISI": 239.0,
-      "PORTFOYBUYUKLUK": 4724752.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2865,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960489,
-      "TEDPAYSAYISI": 5042570.0,
-      "KISISAYISI": 247.0,
-      "PORTFOYBUYUKLUK": 4843333.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2875,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947551,
-      "TEDPAYSAYISI": 4991994.0,
-      "KISISAYISI": 249.0,
-      "PORTFOYBUYUKLUK": 4730168.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2885,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944376,
-      "TEDPAYSAYISI": 5222459.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 4931967.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2895,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934651,
-      "TEDPAYSAYISI": 5236801.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 4894579.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2905,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941259,
-      "TEDPAYSAYISI": 5190268.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 4885386.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2915,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949108,
-      "TEDPAYSAYISI": 5667709.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 5379267.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2925,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944106,
-      "TEDPAYSAYISI": 5657144.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 5340945.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2935,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956199,
-      "TEDPAYSAYISI": 5770319.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 5517570.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2945,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966892,
-      "TEDPAYSAYISI": 5889592.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 5694597.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2955,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97187,
-      "TEDPAYSAYISI": 6117936.0,
-      "KISISAYISI": 269.0,
-      "PORTFOYBUYUKLUK": 5945835.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2965,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985462,
-      "TEDPAYSAYISI": 6208497.0,
-      "KISISAYISI": 269.0,
-      "PORTFOYBUYUKLUK": 6118238.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2975,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988774,
-      "TEDPAYSAYISI": 6336956.0,
-      "KISISAYISI": 274.0,
-      "PORTFOYBUYUKLUK": 6265816.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2985,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980632,
-      "TEDPAYSAYISI": 6291831.0,
-      "KISISAYISI": 283.0,
-      "PORTFOYBUYUKLUK": 6169972.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2995,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981378,
-      "TEDPAYSAYISI": 6296838.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 6179576.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +3005,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97698,
-      "TEDPAYSAYISI": 6372648.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 6225949.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +3015,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977865,
-      "TEDPAYSAYISI": 6419550.0,
-      "KISISAYISI": 291.0,
-      "PORTFOYBUYUKLUK": 6277455.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +3025,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950502,
-      "TEDPAYSAYISI": 6261426.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 5951495.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +3035,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94374,
-      "TEDPAYSAYISI": 6381137.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 6022134.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +3045,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957275,
-      "TEDPAYSAYISI": 6407755.0,
-      "KISISAYISI": 298.0,
-      "PORTFOYBUYUKLUK": 6133982.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +3055,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94126,
-      "TEDPAYSAYISI": 6346628.0,
-      "KISISAYISI": 294.0,
-      "PORTFOYBUYUKLUK": 5973829.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +3065,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918481,
-      "TEDPAYSAYISI": 6268779.0,
-      "KISISAYISI": 292.0,
-      "PORTFOYBUYUKLUK": 5757752.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +3075,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91868,
-      "TEDPAYSAYISI": 6268417.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 5758671.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +3085,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922224,
-      "TEDPAYSAYISI": 6259011.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 5772211.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +3095,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912236,
-      "TEDPAYSAYISI": 5187457.0,
-      "KISISAYISI": 285.0,
-      "PORTFOYBUYUKLUK": 4732184.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +3105,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914278,
-      "TEDPAYSAYISI": 5457319.0,
-      "KISISAYISI": 287.0,
-      "PORTFOYBUYUKLUK": 4989504.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +3115,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957164,
-      "TEDPAYSAYISI": 5474307.0,
-      "KISISAYISI": 287.0,
-      "PORTFOYBUYUKLUK": 5239811.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +3125,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977746,
-      "TEDPAYSAYISI": 5522117.0,
-      "KISISAYISI": 288.0,
-      "PORTFOYBUYUKLUK": 5399226.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +3135,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.969215,
-      "TEDPAYSAYISI": 5772629.0,
-      "KISISAYISI": 289.0,
-      "PORTFOYBUYUKLUK": 5594920.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3145,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957772,
-      "TEDPAYSAYISI": 6610150.0,
-      "KISISAYISI": 292.0,
-      "PORTFOYBUYUKLUK": 6331013.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3155,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968497,
-      "TEDPAYSAYISI": 6576630.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 6369443.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3165,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9787,
-      "TEDPAYSAYISI": 6458288.0,
-      "KISISAYISI": 291.0,
-      "PORTFOYBUYUKLUK": 6320723.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3175,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978583,
-      "TEDPAYSAYISI": 6541808.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 6401702.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3185,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980303,
-      "TEDPAYSAYISI": 6895080.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 6759270.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3195,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976962,
-      "TEDPAYSAYISI": 6984532.0,
-      "KISISAYISI": 298.0,
-      "PORTFOYBUYUKLUK": 6823620.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3205,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962476,
-      "TEDPAYSAYISI": 6801606.0,
-      "KISISAYISI": 300.0,
-      "PORTFOYBUYUKLUK": 6546381.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3215,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952801,
-      "TEDPAYSAYISI": 7072146.0,
-      "KISISAYISI": 303.0,
-      "PORTFOYBUYUKLUK": 6738350.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3225,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980319,
-      "TEDPAYSAYISI": 6624970.0,
-      "KISISAYISI": 306.0,
-      "PORTFOYBUYUKLUK": 6494584.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3235,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988567,
-      "TEDPAYSAYISI": 8452690.0,
-      "KISISAYISI": 304.0,
-      "PORTFOYBUYUKLUK": 8356048.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3245,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974876,
-      "TEDPAYSAYISI": 8461275.0,
-      "KISISAYISI": 306.0,
-      "PORTFOYBUYUKLUK": 8248690.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3255,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966157,
-      "TEDPAYSAYISI": 17898546.0,
-      "KISISAYISI": 329.0,
-      "PORTFOYBUYUKLUK": 17292797.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3265,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971307,
-      "TEDPAYSAYISI": 17875918.0,
-      "KISISAYISI": 331.0,
-      "PORTFOYBUYUKLUK": 17363002.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3275,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972616,
-      "TEDPAYSAYISI": 17861866.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 17372735.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3285,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966503,
-      "TEDPAYSAYISI": 17719690.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 17126138.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3295,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968546,
-      "TEDPAYSAYISI": 15713274.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 15219034.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3305,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971287,
-      "TEDPAYSAYISI": 18291769.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 17766552.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3315,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957833,
-      "TEDPAYSAYISI": 18324871.0,
-      "KISISAYISI": 331.0,
-      "PORTFOYBUYUKLUK": 17552172.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3325,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939886,
-      "TEDPAYSAYISI": 18313855.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 17212933.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3335,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960011,
-      "TEDPAYSAYISI": 19002400.0,
-      "KISISAYISI": 340.0,
-      "PORTFOYBUYUKLUK": 18242512.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3345,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945707,
-      "TEDPAYSAYISI": 19027229.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 17994178.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3355,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932355,
-      "TEDPAYSAYISI": 18417161.0,
-      "KISISAYISI": 349.0,
-      "PORTFOYBUYUKLUK": 17171338.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3365,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943024,
-      "TEDPAYSAYISI": 17703424.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 16694749.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3375,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.940219,
-      "TEDPAYSAYISI": 17717986.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 16658785.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3385,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.938135,
-      "TEDPAYSAYISI": 17722957.0,
-      "KISISAYISI": 343.0,
-      "PORTFOYBUYUKLUK": 16626518.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3395,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9397,
-      "TEDPAYSAYISI": 17458445.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 16405698.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3405,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.969328,
-      "TEDPAYSAYISI": 17565656.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 17026890.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3415,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968668,
-      "TEDPAYSAYISI": 17673989.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 17120229.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3425,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.965196,
-      "TEDPAYSAYISI": 17673989.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 17058855.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3435,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.967904,
-      "TEDPAYSAYISI": 17692872.0,
-      "KISISAYISI": 345.0,
-      "PORTFOYBUYUKLUK": 17125008.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3445,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977903,
-      "TEDPAYSAYISI": 18145818.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 17744852.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3455,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995477,
-      "TEDPAYSAYISI": 18225647.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 18143207.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3465,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985118,
-      "TEDPAYSAYISI": 18205384.0,
-      "KISISAYISI": 348.0,
-      "PORTFOYBUYUKLUK": 17934452.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3475,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973647,
-      "TEDPAYSAYISI": 17689286.0,
-      "KISISAYISI": 346.0,
-      "PORTFOYBUYUKLUK": 17223115.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3485,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976217,
-      "TEDPAYSAYISI": 17742602.0,
-      "KISISAYISI": 343.0,
-      "PORTFOYBUYUKLUK": 17320635.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3495,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945717,
-      "TEDPAYSAYISI": 18092372.0,
-      "KISISAYISI": 345.0,
-      "PORTFOYBUYUKLUK": 17110255.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3505,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934415,
-      "TEDPAYSAYISI": 18019465.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 16837667.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3515,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915164,
-      "TEDPAYSAYISI": 18011719.0,
-      "KISISAYISI": 342.0,
-      "PORTFOYBUYUKLUK": 16483671.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3525,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910854,
-      "TEDPAYSAYISI": 18022397.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 16415772.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3535,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910323,
-      "TEDPAYSAYISI": 18011413.0,
-      "KISISAYISI": 343.0,
-      "PORTFOYBUYUKLUK": 16396208.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3545,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903562,
-      "TEDPAYSAYISI": 17885903.0,
-      "KISISAYISI": 342.0,
-      "PORTFOYBUYUKLUK": 16161028.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3555,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917272,
-      "TEDPAYSAYISI": 17854581.0,
-      "KISISAYISI": 343.0,
-      "PORTFOYBUYUKLUK": 16377515.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3565,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912335,
-      "TEDPAYSAYISI": 17850738.0,
-      "KISISAYISI": 340.0,
-      "PORTFOYBUYUKLUK": 16285857.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3575,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919002,
-      "TEDPAYSAYISI": 19056960.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 17513375.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3585,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.920206,
-      "TEDPAYSAYISI": 19068331.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 17546785.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3375,9 +3595,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914097,
-      "TEDPAYSAYISI": 17962600.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 16419554.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3385,9 +3605,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914511,
-      "TEDPAYSAYISI": 17933586.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 16400457.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3395,9 +3615,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.905657,
-      "TEDPAYSAYISI": 17978589.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 16282441.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3405,9 +3625,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904982,
-      "TEDPAYSAYISI": 17971689.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 16264051.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3415,9 +3635,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903251,
-      "TEDPAYSAYISI": 17954982.0,
-      "KISISAYISI": 340.0,
-      "PORTFOYBUYUKLUK": 16217854.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3425,9 +3645,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901945,
-      "TEDPAYSAYISI": 17919012.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16161955.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3435,9 +3655,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913055,
-      "TEDPAYSAYISI": 17972034.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16409449.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3445,9 +3665,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916475,
-      "TEDPAYSAYISI": 17993039.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 16490161.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3455,9 +3675,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915233,
-      "TEDPAYSAYISI": 18038639.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16509559.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3465,9 +3685,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911853,
-      "TEDPAYSAYISI": 17928126.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 16347811.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3475,9 +3695,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913061,
-      "TEDPAYSAYISI": 17985956.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 16422279.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3485,9 +3705,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918764,
-      "TEDPAYSAYISI": 17646923.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 16213354.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3495,9 +3715,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922929,
-      "TEDPAYSAYISI": 17666626.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16305046.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3505,9 +3725,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92104,
-      "TEDPAYSAYISI": 17353168.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 15982966.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3515,9 +3735,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929365,
-      "TEDPAYSAYISI": 17358103.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 16132014.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3525,9 +3745,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927802,
-      "TEDPAYSAYISI": 18380810.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 17053743.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3535,9 +3755,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936334,
-      "TEDPAYSAYISI": 18379637.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 17209485.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3545,9 +3765,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930402,
-      "TEDPAYSAYISI": 18350856.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 17073664.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3555,9 +3775,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9281,
-      "TEDPAYSAYISI": 18139354.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16835128.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3565,9 +3785,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932377,
-      "TEDPAYSAYISI": 18109988.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 16885335.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3575,9 +3795,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.921799,
-      "TEDPAYSAYISI": 18055393.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 16643444.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3585,9 +3805,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916217,
-      "TEDPAYSAYISI": 19141887.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 17538120.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3595,9 +3815,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911429,
-      "TEDPAYSAYISI": 18089979.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 16487737.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3605,9 +3825,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910889,
-      "TEDPAYSAYISI": 18053723.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 16444930.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3615,9 +3835,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914901,
-      "TEDPAYSAYISI": 16974249.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 15529758.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3625,9 +3845,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913844,
-      "TEDPAYSAYISI": 16974004.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 15511591.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3635,9 +3855,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895378,
-      "TEDPAYSAYISI": 16944872.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 15172059.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3645,9 +3865,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899408,
-      "TEDPAYSAYISI": 16126963.0,
-      "KISISAYISI": 328.0,
-      "PORTFOYBUYUKLUK": 14504719.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3655,9 +3875,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913661,
-      "TEDPAYSAYISI": 16039171.0,
-      "KISISAYISI": 329.0,
-      "PORTFOYBUYUKLUK": 14654358.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3665,9 +3885,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923312,
-      "TEDPAYSAYISI": 16061142.0,
-      "KISISAYISI": 328.0,
-      "PORTFOYBUYUKLUK": 14829440.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3675,9 +3895,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930079,
-      "TEDPAYSAYISI": 17148326.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 15949298.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3685,9 +3905,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939263,
-      "TEDPAYSAYISI": 19285388.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 18114044.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3695,9 +3915,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928211,
-      "TEDPAYSAYISI": 19361835.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 17971866.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3705,9 +3925,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934608,
-      "TEDPAYSAYISI": 18892611.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 17657185.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3715,9 +3935,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939124,
-      "TEDPAYSAYISI": 16785440.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 15763606.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3725,9 +3945,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942415,
-      "TEDPAYSAYISI": 16792842.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 15825826.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3735,9 +3955,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.959454,
-      "TEDPAYSAYISI": 16757440.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 16077989.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3745,9 +3965,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.970896,
-      "TEDPAYSAYISI": 16728164.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 16241305.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3755,9 +3975,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988821,
-      "TEDPAYSAYISI": 16740128.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 16552992.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3765,9 +3985,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007139,
-      "TEDPAYSAYISI": 16732775.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16852231.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3775,9 +3995,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01931,
-      "TEDPAYSAYISI": 16737578.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 17060772.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3785,9 +4005,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01295,
-      "TEDPAYSAYISI": 19414760.0,
-      "KISISAYISI": 348.0,
-      "PORTFOYBUYUKLUK": 19666176.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3795,9 +4015,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014351,
-      "TEDPAYSAYISI": 17868778.0,
-      "KISISAYISI": 367.0,
-      "PORTFOYBUYUKLUK": 18125207.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3805,9 +4025,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031253,
-      "TEDPAYSAYISI": 18247422.0,
-      "KISISAYISI": 377.0,
-      "PORTFOYBUYUKLUK": 18817713.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3815,9 +4035,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040489,
-      "TEDPAYSAYISI": 18347245.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 19090113.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3825,9 +4045,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047098,
-      "TEDPAYSAYISI": 18591134.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 19466744.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3835,9 +4055,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05607,
-      "TEDPAYSAYISI": 17658776.0,
-      "KISISAYISI": 388.0,
-      "PORTFOYBUYUKLUK": 18648896.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3845,9 +4065,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067002,
-      "TEDPAYSAYISI": 17933062.0,
-      "KISISAYISI": 390.0,
-      "PORTFOYBUYUKLUK": 19134610.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3855,9 +4075,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075945,
-      "TEDPAYSAYISI": 18056756.0,
-      "KISISAYISI": 392.0,
-      "PORTFOYBUYUKLUK": 19428081.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3865,9 +4085,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077846,
-      "TEDPAYSAYISI": 18180024.0,
-      "KISISAYISI": 395.0,
-      "PORTFOYBUYUKLUK": 19595268.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3875,9 +4095,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072819,
-      "TEDPAYSAYISI": 18098265.0,
-      "KISISAYISI": 397.0,
-      "PORTFOYBUYUKLUK": 19416163.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3885,9 +4105,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092362,
-      "TEDPAYSAYISI": 18097481.0,
-      "KISISAYISI": 397.0,
-      "PORTFOYBUYUKLUK": 19769001.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3895,9 +4115,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092055,
-      "TEDPAYSAYISI": 17435924.0,
-      "KISISAYISI": 396.0,
-      "PORTFOYBUYUKLUK": 19040995.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3905,9 +4125,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074735,
-      "TEDPAYSAYISI": 17798627.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 19128812.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3915,9 +4135,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064463,
-      "TEDPAYSAYISI": 17618990.0,
-      "KISISAYISI": 401.0,
-      "PORTFOYBUYUKLUK": 18754755.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3925,9 +4145,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093234,
-      "TEDPAYSAYISI": 17523004.0,
-      "KISISAYISI": 397.0,
-      "PORTFOYBUYUKLUK": 19156742.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3935,9 +4155,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095955,
-      "TEDPAYSAYISI": 17607204.0,
-      "KISISAYISI": 400.0,
-      "PORTFOYBUYUKLUK": 19296706.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3945,9 +4165,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090953,
-      "TEDPAYSAYISI": 17881140.0,
-      "KISISAYISI": 401.0,
-      "PORTFOYBUYUKLUK": 19507489.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3955,9 +4175,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107196,
-      "TEDPAYSAYISI": 18318154.0,
-      "KISISAYISI": 411.0,
-      "PORTFOYBUYUKLUK": 20281782.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3965,9 +4185,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114619,
-      "TEDPAYSAYISI": 20036696.0,
-      "KISISAYISI": 422.0,
-      "PORTFOYBUYUKLUK": 22333280.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3975,9 +4195,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142952,
-      "TEDPAYSAYISI": 20426075.0,
-      "KISISAYISI": 435.0,
-      "PORTFOYBUYUKLUK": 23346019.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3985,9 +4205,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15969,
-      "TEDPAYSAYISI": 20112339.0,
-      "KISISAYISI": 450.0,
-      "PORTFOYBUYUKLUK": 23324075.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3995,9 +4215,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.139865,
-      "TEDPAYSAYISI": 20383746.0,
-      "KISISAYISI": 467.0,
-      "PORTFOYBUYUKLUK": 23234712.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4005,9 +4225,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106805,
-      "TEDPAYSAYISI": 25975327.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 28749615.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4015,9 +4235,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114133,
-      "TEDPAYSAYISI": 26804092.0,
-      "KISISAYISI": 544.0,
-      "PORTFOYBUYUKLUK": 29863310.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4025,9 +4245,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127877,
-      "TEDPAYSAYISI": 26971656.0,
-      "KISISAYISI": 556.0,
-      "PORTFOYBUYUKLUK": 30420714.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4035,9 +4255,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122511,
-      "TEDPAYSAYISI": 25437709.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 28554107.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4045,9 +4265,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105061,
-      "TEDPAYSAYISI": 23487525.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 25955141.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4055,9 +4275,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108447,
-      "TEDPAYSAYISI": 22990560.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 25483811.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4065,9 +4285,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096997,
-      "TEDPAYSAYISI": 23512374.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 25793011.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4075,9 +4295,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069263,
-      "TEDPAYSAYISI": 22564780.0,
-      "KISISAYISI": 547.0,
-      "PORTFOYBUYUKLUK": 24127677.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4085,9 +4305,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049395,
-      "TEDPAYSAYISI": 21132649.0,
-      "KISISAYISI": 544.0,
-      "PORTFOYBUYUKLUK": 22176497.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4095,9 +4315,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049917,
-      "TEDPAYSAYISI": 20539226.0,
-      "KISISAYISI": 533.0,
-      "PORTFOYBUYUKLUK": 21564472.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4105,9 +4325,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062338,
-      "TEDPAYSAYISI": 20417087.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 21689838.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4115,9 +4335,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041787,
-      "TEDPAYSAYISI": 20420401.0,
-      "KISISAYISI": 523.0,
-      "PORTFOYBUYUKLUK": 21273715.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4125,9 +4345,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031343,
-      "TEDPAYSAYISI": 20373585.0,
-      "KISISAYISI": 520.0,
-      "PORTFOYBUYUKLUK": 21012147.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4135,9 +4355,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063145,
-      "TEDPAYSAYISI": 20264657.0,
-      "KISISAYISI": 523.0,
-      "PORTFOYBUYUKLUK": 21544272.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4145,9 +4365,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058401,
-      "TEDPAYSAYISI": 20315476.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 21501911.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4155,9 +4375,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053226,
-      "TEDPAYSAYISI": 19254558.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 20279406.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4165,9 +4385,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037929,
-      "TEDPAYSAYISI": 17340365.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 17998065.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4175,9 +4395,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046292,
-      "TEDPAYSAYISI": 17319901.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 18121675.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4185,9 +4405,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063281,
-      "TEDPAYSAYISI": 17197216.0,
-      "KISISAYISI": 509.0,
-      "PORTFOYBUYUKLUK": 18285472.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4195,9 +4415,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050594,
-      "TEDPAYSAYISI": 16825308.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 17676575.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4205,9 +4425,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052928,
-      "TEDPAYSAYISI": 16825308.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 17715835.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4215,9 +4435,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060607,
-      "TEDPAYSAYISI": 16792605.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 17810347.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4225,9 +4445,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046473,
-      "TEDPAYSAYISI": 16795527.0,
-      "KISISAYISI": 499.0,
-      "PORTFOYBUYUKLUK": 17576061.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4235,9 +4455,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056619,
-      "TEDPAYSAYISI": 15833307.0,
-      "KISISAYISI": 494.0,
-      "PORTFOYBUYUKLUK": 16729773.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4245,9 +4465,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032658,
-      "TEDPAYSAYISI": 14686297.0,
-      "KISISAYISI": 487.0,
-      "PORTFOYBUYUKLUK": 15165928.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4255,9 +4475,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024205,
-      "TEDPAYSAYISI": 14663063.0,
-      "KISISAYISI": 477.0,
-      "PORTFOYBUYUKLUK": 15017978.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4265,9 +4485,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023528,
-      "TEDPAYSAYISI": 14240876.0,
-      "KISISAYISI": 472.0,
-      "PORTFOYBUYUKLUK": 14575939.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4275,9 +4495,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044417,
-      "TEDPAYSAYISI": 14242282.0,
-      "KISISAYISI": 473.0,
-      "PORTFOYBUYUKLUK": 14874876.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4285,9 +4505,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07329,
-      "TEDPAYSAYISI": 14237346.0,
-      "KISISAYISI": 468.0,
-      "PORTFOYBUYUKLUK": 15280794.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4295,9 +4515,9 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075864,
-      "TEDPAYSAYISI": 13814414.0,
-      "KISISAYISI": 467.0,
-      "PORTFOYBUYUKLUK": 14862429.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4305,9 +4525,139 @@
       "FONKODU": "KHJ",
       "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075414,
-      "TEDPAYSAYISI": 14039596.0,
-      "KISISAYISI": 465.0,
-      "PORTFOYBUYUKLUK": 15098373.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.093792,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.085383,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.130088,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.121967,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.144178,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.157439,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.158246,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.165691,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.161165,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.189902,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.197251,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.204378,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "KHJ",
+      "FONUNVAN": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.197996,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

@@ -1,21 +1,109 @@
 {
   "kod": "AEV",
-  "guncelleme": "2026-04-08T18:19:01Z",
+  "guncelleme": "2026-04-26T18:21:30Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY SANAYİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aev-allbatross-portfoy-sanayi-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 80.64
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 19.36
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GIPTA",
+      "ad": "",
+      "agirlik": 5.88
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 5.54
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 5.39
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 5.26
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 5.23
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 5.09
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 4.63
+    },
+    {
+      "ticker": "KLSER",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "TBORG",
+      "ad": "",
+      "agirlik": 4.49
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 4.07
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 3.76
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 11:25:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e54ec8b25ac"
 }

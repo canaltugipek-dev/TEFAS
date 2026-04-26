@@ -2,22 +2,692 @@
   "fon_kodu": "MHF",
   "fon_unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 236,
-  "gun_kapsami": 341,
+  "kayit_sayisi": 316,
+  "gun_kapsami": 457,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1737504000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737590400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737676800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737936000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738022400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738108800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738195200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738281600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738540800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738627200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738713600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738800000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738886400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739145600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739232000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739318400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739404800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739491200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739750400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739836800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739923200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740009600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740096000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740355200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740441600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740528000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740614400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740700800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740960000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741046400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741132800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741219200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741305600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741564800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741651200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741737600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741824000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741910400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742169600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742256000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742342400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742428800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742515200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742774400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742860800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742947200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743033600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743120000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743552000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743638400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743724800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743984000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744070400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744156800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744243200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744329600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744588800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744675200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744761600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744848000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744934400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745193600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745280000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745452800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745539200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745798400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745884800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1745971200000",
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998621,
-      "TEDPAYSAYISI": 451140.0,
-      "KISISAYISI": 8.0,
-      "PORTFOYBUYUKLUK": 450517.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +695,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991021,
-      "TEDPAYSAYISI": 706891.0,
-      "KISISAYISI": 11.0,
-      "PORTFOYBUYUKLUK": 700544.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +705,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007395,
-      "TEDPAYSAYISI": 707845.0,
-      "KISISAYISI": 13.0,
-      "PORTFOYBUYUKLUK": 713079.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +715,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018738,
-      "TEDPAYSAYISI": 707944.0,
-      "KISISAYISI": 14.0,
-      "PORTFOYBUYUKLUK": 721209.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +725,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019785,
-      "TEDPAYSAYISI": 708874.0,
-      "KISISAYISI": 15.0,
-      "PORTFOYBUYUKLUK": 722899.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +735,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01202,
-      "TEDPAYSAYISI": 1201208.0,
-      "KISISAYISI": 18.0,
-      "PORTFOYBUYUKLUK": 1215647.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +745,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031462,
-      "TEDPAYSAYISI": 1201702.0,
-      "KISISAYISI": 19.0,
-      "PORTFOYBUYUKLUK": 1239509.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +755,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040462,
-      "TEDPAYSAYISI": 1202282.0,
-      "KISISAYISI": 20.0,
-      "PORTFOYBUYUKLUK": 1250929.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +765,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054543,
-      "TEDPAYSAYISI": 1683028.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 1774825.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +775,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055471,
-      "TEDPAYSAYISI": 1779507.0,
-      "KISISAYISI": 29.0,
-      "PORTFOYBUYUKLUK": 1878217.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +785,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058158,
-      "TEDPAYSAYISI": 2244936.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 2375497.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +795,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060864,
-      "TEDPAYSAYISI": 2482038.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 2633104.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +805,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06972,
-      "TEDPAYSAYISI": 2635072.0,
-      "KISISAYISI": 36.0,
-      "PORTFOYBUYUKLUK": 2818788.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +815,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069528,
-      "TEDPAYSAYISI": 3010133.0,
-      "KISISAYISI": 36.0,
-      "PORTFOYBUYUKLUK": 3219420.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +825,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074424,
-      "TEDPAYSAYISI": 3105871.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 3337023.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +835,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087845,
-      "TEDPAYSAYISI": 3341114.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 3634612.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +845,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069606,
-      "TEDPAYSAYISI": 3529274.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 3774931.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +855,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074495,
-      "TEDPAYSAYISI": 3852963.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 4139988.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +865,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060973,
-      "TEDPAYSAYISI": 3857719.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 4092937.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +875,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049901,
-      "TEDPAYSAYISI": 3905408.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 4100291.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +885,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047566,
-      "TEDPAYSAYISI": 3923545.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 4110170.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +895,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038691,
-      "TEDPAYSAYISI": 3829861.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 3978041.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +905,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02638,
-      "TEDPAYSAYISI": 3492780.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 3584920.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +915,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052015,
-      "TEDPAYSAYISI": 3431430.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 3609917.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +925,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079494,
-      "TEDPAYSAYISI": 3432033.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 3704858.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +935,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086945,
-      "TEDPAYSAYISI": 3430783.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 3729072.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +945,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110725,
-      "TEDPAYSAYISI": 3445818.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 3827355.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +955,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103811,
-      "TEDPAYSAYISI": 3455797.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 3814546.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +965,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087935,
-      "TEDPAYSAYISI": 3492712.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 3799844.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +975,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071925,
-      "TEDPAYSAYISI": 3480126.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 3730435.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +985,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083382,
-      "TEDPAYSAYISI": 3486228.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 3776915.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +995,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087164,
-      "TEDPAYSAYISI": 3395031.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 3690955.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +1005,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07518,
-      "TEDPAYSAYISI": 3391240.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 3646194.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +1015,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067971,
-      "TEDPAYSAYISI": 3394120.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 3624822.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +1025,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071005,
-      "TEDPAYSAYISI": 3135150.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 3357760.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +1035,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065296,
-      "TEDPAYSAYISI": 3126932.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 3331107.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +1045,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094761,
-      "TEDPAYSAYISI": 3127117.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 3423445.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +1055,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11,
-      "TEDPAYSAYISI": 3123674.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 3467277.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +1065,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106202,
-      "TEDPAYSAYISI": 3027829.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 3349391.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +1075,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117413,
-      "TEDPAYSAYISI": 2126532.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 2376214.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +1085,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13374,
-      "TEDPAYSAYISI": 2127198.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 2411688.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +1095,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143997,
-      "TEDPAYSAYISI": 2139975.0,
-      "KISISAYISI": 65.0,
-      "PORTFOYBUYUKLUK": 2448124.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +1105,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141333,
-      "TEDPAYSAYISI": 2124404.0,
-      "KISISAYISI": 68.0,
-      "PORTFOYBUYUKLUK": 2424652.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +1115,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155591,
-      "TEDPAYSAYISI": 2133090.0,
-      "KISISAYISI": 70.0,
-      "PORTFOYBUYUKLUK": 2464978.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +1125,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16745,
-      "TEDPAYSAYISI": 2133171.0,
-      "KISISAYISI": 67.0,
-      "PORTFOYBUYUKLUK": 2490370.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +1135,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163424,
-      "TEDPAYSAYISI": 2161884.0,
-      "KISISAYISI": 70.0,
-      "PORTFOYBUYUKLUK": 2515188.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +1145,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155708,
-      "TEDPAYSAYISI": 2019163.0,
-      "KISISAYISI": 74.0,
-      "PORTFOYBUYUKLUK": 2333562.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +1155,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166503,
-      "TEDPAYSAYISI": 2023153.0,
-      "KISISAYISI": 73.0,
-      "PORTFOYBUYUKLUK": 2360013.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +1165,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180406,
-      "TEDPAYSAYISI": 2044494.0,
-      "KISISAYISI": 72.0,
-      "PORTFOYBUYUKLUK": 2413333.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +1175,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186591,
-      "TEDPAYSAYISI": 2896662.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 3437152.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +1185,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195357,
-      "TEDPAYSAYISI": 2900987.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 3467715.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +1195,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189934,
-      "TEDPAYSAYISI": 2907243.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 3459426.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +1205,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213856,
-      "TEDPAYSAYISI": 3529280.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 4284038.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +1215,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226397,
-      "TEDPAYSAYISI": 3536596.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 4337271.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +1225,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254299,
-      "TEDPAYSAYISI": 3920157.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 4917050.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +1235,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249,
-      "TEDPAYSAYISI": 4006909.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 5004627.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +1245,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24746,
-      "TEDPAYSAYISI": 4687873.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 5847935.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +1255,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253228,
-      "TEDPAYSAYISI": 4938543.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 6189118.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +1265,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262114,
-      "TEDPAYSAYISI": 5034411.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 6353998.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +1275,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26375,
-      "TEDPAYSAYISI": 5348513.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 6759181.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +1285,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262565,
-      "TEDPAYSAYISI": 5714863.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 7215383.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +1295,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26655,
-      "TEDPAYSAYISI": 5952540.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 7539189.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +1305,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.281571,
-      "TEDPAYSAYISI": 6472343.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 8294766.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +1315,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289322,
-      "TEDPAYSAYISI": 6475931.0,
-      "KISISAYISI": 133.0,
-      "PORTFOYBUYUKLUK": 8349563.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +1325,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.300444,
-      "TEDPAYSAYISI": 6936923.0,
-      "KISISAYISI": 135.0,
-      "PORTFOYBUYUKLUK": 9021078.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +1335,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309386,
-      "TEDPAYSAYISI": 7314254.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 9577182.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +1345,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.319126,
-      "TEDPAYSAYISI": 8937902.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 11790221.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +1355,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331238,
-      "TEDPAYSAYISI": 10496243.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 13972996.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +1365,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.332479,
-      "TEDPAYSAYISI": 11651959.0,
-      "KISISAYISI": 238.0,
-      "PORTFOYBUYUKLUK": 15525985.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +1375,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.334605,
-      "TEDPAYSAYISI": 12404077.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 16554544.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +1385,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31248,
-      "TEDPAYSAYISI": 15864126.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 20821349.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +1395,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.310103,
-      "TEDPAYSAYISI": 17212403.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 22550027.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +1405,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.314767,
-      "TEDPAYSAYISI": 12849756.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 16894440.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +1415,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.32669,
-      "TEDPAYSAYISI": 12408121.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 16461723.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +1425,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.326568,
-      "TEDPAYSAYISI": 12478507.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 16553591.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +1435,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.337133,
-      "TEDPAYSAYISI": 12768516.0,
-      "KISISAYISI": 342.0,
-      "PORTFOYBUYUKLUK": 17073206.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +1445,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.338934,
-      "TEDPAYSAYISI": 12202781.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 16338715.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +1455,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.35782,
-      "TEDPAYSAYISI": 12150538.0,
-      "KISISAYISI": 345.0,
-      "PORTFOYBUYUKLUK": 16498246.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +1465,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.374464,
-      "TEDPAYSAYISI": 12126230.0,
-      "KISISAYISI": 359.0,
-      "PORTFOYBUYUKLUK": 16667065.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1475,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.384481,
-      "TEDPAYSAYISI": 12279407.0,
-      "KISISAYISI": 370.0,
-      "PORTFOYBUYUKLUK": 17000607.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1485,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.376389,
-      "TEDPAYSAYISI": 13053049.0,
-      "KISISAYISI": 392.0,
-      "PORTFOYBUYUKLUK": 17966077.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1495,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.362312,
-      "TEDPAYSAYISI": 13696017.0,
-      "KISISAYISI": 418.0,
-      "PORTFOYBUYUKLUK": 18658247.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1505,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.36287,
-      "TEDPAYSAYISI": 13898521.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 18941877.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1515,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357064,
-      "TEDPAYSAYISI": 13770541.0,
-      "KISISAYISI": 437.0,
-      "PORTFOYBUYUKLUK": 18687501.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1525,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.370876,
-      "TEDPAYSAYISI": 13844254.0,
-      "KISISAYISI": 441.0,
-      "PORTFOYBUYUKLUK": 18978749.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1535,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.344824,
-      "TEDPAYSAYISI": 13275415.0,
-      "KISISAYISI": 442.0,
-      "PORTFOYBUYUKLUK": 17853094.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1545,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.343014,
-      "TEDPAYSAYISI": 13176151.0,
-      "KISISAYISI": 437.0,
-      "PORTFOYBUYUKLUK": 17695753.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1555,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.373124,
-      "TEDPAYSAYISI": 12441578.0,
-      "KISISAYISI": 443.0,
-      "PORTFOYBUYUKLUK": 17083834.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1565,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.354609,
-      "TEDPAYSAYISI": 12452469.0,
-      "KISISAYISI": 439.0,
-      "PORTFOYBUYUKLUK": 16868231.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1575,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.332761,
-      "TEDPAYSAYISI": 12626461.0,
-      "KISISAYISI": 447.0,
-      "PORTFOYBUYUKLUK": 16828050.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1585,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.328678,
-      "TEDPAYSAYISI": 12187501.0,
-      "KISISAYISI": 448.0,
-      "PORTFOYBUYUKLUK": 16193269.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1595,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.321579,
-      "TEDPAYSAYISI": 12153955.0,
-      "KISISAYISI": 438.0,
-      "PORTFOYBUYUKLUK": 16062406.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1605,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306285,
-      "TEDPAYSAYISI": 12234147.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 15981285.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1615,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306924,
-      "TEDPAYSAYISI": 12085738.0,
-      "KISISAYISI": 427.0,
-      "PORTFOYBUYUKLUK": 15795139.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1625,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.36995,
-      "TEDPAYSAYISI": 12095982.0,
-      "KISISAYISI": 422.0,
-      "PORTFOYBUYUKLUK": 16570886.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1635,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395171,
-      "TEDPAYSAYISI": 12530892.0,
-      "KISISAYISI": 418.0,
-      "PORTFOYBUYUKLUK": 17482740.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1645,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392584,
-      "TEDPAYSAYISI": 12525149.0,
-      "KISISAYISI": 416.0,
-      "PORTFOYBUYUKLUK": 17442322.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1655,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.382712,
-      "TEDPAYSAYISI": 12748792.0,
-      "KISISAYISI": 415.0,
-      "PORTFOYBUYUKLUK": 17627909.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1665,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.399685,
-      "TEDPAYSAYISI": 12750280.0,
-      "KISISAYISI": 413.0,
-      "PORTFOYBUYUKLUK": 17846377.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1675,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.418024,
-      "TEDPAYSAYISI": 12750117.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 18079970.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1685,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392281,
-      "TEDPAYSAYISI": 12731361.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 17725634.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1695,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.394906,
-      "TEDPAYSAYISI": 12199458.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 17017092.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1705,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392652,
-      "TEDPAYSAYISI": 11895385.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 16566126.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1715,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.377062,
-      "TEDPAYSAYISI": 11321006.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 15589727.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1725,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.35657,
-      "TEDPAYSAYISI": 11317469.0,
-      "KISISAYISI": 399.0,
-      "PORTFOYBUYUKLUK": 15352937.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1735,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.359832,
-      "TEDPAYSAYISI": 11081927.0,
-      "KISISAYISI": 399.0,
-      "PORTFOYBUYUKLUK": 15069562.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1745,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358541,
-      "TEDPAYSAYISI": 10552238.0,
-      "KISISAYISI": 393.0,
-      "PORTFOYBUYUKLUK": 14335653.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1755,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.345142,
-      "TEDPAYSAYISI": 8141449.0,
-      "KISISAYISI": 385.0,
-      "PORTFOYBUYUKLUK": 10951404.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1765,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.334984,
-      "TEDPAYSAYISI": 8125075.0,
-      "KISISAYISI": 382.0,
-      "PORTFOYBUYUKLUK": 10846844.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1775,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.325546,
-      "TEDPAYSAYISI": 8171429.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 10831603.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1785,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.32834,
-      "TEDPAYSAYISI": 6403401.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 8505891.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1795,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.324824,
-      "TEDPAYSAYISI": 6038547.0,
-      "KISISAYISI": 347.0,
-      "PORTFOYBUYUKLUK": 8000011.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1805,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.343644,
-      "TEDPAYSAYISI": 6087837.0,
-      "KISISAYISI": 342.0,
-      "PORTFOYBUYUKLUK": 8179886.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1815,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.346457,
-      "TEDPAYSAYISI": 6090816.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 8201024.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1825,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.326408,
-      "TEDPAYSAYISI": 5378371.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 7133912.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1835,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.292684,
-      "TEDPAYSAYISI": 5001772.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 6465708.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1845,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.319197,
-      "TEDPAYSAYISI": 4936040.0,
-      "KISISAYISI": 329.0,
-      "PORTFOYBUYUKLUK": 6511609.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1855,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.30709,
-      "TEDPAYSAYISI": 4872656.0,
-      "KISISAYISI": 325.0,
-      "PORTFOYBUYUKLUK": 6369001.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1865,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287826,
-      "TEDPAYSAYISI": 4876886.0,
-      "KISISAYISI": 321.0,
-      "PORTFOYBUYUKLUK": 6280581.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1875,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301466,
-      "TEDPAYSAYISI": 4634765.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 6031988.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1885,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.305715,
-      "TEDPAYSAYISI": 4638345.0,
-      "KISISAYISI": 318.0,
-      "PORTFOYBUYUKLUK": 6056358.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1895,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309188,
-      "TEDPAYSAYISI": 4631234.0,
-      "KISISAYISI": 316.0,
-      "PORTFOYBUYUKLUK": 6063154.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1905,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296353,
-      "TEDPAYSAYISI": 4475428.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 5801734.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1915,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331774,
-      "TEDPAYSAYISI": 4477741.0,
-      "KISISAYISI": 311.0,
-      "PORTFOYBUYUKLUK": 5963338.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1925,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.33609,
-      "TEDPAYSAYISI": 4482319.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 5988783.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1935,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.343279,
-      "TEDPAYSAYISI": 4472884.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 6008332.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1945,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.375742,
-      "TEDPAYSAYISI": 4484829.0,
-      "KISISAYISI": 318.0,
-      "PORTFOYBUYUKLUK": 6169968.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1955,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392075,
-      "TEDPAYSAYISI": 4487911.0,
-      "KISISAYISI": 323.0,
-      "PORTFOYBUYUKLUK": 6247508.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1965,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.420088,
-      "TEDPAYSAYISI": 4629686.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 6574562.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1975,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.421506,
-      "TEDPAYSAYISI": 4773254.0,
-      "KISISAYISI": 348.0,
-      "PORTFOYBUYUKLUK": 6785207.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1985,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.449121,
-      "TEDPAYSAYISI": 6246292.0,
-      "KISISAYISI": 372.0,
-      "PORTFOYBUYUKLUK": 9051633.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1995,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.46481,
-      "TEDPAYSAYISI": 6338225.0,
-      "KISISAYISI": 385.0,
-      "PORTFOYBUYUKLUK": 9284295.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +2005,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.451682,
-      "TEDPAYSAYISI": 7169615.0,
-      "KISISAYISI": 421.0,
-      "PORTFOYBUYUKLUK": 10407999.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +2015,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.45371,
-      "TEDPAYSAYISI": 9630342.0,
-      "KISISAYISI": 464.0,
-      "PORTFOYBUYUKLUK": 13999722.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +2025,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.421829,
-      "TEDPAYSAYISI": 15049715.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 21398126.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +2035,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.405984,
-      "TEDPAYSAYISI": 15603606.0,
-      "KISISAYISI": 538.0,
-      "PORTFOYBUYUKLUK": 21938412.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +2045,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.400864,
-      "TEDPAYSAYISI": 14948796.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 20941228.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +2055,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392327,
-      "TEDPAYSAYISI": 15047951.0,
-      "KISISAYISI": 546.0,
-      "PORTFOYBUYUKLUK": 20951671.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +2065,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.425481,
-      "TEDPAYSAYISI": 15237371.0,
-      "KISISAYISI": 539.0,
-      "PORTFOYBUYUKLUK": 21720588.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +2075,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.41584,
-      "TEDPAYSAYISI": 15752232.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 22302634.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +2085,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.420591,
-      "TEDPAYSAYISI": 12828451.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 18223987.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +2095,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.435136,
-      "TEDPAYSAYISI": 14136978.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 20288484.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +2105,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.467196,
-      "TEDPAYSAYISI": 13970040.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 20496791.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +2115,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.505416,
-      "TEDPAYSAYISI": 14038084.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 21133158.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +2125,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.474629,
-      "TEDPAYSAYISI": 19914308.0,
-      "KISISAYISI": 660.0,
-      "PORTFOYBUYUKLUK": 29366212.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +2135,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.457882,
-      "TEDPAYSAYISI": 25145501.0,
-      "KISISAYISI": 724.0,
-      "PORTFOYBUYUKLUK": 36659181.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +2145,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456457,
-      "TEDPAYSAYISI": 22388333.0,
-      "KISISAYISI": 751.0,
-      "PORTFOYBUYUKLUK": 32607651.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +2155,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.443496,
-      "TEDPAYSAYISI": 21880017.0,
-      "KISISAYISI": 744.0,
-      "PORTFOYBUYUKLUK": 31583727.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +2165,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.451936,
-      "TEDPAYSAYISI": 21791751.0,
-      "KISISAYISI": 749.0,
-      "PORTFOYBUYUKLUK": 31640229.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +2175,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.466892,
-      "TEDPAYSAYISI": 20927297.0,
-      "KISISAYISI": 743.0,
-      "PORTFOYBUYUKLUK": 30698090.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +2185,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.463303,
-      "TEDPAYSAYISI": 20198656.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 29556759.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +2195,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460109,
-      "TEDPAYSAYISI": 20283940.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 29616771.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +2205,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460615,
-      "TEDPAYSAYISI": 20098535.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 29356230.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +2215,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.479929,
-      "TEDPAYSAYISI": 18187097.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 26915608.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +2225,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.485897,
-      "TEDPAYSAYISI": 17376192.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 25819232.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +2235,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.494234,
-      "TEDPAYSAYISI": 15973888.0,
-      "KISISAYISI": 662.0,
-      "PORTFOYBUYUKLUK": 23868720.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +2245,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.510414,
-      "TEDPAYSAYISI": 16817189.0,
-      "KISISAYISI": 660.0,
-      "PORTFOYBUYUKLUK": 25400909.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +2255,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.506093,
-      "TEDPAYSAYISI": 18039428.0,
-      "KISISAYISI": 664.0,
-      "PORTFOYBUYUKLUK": 27169051.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +2265,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.528939,
-      "TEDPAYSAYISI": 17742062.0,
-      "KISISAYISI": 661.0,
-      "PORTFOYBUYUKLUK": 27126522.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +2275,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.526966,
-      "TEDPAYSAYISI": 17432390.0,
-      "KISISAYISI": 668.0,
-      "PORTFOYBUYUKLUK": 26618663.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +2285,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.511863,
-      "TEDPAYSAYISI": 17956292.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 27147454.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +2295,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.509866,
-      "TEDPAYSAYISI": 18325888.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 27669634.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +2305,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.52177,
-      "TEDPAYSAYISI": 17945220.0,
-      "KISISAYISI": 678.0,
-      "PORTFOYBUYUKLUK": 27308498.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +2315,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.513861,
-      "TEDPAYSAYISI": 17751126.0,
-      "KISISAYISI": 673.0,
-      "PORTFOYBUYUKLUK": 26872740.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +2325,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.513975,
-      "TEDPAYSAYISI": 16694116.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 25274470.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +2335,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.521299,
-      "TEDPAYSAYISI": 15934921.0,
-      "KISISAYISI": 655.0,
-      "PORTFOYBUYUKLUK": 24241780.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +2345,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.52236,
-      "TEDPAYSAYISI": 14981618.0,
-      "KISISAYISI": 649.0,
-      "PORTFOYBUYUKLUK": 22807411.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +2355,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.522884,
-      "TEDPAYSAYISI": 14995170.0,
-      "KISISAYISI": 640.0,
-      "PORTFOYBUYUKLUK": 22835900.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +2365,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.49448,
-      "TEDPAYSAYISI": 14932066.0,
-      "KISISAYISI": 637.0,
-      "PORTFOYBUYUKLUK": 22315675.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +2375,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.498529,
-      "TEDPAYSAYISI": 16640967.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 24936966.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +2385,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.503888,
-      "TEDPAYSAYISI": 16393335.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 24653739.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +2395,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.522458,
-      "TEDPAYSAYISI": 15718587.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 23930893.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +2405,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.546108,
-      "TEDPAYSAYISI": 16492932.0,
-      "KISISAYISI": 647.0,
-      "PORTFOYBUYUKLUK": 25499849.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +2415,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.570219,
-      "TEDPAYSAYISI": 16932414.0,
-      "KISISAYISI": 653.0,
-      "PORTFOYBUYUKLUK": 26587593.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +2425,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.561348,
-      "TEDPAYSAYISI": 19769801.0,
-      "KISISAYISI": 702.0,
-      "PORTFOYBUYUKLUK": 30867538.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +2435,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.581788,
-      "TEDPAYSAYISI": 21000348.0,
-      "KISISAYISI": 729.0,
-      "PORTFOYBUYUKLUK": 33218106.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +2445,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.586938,
-      "TEDPAYSAYISI": 22651126.0,
-      "KISISAYISI": 760.0,
-      "PORTFOYBUYUKLUK": 35945932.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +2455,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.602882,
-      "TEDPAYSAYISI": 24027319.0,
-      "KISISAYISI": 786.0,
-      "PORTFOYBUYUKLUK": 38512954.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +2465,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.618618,
-      "TEDPAYSAYISI": 30715345.0,
-      "KISISAYISI": 888.0,
-      "PORTFOYBUYUKLUK": 49716410.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2475,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.611687,
-      "TEDPAYSAYISI": 34411859.0,
-      "KISISAYISI": 953.0,
-      "PORTFOYBUYUKLUK": 55461148.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2485,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.64659,
-      "TEDPAYSAYISI": 36756446.0,
-      "KISISAYISI": 994.0,
-      "PORTFOYBUYUKLUK": 60522783.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2495,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.659961,
-      "TEDPAYSAYISI": 38167120.0,
-      "KISISAYISI": 1019.0,
-      "PORTFOYBUYUKLUK": 63355949.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2505,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.674148,
-      "TEDPAYSAYISI": 37641826.0,
-      "KISISAYISI": 1053.0,
-      "PORTFOYBUYUKLUK": 63018003.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2515,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.678849,
-      "TEDPAYSAYISI": 38675460.0,
-      "KISISAYISI": 1145.0,
-      "PORTFOYBUYUKLUK": 64930262.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2525,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.656889,
-      "TEDPAYSAYISI": 40616597.0,
-      "KISISAYISI": 1200.0,
-      "PORTFOYBUYUKLUK": 67297211.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2535,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.696373,
-      "TEDPAYSAYISI": 40297484.0,
-      "KISISAYISI": 1222.0,
-      "PORTFOYBUYUKLUK": 68359559.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2545,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.713844,
-      "TEDPAYSAYISI": 40053450.0,
-      "KISISAYISI": 1220.0,
-      "PORTFOYBUYUKLUK": 68645363.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2555,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.724124,
-      "TEDPAYSAYISI": 41239982.0,
-      "KISISAYISI": 1240.0,
-      "PORTFOYBUYUKLUK": 71102840.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2565,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.729358,
-      "TEDPAYSAYISI": 43524278.0,
-      "KISISAYISI": 1318.0,
-      "PORTFOYBUYUKLUK": 75269047.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2575,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.73334,
-      "TEDPAYSAYISI": 45367977.0,
-      "KISISAYISI": 1360.0,
-      "PORTFOYBUYUKLUK": 78638116.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2585,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.719627,
-      "TEDPAYSAYISI": 46928403.0,
-      "KISISAYISI": 1392.0,
-      "PORTFOYBUYUKLUK": 80699369.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2595,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.708613,
-      "TEDPAYSAYISI": 50105649.0,
-      "KISISAYISI": 1423.0,
-      "PORTFOYBUYUKLUK": 85611162.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2605,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.701554,
-      "TEDPAYSAYISI": 47875552.0,
-      "KISISAYISI": 1439.0,
-      "PORTFOYBUYUKLUK": 81462838.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2615,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.712932,
-      "TEDPAYSAYISI": 46064597.0,
-      "KISISAYISI": 1420.0,
-      "PORTFOYBUYUKLUK": 78905500.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2625,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.719386,
-      "TEDPAYSAYISI": 47301061.0,
-      "KISISAYISI": 1385.0,
-      "PORTFOYBUYUKLUK": 81328792.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2635,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.717821,
-      "TEDPAYSAYISI": 48049577.0,
-      "KISISAYISI": 1387.0,
-      "PORTFOYBUYUKLUK": 82540549.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2645,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.711,
-      "TEDPAYSAYISI": 49535539.0,
-      "KISISAYISI": 1409.0,
-      "PORTFOYBUYUKLUK": 84755304.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2655,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.742039,
-      "TEDPAYSAYISI": 49475280.0,
-      "KISISAYISI": 1426.0,
-      "PORTFOYBUYUKLUK": 86187850.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2665,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.769148,
-      "TEDPAYSAYISI": 47318812.0,
-      "KISISAYISI": 1460.0,
-      "PORTFOYBUYUKLUK": 83713963.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2675,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.765243,
-      "TEDPAYSAYISI": 48399676.0,
-      "KISISAYISI": 1455.0,
-      "PORTFOYBUYUKLUK": 85437166.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2685,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.784568,
-      "TEDPAYSAYISI": 51792790.0,
-      "KISISAYISI": 1484.0,
-      "PORTFOYBUYUKLUK": 92427757.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2695,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.791242,
-      "TEDPAYSAYISI": 51931328.0,
-      "KISISAYISI": 1495.0,
-      "PORTFOYBUYUKLUK": 93021599.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2705,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.814381,
-      "TEDPAYSAYISI": 51244425.0,
-      "KISISAYISI": 1505.0,
-      "PORTFOYBUYUKLUK": 92976885.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2715,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.833237,
-      "TEDPAYSAYISI": 52839620.0,
-      "KISISAYISI": 1568.0,
-      "PORTFOYBUYUKLUK": 96867554.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2725,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.803852,
-      "TEDPAYSAYISI": 55294697.0,
-      "KISISAYISI": 1608.0,
-      "PORTFOYBUYUKLUK": 99743440.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2735,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.741046,
-      "TEDPAYSAYISI": 56668717.0,
-      "KISISAYISI": 1658.0,
-      "PORTFOYBUYUKLUK": 98662838.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2745,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.762087,
-      "TEDPAYSAYISI": 54232286.0,
-      "KISISAYISI": 1705.0,
-      "PORTFOYBUYUKLUK": 95561983.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2755,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.780111,
-      "TEDPAYSAYISI": 52374452.0,
-      "KISISAYISI": 1686.0,
-      "PORTFOYBUYUKLUK": 93232362.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2765,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.780438,
-      "TEDPAYSAYISI": 51949604.0,
-      "KISISAYISI": 1680.0,
-      "PORTFOYBUYUKLUK": 92493058.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2775,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.742164,
-      "TEDPAYSAYISI": 50299712.0,
-      "KISISAYISI": 1679.0,
-      "PORTFOYBUYUKLUK": 87630339.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2785,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.723346,
-      "TEDPAYSAYISI": 48170126.0,
-      "KISISAYISI": 1675.0,
-      "PORTFOYBUYUKLUK": 83013814.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2795,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.706304,
-      "TEDPAYSAYISI": 46388924.0,
-      "KISISAYISI": 1657.0,
-      "PORTFOYBUYUKLUK": 79153593.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2805,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.656527,
-      "TEDPAYSAYISI": 44463714.0,
-      "KISISAYISI": 1609.0,
-      "PORTFOYBUYUKLUK": 73655361.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2815,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.631419,
-      "TEDPAYSAYISI": 39882362.0,
-      "KISISAYISI": 1584.0,
-      "PORTFOYBUYUKLUK": 65064853.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2825,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.650956,
-      "TEDPAYSAYISI": 38737834.0,
-      "KISISAYISI": 1519.0,
-      "PORTFOYBUYUKLUK": 63954475.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2835,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.661115,
-      "TEDPAYSAYISI": 36993511.0,
-      "KISISAYISI": 1488.0,
-      "PORTFOYBUYUKLUK": 61450473.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2845,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.628092,
-      "TEDPAYSAYISI": 41058398.0,
-      "KISISAYISI": 1463.0,
-      "PORTFOYBUYUKLUK": 66846846.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2855,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.620738,
-      "TEDPAYSAYISI": 40933978.0,
-      "KISISAYISI": 1457.0,
-      "PORTFOYBUYUKLUK": 66343265.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2865,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.677512,
-      "TEDPAYSAYISI": 39235815.0,
-      "KISISAYISI": 1450.0,
-      "PORTFOYBUYUKLUK": 65818568.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2875,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.669126,
-      "TEDPAYSAYISI": 38993714.0,
-      "KISISAYISI": 1406.0,
-      "PORTFOYBUYUKLUK": 65085425.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2885,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.677383,
-      "TEDPAYSAYISI": 38727019.0,
-      "KISISAYISI": 1393.0,
-      "PORTFOYBUYUKLUK": 64960027.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2895,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.66196,
-      "TEDPAYSAYISI": 36541624.0,
-      "KISISAYISI": 1385.0,
-      "PORTFOYBUYUKLUK": 60730703.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2905,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.659864,
-      "TEDPAYSAYISI": 36536246.0,
-      "KISISAYISI": 1373.0,
-      "PORTFOYBUYUKLUK": 60645186.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2915,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.686624,
-      "TEDPAYSAYISI": 36044161.0,
-      "KISISAYISI": 1383.0,
-      "PORTFOYBUYUKLUK": 60792939.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2925,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.672096,
-      "TEDPAYSAYISI": 35956884.0,
-      "KISISAYISI": 1361.0,
-      "PORTFOYBUYUKLUK": 60123348.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2935,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.681259,
-      "TEDPAYSAYISI": 35693680.0,
-      "KISISAYISI": 1361.0,
-      "PORTFOYBUYUKLUK": 60010308.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2945,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.715148,
-      "TEDPAYSAYISI": 35595956.0,
-      "KISISAYISI": 1363.0,
-      "PORTFOYBUYUKLUK": 61052340.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2955,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.694041,
-      "TEDPAYSAYISI": 35023537.0,
-      "KISISAYISI": 1372.0,
-      "PORTFOYBUYUKLUK": 59331297.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2965,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.717803,
-      "TEDPAYSAYISI": 34735405.0,
-      "KISISAYISI": 1356.0,
-      "PORTFOYBUYUKLUK": 59668569.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2975,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.716458,
-      "TEDPAYSAYISI": 34325490.0,
-      "KISISAYISI": 1346.0,
-      "PORTFOYBUYUKLUK": 58918261.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2985,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.689517,
-      "TEDPAYSAYISI": 34205445.0,
-      "KISISAYISI": 1325.0,
-      "PORTFOYBUYUKLUK": 57790665.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2995,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.686545,
-      "TEDPAYSAYISI": 34210082.0,
-      "KISISAYISI": 1311.0,
-      "PORTFOYBUYUKLUK": 57696849.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +3005,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.73561,
-      "TEDPAYSAYISI": 33583505.0,
-      "KISISAYISI": 1302.0,
-      "PORTFOYBUYUKLUK": 58287880.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +3015,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.767424,
-      "TEDPAYSAYISI": 33245776.0,
-      "KISISAYISI": 1282.0,
-      "PORTFOYBUYUKLUK": 58759381.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +3025,9 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.78348,
-      "TEDPAYSAYISI": 32152480.0,
-      "KISISAYISI": 1272.0,
-      "PORTFOYBUYUKLUK": 57343319.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +3035,139 @@
       "FONKODU": "MHF",
       "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.772563,
-      "TEDPAYSAYISI": 32226613.0,
-      "KISISAYISI": 1265.0,
-      "PORTFOYBUYUKLUK": 57123697.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.786979,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.75948,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.807895,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.833953,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.882636,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.870484,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.877386,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.886563,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.889393,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.941327,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.946289,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.950899,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "MHF",
+      "FONUNVAN": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.970023,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

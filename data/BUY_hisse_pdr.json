@@ -1,29 +1,144 @@
 {
   "kod": "BUY",
-  "guncelleme": "2026-04-08T18:20:15Z",
+  "guncelleme": "2026-04-26T18:21:55Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY BÜYÜYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/buy-ak-portfoy-buyuyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.67
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.3
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 2.86
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.17
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 9.65
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 9.14
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.96
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 8.26
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.96
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.88
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 4.65
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.62
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.48
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 3.27
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 2.17
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "MEGMT",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 1.32
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "EGPRO",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.59
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 0.08
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.04.2026 18:39:24",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d537cbf344e47"
 }

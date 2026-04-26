@@ -1,25 +1,109 @@
 {
   "kod": "HVZ",
-  "guncelleme": "2026-04-08T18:22:58Z",
+  "guncelleme": "2026-04-26T18:32:25Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvz-allbatross-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.7
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.08
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 11.22
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 8.6
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 8.42
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 8.17
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 5.42
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.96
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 4.88
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.87
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 4.76
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 2.96
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 11:19:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e65df9c2a44"
 }

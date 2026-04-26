@@ -1,25 +1,129 @@
 {
   "kod": "SRL",
-  "guncelleme": "2026-04-08T18:27:10Z",
+  "guncelleme": "2026-04-26T18:34:20Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/srl-pardus-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 86.62
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.51
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 12.87
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.25
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.22
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 6.17
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 6.14
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 6.12
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.09
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.07
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "BTCIM",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.17
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.07
+    },
+    {
+      "ticker": "CONSE",
+      "ad": "",
+      "agirlik": 2.07
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.87
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e969afb3327"
 }

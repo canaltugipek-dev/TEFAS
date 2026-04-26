@@ -2,22 +2,102 @@
   "fon_kodu": "HRZ",
   "fon_unvan": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 375,
-  "gun_kapsami": 543,
+  "kayit_sayisi": 396,
+  "gun_kapsami": 571,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1727654400000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727740800000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727827200000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1727913600000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728000000000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728259200000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728345600000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1728432000000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1728518400000",
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +105,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000281,
-      "TEDPAYSAYISI": 3067064.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 3067924.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +115,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992739,
-      "TEDPAYSAYISI": 3115281.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 3092661.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +125,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974794,
-      "TEDPAYSAYISI": 3328937.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 3245026.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +135,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993056,
-      "TEDPAYSAYISI": 2890005.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 2869938.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +145,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003916,
-      "TEDPAYSAYISI": 3447470.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 3460971.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +155,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015425,
-      "TEDPAYSAYISI": 3455377.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 3508675.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +165,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001453,
-      "TEDPAYSAYISI": 3481825.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 3486882.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +175,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992576,
-      "TEDPAYSAYISI": 3508221.0,
-      "KISISAYISI": 240.0,
-      "PORTFOYBUYUKLUK": 3482174.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +185,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015748,
-      "TEDPAYSAYISI": 3531159.0,
-      "KISISAYISI": 243.0,
-      "PORTFOYBUYUKLUK": 3586767.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +195,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008779,
-      "TEDPAYSAYISI": 3526525.0,
-      "KISISAYISI": 243.0,
-      "PORTFOYBUYUKLUK": 3557484.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +205,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029131,
-      "TEDPAYSAYISI": 3874521.0,
-      "KISISAYISI": 247.0,
-      "PORTFOYBUYUKLUK": 3987389.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +215,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040435,
-      "TEDPAYSAYISI": 3873894.0,
-      "KISISAYISI": 247.0,
-      "PORTFOYBUYUKLUK": 4030534.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +225,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058368,
-      "TEDPAYSAYISI": 3873380.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 4099461.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +235,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073245,
-      "TEDPAYSAYISI": 4084365.0,
-      "KISISAYISI": 302.0,
-      "PORTFOYBUYUKLUK": 4383523.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +245,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074984,
-      "TEDPAYSAYISI": 4780744.0,
-      "KISISAYISI": 365.0,
-      "PORTFOYBUYUKLUK": 5139224.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +255,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079523,
-      "TEDPAYSAYISI": 6236400.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 6732339.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +265,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055011,
-      "TEDPAYSAYISI": 6653202.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 7019198.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +275,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047171,
-      "TEDPAYSAYISI": 7964507.0,
-      "KISISAYISI": 454.0,
-      "PORTFOYBUYUKLUK": 8340197.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +285,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070034,
-      "TEDPAYSAYISI": 8069567.0,
-      "KISISAYISI": 455.0,
-      "PORTFOYBUYUKLUK": 8634707.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +295,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073699,
-      "TEDPAYSAYISI": 7773924.0,
-      "KISISAYISI": 453.0,
-      "PORTFOYBUYUKLUK": 8346854.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +305,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086782,
-      "TEDPAYSAYISI": 7881593.0,
-      "KISISAYISI": 454.0,
-      "PORTFOYBUYUKLUK": 8565575.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +315,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100898,
-      "TEDPAYSAYISI": 7804900.0,
-      "KISISAYISI": 478.0,
-      "PORTFOYBUYUKLUK": 8592401.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +325,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089541,
-      "TEDPAYSAYISI": 8234739.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 8972085.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +335,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088663,
-      "TEDPAYSAYISI": 8427095.0,
-      "KISISAYISI": 549.0,
-      "PORTFOYBUYUKLUK": 9174267.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +345,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097954,
-      "TEDPAYSAYISI": 8783119.0,
-      "KISISAYISI": 551.0,
-      "PORTFOYBUYUKLUK": 9643458.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +355,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094327,
-      "TEDPAYSAYISI": 8642098.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 9457284.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +365,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099123,
-      "TEDPAYSAYISI": 8844334.0,
-      "KISISAYISI": 583.0,
-      "PORTFOYBUYUKLUK": 9721014.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +375,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087967,
-      "TEDPAYSAYISI": 9185822.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 9993867.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +385,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070955,
-      "TEDPAYSAYISI": 9207691.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 9861020.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +395,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092837,
-      "TEDPAYSAYISI": 9048209.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 9888216.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +405,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103857,
-      "TEDPAYSAYISI": 8809330.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 9724240.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +415,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111741,
-      "TEDPAYSAYISI": 8495372.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 9444651.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +425,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115201,
-      "TEDPAYSAYISI": 8696933.0,
-      "KISISAYISI": 586.0,
-      "PORTFOYBUYUKLUK": 9698826.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +435,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102177,
-      "TEDPAYSAYISI": 8553658.0,
-      "KISISAYISI": 583.0,
-      "PORTFOYBUYUKLUK": 9427644.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +445,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10933,
-      "TEDPAYSAYISI": 8633114.0,
-      "KISISAYISI": 586.0,
-      "PORTFOYBUYUKLUK": 9576968.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +455,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122298,
-      "TEDPAYSAYISI": 8650781.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 9708754.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +465,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133858,
-      "TEDPAYSAYISI": 8632639.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 9788182.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +475,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136428,
-      "TEDPAYSAYISI": 8621300.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 9797486.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +485,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133151,
-      "TEDPAYSAYISI": 8127810.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 9210035.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +495,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133551,
-      "TEDPAYSAYISI": 8213045.0,
-      "KISISAYISI": 614.0,
-      "PORTFOYBUYUKLUK": 9309903.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +505,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140338,
-      "TEDPAYSAYISI": 8229127.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 9383984.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +515,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162858,
-      "TEDPAYSAYISI": 8057203.0,
-      "KISISAYISI": 650.0,
-      "PORTFOYBUYUKLUK": 9369379.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +525,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157572,
-      "TEDPAYSAYISI": 8079925.0,
-      "KISISAYISI": 664.0,
-      "PORTFOYBUYUKLUK": 9353095.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +535,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141396,
-      "TEDPAYSAYISI": 8189489.0,
-      "KISISAYISI": 703.0,
-      "PORTFOYBUYUKLUK": 9347448.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +545,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150516,
-      "TEDPAYSAYISI": 8103132.0,
-      "KISISAYISI": 754.0,
-      "PORTFOYBUYUKLUK": 9322784.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +555,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161662,
-      "TEDPAYSAYISI": 8192877.0,
-      "KISISAYISI": 783.0,
-      "PORTFOYBUYUKLUK": 9517356.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +565,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16703,
-      "TEDPAYSAYISI": 8354926.0,
-      "KISISAYISI": 841.0,
-      "PORTFOYBUYUKLUK": 9750445.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +575,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159028,
-      "TEDPAYSAYISI": 9436926.0,
-      "KISISAYISI": 880.0,
-      "PORTFOYBUYUKLUK": 10937665.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +585,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142834,
-      "TEDPAYSAYISI": 9866294.0,
-      "KISISAYISI": 902.0,
-      "PORTFOYBUYUKLUK": 11275535.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +595,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132751,
-      "TEDPAYSAYISI": 9068239.0,
-      "KISISAYISI": 910.0,
-      "PORTFOYBUYUKLUK": 10272059.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +605,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133516,
-      "TEDPAYSAYISI": 8858838.0,
-      "KISISAYISI": 887.0,
-      "PORTFOYBUYUKLUK": 10041635.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +615,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125269,
-      "TEDPAYSAYISI": 8753160.0,
-      "KISISAYISI": 882.0,
-      "PORTFOYBUYUKLUK": 9849659.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +625,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124128,
-      "TEDPAYSAYISI": 8688074.0,
-      "KISISAYISI": 872.0,
-      "PORTFOYBUYUKLUK": 9766506.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +635,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132431,
-      "TEDPAYSAYISI": 8501994.0,
-      "KISISAYISI": 859.0,
-      "PORTFOYBUYUKLUK": 9627925.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +645,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135548,
-      "TEDPAYSAYISI": 8498175.0,
-      "KISISAYISI": 848.0,
-      "PORTFOYBUYUKLUK": 9650089.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +655,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145744,
-      "TEDPAYSAYISI": 8506946.0,
-      "KISISAYISI": 847.0,
-      "PORTFOYBUYUKLUK": 9746778.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +665,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145062,
-      "TEDPAYSAYISI": 8497991.0,
-      "KISISAYISI": 865.0,
-      "PORTFOYBUYUKLUK": 9730730.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +675,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149893,
-      "TEDPAYSAYISI": 8511329.0,
-      "KISISAYISI": 872.0,
-      "PORTFOYBUYUKLUK": 9787116.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +685,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168056,
-      "TEDPAYSAYISI": 8536817.0,
-      "KISISAYISI": 884.0,
-      "PORTFOYBUYUKLUK": 9971480.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +695,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175162,
-      "TEDPAYSAYISI": 8503464.0,
-      "KISISAYISI": 887.0,
-      "PORTFOYBUYUKLUK": 9992947.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +705,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186806,
-      "TEDPAYSAYISI": 8628735.0,
-      "KISISAYISI": 908.0,
-      "PORTFOYBUYUKLUK": 10240630.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +715,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182154,
-      "TEDPAYSAYISI": 8791436.0,
-      "KISISAYISI": 923.0,
-      "PORTFOYBUYUKLUK": 10392833.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +725,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170561,
-      "TEDPAYSAYISI": 9123326.0,
-      "KISISAYISI": 943.0,
-      "PORTFOYBUYUKLUK": 10679406.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +735,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180562,
-      "TEDPAYSAYISI": 10897131.0,
-      "KISISAYISI": 953.0,
-      "PORTFOYBUYUKLUK": 12864734.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +745,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174348,
-      "TEDPAYSAYISI": 10883507.0,
-      "KISISAYISI": 953.0,
-      "PORTFOYBUYUKLUK": 12781023.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +755,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155882,
-      "TEDPAYSAYISI": 12212700.0,
-      "KISISAYISI": 969.0,
-      "PORTFOYBUYUKLUK": 14116440.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +765,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157836,
-      "TEDPAYSAYISI": 12040108.0,
-      "KISISAYISI": 963.0,
-      "PORTFOYBUYUKLUK": 13940466.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +775,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152853,
-      "TEDPAYSAYISI": 12758222.0,
-      "KISISAYISI": 962.0,
-      "PORTFOYBUYUKLUK": 14708355.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +785,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168911,
-      "TEDPAYSAYISI": 12749505.0,
-      "KISISAYISI": 966.0,
-      "PORTFOYBUYUKLUK": 14903037.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +795,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175008,
-      "TEDPAYSAYISI": 12723604.0,
-      "KISISAYISI": 969.0,
-      "PORTFOYBUYUKLUK": 14950334.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +805,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182589,
-      "TEDPAYSAYISI": 11707269.0,
-      "KISISAYISI": 976.0,
-      "PORTFOYBUYUKLUK": 13844883.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +815,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163008,
-      "TEDPAYSAYISI": 10638674.0,
-      "KISISAYISI": 969.0,
-      "PORTFOYBUYUKLUK": 12372867.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +825,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16772,
-      "TEDPAYSAYISI": 10692468.0,
-      "KISISAYISI": 967.0,
-      "PORTFOYBUYUKLUK": 12485812.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +835,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166613,
-      "TEDPAYSAYISI": 10695433.0,
-      "KISISAYISI": 972.0,
-      "PORTFOYBUYUKLUK": 12477427.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +845,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155943,
-      "TEDPAYSAYISI": 10717835.0,
-      "KISISAYISI": 971.0,
-      "PORTFOYBUYUKLUK": 12389211.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +855,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133839,
-      "TEDPAYSAYISI": 10210264.0,
-      "KISISAYISI": 967.0,
-      "PORTFOYBUYUKLUK": 11576796.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +865,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13897,
-      "TEDPAYSAYISI": 9920367.0,
-      "KISISAYISI": 943.0,
-      "PORTFOYBUYUKLUK": 11298996.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +875,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122589,
-      "TEDPAYSAYISI": 9771324.0,
-      "KISISAYISI": 943.0,
-      "PORTFOYBUYUKLUK": 10969181.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +885,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119689,
-      "TEDPAYSAYISI": 9759988.0,
-      "KISISAYISI": 930.0,
-      "PORTFOYBUYUKLUK": 10928148.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +895,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121254,
-      "TEDPAYSAYISI": 9716843.0,
-      "KISISAYISI": 922.0,
-      "PORTFOYBUYUKLUK": 10895053.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +905,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102103,
-      "TEDPAYSAYISI": 9450026.0,
-      "KISISAYISI": 917.0,
-      "PORTFOYBUYUKLUK": 10414900.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +915,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107053,
-      "TEDPAYSAYISI": 9326834.0,
-      "KISISAYISI": 913.0,
-      "PORTFOYBUYUKLUK": 10325299.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +925,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08385,
-      "TEDPAYSAYISI": 9312255.0,
-      "KISISAYISI": 896.0,
-      "PORTFOYBUYUKLUK": 10093084.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +935,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095371,
-      "TEDPAYSAYISI": 9259069.0,
-      "KISISAYISI": 892.0,
-      "PORTFOYBUYUKLUK": 10142118.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +945,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106433,
-      "TEDPAYSAYISI": 8713930.0,
-      "KISISAYISI": 892.0,
-      "PORTFOYBUYUKLUK": 9641375.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +955,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100708,
-      "TEDPAYSAYISI": 9021543.0,
-      "KISISAYISI": 886.0,
-      "PORTFOYBUYUKLUK": 9930083.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +965,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099912,
-      "TEDPAYSAYISI": 8986311.0,
-      "KISISAYISI": 889.0,
-      "PORTFOYBUYUKLUK": 9884153.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +975,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088529,
-      "TEDPAYSAYISI": 8974539.0,
-      "KISISAYISI": 887.0,
-      "PORTFOYBUYUKLUK": 9769046.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +985,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090941,
-      "TEDPAYSAYISI": 8870335.0,
-      "KISISAYISI": 880.0,
-      "PORTFOYBUYUKLUK": 9677009.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +995,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09223,
-      "TEDPAYSAYISI": 8862162.0,
-      "KISISAYISI": 866.0,
-      "PORTFOYBUYUKLUK": 9679517.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1005,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093198,
-      "TEDPAYSAYISI": 8752676.0,
-      "KISISAYISI": 869.0,
-      "PORTFOYBUYUKLUK": 9568409.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1015,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089757,
-      "TEDPAYSAYISI": 8783390.0,
-      "KISISAYISI": 870.0,
-      "PORTFOYBUYUKLUK": 9571761.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1025,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073546,
-      "TEDPAYSAYISI": 8727186.0,
-      "KISISAYISI": 857.0,
-      "PORTFOYBUYUKLUK": 9369031.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1035,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081622,
-      "TEDPAYSAYISI": 8719671.0,
-      "KISISAYISI": 844.0,
-      "PORTFOYBUYUKLUK": 9431391.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1045,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077438,
-      "TEDPAYSAYISI": 8497292.0,
-      "KISISAYISI": 834.0,
-      "PORTFOYBUYUKLUK": 9155307.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1055,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098037,
-      "TEDPAYSAYISI": 8404351.0,
-      "KISISAYISI": 828.0,
-      "PORTFOYBUYUKLUK": 9228289.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1065,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091308,
-      "TEDPAYSAYISI": 8332747.0,
-      "KISISAYISI": 829.0,
-      "PORTFOYBUYUKLUK": 9093591.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1075,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101452,
-      "TEDPAYSAYISI": 8341919.0,
-      "KISISAYISI": 819.0,
-      "PORTFOYBUYUKLUK": 9188222.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1085,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124162,
-      "TEDPAYSAYISI": 8339443.0,
-      "KISISAYISI": 814.0,
-      "PORTFOYBUYUKLUK": 9374887.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1095,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14221,
-      "TEDPAYSAYISI": 8336331.0,
-      "KISISAYISI": 811.0,
-      "PORTFOYBUYUKLUK": 9521843.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1105,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151236,
-      "TEDPAYSAYISI": 8352415.0,
-      "KISISAYISI": 810.0,
-      "PORTFOYBUYUKLUK": 9615598.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1115,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161825,
-      "TEDPAYSAYISI": 6753854.0,
-      "KISISAYISI": 822.0,
-      "PORTFOYBUYUKLUK": 7846796.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1125,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169689,
-      "TEDPAYSAYISI": 6932080.0,
-      "KISISAYISI": 821.0,
-      "PORTFOYBUYUKLUK": 8108374.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1135,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194913,
-      "TEDPAYSAYISI": 15506610.0,
-      "KISISAYISI": 820.0,
-      "PORTFOYBUYUKLUK": 18529052.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1145,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210845,
-      "TEDPAYSAYISI": 15596527.0,
-      "KISISAYISI": 829.0,
-      "PORTFOYBUYUKLUK": 18884975.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1155,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237247,
-      "TEDPAYSAYISI": 15548866.0,
-      "KISISAYISI": 824.0,
-      "PORTFOYBUYUKLUK": 19237783.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1165,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226468,
-      "TEDPAYSAYISI": 15770449.0,
-      "KISISAYISI": 826.0,
-      "PORTFOYBUYUKLUK": 19341952.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1175,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.215615,
-      "TEDPAYSAYISI": 15467100.0,
-      "KISISAYISI": 839.0,
-      "PORTFOYBUYUKLUK": 18802041.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1185,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233335,
-      "TEDPAYSAYISI": 15497694.0,
-      "KISISAYISI": 848.0,
-      "PORTFOYBUYUKLUK": 19113849.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1195,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235686,
-      "TEDPAYSAYISI": 15541249.0,
-      "KISISAYISI": 850.0,
-      "PORTFOYBUYUKLUK": 19204105.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1205,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237182,
-      "TEDPAYSAYISI": 15694937.0,
-      "KISISAYISI": 850.0,
-      "PORTFOYBUYUKLUK": 19417493.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1215,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242638,
-      "TEDPAYSAYISI": 15684157.0,
-      "KISISAYISI": 857.0,
-      "PORTFOYBUYUKLUK": 19489728.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1225,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13428,
-      "TEDPAYSAYISI": 15494190.0,
-      "KISISAYISI": 846.0,
-      "PORTFOYBUYUKLUK": 17574750.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1235,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143421,
-      "TEDPAYSAYISI": 15352772.0,
-      "KISISAYISI": 845.0,
-      "PORTFOYBUYUKLUK": 17554678.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1245,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078315,
-      "TEDPAYSAYISI": 15445286.0,
-      "KISISAYISI": 840.0,
-      "PORTFOYBUYUKLUK": 16654883.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1255,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100325,
-      "TEDPAYSAYISI": 15098534.0,
-      "KISISAYISI": 840.0,
-      "PORTFOYBUYUKLUK": 16613288.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1265,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132328,
-      "TEDPAYSAYISI": 17001586.0,
-      "KISISAYISI": 825.0,
-      "PORTFOYBUYUKLUK": 19251373.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1275,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137721,
-      "TEDPAYSAYISI": 16878652.0,
-      "KISISAYISI": 812.0,
-      "PORTFOYBUYUKLUK": 19203190.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1285,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137549,
-      "TEDPAYSAYISI": 16849003.0,
-      "KISISAYISI": 812.0,
-      "PORTFOYBUYUKLUK": 19166563.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1295,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146437,
-      "TEDPAYSAYISI": 16848808.0,
-      "KISISAYISI": 808.0,
-      "PORTFOYBUYUKLUK": 19316091.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1305,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163679,
-      "TEDPAYSAYISI": 16840537.0,
-      "KISISAYISI": 804.0,
-      "PORTFOYBUYUKLUK": 19596973.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1315,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165925,
-      "TEDPAYSAYISI": 16801919.0,
-      "KISISAYISI": 803.0,
-      "PORTFOYBUYUKLUK": 19589783.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1325,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158888,
-      "TEDPAYSAYISI": 16803961.0,
-      "KISISAYISI": 791.0,
-      "PORTFOYBUYUKLUK": 19473906.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1335,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157296,
-      "TEDPAYSAYISI": 16829401.0,
-      "KISISAYISI": 790.0,
-      "PORTFOYBUYUKLUK": 19476592.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1345,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179447,
-      "TEDPAYSAYISI": 16733789.0,
-      "KISISAYISI": 789.0,
-      "PORTFOYBUYUKLUK": 19736623.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1355,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179223,
-      "TEDPAYSAYISI": 16724985.0,
-      "KISISAYISI": 779.0,
-      "PORTFOYBUYUKLUK": 19722487.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1365,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194608,
-      "TEDPAYSAYISI": 16822182.0,
-      "KISISAYISI": 772.0,
-      "PORTFOYBUYUKLUK": 20095905.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1375,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.20068,
-      "TEDPAYSAYISI": 15118781.0,
-      "KISISAYISI": 771.0,
-      "PORTFOYBUYUKLUK": 18152822.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1385,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217758,
-      "TEDPAYSAYISI": 15093315.0,
-      "KISISAYISI": 767.0,
-      "PORTFOYBUYUKLUK": 18379997.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1395,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216562,
-      "TEDPAYSAYISI": 15148227.0,
-      "KISISAYISI": 763.0,
-      "PORTFOYBUYUKLUK": 18428763.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1405,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201768,
-      "TEDPAYSAYISI": 16930697.0,
-      "KISISAYISI": 766.0,
-      "PORTFOYBUYUKLUK": 20346769.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1415,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229493,
-      "TEDPAYSAYISI": 16895866.0,
-      "KISISAYISI": 763.0,
-      "PORTFOYBUYUKLUK": 20773352.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1425,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218334,
-      "TEDPAYSAYISI": 16896436.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 20585497.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1435,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209714,
-      "TEDPAYSAYISI": 16915508.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 20462930.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1445,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.203863,
-      "TEDPAYSAYISI": 16859185.0,
-      "KISISAYISI": 755.0,
-      "PORTFOYBUYUKLUK": 20296151.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1455,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208678,
-      "TEDPAYSAYISI": 16933978.0,
-      "KISISAYISI": 760.0,
-      "PORTFOYBUYUKLUK": 20467730.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1465,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214477,
-      "TEDPAYSAYISI": 17378765.0,
-      "KISISAYISI": 761.0,
-      "PORTFOYBUYUKLUK": 21106114.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1475,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207715,
-      "TEDPAYSAYISI": 17184948.0,
-      "KISISAYISI": 761.0,
-      "PORTFOYBUYUKLUK": 20754517.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1485,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197339,
-      "TEDPAYSAYISI": 16778926.0,
-      "KISISAYISI": 766.0,
-      "PORTFOYBUYUKLUK": 20090055.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1495,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177022,
-      "TEDPAYSAYISI": 16797998.0,
-      "KISISAYISI": 767.0,
-      "PORTFOYBUYUKLUK": 19771605.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1505,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199454,
-      "TEDPAYSAYISI": 16859120.0,
-      "KISISAYISI": 768.0,
-      "PORTFOYBUYUKLUK": 20221743.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1515,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206325,
-      "TEDPAYSAYISI": 16805013.0,
-      "KISISAYISI": 769.0,
-      "PORTFOYBUYUKLUK": 20272314.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1525,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216525,
-      "TEDPAYSAYISI": 16704576.0,
-      "KISISAYISI": 771.0,
-      "PORTFOYBUYUKLUK": 20321537.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1535,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205604,
-      "TEDPAYSAYISI": 16698512.0,
-      "KISISAYISI": 765.0,
-      "PORTFOYBUYUKLUK": 20131800.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1545,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225853,
-      "TEDPAYSAYISI": 17101626.0,
-      "KISISAYISI": 761.0,
-      "PORTFOYBUYUKLUK": 20964081.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1555,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23691,
-      "TEDPAYSAYISI": 17078813.0,
-      "KISISAYISI": 759.0,
-      "PORTFOYBUYUKLUK": 21124961.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1565,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256236,
-      "TEDPAYSAYISI": 17067809.0,
-      "KISISAYISI": 749.0,
-      "PORTFOYBUYUKLUK": 21441191.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1575,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255728,
-      "TEDPAYSAYISI": 17089791.0,
-      "KISISAYISI": 750.0,
-      "PORTFOYBUYUKLUK": 21460122.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1585,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248602,
-      "TEDPAYSAYISI": 17115051.0,
-      "KISISAYISI": 751.0,
-      "PORTFOYBUYUKLUK": 21369890.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1595,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262628,
-      "TEDPAYSAYISI": 17202304.0,
-      "KISISAYISI": 757.0,
-      "PORTFOYBUYUKLUK": 21720106.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1605,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276179,
-      "TEDPAYSAYISI": 17255025.0,
-      "KISISAYISI": 757.0,
-      "PORTFOYBUYUKLUK": 22020504.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1615,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280173,
-      "TEDPAYSAYISI": 17105218.0,
-      "KISISAYISI": 759.0,
-      "PORTFOYBUYUKLUK": 21897637.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1625,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279771,
-      "TEDPAYSAYISI": 17273393.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 22105985.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1635,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289751,
-      "TEDPAYSAYISI": 18159869.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 23421713.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1645,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269685,
-      "TEDPAYSAYISI": 18161957.0,
-      "KISISAYISI": 755.0,
-      "PORTFOYBUYUKLUK": 23059967.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1655,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26722,
-      "TEDPAYSAYISI": 18115397.0,
-      "KISISAYISI": 755.0,
-      "PORTFOYBUYUKLUK": 22956196.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1665,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.247931,
-      "TEDPAYSAYISI": 17176009.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 21434478.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1675,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232942,
-      "TEDPAYSAYISI": 17179619.0,
-      "KISISAYISI": 755.0,
-      "PORTFOYBUYUKLUK": 21181467.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1685,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232106,
-      "TEDPAYSAYISI": 17305915.0,
-      "KISISAYISI": 754.0,
-      "PORTFOYBUYUKLUK": 21322723.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1695,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224586,
-      "TEDPAYSAYISI": 17310287.0,
-      "KISISAYISI": 750.0,
-      "PORTFOYBUYUKLUK": 21197932.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1705,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202664,
-      "TEDPAYSAYISI": 17326869.0,
-      "KISISAYISI": 748.0,
-      "PORTFOYBUYUKLUK": 20838400.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1715,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226489,
-      "TEDPAYSAYISI": 17333588.0,
-      "KISISAYISI": 747.0,
-      "PORTFOYBUYUKLUK": 21259458.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1725,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251513,
-      "TEDPAYSAYISI": 17363595.0,
-      "KISISAYISI": 745.0,
-      "PORTFOYBUYUKLUK": 21730757.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1735,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253203,
-      "TEDPAYSAYISI": 17336956.0,
-      "KISISAYISI": 745.0,
-      "PORTFOYBUYUKLUK": 21726717.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1745,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.275385,
-      "TEDPAYSAYISI": 17346315.0,
-      "KISISAYISI": 740.0,
-      "PORTFOYBUYUKLUK": 22123225.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1755,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27134,
-      "TEDPAYSAYISI": 17405112.0,
-      "KISISAYISI": 741.0,
-      "PORTFOYBUYUKLUK": 22127822.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1765,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236057,
-      "TEDPAYSAYISI": 8924018.0,
-      "KISISAYISI": 737.0,
-      "PORTFOYBUYUKLUK": 11030592.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1775,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213624,
-      "TEDPAYSAYISI": 17557625.0,
-      "KISISAYISI": 740.0,
-      "PORTFOYBUYUKLUK": 21308362.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1785,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217461,
-      "TEDPAYSAYISI": 17580746.0,
-      "KISISAYISI": 738.0,
-      "PORTFOYBUYUKLUK": 21403879.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1795,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218552,
-      "TEDPAYSAYISI": 17509683.0,
-      "KISISAYISI": 737.0,
-      "PORTFOYBUYUKLUK": 21336462.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1805,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.21021,
-      "TEDPAYSAYISI": 17005247.0,
-      "KISISAYISI": 731.0,
-      "PORTFOYBUYUKLUK": 20579916.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1815,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206947,
-      "TEDPAYSAYISI": 16938949.0,
-      "KISISAYISI": 727.0,
-      "PORTFOYBUYUKLUK": 20444417.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1825,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214587,
-      "TEDPAYSAYISI": 16888286.0,
-      "KISISAYISI": 724.0,
-      "PORTFOYBUYUKLUK": 20512295.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1835,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207176,
-      "TEDPAYSAYISI": 16910193.0,
-      "KISISAYISI": 725.0,
-      "PORTFOYBUYUKLUK": 20413584.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1845,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225445,
-      "TEDPAYSAYISI": 16881124.0,
-      "KISISAYISI": 727.0,
-      "PORTFOYBUYUKLUK": 20686892.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1855,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233533,
-      "TEDPAYSAYISI": 16898666.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 20845058.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1865,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236873,
-      "TEDPAYSAYISI": 16887598.0,
-      "KISISAYISI": 717.0,
-      "PORTFOYBUYUKLUK": 20887808.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1875,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245475,
-      "TEDPAYSAYISI": 16891064.0,
-      "KISISAYISI": 711.0,
-      "PORTFOYBUYUKLUK": 21037400.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1885,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.270244,
-      "TEDPAYSAYISI": 16925628.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 21499673.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1895,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282839,
-      "TEDPAYSAYISI": 16965684.0,
-      "KISISAYISI": 717.0,
-      "PORTFOYBUYUKLUK": 21764246.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1905,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.284384,
-      "TEDPAYSAYISI": 16990569.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 21822406.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1915,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291715,
-      "TEDPAYSAYISI": 17029019.0,
-      "KISISAYISI": 722.0,
-      "PORTFOYBUYUKLUK": 21996633.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1925,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295681,
-      "TEDPAYSAYISI": 17028710.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 22063779.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1935,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280156,
-      "TEDPAYSAYISI": 16963891.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 21716432.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1945,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272211,
-      "TEDPAYSAYISI": 17112154.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 21770274.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1955,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286915,
-      "TEDPAYSAYISI": 17127944.0,
-      "KISISAYISI": 716.0,
-      "PORTFOYBUYUKLUK": 22042209.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1965,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.294754,
-      "TEDPAYSAYISI": 17126629.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 22174775.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +1975,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.308645,
-      "TEDPAYSAYISI": 17144491.0,
-      "KISISAYISI": 723.0,
-      "PORTFOYBUYUKLUK": 22436044.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +1985,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.308316,
-      "TEDPAYSAYISI": 17170910.0,
-      "KISISAYISI": 719.0,
-      "PORTFOYBUYUKLUK": 22464968.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +1995,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309393,
-      "TEDPAYSAYISI": 17189910.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 22508347.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2005,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.32937,
-      "TEDPAYSAYISI": 17158556.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 22810076.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2015,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.343952,
-      "TEDPAYSAYISI": 17171488.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 23077649.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2025,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.373802,
-      "TEDPAYSAYISI": 17215710.0,
-      "KISISAYISI": 716.0,
-      "PORTFOYBUYUKLUK": 23650972.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2035,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372985,
-      "TEDPAYSAYISI": 17302661.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 23756286.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2045,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.367869,
-      "TEDPAYSAYISI": 17307018.0,
-      "KISISAYISI": 723.0,
-      "PORTFOYBUYUKLUK": 23673735.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2055,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.376047,
-      "TEDPAYSAYISI": 17414767.0,
-      "KISISAYISI": 728.0,
-      "PORTFOYBUYUKLUK": 23963544.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2065,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389458,
-      "TEDPAYSAYISI": 17451881.0,
-      "KISISAYISI": 724.0,
-      "PORTFOYBUYUKLUK": 24248661.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2075,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389305,
-      "TEDPAYSAYISI": 17537705.0,
-      "KISISAYISI": 726.0,
-      "PORTFOYBUYUKLUK": 24365226.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2085,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390339,
-      "TEDPAYSAYISI": 18005791.0,
-      "KISISAYISI": 736.0,
-      "PORTFOYBUYUKLUK": 25034152.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2095,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389494,
-      "TEDPAYSAYISI": 18156957.0,
-      "KISISAYISI": 744.0,
-      "PORTFOYBUYUKLUK": 25228991.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2105,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.400454,
-      "TEDPAYSAYISI": 18647797.0,
-      "KISISAYISI": 747.0,
-      "PORTFOYBUYUKLUK": 26115389.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2115,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.402891,
-      "TEDPAYSAYISI": 18677378.0,
-      "KISISAYISI": 753.0,
-      "PORTFOYBUYUKLUK": 26202333.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2125,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.414382,
-      "TEDPAYSAYISI": 18744664.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 26512114.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2135,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.416405,
-      "TEDPAYSAYISI": 18789531.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 26613579.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2145,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.415633,
-      "TEDPAYSAYISI": 19094423.0,
-      "KISISAYISI": 760.0,
-      "PORTFOYBUYUKLUK": 27030701.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2155,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.420683,
-      "TEDPAYSAYISI": 20052109.0,
-      "KISISAYISI": 776.0,
-      "PORTFOYBUYUKLUK": 28487699.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2165,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.424087,
-      "TEDPAYSAYISI": 20401770.0,
-      "KISISAYISI": 785.0,
-      "PORTFOYBUYUKLUK": 29053890.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2175,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.438248,
-      "TEDPAYSAYISI": 20330911.0,
-      "KISISAYISI": 789.0,
-      "PORTFOYBUYUKLUK": 29240891.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2185,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.429138,
-      "TEDPAYSAYISI": 20783810.0,
-      "KISISAYISI": 802.0,
-      "PORTFOYBUYUKLUK": 29702926.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2195,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.436664,
-      "TEDPAYSAYISI": 21589930.0,
-      "KISISAYISI": 805.0,
-      "PORTFOYBUYUKLUK": 31017475.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2205,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.432402,
-      "TEDPAYSAYISI": 21663844.0,
-      "KISISAYISI": 813.0,
-      "PORTFOYBUYUKLUK": 31031332.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2215,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44491,
-      "TEDPAYSAYISI": 21909104.0,
-      "KISISAYISI": 816.0,
-      "PORTFOYBUYUKLUK": 31656677.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2225,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.449016,
-      "TEDPAYSAYISI": 22016690.0,
-      "KISISAYISI": 819.0,
-      "PORTFOYBUYUKLUK": 31902535.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2235,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456741,
-      "TEDPAYSAYISI": 22013393.0,
-      "KISISAYISI": 827.0,
-      "PORTFOYBUYUKLUK": 32067804.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2245,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460113,
-      "TEDPAYSAYISI": 22461784.0,
-      "KISISAYISI": 834.0,
-      "PORTFOYBUYUKLUK": 32796737.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2255,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.478243,
-      "TEDPAYSAYISI": 22750428.0,
-      "KISISAYISI": 843.0,
-      "PORTFOYBUYUKLUK": 33630666.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2265,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.490747,
-      "TEDPAYSAYISI": 23014065.0,
-      "KISISAYISI": 867.0,
-      "PORTFOYBUYUKLUK": 34308154.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2275,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.500837,
-      "TEDPAYSAYISI": 23077814.0,
-      "KISISAYISI": 873.0,
-      "PORTFOYBUYUKLUK": 34636045.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2285,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.490296,
-      "TEDPAYSAYISI": 23271644.0,
-      "KISISAYISI": 886.0,
-      "PORTFOYBUYUKLUK": 34681628.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2295,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.474557,
-      "TEDPAYSAYISI": 23443951.0,
-      "KISISAYISI": 894.0,
-      "PORTFOYBUYUKLUK": 34569433.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2305,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.47469,
-      "TEDPAYSAYISI": 23457960.0,
-      "KISISAYISI": 899.0,
-      "PORTFOYBUYUKLUK": 34593215.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2315,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.469364,
-      "TEDPAYSAYISI": 23563530.0,
-      "KISISAYISI": 902.0,
-      "PORTFOYBUYUKLUK": 34623402.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2325,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.487433,
-      "TEDPAYSAYISI": 25615184.0,
-      "KISISAYISI": 906.0,
-      "PORTFOYBUYUKLUK": 38100871.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2335,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456335,
-      "TEDPAYSAYISI": 24719585.0,
-      "KISISAYISI": 909.0,
-      "PORTFOYBUYUKLUK": 35999990.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2345,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456911,
-      "TEDPAYSAYISI": 24915979.0,
-      "KISISAYISI": 905.0,
-      "PORTFOYBUYUKLUK": 36300367.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2355,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.489335,
-      "TEDPAYSAYISI": 25105346.0,
-      "KISISAYISI": 910.0,
-      "PORTFOYBUYUKLUK": 37390282.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2365,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.462409,
-      "TEDPAYSAYISI": 25181099.0,
-      "KISISAYISI": 912.0,
-      "PORTFOYBUYUKLUK": 36825065.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2375,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.433883,
-      "TEDPAYSAYISI": 25196926.0,
-      "KISISAYISI": 910.0,
-      "PORTFOYBUYUKLUK": 36129432.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2385,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.43461,
-      "TEDPAYSAYISI": 25113776.0,
-      "KISISAYISI": 917.0,
-      "PORTFOYBUYUKLUK": 36028476.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2395,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.429762,
-      "TEDPAYSAYISI": 25133728.0,
-      "KISISAYISI": 908.0,
-      "PORTFOYBUYUKLUK": 35935247.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2405,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.404509,
-      "TEDPAYSAYISI": 25074622.0,
-      "KISISAYISI": 897.0,
-      "PORTFOYBUYUKLUK": 35217541.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2415,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.407513,
-      "TEDPAYSAYISI": 25103376.0,
-      "KISISAYISI": 887.0,
-      "PORTFOYBUYUKLUK": 35333333.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2425,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.478411,
-      "TEDPAYSAYISI": 25137092.0,
-      "KISISAYISI": 880.0,
-      "PORTFOYBUYUKLUK": 37162941.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2435,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.51987,
-      "TEDPAYSAYISI": 25162521.0,
-      "KISISAYISI": 881.0,
-      "PORTFOYBUYUKLUK": 38243755.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2445,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.52438,
-      "TEDPAYSAYISI": 24809818.0,
-      "KISISAYISI": 879.0,
-      "PORTFOYBUYUKLUK": 37819585.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2455,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.526942,
-      "TEDPAYSAYISI": 25093448.0,
-      "KISISAYISI": 874.0,
-      "PORTFOYBUYUKLUK": 38316229.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2465,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.555544,
-      "TEDPAYSAYISI": 26458787.0,
-      "KISISAYISI": 875.0,
-      "PORTFOYBUYUKLUK": 41157804.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2475,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.58354,
-      "TEDPAYSAYISI": 26500763.0,
-      "KISISAYISI": 896.0,
-      "PORTFOYBUYUKLUK": 41965010.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2485,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.567949,
-      "TEDPAYSAYISI": 26989004.0,
-      "KISISAYISI": 924.0,
-      "PORTFOYBUYUKLUK": 42317370.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2495,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.581865,
-      "TEDPAYSAYISI": 27547429.0,
-      "KISISAYISI": 949.0,
-      "PORTFOYBUYUKLUK": 43576318.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2505,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.560176,
-      "TEDPAYSAYISI": 26948505.0,
-      "KISISAYISI": 955.0,
-      "PORTFOYBUYUKLUK": 42044416.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2515,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.531308,
-      "TEDPAYSAYISI": 27110436.0,
-      "KISISAYISI": 984.0,
-      "PORTFOYBUYUKLUK": 41514417.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2525,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.520009,
-      "TEDPAYSAYISI": 27209129.0,
-      "KISISAYISI": 1004.0,
-      "PORTFOYBUYUKLUK": 41358118.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2535,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.524081,
-      "TEDPAYSAYISI": 27103385.0,
-      "KISISAYISI": 1015.0,
-      "PORTFOYBUYUKLUK": 41307753.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2545,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.523309,
-      "TEDPAYSAYISI": 26441064.0,
-      "KISISAYISI": 1011.0,
-      "PORTFOYBUYUKLUK": 40277912.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2555,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.513478,
-      "TEDPAYSAYISI": 26547790.0,
-      "KISISAYISI": 1008.0,
-      "PORTFOYBUYUKLUK": 40179488.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2565,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.502629,
-      "TEDPAYSAYISI": 26654423.0,
-      "KISISAYISI": 1011.0,
-      "PORTFOYBUYUKLUK": 40051716.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2575,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.496042,
-      "TEDPAYSAYISI": 26739339.0,
-      "KISISAYISI": 1008.0,
-      "PORTFOYBUYUKLUK": 40003172.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2585,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.509916,
-      "TEDPAYSAYISI": 26980912.0,
-      "KISISAYISI": 1026.0,
-      "PORTFOYBUYUKLUK": 40738913.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2595,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.506791,
-      "TEDPAYSAYISI": 26925929.0,
-      "KISISAYISI": 1033.0,
-      "PORTFOYBUYUKLUK": 40571760.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2605,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.517032,
-      "TEDPAYSAYISI": 27042598.0,
-      "KISISAYISI": 1047.0,
-      "PORTFOYBUYUKLUK": 41024488.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2615,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.509168,
-      "TEDPAYSAYISI": 26529777.0,
-      "KISISAYISI": 1052.0,
-      "PORTFOYBUYUKLUK": 40037888.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2625,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.480949,
-      "TEDPAYSAYISI": 26923742.0,
-      "KISISAYISI": 1059.0,
-      "PORTFOYBUYUKLUK": 39872701.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2635,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460505,
-      "TEDPAYSAYISI": 27311824.0,
-      "KISISAYISI": 1082.0,
-      "PORTFOYBUYUKLUK": 39889061.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2645,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.476658,
-      "TEDPAYSAYISI": 27646327.0,
-      "KISISAYISI": 1079.0,
-      "PORTFOYBUYUKLUK": 40824174.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2655,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.468132,
-      "TEDPAYSAYISI": 27855560.0,
-      "KISISAYISI": 1082.0,
-      "PORTFOYBUYUKLUK": 40895635.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2665,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.441804,
-      "TEDPAYSAYISI": 27712459.0,
-      "KISISAYISI": 1084.0,
-      "PORTFOYBUYUKLUK": 39955921.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2675,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.451937,
-      "TEDPAYSAYISI": 27749100.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 40289939.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2685,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.454004,
-      "TEDPAYSAYISI": 27473322.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 39946324.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2695,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460462,
-      "TEDPAYSAYISI": 27428058.0,
-      "KISISAYISI": 1074.0,
-      "PORTFOYBUYUKLUK": 40057643.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2705,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44391,
-      "TEDPAYSAYISI": 27517361.0,
-      "KISISAYISI": 1072.0,
-      "PORTFOYBUYUKLUK": 39732580.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2715,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.486058,
-      "TEDPAYSAYISI": 27837033.0,
-      "KISISAYISI": 1073.0,
-      "PORTFOYBUYUKLUK": 41367454.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2725,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.493413,
-      "TEDPAYSAYISI": 27854291.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 41597954.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2735,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.497276,
-      "TEDPAYSAYISI": 27571572.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 41282243.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2745,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.526295,
-      "TEDPAYSAYISI": 27681356.0,
-      "KISISAYISI": 1073.0,
-      "PORTFOYBUYUKLUK": 42249920.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2755,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.548725,
-      "TEDPAYSAYISI": 27209565.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 42140126.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2765,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.552866,
-      "TEDPAYSAYISI": 26809710.0,
-      "KISISAYISI": 1085.0,
-      "PORTFOYBUYUKLUK": 41631886.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2775,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.544883,
-      "TEDPAYSAYISI": 27058478.0,
-      "KISISAYISI": 1096.0,
-      "PORTFOYBUYUKLUK": 41802179.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2785,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.549185,
-      "TEDPAYSAYISI": 27176729.0,
-      "KISISAYISI": 1087.0,
-      "PORTFOYBUYUKLUK": 42101772.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2795,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.548082,
-      "TEDPAYSAYISI": 26744542.0,
-      "KISISAYISI": 1092.0,
-      "PORTFOYBUYUKLUK": 41402739.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2805,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.514669,
-      "TEDPAYSAYISI": 26766286.0,
-      "KISISAYISI": 1082.0,
-      "PORTFOYBUYUKLUK": 40542074.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2815,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.51697,
-      "TEDPAYSAYISI": 26637491.0,
-      "KISISAYISI": 1080.0,
-      "PORTFOYBUYUKLUK": 40408273.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2825,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.480355,
-      "TEDPAYSAYISI": 26504262.0,
-      "KISISAYISI": 1084.0,
-      "PORTFOYBUYUKLUK": 39235714.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2835,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.459538,
-      "TEDPAYSAYISI": 26657485.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 38907608.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2845,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.452767,
-      "TEDPAYSAYISI": 26665448.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 38738680.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2855,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.446224,
-      "TEDPAYSAYISI": 26549707.0,
-      "KISISAYISI": 1079.0,
-      "PORTFOYBUYUKLUK": 38396833.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2865,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.488288,
-      "TEDPAYSAYISI": 26517388.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 39465519.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2875,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.47775,
-      "TEDPAYSAYISI": 26662686.0,
-      "KISISAYISI": 1091.0,
-      "PORTFOYBUYUKLUK": 39400790.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +2885,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.481694,
-      "TEDPAYSAYISI": 26577142.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 39379195.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +2895,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.491496,
-      "TEDPAYSAYISI": 26186302.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 39056757.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +2905,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.516206,
-      "TEDPAYSAYISI": 25816479.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 39143107.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +2915,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.550031,
-      "TEDPAYSAYISI": 25542756.0,
-      "KISISAYISI": 1077.0,
-      "PORTFOYBUYUKLUK": 39592065.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +2925,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.503584,
-      "TEDPAYSAYISI": 25988426.0,
-      "KISISAYISI": 1089.0,
-      "PORTFOYBUYUKLUK": 39075790.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +2935,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.480913,
-      "TEDPAYSAYISI": 25636509.0,
-      "KISISAYISI": 1101.0,
-      "PORTFOYBUYUKLUK": 37965437.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +2945,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.474459,
-      "TEDPAYSAYISI": 25310497.0,
-      "KISISAYISI": 1093.0,
-      "PORTFOYBUYUKLUK": 37319283.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +2955,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.466769,
-      "TEDPAYSAYISI": 25227457.0,
-      "KISISAYISI": 1090.0,
-      "PORTFOYBUYUKLUK": 37002857.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +2965,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.474796,
-      "TEDPAYSAYISI": 25163358.0,
-      "KISISAYISI": 1079.0,
-      "PORTFOYBUYUKLUK": 37110830.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +2975,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.487428,
-      "TEDPAYSAYISI": 25054817.0,
-      "KISISAYISI": 1077.0,
-      "PORTFOYBUYUKLUK": 37267247.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +2985,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.49037,
-      "TEDPAYSAYISI": 25023392.0,
-      "KISISAYISI": 1065.0,
-      "PORTFOYBUYUKLUK": 37294121.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +2995,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.48465,
-      "TEDPAYSAYISI": 25020132.0,
-      "KISISAYISI": 1051.0,
-      "PORTFOYBUYUKLUK": 37146142.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3005,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.485638,
-      "TEDPAYSAYISI": 24985159.0,
-      "KISISAYISI": 1048.0,
-      "PORTFOYBUYUKLUK": 37118902.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3015,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.499914,
-      "TEDPAYSAYISI": 24975503.0,
-      "KISISAYISI": 1043.0,
-      "PORTFOYBUYUKLUK": 37461103.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3025,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.50756,
-      "TEDPAYSAYISI": 24876663.0,
-      "KISISAYISI": 1040.0,
-      "PORTFOYBUYUKLUK": 37503067.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3035,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.511077,
-      "TEDPAYSAYISI": 25470661.0,
-      "KISISAYISI": 1036.0,
-      "PORTFOYBUYUKLUK": 38488121.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3045,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.527929,
-      "TEDPAYSAYISI": 23747193.0,
-      "KISISAYISI": 1028.0,
-      "PORTFOYBUYUKLUK": 36284022.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3055,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.528231,
-      "TEDPAYSAYISI": 26112888.0,
-      "KISISAYISI": 1022.0,
-      "PORTFOYBUYUKLUK": 39906529.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3065,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.553879,
-      "TEDPAYSAYISI": 24082119.0,
-      "KISISAYISI": 1017.0,
-      "PORTFOYBUYUKLUK": 37420707.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3075,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.548449,
-      "TEDPAYSAYISI": 24026342.0,
-      "KISISAYISI": 1016.0,
-      "PORTFOYBUYUKLUK": 37203571.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3085,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.527652,
-      "TEDPAYSAYISI": 23247529.0,
-      "KISISAYISI": 1008.0,
-      "PORTFOYBUYUKLUK": 35514131.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3095,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.530733,
-      "TEDPAYSAYISI": 23449115.0,
-      "KISISAYISI": 1009.0,
-      "PORTFOYBUYUKLUK": 35894338.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3105,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.540709,
-      "TEDPAYSAYISI": 23475563.0,
-      "KISISAYISI": 1010.0,
-      "PORTFOYBUYUKLUK": 36169007.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3115,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.523691,
-      "TEDPAYSAYISI": 23608176.0,
-      "KISISAYISI": 1003.0,
-      "PORTFOYBUYUKLUK": 35971558.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3125,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.515921,
-      "TEDPAYSAYISI": 22853454.0,
-      "KISISAYISI": 1000.0,
-      "PORTFOYBUYUKLUK": 34644024.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3135,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.521028,
-      "TEDPAYSAYISI": 22456651.0,
-      "KISISAYISI": 996.0,
-      "PORTFOYBUYUKLUK": 34157189.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3145,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.517639,
-      "TEDPAYSAYISI": 21704252.0,
-      "KISISAYISI": 985.0,
-      "PORTFOYBUYUKLUK": 32939209.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3155,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.519296,
-      "TEDPAYSAYISI": 22268182.0,
-      "KISISAYISI": 987.0,
-      "PORTFOYBUYUKLUK": 33831965.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3165,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.498288,
-      "TEDPAYSAYISI": 22231852.0,
-      "KISISAYISI": 978.0,
-      "PORTFOYBUYUKLUK": 33309706.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3175,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.516243,
-      "TEDPAYSAYISI": 22247039.0,
-      "KISISAYISI": 987.0,
-      "PORTFOYBUYUKLUK": 33731918.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3185,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.518048,
-      "TEDPAYSAYISI": 22209533.0,
-      "KISISAYISI": 981.0,
-      "PORTFOYBUYUKLUK": 33715131.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3195,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.546155,
-      "TEDPAYSAYISI": 22196428.0,
-      "KISISAYISI": 978.0,
-      "PORTFOYBUYUKLUK": 34319117.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3205,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.548622,
-      "TEDPAYSAYISI": 22210815.0,
-      "KISISAYISI": 982.0,
-      "PORTFOYBUYUKLUK": 34396163.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3215,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.556435,
-      "TEDPAYSAYISI": 22132051.0,
-      "KISISAYISI": 990.0,
-      "PORTFOYBUYUKLUK": 34447099.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3225,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.543187,
-      "TEDPAYSAYISI": 22051100.0,
-      "KISISAYISI": 986.0,
-      "PORTFOYBUYUKLUK": 34028975.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3235,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.540422,
-      "TEDPAYSAYISI": 22110474.0,
-      "KISISAYISI": 993.0,
-      "PORTFOYBUYUKLUK": 34059468.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3245,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.556508,
-      "TEDPAYSAYISI": 21811011.0,
-      "KISISAYISI": 993.0,
-      "PORTFOYBUYUKLUK": 33949012.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3255,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.578668,
-      "TEDPAYSAYISI": 21778490.0,
-      "KISISAYISI": 990.0,
-      "PORTFOYBUYUKLUK": 34381010.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3265,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.597031,
-      "TEDPAYSAYISI": 21722444.0,
-      "KISISAYISI": 995.0,
-      "PORTFOYBUYUKLUK": 34691406.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3275,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.593913,
-      "TEDPAYSAYISI": 21998574.0,
-      "KISISAYISI": 990.0,
-      "PORTFOYBUYUKLUK": 35063803.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3285,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.626311,
-      "TEDPAYSAYISI": 22525651.0,
-      "KISISAYISI": 997.0,
-      "PORTFOYBUYUKLUK": 36633712.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3295,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.645439,
-      "TEDPAYSAYISI": 21858485.0,
-      "KISISAYISI": 1001.0,
-      "PORTFOYBUYUKLUK": 35966809.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3305,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.668083,
-      "TEDPAYSAYISI": 22136196.0,
-      "KISISAYISI": 1018.0,
-      "PORTFOYBUYUKLUK": 36925005.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3315,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.679454,
-      "TEDPAYSAYISI": 23072654.0,
-      "KISISAYISI": 1069.0,
-      "PORTFOYBUYUKLUK": 38749471.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3325,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.672267,
-      "TEDPAYSAYISI": 23126234.0,
-      "KISISAYISI": 1100.0,
-      "PORTFOYBUYUKLUK": 38673246.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3335,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.714705,
-      "TEDPAYSAYISI": 23179052.0,
-      "KISISAYISI": 1114.0,
-      "PORTFOYBUYUKLUK": 39745235.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3345,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.738594,
-      "TEDPAYSAYISI": 23518479.0,
-      "KISISAYISI": 1127.0,
-      "PORTFOYBUYUKLUK": 40889081.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3355,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.755662,
-      "TEDPAYSAYISI": 23963488.0,
-      "KISISAYISI": 1159.0,
-      "PORTFOYBUYUKLUK": 42071782.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3365,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.780402,
-      "TEDPAYSAYISI": 25731749.0,
-      "KISISAYISI": 1244.0,
-      "PORTFOYBUYUKLUK": 45812847.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3375,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.794608,
-      "TEDPAYSAYISI": 26936313.0,
-      "KISISAYISI": 1286.0,
-      "PORTFOYBUYUKLUK": 48340122.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3385,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.807521,
-      "TEDPAYSAYISI": 28926378.0,
-      "KISISAYISI": 1363.0,
-      "PORTFOYBUYUKLUK": 52285048.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3395,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.79782,
-      "TEDPAYSAYISI": 32250663.0,
-      "KISISAYISI": 1422.0,
-      "PORTFOYBUYUKLUK": 57980882.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3405,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.805241,
-      "TEDPAYSAYISI": 33144831.0,
-      "KISISAYISI": 1459.0,
-      "PORTFOYBUYUKLUK": 59834397.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3415,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.813019,
-      "TEDPAYSAYISI": 32799946.0,
-      "KISISAYISI": 1484.0,
-      "PORTFOYBUYUKLUK": 59466934.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3425,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.82067,
-      "TEDPAYSAYISI": 35053326.0,
-      "KISISAYISI": 1488.0,
-      "PORTFOYBUYUKLUK": 63820534.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3435,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.821343,
-      "TEDPAYSAYISI": 36403558.0,
-      "KISISAYISI": 1514.0,
-      "PORTFOYBUYUKLUK": 66303375.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3445,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.828657,
-      "TEDPAYSAYISI": 37941393.0,
-      "KISISAYISI": 1589.0,
-      "PORTFOYBUYUKLUK": 69381787.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3375,9 +3455,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.867326,
-      "TEDPAYSAYISI": 38800840.0,
-      "KISISAYISI": 1668.0,
-      "PORTFOYBUYUKLUK": 72453809.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3385,9 +3465,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.874868,
-      "TEDPAYSAYISI": 40635953.0,
-      "KISISAYISI": 1822.0,
-      "PORTFOYBUYUKLUK": 76187060.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3395,9 +3475,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.868484,
-      "TEDPAYSAYISI": 46311464.0,
-      "KISISAYISI": 1995.0,
-      "PORTFOYBUYUKLUK": 86532241.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3405,9 +3485,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.904336,
-      "TEDPAYSAYISI": 52325900.0,
-      "KISISAYISI": 2189.0,
-      "PORTFOYBUYUKLUK": 99646072.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3415,9 +3495,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.911179,
-      "TEDPAYSAYISI": 56706595.0,
-      "KISISAYISI": 2325.0,
-      "PORTFOYBUYUKLUK": 108376431.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3425,9 +3505,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.945602,
-      "TEDPAYSAYISI": 60151413.0,
-      "KISISAYISI": 2438.0,
-      "PORTFOYBUYUKLUK": 117030706.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3435,9 +3515,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.971354,
-      "TEDPAYSAYISI": 67890226.0,
-      "KISISAYISI": 2846.0,
-      "PORTFOYBUYUKLUK": 133835675.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3445,9 +3525,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.963511,
-      "TEDPAYSAYISI": 84373150.0,
-      "KISISAYISI": 3134.0,
-      "PORTFOYBUYUKLUK": 165667606.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3455,9 +3535,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.903343,
-      "TEDPAYSAYISI": 109066885.0,
-      "KISISAYISI": 3496.0,
-      "PORTFOYBUYUKLUK": 207591710.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3465,9 +3545,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.931923,
-      "TEDPAYSAYISI": 123141316.0,
-      "KISISAYISI": 3943.0,
-      "PORTFOYBUYUKLUK": 237899585.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3475,9 +3555,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.932085,
-      "TEDPAYSAYISI": 117976065.0,
-      "KISISAYISI": 4095.0,
-      "PORTFOYBUYUKLUK": 227939833.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3485,9 +3565,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.93061,
-      "TEDPAYSAYISI": 128934060.0,
-      "KISISAYISI": 4412.0,
-      "PORTFOYBUYUKLUK": 248921408.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3495,9 +3575,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.896264,
-      "TEDPAYSAYISI": 129970879.0,
-      "KISISAYISI": 4659.0,
-      "PORTFOYBUYUKLUK": 246459132.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3505,9 +3585,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.879612,
-      "TEDPAYSAYISI": 120162569.0,
-      "KISISAYISI": 4750.0,
-      "PORTFOYBUYUKLUK": 225858965.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3515,9 +3595,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.870383,
-      "TEDPAYSAYISI": 117767073.0,
-      "KISISAYISI": 4738.0,
-      "PORTFOYBUYUKLUK": 220269502.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3525,9 +3605,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.811174,
-      "TEDPAYSAYISI": 115255307.0,
-      "KISISAYISI": 4733.0,
-      "PORTFOYBUYUKLUK": 208747422.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3535,9 +3615,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.811078,
-      "TEDPAYSAYISI": 104689360.0,
-      "KISISAYISI": 4689.0,
-      "PORTFOYBUYUKLUK": 189600644.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3545,9 +3625,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.82697,
-      "TEDPAYSAYISI": 101755337.0,
-      "KISISAYISI": 4466.0,
-      "PORTFOYBUYUKLUK": 185903994.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3555,9 +3635,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.853703,
-      "TEDPAYSAYISI": 101029561.0,
-      "KISISAYISI": 4385.0,
-      "PORTFOYBUYUKLUK": 187278798.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3565,9 +3645,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.82459,
-      "TEDPAYSAYISI": 100213744.0,
-      "KISISAYISI": 4336.0,
-      "PORTFOYBUYUKLUK": 182848978.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3575,9 +3655,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.809538,
-      "TEDPAYSAYISI": 98986074.0,
-      "KISISAYISI": 4326.0,
-      "PORTFOYBUYUKLUK": 179119041.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3585,9 +3665,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.864811,
-      "TEDPAYSAYISI": 94699531.0,
-      "KISISAYISI": 4310.0,
-      "PORTFOYBUYUKLUK": 176596709.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3595,9 +3675,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.862797,
-      "TEDPAYSAYISI": 91163145.0,
-      "KISISAYISI": 4208.0,
-      "PORTFOYBUYUKLUK": 169818424.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3605,9 +3685,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.871972,
-      "TEDPAYSAYISI": 91185990.0,
-      "KISISAYISI": 4168.0,
-      "PORTFOYBUYUKLUK": 170697618.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3615,9 +3695,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.851268,
-      "TEDPAYSAYISI": 90566024.0,
-      "KISISAYISI": 4139.0,
-      "PORTFOYBUYUKLUK": 167662018.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3625,9 +3705,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.840918,
-      "TEDPAYSAYISI": 89900062.0,
-      "KISISAYISI": 4107.0,
-      "PORTFOYBUYUKLUK": 165498632.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3635,9 +3715,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.865446,
-      "TEDPAYSAYISI": 87946162.0,
-      "KISISAYISI": 4097.0,
-      "PORTFOYBUYUKLUK": 164058774.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3645,9 +3725,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.864017,
-      "TEDPAYSAYISI": 87469425.0,
-      "KISISAYISI": 4031.0,
-      "PORTFOYBUYUKLUK": 163044483.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3655,9 +3735,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.876973,
-      "TEDPAYSAYISI": 86319408.0,
-      "KISISAYISI": 4031.0,
-      "PORTFOYBUYUKLUK": 162019177.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3665,9 +3745,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.900575,
-      "TEDPAYSAYISI": 86374569.0,
-      "KISISAYISI": 3964.0,
-      "PORTFOYBUYUKLUK": 164161310.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3675,9 +3755,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.904136,
-      "TEDPAYSAYISI": 83809400.0,
-      "KISISAYISI": 3983.0,
-      "PORTFOYBUYUKLUK": 159584492.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3685,9 +3765,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.935101,
-      "TEDPAYSAYISI": 83321897.0,
-      "KISISAYISI": 3928.0,
-      "PORTFOYBUYUKLUK": 161236323.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3695,9 +3775,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.941939,
-      "TEDPAYSAYISI": 83012806.0,
-      "KISISAYISI": 3875.0,
-      "PORTFOYBUYUKLUK": 161205825.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3705,9 +3785,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.919223,
-      "TEDPAYSAYISI": 81768435.0,
-      "KISISAYISI": 3861.0,
-      "PORTFOYBUYUKLUK": 156931843.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3715,9 +3795,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.940164,
-      "TEDPAYSAYISI": 80728868.0,
-      "KISISAYISI": 3849.0,
-      "PORTFOYBUYUKLUK": 156627212.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3725,9 +3805,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.985825,
-      "TEDPAYSAYISI": 78909382.0,
-      "KISISAYISI": 3853.0,
-      "PORTFOYBUYUKLUK": 156700204.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3735,9 +3815,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 2.011207,
-      "TEDPAYSAYISI": 78335431.0,
-      "KISISAYISI": 3830.0,
-      "PORTFOYBUYUKLUK": 157548753.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3745,9 +3825,9 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 2.031586,
-      "TEDPAYSAYISI": 79262091.0,
-      "KISISAYISI": 3860.0,
-      "PORTFOYBUYUKLUK": 161027748.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3755,9 +3835,139 @@
       "FONKODU": "HRZ",
       "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 2.040445,
-      "TEDPAYSAYISI": 80313280.0,
-      "KISISAYISI": 3931.0,
-      "PORTFOYBUYUKLUK": 163874846.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.062292,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.051402,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.119493,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.120743,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.164803,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.132769,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.145935,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.175532,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.188611,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.239342,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.255193,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.249307,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "HRZ",
+      "FONUNVAN": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 2.274133,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

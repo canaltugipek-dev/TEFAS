@@ -1,33 +1,259 @@
 {
   "kod": "GOH",
-  "guncelleme": "2026-04-08T18:22:09Z",
+  "guncelleme": "2026-04-26T18:22:35Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/goh-garanti-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.81
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.11
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 4.78
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.26
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 2.04
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 6.78
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "RYGYO",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "KIMMR",
+      "ad": "",
+      "agirlik": 3.13
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 2.84
+    },
+    {
+      "ticker": "ULUFA",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 2.71
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "BESLR",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 2.62
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 2.45
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 2.31
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "PLTUR",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "KRDMB",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "KUTPO",
+      "ad": "",
+      "agirlik": 1.41
+    },
+    {
+      "ticker": "MEDTR",
+      "ad": "",
+      "agirlik": 1.39
+    },
+    {
+      "ticker": "UNLU",
+      "ad": "",
+      "agirlik": 1.37
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.34
+    },
+    {
+      "ticker": "MAKIM",
+      "ad": "",
+      "agirlik": 1.32
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.31
+    },
+    {
+      "ticker": "TLMAN",
+      "ad": "",
+      "agirlik": 1.3
+    },
+    {
+      "ticker": "KTSKR",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "BNTAS",
+      "ad": "",
+      "agirlik": 1.23
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "DYOBY",
+      "ad": "",
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "GSDDE",
+      "ad": "",
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "BVSAN",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "SVGYO",
+      "ad": "",
+      "agirlik": 0.74
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 0.39
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.2
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "48 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:12:27",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dc16da17e85"
 }

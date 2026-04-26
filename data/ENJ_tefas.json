@@ -2,22 +2,92 @@
   "fon_kodu": "ENJ",
   "fon_unvan": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 432,
-  "gun_kapsami": 623,
+  "kayit_sayisi": 452,
+  "gun_kapsami": 653,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1720569600000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720656000000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1720742400000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721088000000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721174400000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721260800000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1721347200000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1721606400000",
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +95,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997097,
-      "TEDPAYSAYISI": 8634329.0,
-      "KISISAYISI": 188.0,
-      "PORTFOYBUYUKLUK": 8609266.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +105,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006254,
-      "TEDPAYSAYISI": 9693698.0,
-      "KISISAYISI": 225.0,
-      "PORTFOYBUYUKLUK": 9754321.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +115,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010574,
-      "TEDPAYSAYISI": 9906434.0,
-      "KISISAYISI": 292.0,
-      "PORTFOYBUYUKLUK": 10011186.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +125,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008435,
-      "TEDPAYSAYISI": 10391146.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 10478798.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +135,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015487,
-      "TEDPAYSAYISI": 10795067.0,
-      "KISISAYISI": 350.0,
-      "PORTFOYBUYUKLUK": 10962250.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +145,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007325,
-      "TEDPAYSAYISI": 11268416.0,
-      "KISISAYISI": 377.0,
-      "PORTFOYBUYUKLUK": 11350956.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +155,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006546,
-      "TEDPAYSAYISI": 11586321.0,
-      "KISISAYISI": 396.0,
-      "PORTFOYBUYUKLUK": 11662162.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +165,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981811,
-      "TEDPAYSAYISI": 14815635.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 14546160.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +175,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001443,
-      "TEDPAYSAYISI": 15842458.0,
-      "KISISAYISI": 412.0,
-      "PORTFOYBUYUKLUK": 15865322.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +185,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988767,
-      "TEDPAYSAYISI": 15986461.0,
-      "KISISAYISI": 421.0,
-      "PORTFOYBUYUKLUK": 15806889.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +195,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.93738,
-      "TEDPAYSAYISI": 15836432.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 14844752.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +205,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941309,
-      "TEDPAYSAYISI": 12817633.0,
-      "KISISAYISI": 435.0,
-      "PORTFOYBUYUKLUK": 12065347.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +215,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953839,
-      "TEDPAYSAYISI": 12844421.0,
-      "KISISAYISI": 437.0,
-      "PORTFOYBUYUKLUK": 12251510.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +225,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956927,
-      "TEDPAYSAYISI": 12873196.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 12318713.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +235,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942214,
-      "TEDPAYSAYISI": 13162428.0,
-      "KISISAYISI": 455.0,
-      "PORTFOYBUYUKLUK": 12401821.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +245,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927045,
-      "TEDPAYSAYISI": 17298280.0,
-      "KISISAYISI": 469.0,
-      "PORTFOYBUYUKLUK": 16036286.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +255,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930231,
-      "TEDPAYSAYISI": 17219974.0,
-      "KISISAYISI": 468.0,
-      "PORTFOYBUYUKLUK": 16018554.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +265,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92471,
-      "TEDPAYSAYISI": 17152457.0,
-      "KISISAYISI": 475.0,
-      "PORTFOYBUYUKLUK": 15861048.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +275,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941883,
-      "TEDPAYSAYISI": 17175169.0,
-      "KISISAYISI": 482.0,
-      "PORTFOYBUYUKLUK": 16176992.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +285,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934778,
-      "TEDPAYSAYISI": 17226957.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 16103388.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +295,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947777,
-      "TEDPAYSAYISI": 17244788.0,
-      "KISISAYISI": 505.0,
-      "PORTFOYBUYUKLUK": 16344207.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +305,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942161,
-      "TEDPAYSAYISI": 17294115.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 16293833.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +315,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936742,
-      "TEDPAYSAYISI": 17259504.0,
-      "KISISAYISI": 509.0,
-      "PORTFOYBUYUKLUK": 16167701.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +325,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94177,
-      "TEDPAYSAYISI": 17257675.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 16252766.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +335,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.921229,
-      "TEDPAYSAYISI": 17204568.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 15849353.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +345,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908787,
-      "TEDPAYSAYISI": 17207606.0,
-      "KISISAYISI": 522.0,
-      "PORTFOYBUYUKLUK": 15638044.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +355,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90911,
-      "TEDPAYSAYISI": 14104467.0,
-      "KISISAYISI": 529.0,
-      "PORTFOYBUYUKLUK": 12822513.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +365,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906055,
-      "TEDPAYSAYISI": 14183719.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 12851232.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +375,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914183,
-      "TEDPAYSAYISI": 19795972.0,
-      "KISISAYISI": 532.0,
-      "PORTFOYBUYUKLUK": 18097141.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +385,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928657,
-      "TEDPAYSAYISI": 19758672.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 18349035.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +395,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925789,
-      "TEDPAYSAYISI": 19658278.0,
-      "KISISAYISI": 543.0,
-      "PORTFOYBUYUKLUK": 18199407.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +405,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923211,
-      "TEDPAYSAYISI": 19712041.0,
-      "KISISAYISI": 549.0,
-      "PORTFOYBUYUKLUK": 18198363.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +415,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.933395,
-      "TEDPAYSAYISI": 19708215.0,
-      "KISISAYISI": 550.0,
-      "PORTFOYBUYUKLUK": 18395547.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +425,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919707,
-      "TEDPAYSAYISI": 20118292.0,
-      "KISISAYISI": 557.0,
-      "PORTFOYBUYUKLUK": 18502930.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +435,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910452,
-      "TEDPAYSAYISI": 20150129.0,
-      "KISISAYISI": 558.0,
-      "PORTFOYBUYUKLUK": 18345726.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +445,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896113,
-      "TEDPAYSAYISI": 20326624.0,
-      "KISISAYISI": 565.0,
-      "PORTFOYBUYUKLUK": 18214950.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +455,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868253,
-      "TEDPAYSAYISI": 20055715.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 17413429.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +465,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.869801,
-      "TEDPAYSAYISI": 20159377.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 17534638.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +475,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882154,
-      "TEDPAYSAYISI": 20099601.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 17730935.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +485,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885965,
-      "TEDPAYSAYISI": 20266777.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 17955654.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +495,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904508,
-      "TEDPAYSAYISI": 20285380.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 18348298.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +505,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895239,
-      "TEDPAYSAYISI": 20302129.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 18175248.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +515,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903825,
-      "TEDPAYSAYISI": 20317999.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 18363921.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +525,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.902221,
-      "TEDPAYSAYISI": 20376408.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 18384018.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +535,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899608,
-      "TEDPAYSAYISI": 20408182.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 18359360.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +545,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899349,
-      "TEDPAYSAYISI": 20472845.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 18412241.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +555,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.889381,
-      "TEDPAYSAYISI": 20581124.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 18304450.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +565,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.888351,
-      "TEDPAYSAYISI": 21309468.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 18930290.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +575,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.894294,
-      "TEDPAYSAYISI": 21320521.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 19066820.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +585,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885254,
-      "TEDPAYSAYISI": 21308174.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 18863145.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +595,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859248,
-      "TEDPAYSAYISI": 21377598.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 18368648.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +605,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830603,
-      "TEDPAYSAYISI": 21273035.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 17669446.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +615,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.826789,
-      "TEDPAYSAYISI": 22275779.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 18417377.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +625,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.841585,
-      "TEDPAYSAYISI": 22328616.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 18791417.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +635,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.847934,
-      "TEDPAYSAYISI": 22418236.0,
-      "KISISAYISI": 609.0,
-      "PORTFOYBUYUKLUK": 19009190.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +645,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.846231,
-      "TEDPAYSAYISI": 22527110.0,
-      "KISISAYISI": 615.0,
-      "PORTFOYBUYUKLUK": 19063136.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +655,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.847405,
-      "TEDPAYSAYISI": 22103538.0,
-      "KISISAYISI": 618.0,
-      "PORTFOYBUYUKLUK": 18730653.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +665,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.839887,
-      "TEDPAYSAYISI": 22194687.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 18641019.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +675,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.833522,
-      "TEDPAYSAYISI": 22203598.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 18507196.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +685,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.813453,
-      "TEDPAYSAYISI": 22215691.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 18071421.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +695,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.827923,
-      "TEDPAYSAYISI": 22231685.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 18406117.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +705,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.840176,
-      "TEDPAYSAYISI": 22287193.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 18725163.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +715,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85273,
-      "TEDPAYSAYISI": 22113761.0,
-      "KISISAYISI": 621.0,
-      "PORTFOYBUYUKLUK": 18857066.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +725,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.837656,
-      "TEDPAYSAYISI": 22159802.0,
-      "KISISAYISI": 623.0,
-      "PORTFOYBUYUKLUK": 18562283.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +735,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.827843,
-      "TEDPAYSAYISI": 22172022.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 18354943.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +745,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.843756,
-      "TEDPAYSAYISI": 22097300.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 18644731.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +755,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.829316,
-      "TEDPAYSAYISI": 22119774.0,
-      "KISISAYISI": 618.0,
-      "PORTFOYBUYUKLUK": 18344276.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +765,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.841401,
-      "TEDPAYSAYISI": 21405595.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 18010690.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +775,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.848244,
-      "TEDPAYSAYISI": 21534256.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 18266303.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +785,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.857007,
-      "TEDPAYSAYISI": 21477173.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 18406090.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +795,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.863888,
-      "TEDPAYSAYISI": 21571856.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 18635671.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +805,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855304,
-      "TEDPAYSAYISI": 21699599.0,
-      "KISISAYISI": 627.0,
-      "PORTFOYBUYUKLUK": 18559751.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +815,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858328,
-      "TEDPAYSAYISI": 21835375.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 18741910.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +825,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.845954,
-      "TEDPAYSAYISI": 21857423.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 18490370.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +835,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.840326,
-      "TEDPAYSAYISI": 21638056.0,
-      "KISISAYISI": 629.0,
-      "PORTFOYBUYUKLUK": 18183017.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +845,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.854422,
-      "TEDPAYSAYISI": 21567816.0,
-      "KISISAYISI": 627.0,
-      "PORTFOYBUYUKLUK": 18428013.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +855,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85607,
-      "TEDPAYSAYISI": 21645857.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 18530363.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +865,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.869618,
-      "TEDPAYSAYISI": 21649214.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 18826536.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +875,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892072,
-      "TEDPAYSAYISI": 21658183.0,
-      "KISISAYISI": 641.0,
-      "PORTFOYBUYUKLUK": 19320654.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +885,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879612,
-      "TEDPAYSAYISI": 21944769.0,
-      "KISISAYISI": 648.0,
-      "PORTFOYBUYUKLUK": 19302884.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +895,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879371,
-      "TEDPAYSAYISI": 22268567.0,
-      "KISISAYISI": 647.0,
-      "PORTFOYBUYUKLUK": 19582335.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +905,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883097,
-      "TEDPAYSAYISI": 21833705.0,
-      "KISISAYISI": 648.0,
-      "PORTFOYBUYUKLUK": 19281274.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +915,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.890469,
-      "TEDPAYSAYISI": 21760216.0,
-      "KISISAYISI": 647.0,
-      "PORTFOYBUYUKLUK": 19376798.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +925,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895544,
-      "TEDPAYSAYISI": 21805569.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 19527842.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +935,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.890315,
-      "TEDPAYSAYISI": 21814764.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 19422010.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +945,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866519,
-      "TEDPAYSAYISI": 21574005.0,
-      "KISISAYISI": 657.0,
-      "PORTFOYBUYUKLUK": 18694276.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +955,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.887496,
-      "TEDPAYSAYISI": 21545457.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 19121506.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +965,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900238,
-      "TEDPAYSAYISI": 21568572.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 19416847.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +975,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.906797,
-      "TEDPAYSAYISI": 21732847.0,
-      "KISISAYISI": 658.0,
-      "PORTFOYBUYUKLUK": 19707282.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +985,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904502,
-      "TEDPAYSAYISI": 21795696.0,
-      "KISISAYISI": 662.0,
-      "PORTFOYBUYUKLUK": 19714261.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +995,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895706,
-      "TEDPAYSAYISI": 22017291.0,
-      "KISISAYISI": 665.0,
-      "PORTFOYBUYUKLUK": 19721010.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1005,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.901588,
-      "TEDPAYSAYISI": 22069843.0,
-      "KISISAYISI": 666.0,
-      "PORTFOYBUYUKLUK": 19897895.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1015,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903645,
-      "TEDPAYSAYISI": 22075289.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 19948213.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1025,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910469,
-      "TEDPAYSAYISI": 22299213.0,
-      "KISISAYISI": 670.0,
-      "PORTFOYBUYUKLUK": 20302751.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1035,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915565,
-      "TEDPAYSAYISI": 22394869.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 20503949.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1045,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918466,
-      "TEDPAYSAYISI": 22349107.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 20526887.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1055,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922651,
-      "TEDPAYSAYISI": 16357778.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 15092522.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1065,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935457,
-      "TEDPAYSAYISI": 16588034.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 15517387.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1075,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94883,
-      "TEDPAYSAYISI": 16584249.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 15735638.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1085,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.940312,
-      "TEDPAYSAYISI": 17021967.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 16005960.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1095,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932425,
-      "TEDPAYSAYISI": 16574784.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 15454738.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1105,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9403,
-      "TEDPAYSAYISI": 16495091.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 15510325.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1115,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945564,
-      "TEDPAYSAYISI": 16521374.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 15622015.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1125,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945699,
-      "TEDPAYSAYISI": 16556656.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 15657612.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1135,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945377,
-      "TEDPAYSAYISI": 16625937.0,
-      "KISISAYISI": 693.0,
-      "PORTFOYBUYUKLUK": 15717781.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1145,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9379,
-      "TEDPAYSAYISI": 17199064.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 16131003.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1155,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927993,
-      "TEDPAYSAYISI": 17295678.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 16050273.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1165,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923277,
-      "TEDPAYSAYISI": 17301718.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 15974272.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1175,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.914718,
-      "TEDPAYSAYISI": 17759870.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 16245268.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1185,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918123,
-      "TEDPAYSAYISI": 17876951.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 16413237.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1195,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.921996,
-      "TEDPAYSAYISI": 17939086.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 16539756.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1205,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927761,
-      "TEDPAYSAYISI": 18161548.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 16849577.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1215,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946356,
-      "TEDPAYSAYISI": 18140945.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 17167787.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1225,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.959618,
-      "TEDPAYSAYISI": 18496155.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 17749242.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1235,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947725,
-      "TEDPAYSAYISI": 18544906.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 17575473.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1245,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956751,
-      "TEDPAYSAYISI": 18665780.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 17858499.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1255,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.967663,
-      "TEDPAYSAYISI": 18725065.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 18119557.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1265,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983113,
-      "TEDPAYSAYISI": 18789256.0,
-      "KISISAYISI": 707.0,
-      "PORTFOYBUYUKLUK": 18471960.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1275,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976106,
-      "TEDPAYSAYISI": 24261700.0,
-      "KISISAYISI": 714.0,
-      "PORTFOYBUYUKLUK": 23681984.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1285,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.959036,
-      "TEDPAYSAYISI": 24615782.0,
-      "KISISAYISI": 716.0,
-      "PORTFOYBUYUKLUK": 23607429.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1295,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97121,
-      "TEDPAYSAYISI": 26529418.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 25765627.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1305,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962436,
-      "TEDPAYSAYISI": 26598875.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 25599713.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1315,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942639,
-      "TEDPAYSAYISI": 21509439.0,
-      "KISISAYISI": 717.0,
-      "PORTFOYBUYUKLUK": 20275628.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1325,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935508,
-      "TEDPAYSAYISI": 21331848.0,
-      "KISISAYISI": 718.0,
-      "PORTFOYBUYUKLUK": 19956115.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1335,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932566,
-      "TEDPAYSAYISI": 20053511.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 18701229.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1345,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947564,
-      "TEDPAYSAYISI": 19952336.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 18906122.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1355,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952531,
-      "TEDPAYSAYISI": 19372816.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 18453204.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1365,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947841,
-      "TEDPAYSAYISI": 19518481.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 18500414.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1375,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941787,
-      "TEDPAYSAYISI": 19455883.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 18323291.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1385,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947638,
-      "TEDPAYSAYISI": 19261008.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 18252468.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1395,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949094,
-      "TEDPAYSAYISI": 19224908.0,
-      "KISISAYISI": 702.0,
-      "PORTFOYBUYUKLUK": 18246237.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1405,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947708,
-      "TEDPAYSAYISI": 19216276.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 18211413.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1415,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924775,
-      "TEDPAYSAYISI": 19205437.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 17760701.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1425,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929103,
-      "TEDPAYSAYISI": 19157332.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 17799129.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1435,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.915609,
-      "TEDPAYSAYISI": 19086104.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 17475408.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1445,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910067,
-      "TEDPAYSAYISI": 18568433.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 16898522.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1455,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907621,
-      "TEDPAYSAYISI": 18561090.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 16846428.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1465,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886967,
-      "TEDPAYSAYISI": 18578944.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 16478909.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1475,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.887718,
-      "TEDPAYSAYISI": 18569710.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 16484673.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1485,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875024,
-      "TEDPAYSAYISI": 18644480.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 16314360.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1495,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88764,
-      "TEDPAYSAYISI": 18423366.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 16353321.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1505,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896741,
-      "TEDPAYSAYISI": 18425990.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 16523337.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1515,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891071,
-      "TEDPAYSAYISI": 19356180.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 17247728.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1525,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88685,
-      "TEDPAYSAYISI": 19456898.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 17255355.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1535,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.872591,
-      "TEDPAYSAYISI": 18652862.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 16276311.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1545,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881081,
-      "TEDPAYSAYISI": 18680371.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 16458922.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1555,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882728,
-      "TEDPAYSAYISI": 18599294.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 16418117.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1565,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882468,
-      "TEDPAYSAYISI": 18545104.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 16365469.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1575,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880535,
-      "TEDPAYSAYISI": 18831115.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 16581463.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1585,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867661,
-      "TEDPAYSAYISI": 18829833.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 16337915.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1595,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876419,
-      "TEDPAYSAYISI": 18494427.0,
-      "KISISAYISI": 669.0,
-      "PORTFOYBUYUKLUK": 16208862.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1605,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.858497,
-      "TEDPAYSAYISI": 18466179.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 15853152.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1615,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.863451,
-      "TEDPAYSAYISI": 13770659.0,
-      "KISISAYISI": 660.0,
-      "PORTFOYBUYUKLUK": 11890292.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1625,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.851747,
-      "TEDPAYSAYISI": 13131024.0,
-      "KISISAYISI": 659.0,
-      "PORTFOYBUYUKLUK": 11184311.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1635,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855268,
-      "TEDPAYSAYISI": 13109130.0,
-      "KISISAYISI": 654.0,
-      "PORTFOYBUYUKLUK": 11211816.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1645,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864257,
-      "TEDPAYSAYISI": 13144236.0,
-      "KISISAYISI": 651.0,
-      "PORTFOYBUYUKLUK": 11359993.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1655,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859509,
-      "TEDPAYSAYISI": 13121554.0,
-      "KISISAYISI": 649.0,
-      "PORTFOYBUYUKLUK": 11278095.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1665,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866239,
-      "TEDPAYSAYISI": 13116624.0,
-      "KISISAYISI": 648.0,
-      "PORTFOYBUYUKLUK": 11362127.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1675,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.861163,
-      "TEDPAYSAYISI": 13306530.0,
-      "KISISAYISI": 646.0,
-      "PORTFOYBUYUKLUK": 11459096.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1685,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874642,
-      "TEDPAYSAYISI": 13202010.0,
-      "KISISAYISI": 639.0,
-      "PORTFOYBUYUKLUK": 11547036.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1695,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.892857,
-      "TEDPAYSAYISI": 24632417.0,
-      "KISISAYISI": 635.0,
-      "PORTFOYBUYUKLUK": 21993222.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1705,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904893,
-      "TEDPAYSAYISI": 24672289.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 22325778.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1715,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909251,
-      "TEDPAYSAYISI": 24618928.0,
-      "KISISAYISI": 630.0,
-      "PORTFOYBUYUKLUK": 22384796.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1725,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910037,
-      "TEDPAYSAYISI": 24667852.0,
-      "KISISAYISI": 630.0,
-      "PORTFOYBUYUKLUK": 22448649.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1735,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903988,
-      "TEDPAYSAYISI": 23402044.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 21155161.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1745,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918288,
-      "TEDPAYSAYISI": 23420699.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 21506941.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1755,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925354,
-      "TEDPAYSAYISI": 23428175.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 21679361.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1765,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935276,
-      "TEDPAYSAYISI": 23304982.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 21796593.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1775,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932176,
-      "TEDPAYSAYISI": 23209461.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 21635294.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1785,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.852808,
-      "TEDPAYSAYISI": 21481645.0,
-      "KISISAYISI": 625.0,
-      "PORTFOYBUYUKLUK": 18319711.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1795,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.856609,
-      "TEDPAYSAYISI": 21576293.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 18482440.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1805,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.807668,
-      "TEDPAYSAYISI": 21500293.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 17365100.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1815,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.81836,
-      "TEDPAYSAYISI": 21422810.0,
-      "KISISAYISI": 615.0,
-      "PORTFOYBUYUKLUK": 17531575.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1825,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.843627,
-      "TEDPAYSAYISI": 23343343.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 19693069.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1835,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.842756,
-      "TEDPAYSAYISI": 23137872.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 19499577.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1845,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.84852,
-      "TEDPAYSAYISI": 23097137.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 19598382.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1855,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.861235,
-      "TEDPAYSAYISI": 23076211.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 19874038.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1865,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865483,
-      "TEDPAYSAYISI": 23084757.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 19979474.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1875,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868786,
-      "TEDPAYSAYISI": 23072454.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 20045020.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1885,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85946,
-      "TEDPAYSAYISI": 23129298.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 19878695.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1895,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.871691,
-      "TEDPAYSAYISI": 23057104.0,
-      "KISISAYISI": 587.0,
-      "PORTFOYBUYUKLUK": 20098674.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1905,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.888506,
-      "TEDPAYSAYISI": 22915126.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 20360219.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1915,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.880997,
-      "TEDPAYSAYISI": 22921472.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 20193754.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1925,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.887461,
-      "TEDPAYSAYISI": 22929137.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 20348716.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1935,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.88567,
-      "TEDPAYSAYISI": 20849129.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 18465452.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1945,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89259,
-      "TEDPAYSAYISI": 20801173.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 18566916.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1955,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.893073,
-      "TEDPAYSAYISI": 20693371.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 18480698.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +1965,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873906,
-      "TEDPAYSAYISI": 22755186.0,
-      "KISISAYISI": 583.0,
-      "PORTFOYBUYUKLUK": 19885901.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +1975,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.894334,
-      "TEDPAYSAYISI": 22753809.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 20349505.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +1985,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891315,
-      "TEDPAYSAYISI": 22754982.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 20281860.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +1995,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886725,
-      "TEDPAYSAYISI": 22698844.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 20127633.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2005,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875603,
-      "TEDPAYSAYISI": 22771897.0,
-      "KISISAYISI": 572.0,
-      "PORTFOYBUYUKLUK": 19939150.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2015,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876757,
-      "TEDPAYSAYISI": 22749400.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 19945695.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2025,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.876757,
-      "TEDPAYSAYISI": 23310370.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 20437527.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2035,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867343,
-      "TEDPAYSAYISI": 23185957.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 20110166.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2045,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.867701,
-      "TEDPAYSAYISI": 22622385.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 19629475.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2055,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859699,
-      "TEDPAYSAYISI": 22623087.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 19449038.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2065,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.87405,
-      "TEDPAYSAYISI": 22619867.0,
-      "KISISAYISI": 552.0,
-      "PORTFOYBUYUKLUK": 19770893.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2075,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873725,
-      "TEDPAYSAYISI": 22607625.0,
-      "KISISAYISI": 549.0,
-      "PORTFOYBUYUKLUK": 19752837.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2085,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.879486,
-      "TEDPAYSAYISI": 22586367.0,
-      "KISISAYISI": 545.0,
-      "PORTFOYBUYUKLUK": 19864395.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2095,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864277,
-      "TEDPAYSAYISI": 22581868.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 19516979.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2105,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875181,
-      "TEDPAYSAYISI": 22545077.0,
-      "KISISAYISI": 539.0,
-      "PORTFOYBUYUKLUK": 19731014.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2115,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895172,
-      "TEDPAYSAYISI": 22230867.0,
-      "KISISAYISI": 538.0,
-      "PORTFOYBUYUKLUK": 19900451.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2125,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.917658,
-      "TEDPAYSAYISI": 22225948.0,
-      "KISISAYISI": 537.0,
-      "PORTFOYBUYUKLUK": 20395826.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2135,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918762,
-      "TEDPAYSAYISI": 22247729.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 20440365.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2145,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91165,
-      "TEDPAYSAYISI": 22279052.0,
-      "KISISAYISI": 538.0,
-      "PORTFOYBUYUKLUK": 20310700.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2155,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.908567,
-      "TEDPAYSAYISI": 22189501.0,
-      "KISISAYISI": 536.0,
-      "PORTFOYBUYUKLUK": 20160643.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2165,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925086,
-      "TEDPAYSAYISI": 22182545.0,
-      "KISISAYISI": 533.0,
-      "PORTFOYBUYUKLUK": 20520758.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2175,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913456,
-      "TEDPAYSAYISI": 22183734.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 20263858.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2185,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909096,
-      "TEDPAYSAYISI": 22247263.0,
-      "KISISAYISI": 532.0,
-      "PORTFOYBUYUKLUK": 20224901.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2195,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919938,
-      "TEDPAYSAYISI": 22221046.0,
-      "KISISAYISI": 529.0,
-      "PORTFOYBUYUKLUK": 20441992.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2205,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903029,
-      "TEDPAYSAYISI": 22204606.0,
-      "KISISAYISI": 528.0,
-      "PORTFOYBUYUKLUK": 20051406.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2215,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895237,
-      "TEDPAYSAYISI": 22205499.0,
-      "KISISAYISI": 526.0,
-      "PORTFOYBUYUKLUK": 19879195.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2225,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881449,
-      "TEDPAYSAYISI": 22182311.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 19552574.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2235,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.869085,
-      "TEDPAYSAYISI": 22170493.0,
-      "KISISAYISI": 525.0,
-      "PORTFOYBUYUKLUK": 19268043.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2245,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868828,
-      "TEDPAYSAYISI": 22170800.0,
-      "KISISAYISI": 520.0,
-      "PORTFOYBUYUKLUK": 19262608.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2255,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85793,
-      "TEDPAYSAYISI": 27089030.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 23240482.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2265,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850624,
-      "TEDPAYSAYISI": 27124489.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 23072737.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2275,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864308,
-      "TEDPAYSAYISI": 27097023.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 23420167.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2285,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886253,
-      "TEDPAYSAYISI": 27094741.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 24012807.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2295,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.89178,
-      "TEDPAYSAYISI": 27094741.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 24162550.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2305,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910423,
-      "TEDPAYSAYISI": 27101573.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 24673907.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2315,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904516,
-      "TEDPAYSAYISI": 26994535.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 24416995.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2325,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886037,
-      "TEDPAYSAYISI": 15522514.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 13753519.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2335,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864245,
-      "TEDPAYSAYISI": 26582514.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 22973798.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2345,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.872603,
-      "TEDPAYSAYISI": 27061709.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 23614132.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2355,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873661,
-      "TEDPAYSAYISI": 26959507.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 23553474.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2365,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859063,
-      "TEDPAYSAYISI": 26944047.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 23146641.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2375,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850787,
-      "TEDPAYSAYISI": 26950795.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 22929380.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2385,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865854,
-      "TEDPAYSAYISI": 26970125.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 23352201.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2395,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.862289,
-      "TEDPAYSAYISI": 26980944.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 23265372.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2405,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.883128,
-      "TEDPAYSAYISI": 26979044.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 23825948.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2415,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.878888,
-      "TEDPAYSAYISI": 26938211.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 23675666.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2425,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.886891,
-      "TEDPAYSAYISI": 26939232.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 23892150.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2435,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.895689,
-      "TEDPAYSAYISI": 26940243.0,
-      "KISISAYISI": 507.0,
-      "PORTFOYBUYUKLUK": 24130092.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2445,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.913709,
-      "TEDPAYSAYISI": 26937178.0,
-      "KISISAYISI": 506.0,
-      "PORTFOYBUYUKLUK": 24612753.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2455,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922681,
-      "TEDPAYSAYISI": 26737372.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 24670062.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2465,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929628,
-      "TEDPAYSAYISI": 26772049.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 24888047.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2475,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947631,
-      "TEDPAYSAYISI": 26690171.0,
-      "KISISAYISI": 506.0,
-      "PORTFOYBUYUKLUK": 25292446.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2485,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945426,
-      "TEDPAYSAYISI": 26740956.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 25281599.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2495,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929772,
-      "TEDPAYSAYISI": 26853916.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 24968022.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2505,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92701,
-      "TEDPAYSAYISI": 26845957.0,
-      "KISISAYISI": 509.0,
-      "PORTFOYBUYUKLUK": 24886466.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2515,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942193,
-      "TEDPAYSAYISI": 26838769.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 25287294.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2525,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948685,
-      "TEDPAYSAYISI": 26866441.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 25487789.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2535,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946327,
-      "TEDPAYSAYISI": 26869257.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 25427096.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2545,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94852,
-      "TEDPAYSAYISI": 26881744.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 25497875.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2555,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948294,
-      "TEDPAYSAYISI": 26759234.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 25375609.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2565,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971257,
-      "TEDPAYSAYISI": 26733558.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 25965141.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2575,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971557,
-      "TEDPAYSAYISI": 26738170.0,
-      "KISISAYISI": 509.0,
-      "PORTFOYBUYUKLUK": 25977658.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2585,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987937,
-      "TEDPAYSAYISI": 26759783.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 26436986.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2595,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993855,
-      "TEDPAYSAYISI": 26779528.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 26614977.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2605,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994078,
-      "TEDPAYSAYISI": 26801811.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 26643100.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2615,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002953,
-      "TEDPAYSAYISI": 27002449.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 27082198.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2625,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009698,
-      "TEDPAYSAYISI": 27016771.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 27278781.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2635,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013705,
-      "TEDPAYSAYISI": 26974490.0,
-      "KISISAYISI": 509.0,
-      "PORTFOYBUYUKLUK": 27344169.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2645,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01471,
-      "TEDPAYSAYISI": 27003924.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 27401139.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2655,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018108,
-      "TEDPAYSAYISI": 26898837.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 27385909.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2665,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025222,
-      "TEDPAYSAYISI": 26884335.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 27562412.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2675,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033002,
-      "TEDPAYSAYISI": 26926724.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 27815356.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2685,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047176,
-      "TEDPAYSAYISI": 26978643.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 28251385.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2695,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059733,
-      "TEDPAYSAYISI": 27178395.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 28801847.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2705,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063892,
-      "TEDPAYSAYISI": 27375344.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 29124418.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2715,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065256,
-      "TEDPAYSAYISI": 27458331.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 29250163.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2725,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059239,
-      "TEDPAYSAYISI": 27555465.0,
-      "KISISAYISI": 524.0,
-      "PORTFOYBUYUKLUK": 29187828.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2735,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07104,
-      "TEDPAYSAYISI": 27329826.0,
-      "KISISAYISI": 528.0,
-      "PORTFOYBUYUKLUK": 29271324.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2745,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068705,
-      "TEDPAYSAYISI": 27296897.0,
-      "KISISAYISI": 536.0,
-      "PORTFOYBUYUKLUK": 29172323.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2755,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062282,
-      "TEDPAYSAYISI": 27401374.0,
-      "KISISAYISI": 537.0,
-      "PORTFOYBUYUKLUK": 29107986.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2765,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054309,
-      "TEDPAYSAYISI": 27391293.0,
-      "KISISAYISI": 537.0,
-      "PORTFOYBUYUKLUK": 28878876.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2775,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071255,
-      "TEDPAYSAYISI": 27407852.0,
-      "KISISAYISI": 541.0,
-      "PORTFOYBUYUKLUK": 29360806.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2785,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09057,
-      "TEDPAYSAYISI": 27522192.0,
-      "KISISAYISI": 546.0,
-      "PORTFOYBUYUKLUK": 30014884.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2795,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093706,
-      "TEDPAYSAYISI": 27899448.0,
-      "KISISAYISI": 551.0,
-      "PORTFOYBUYUKLUK": 30513785.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2805,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101361,
-      "TEDPAYSAYISI": 27833481.0,
-      "KISISAYISI": 553.0,
-      "PORTFOYBUYUKLUK": 30654719.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2815,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125682,
-      "TEDPAYSAYISI": 28031670.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 31554744.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2825,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132749,
-      "TEDPAYSAYISI": 28520595.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 32306671.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2835,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150338,
-      "TEDPAYSAYISI": 29642161.0,
-      "KISISAYISI": 625.0,
-      "PORTFOYBUYUKLUK": 34098502.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2845,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129997,
-      "TEDPAYSAYISI": 31021377.0,
-      "KISISAYISI": 674.0,
-      "PORTFOYBUYUKLUK": 35054051.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2855,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.109818,
-      "TEDPAYSAYISI": 34381658.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 38157391.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2865,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106694,
-      "TEDPAYSAYISI": 34273866.0,
-      "KISISAYISI": 746.0,
-      "PORTFOYBUYUKLUK": 37930694.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +2875,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105569,
-      "TEDPAYSAYISI": 34190159.0,
-      "KISISAYISI": 760.0,
-      "PORTFOYBUYUKLUK": 37799585.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +2885,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112685,
-      "TEDPAYSAYISI": 34273776.0,
-      "KISISAYISI": 761.0,
-      "PORTFOYBUYUKLUK": 38135917.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +2895,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083143,
-      "TEDPAYSAYISI": 34166122.0,
-      "KISISAYISI": 762.0,
-      "PORTFOYBUYUKLUK": 37006810.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +2905,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083061,
-      "TEDPAYSAYISI": 34241115.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 37085228.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +2915,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088232,
-      "TEDPAYSAYISI": 33819307.0,
-      "KISISAYISI": 754.0,
-      "PORTFOYBUYUKLUK": 36803236.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +2925,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07212,
-      "TEDPAYSAYISI": 33361551.0,
-      "KISISAYISI": 740.0,
-      "PORTFOYBUYUKLUK": 35767588.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +2935,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037547,
-      "TEDPAYSAYISI": 33377363.0,
-      "KISISAYISI": 734.0,
-      "PORTFOYBUYUKLUK": 34630589.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +2945,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038972,
-      "TEDPAYSAYISI": 33039734.0,
-      "KISISAYISI": 731.0,
-      "PORTFOYBUYUKLUK": 34327347.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +2955,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037415,
-      "TEDPAYSAYISI": 32945284.0,
-      "KISISAYISI": 720.0,
-      "PORTFOYBUYUKLUK": 34177929.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +2965,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01807,
-      "TEDPAYSAYISI": 32773700.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 33365927.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +2975,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017077,
-      "TEDPAYSAYISI": 32569375.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 33125562.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +2985,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067439,
-      "TEDPAYSAYISI": 32042512.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 34203429.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +2995,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088698,
-      "TEDPAYSAYISI": 32000702.0,
-      "KISISAYISI": 692.0,
-      "PORTFOYBUYUKLUK": 34839096.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3005,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084924,
-      "TEDPAYSAYISI": 31957428.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 34671367.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3015,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084768,
-      "TEDPAYSAYISI": 32047966.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 34764620.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3025,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093078,
-      "TEDPAYSAYISI": 32239614.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 35240421.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3035,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115474,
-      "TEDPAYSAYISI": 32246090.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 35969677.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3045,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095186,
-      "TEDPAYSAYISI": 32165503.0,
-      "KISISAYISI": 678.0,
-      "PORTFOYBUYUKLUK": 35227203.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3055,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101871,
-      "TEDPAYSAYISI": 32060926.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 35326994.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3065,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106259,
-      "TEDPAYSAYISI": 31944935.0,
-      "KISISAYISI": 655.0,
-      "PORTFOYBUYUKLUK": 35339383.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3075,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085825,
-      "TEDPAYSAYISI": 31733627.0,
-      "KISISAYISI": 653.0,
-      "PORTFOYBUYUKLUK": 34457162.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3085,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06117,
-      "TEDPAYSAYISI": 31659758.0,
-      "KISISAYISI": 654.0,
-      "PORTFOYBUYUKLUK": 33596400.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3095,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058752,
-      "TEDPAYSAYISI": 31520306.0,
-      "KISISAYISI": 649.0,
-      "PORTFOYBUYUKLUK": 33372193.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3105,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079073,
-      "TEDPAYSAYISI": 31522629.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 34015229.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3115,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06987,
-      "TEDPAYSAYISI": 30569420.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 32705302.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3125,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049905,
-      "TEDPAYSAYISI": 30462006.0,
-      "KISISAYISI": 642.0,
-      "PORTFOYBUYUKLUK": 31982226.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3135,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048209,
-      "TEDPAYSAYISI": 30454883.0,
-      "KISISAYISI": 637.0,
-      "PORTFOYBUYUKLUK": 31923070.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3145,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07173,
-      "TEDPAYSAYISI": 30344619.0,
-      "KISISAYISI": 635.0,
-      "PORTFOYBUYUKLUK": 32521247.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3155,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057287,
-      "TEDPAYSAYISI": 30332192.0,
-      "KISISAYISI": 629.0,
-      "PORTFOYBUYUKLUK": 32069838.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3165,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062529,
-      "TEDPAYSAYISI": 30474902.0,
-      "KISISAYISI": 627.0,
-      "PORTFOYBUYUKLUK": 32380457.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3175,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076019,
-      "TEDPAYSAYISI": 30312532.0,
-      "KISISAYISI": 627.0,
-      "PORTFOYBUYUKLUK": 32616855.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3185,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050922,
-      "TEDPAYSAYISI": 30299449.0,
-      "KISISAYISI": 621.0,
-      "PORTFOYBUYUKLUK": 31842365.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3195,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022986,
-      "TEDPAYSAYISI": 30075936.0,
-      "KISISAYISI": 621.0,
-      "PORTFOYBUYUKLUK": 30767266.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3205,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044738,
-      "TEDPAYSAYISI": 29979106.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 31320304.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3215,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036963,
-      "TEDPAYSAYISI": 29946877.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 31053789.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3225,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030137,
-      "TEDPAYSAYISI": 29981984.0,
-      "KISISAYISI": 615.0,
-      "PORTFOYBUYUKLUK": 30885560.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3235,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037429,
-      "TEDPAYSAYISI": 30365109.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 31501653.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3245,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036504,
-      "TEDPAYSAYISI": 30351785.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 31459751.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3255,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043336,
-      "TEDPAYSAYISI": 30097484.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 31401797.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3265,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046264,
-      "TEDPAYSAYISI": 29908695.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 31292393.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3275,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072463,
-      "TEDPAYSAYISI": 29845159.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 32007818.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3285,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075891,
-      "TEDPAYSAYISI": 29844137.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 32109044.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3295,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074294,
-      "TEDPAYSAYISI": 29443777.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 31631285.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3305,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091381,
-      "TEDPAYSAYISI": 29455788.0,
-      "KISISAYISI": 611.0,
-      "PORTFOYBUYUKLUK": 32147487.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3315,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.109568,
-      "TEDPAYSAYISI": 29363337.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 32580625.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3325,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133046,
-      "TEDPAYSAYISI": 29352722.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 33257987.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3335,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146358,
-      "TEDPAYSAYISI": 29377052.0,
-      "KISISAYISI": 611.0,
-      "PORTFOYBUYUKLUK": 33676604.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3345,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144223,
-      "TEDPAYSAYISI": 29544094.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 33805025.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3355,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148399,
-      "TEDPAYSAYISI": 32337624.0,
-      "KISISAYISI": 639.0,
-      "PORTFOYBUYUKLUK": 37136493.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3365,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134255,
-      "TEDPAYSAYISI": 32596150.0,
-      "KISISAYISI": 659.0,
-      "PORTFOYBUYUKLUK": 36972336.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3375,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125881,
-      "TEDPAYSAYISI": 33654930.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 37891449.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3385,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09881,
-      "TEDPAYSAYISI": 33792348.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 37131357.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3395,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090665,
-      "TEDPAYSAYISI": 33687380.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 36741655.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3405,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095866,
-      "TEDPAYSAYISI": 30852857.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 33810591.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3415,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079469,
-      "TEDPAYSAYISI": 29816230.0,
-      "KISISAYISI": 661.0,
-      "PORTFOYBUYUKLUK": 32185690.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3425,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104733,
-      "TEDPAYSAYISI": 29759546.0,
-      "KISISAYISI": 651.0,
-      "PORTFOYBUYUKLUK": 32876364.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3435,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108263,
-      "TEDPAYSAYISI": 29749284.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 32970040.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3375,9 +3445,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114319,
-      "TEDPAYSAYISI": 29788093.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 33193448.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3385,9 +3455,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130265,
-      "TEDPAYSAYISI": 29694937.0,
-      "KISISAYISI": 648.0,
-      "PORTFOYBUYUKLUK": 33563161.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3395,9 +3465,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125064,
-      "TEDPAYSAYISI": 30033631.0,
-      "KISISAYISI": 651.0,
-      "PORTFOYBUYUKLUK": 33789742.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3405,9 +3475,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132295,
-      "TEDPAYSAYISI": 30898684.0,
-      "KISISAYISI": 654.0,
-      "PORTFOYBUYUKLUK": 34986438.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3415,9 +3485,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120242,
-      "TEDPAYSAYISI": 30949651.0,
-      "KISISAYISI": 655.0,
-      "PORTFOYBUYUKLUK": 34671088.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3425,9 +3495,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094228,
-      "TEDPAYSAYISI": 30946167.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 33862164.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3435,9 +3505,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100461,
-      "TEDPAYSAYISI": 30102507.0,
-      "KISISAYISI": 652.0,
-      "PORTFOYBUYUKLUK": 33126642.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3445,9 +3515,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087954,
-      "TEDPAYSAYISI": 30052396.0,
-      "KISISAYISI": 650.0,
-      "PORTFOYBUYUKLUK": 32695622.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3455,9 +3525,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105037,
-      "TEDPAYSAYISI": 30070417.0,
-      "KISISAYISI": 650.0,
-      "PORTFOYBUYUKLUK": 33228934.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3465,9 +3535,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122683,
-      "TEDPAYSAYISI": 30000776.0,
-      "KISISAYISI": 651.0,
-      "PORTFOYBUYUKLUK": 33681365.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3475,9 +3545,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125536,
-      "TEDPAYSAYISI": 30011460.0,
-      "KISISAYISI": 646.0,
-      "PORTFOYBUYUKLUK": 33778991.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3485,9 +3555,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120473,
-      "TEDPAYSAYISI": 30047047.0,
-      "KISISAYISI": 645.0,
-      "PORTFOYBUYUKLUK": 33666902.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3495,9 +3565,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130936,
-      "TEDPAYSAYISI": 30118381.0,
-      "KISISAYISI": 645.0,
-      "PORTFOYBUYUKLUK": 34061967.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3505,9 +3575,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132559,
-      "TEDPAYSAYISI": 30164899.0,
-      "KISISAYISI": 643.0,
-      "PORTFOYBUYUKLUK": 34163542.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3515,9 +3585,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138458,
-      "TEDPAYSAYISI": 30099290.0,
-      "KISISAYISI": 643.0,
-      "PORTFOYBUYUKLUK": 34266763.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3525,9 +3595,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12912,
-      "TEDPAYSAYISI": 30002815.0,
-      "KISISAYISI": 639.0,
-      "PORTFOYBUYUKLUK": 33876766.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3535,9 +3605,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138141,
-      "TEDPAYSAYISI": 27838407.0,
-      "KISISAYISI": 637.0,
-      "PORTFOYBUYUKLUK": 31684019.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3545,9 +3615,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145996,
-      "TEDPAYSAYISI": 30736217.0,
-      "KISISAYISI": 633.0,
-      "PORTFOYBUYUKLUK": 35223584.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3555,9 +3625,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140658,
-      "TEDPAYSAYISI": 30649092.0,
-      "KISISAYISI": 634.0,
-      "PORTFOYBUYUKLUK": 34960143.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3565,9 +3635,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129038,
-      "TEDPAYSAYISI": 30553404.0,
-      "KISISAYISI": 633.0,
-      "PORTFOYBUYUKLUK": 34495964.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3575,9 +3645,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119477,
-      "TEDPAYSAYISI": 30252236.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 33866694.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3585,9 +3655,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123339,
-      "TEDPAYSAYISI": 30274901.0,
-      "KISISAYISI": 625.0,
-      "PORTFOYBUYUKLUK": 34008965.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3595,9 +3665,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125155,
-      "TEDPAYSAYISI": 30702972.0,
-      "KISISAYISI": 629.0,
-      "PORTFOYBUYUKLUK": 34545612.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3605,9 +3675,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111603,
-      "TEDPAYSAYISI": 29717571.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 33034129.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3615,9 +3685,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110827,
-      "TEDPAYSAYISI": 29524901.0,
-      "KISISAYISI": 625.0,
-      "PORTFOYBUYUKLUK": 32797057.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3625,9 +3695,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114138,
-      "TEDPAYSAYISI": 29411449.0,
-      "KISISAYISI": 619.0,
-      "PORTFOYBUYUKLUK": 32768424.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3635,9 +3705,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121444,
-      "TEDPAYSAYISI": 29351482.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 32916049.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3645,9 +3715,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124206,
-      "TEDPAYSAYISI": 29358732.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 33005276.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3655,9 +3725,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103222,
-      "TEDPAYSAYISI": 29123570.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 32129760.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3665,9 +3735,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113935,
-      "TEDPAYSAYISI": 28976896.0,
-      "KISISAYISI": 606.0,
-      "PORTFOYBUYUKLUK": 32278387.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3675,9 +3745,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131038,
-      "TEDPAYSAYISI": 28971057.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 32767358.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3685,9 +3755,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137255,
-      "TEDPAYSAYISI": 28967254.0,
-      "KISISAYISI": 600.0,
-      "PORTFOYBUYUKLUK": 32943147.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3695,9 +3765,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132629,
-      "TEDPAYSAYISI": 28943919.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 32782735.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3705,9 +3775,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134096,
-      "TEDPAYSAYISI": 28953673.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 32836236.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3715,9 +3785,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130699,
-      "TEDPAYSAYISI": 28673580.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 32421180.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3725,9 +3795,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126897,
-      "TEDPAYSAYISI": 28671993.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 32310383.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3735,9 +3805,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116134,
-      "TEDPAYSAYISI": 28673714.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 32003708.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3745,9 +3815,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131887,
-      "TEDPAYSAYISI": 28717927.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 32505436.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3755,9 +3825,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141497,
-      "TEDPAYSAYISI": 27719152.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 31641328.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3765,9 +3835,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131246,
-      "TEDPAYSAYISI": 27876770.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 31535473.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3775,9 +3845,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145641,
-      "TEDPAYSAYISI": 27835784.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 31889817.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3785,9 +3855,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148551,
-      "TEDPAYSAYISI": 27425638.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 31499754.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3795,9 +3865,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157849,
-      "TEDPAYSAYISI": 27415787.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 31743335.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3805,9 +3875,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153138,
-      "TEDPAYSAYISI": 27442063.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 31644481.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3815,9 +3885,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152917,
-      "TEDPAYSAYISI": 27340860.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 31521743.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3825,9 +3895,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177107,
-      "TEDPAYSAYISI": 27181791.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 31995864.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3835,9 +3905,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.183774,
-      "TEDPAYSAYISI": 27152324.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 32142222.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3845,9 +3915,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202121,
-      "TEDPAYSAYISI": 27095574.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 32572146.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3855,9 +3925,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.211068,
-      "TEDPAYSAYISI": 26980718.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 32675484.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3865,9 +3935,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.223261,
-      "TEDPAYSAYISI": 27138589.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 33197574.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3875,9 +3945,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253542,
-      "TEDPAYSAYISI": 27198379.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 34094297.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3885,9 +3955,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232076,
-      "TEDPAYSAYISI": 27662906.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 34082793.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3895,9 +3965,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226944,
-      "TEDPAYSAYISI": 27625039.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 33894374.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3905,9 +3975,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243285,
-      "TEDPAYSAYISI": 27270026.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 33904412.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3915,9 +3985,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260242,
-      "TEDPAYSAYISI": 27326525.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 34438046.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3925,9 +3995,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229168,
-      "TEDPAYSAYISI": 27495922.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 33797105.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3935,9 +4005,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212794,
-      "TEDPAYSAYISI": 27738987.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 33641680.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3945,9 +4015,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23274,
-      "TEDPAYSAYISI": 27753176.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 34212463.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3955,9 +4025,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240158,
-      "TEDPAYSAYISI": 27655878.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 34297658.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3965,9 +4035,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22812,
-      "TEDPAYSAYISI": 27684984.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 34000482.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3975,9 +4045,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246955,
-      "TEDPAYSAYISI": 27641981.0,
-      "KISISAYISI": 600.0,
-      "PORTFOYBUYUKLUK": 34468310.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3985,9 +4055,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24886,
-      "TEDPAYSAYISI": 27666264.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 34551300.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3995,9 +4065,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268671,
-      "TEDPAYSAYISI": 27654841.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 35084883.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4005,9 +4075,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272559,
-      "TEDPAYSAYISI": 27452883.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 34935420.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4015,9 +4085,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259296,
-      "TEDPAYSAYISI": 27580837.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 34732426.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4025,9 +4095,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217042,
-      "TEDPAYSAYISI": 27557732.0,
-      "KISISAYISI": 603.0,
-      "PORTFOYBUYUKLUK": 33538919.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4035,9 +4105,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225384,
-      "TEDPAYSAYISI": 27615970.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 33840177.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4045,9 +4115,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232229,
-      "TEDPAYSAYISI": 27599043.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 34008344.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4055,9 +4125,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233476,
-      "TEDPAYSAYISI": 27643277.0,
-      "KISISAYISI": 611.0,
-      "PORTFOYBUYUKLUK": 34097310.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4065,9 +4135,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207992,
-      "TEDPAYSAYISI": 27636558.0,
-      "KISISAYISI": 609.0,
-      "PORTFOYBUYUKLUK": 33384737.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4075,9 +4145,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213843,
-      "TEDPAYSAYISI": 27634564.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 33544033.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4085,9 +4155,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197179,
-      "TEDPAYSAYISI": 27643853.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 33094650.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4095,9 +4165,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165172,
-      "TEDPAYSAYISI": 27637749.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 32202742.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4105,9 +4175,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156596,
-      "TEDPAYSAYISI": 27600663.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 31922806.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4115,9 +4185,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161114,
-      "TEDPAYSAYISI": 27627763.0,
-      "KISISAYISI": 603.0,
-      "PORTFOYBUYUKLUK": 32078992.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4125,9 +4195,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179976,
-      "TEDPAYSAYISI": 27627299.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 32599541.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4135,9 +4205,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165528,
-      "TEDPAYSAYISI": 27629272.0,
-      "KISISAYISI": 603.0,
-      "PORTFOYBUYUKLUK": 32202697.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4145,9 +4215,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171692,
-      "TEDPAYSAYISI": 27857812.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 32640785.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4155,9 +4225,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209182,
-      "TEDPAYSAYISI": 27878461.0,
-      "KISISAYISI": 611.0,
-      "PORTFOYBUYUKLUK": 33710137.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4165,9 +4235,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210358,
-      "TEDPAYSAYISI": 27871951.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 33735030.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4175,9 +4245,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.230705,
-      "TEDPAYSAYISI": 28117677.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 34604563.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4185,9 +4255,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221966,
-      "TEDPAYSAYISI": 28067295.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 34297279.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4195,9 +4265,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217103,
-      "TEDPAYSAYISI": 28038250.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 34125437.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4205,9 +4275,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231063,
-      "TEDPAYSAYISI": 28009269.0,
-      "KISISAYISI": 619.0,
-      "PORTFOYBUYUKLUK": 34481169.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4215,9 +4285,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226505,
-      "TEDPAYSAYISI": 28130520.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 34502220.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4225,9 +4295,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23669,
-      "TEDPAYSAYISI": 27963063.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 34581641.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4235,9 +4305,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24011,
-      "TEDPAYSAYISI": 27793325.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 34466785.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4245,9 +4315,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236038,
-      "TEDPAYSAYISI": 27600050.0,
-      "KISISAYISI": 627.0,
-      "PORTFOYBUYUKLUK": 34114716.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4255,9 +4325,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241288,
-      "TEDPAYSAYISI": 27578474.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 34232822.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4265,9 +4335,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217209,
-      "TEDPAYSAYISI": 27524265.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 33502780.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4275,9 +4345,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196985,
-      "TEDPAYSAYISI": 27653451.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 33100754.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4285,9 +4355,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240102,
-      "TEDPAYSAYISI": 27653754.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 34293479.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4295,9 +4365,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246526,
-      "TEDPAYSAYISI": 27649610.0,
-      "KISISAYISI": 628.0,
-      "PORTFOYBUYUKLUK": 34465967.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4305,9 +4375,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259227,
-      "TEDPAYSAYISI": 27803378.0,
-      "KISISAYISI": 638.0,
-      "PORTFOYBUYUKLUK": 35010750.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4315,9 +4385,9 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269189,
-      "TEDPAYSAYISI": 27833588.0,
-      "KISISAYISI": 647.0,
-      "PORTFOYBUYUKLUK": 35326080.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4325,9 +4395,139 @@
       "FONKODU": "ENJ",
       "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.270964,
-      "TEDPAYSAYISI": 28114865.0,
-      "KISISAYISI": 650.0,
-      "PORTFOYBUYUKLUK": 35732971.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.296752,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.279183,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.305015,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.307591,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.317687,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.313289,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.329382,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.33152,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.340261,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.352219,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.348751,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.335782,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "ENJ",
+      "FONUNVAN": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.333543,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

@@ -1,25 +1,139 @@
 {
   "kod": "ITC",
-  "guncelleme": "2026-04-08T18:24:26Z",
+  "guncelleme": "2026-04-26T18:26:12Z",
   "kaynak_tefas": true,
   "unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/itc-inveo-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.95
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.8
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 2.25
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.6
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 7.07
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.87
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.21
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 5.65
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.83
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 3.56
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.34
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 3.19
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.03
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 2.71
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.41
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 19:20:21",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68b69fe819c3"
 }

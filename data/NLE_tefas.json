@@ -2,22 +2,82 @@
   "fon_kodu": "NLE",
   "fon_unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 227,
-  "gun_kapsami": 327,
+  "kayit_sayisi": 246,
+  "gun_kapsami": 353,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1746489600000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746576000000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746662400000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746748800000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747008000000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1747094400000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1747180800000",
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00374,
-      "TEDPAYSAYISI": 25000000.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 25093508.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +85,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009765,
-      "TEDPAYSAYISI": 25323991.0,
-      "KISISAYISI": 10.0,
-      "PORTFOYBUYUKLUK": 25571289.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +95,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99952,
-      "TEDPAYSAYISI": 32408416.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 32392874.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +105,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018057,
-      "TEDPAYSAYISI": 40755506.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 41491421.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +115,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011655,
-      "TEDPAYSAYISI": 50690563.0,
-      "KISISAYISI": 32.0,
-      "PORTFOYBUYUKLUK": 51281376.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +125,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009583,
-      "TEDPAYSAYISI": 52858249.0,
-      "KISISAYISI": 71.0,
-      "PORTFOYBUYUKLUK": 53364785.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +135,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998735,
-      "TEDPAYSAYISI": 53467781.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 53400143.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +145,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990066,
-      "TEDPAYSAYISI": 53836958.0,
-      "KISISAYISI": 102.0,
-      "PORTFOYBUYUKLUK": 53302115.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +155,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979268,
-      "TEDPAYSAYISI": 55846476.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 54688666.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +165,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973645,
-      "TEDPAYSAYISI": 56432505.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 54945203.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +175,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.969027,
-      "TEDPAYSAYISI": 56972491.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 55207870.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +185,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.96769,
-      "TEDPAYSAYISI": 57768675.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 55902152.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +195,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961446,
-      "TEDPAYSAYISI": 58610750.0,
-      "KISISAYISI": 178.0,
-      "PORTFOYBUYUKLUK": 56351057.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +205,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957886,
-      "TEDPAYSAYISI": 59472470.0,
-      "KISISAYISI": 191.0,
-      "PORTFOYBUYUKLUK": 56967851.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +215,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005556,
-      "TEDPAYSAYISI": 62747730.0,
-      "KISISAYISI": 821.0,
-      "PORTFOYBUYUKLUK": 63096375.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +225,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021138,
-      "TEDPAYSAYISI": 64833086.0,
-      "KISISAYISI": 1159.0,
-      "PORTFOYBUYUKLUK": 66203551.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +235,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027272,
-      "TEDPAYSAYISI": 64814312.0,
-      "KISISAYISI": 1159.0,
-      "PORTFOYBUYUKLUK": 66581896.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +245,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054718,
-      "TEDPAYSAYISI": 70177148.0,
-      "KISISAYISI": 1869.0,
-      "PORTFOYBUYUKLUK": 74017075.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +255,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070492,
-      "TEDPAYSAYISI": 103501877.0,
-      "KISISAYISI": 3389.0,
-      "PORTFOYBUYUKLUK": 110797912.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +265,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057324,
-      "TEDPAYSAYISI": 135399974.0,
-      "KISISAYISI": 5113.0,
-      "PORTFOYBUYUKLUK": 143161692.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +275,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036799,
-      "TEDPAYSAYISI": 156600806.0,
-      "KISISAYISI": 5892.0,
-      "PORTFOYBUYUKLUK": 162363624.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +285,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047888,
-      "TEDPAYSAYISI": 164570910.0,
-      "KISISAYISI": 6133.0,
-      "PORTFOYBUYUKLUK": 172451881.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +295,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044889,
-      "TEDPAYSAYISI": 184955830.0,
-      "KISISAYISI": 7082.0,
-      "PORTFOYBUYUKLUK": 193258386.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +305,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02564,
-      "TEDPAYSAYISI": 204028945.0,
-      "KISISAYISI": 8014.0,
-      "PORTFOYBUYUKLUK": 209260307.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +315,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017139,
-      "TEDPAYSAYISI": 211236460.0,
-      "KISISAYISI": 8449.0,
-      "PORTFOYBUYUKLUK": 214856840.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +325,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037075,
-      "TEDPAYSAYISI": 218014640.0,
-      "KISISAYISI": 8661.0,
-      "PORTFOYBUYUKLUK": 226097566.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +335,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031678,
-      "TEDPAYSAYISI": 213100803.0,
-      "KISISAYISI": 8783.0,
-      "PORTFOYBUYUKLUK": 219851423.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +345,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082823,
-      "TEDPAYSAYISI": 214147952.0,
-      "KISISAYISI": 8938.0,
-      "PORTFOYBUYUKLUK": 231884313.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +355,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092846,
-      "TEDPAYSAYISI": 219476330.0,
-      "KISISAYISI": 8995.0,
-      "PORTFOYBUYUKLUK": 239853898.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +365,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088624,
-      "TEDPAYSAYISI": 224973872.0,
-      "KISISAYISI": 9124.0,
-      "PORTFOYBUYUKLUK": 244911929.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +375,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099701,
-      "TEDPAYSAYISI": 241849758.0,
-      "KISISAYISI": 9608.0,
-      "PORTFOYBUYUKLUK": 265962433.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +385,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157438,
-      "TEDPAYSAYISI": 266910517.0,
-      "KISISAYISI": 10377.0,
-      "PORTFOYBUYUKLUK": 308932310.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +395,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178283,
-      "TEDPAYSAYISI": 308519433.0,
-      "KISISAYISI": 11229.0,
-      "PORTFOYBUYUKLUK": 363523103.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +405,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186472,
-      "TEDPAYSAYISI": 374307523.0,
-      "KISISAYISI": 11986.0,
-      "PORTFOYBUYUKLUK": 444105278.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +415,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188616,
-      "TEDPAYSAYISI": 435463917.0,
-      "KISISAYISI": 12593.0,
-      "PORTFOYBUYUKLUK": 517599399.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +425,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18863,
-      "TEDPAYSAYISI": 484068228.0,
-      "KISISAYISI": 13142.0,
-      "PORTFOYBUYUKLUK": 575378167.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +435,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185015,
-      "TEDPAYSAYISI": 515779917.0,
-      "KISISAYISI": 13596.0,
-      "PORTFOYBUYUKLUK": 611207025.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +445,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18322,
-      "TEDPAYSAYISI": 520726282.0,
-      "KISISAYISI": 14004.0,
-      "PORTFOYBUYUKLUK": 616133930.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +455,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190192,
-      "TEDPAYSAYISI": 520217209.0,
-      "KISISAYISI": 14089.0,
-      "PORTFOYBUYUKLUK": 619158420.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +465,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200516,
-      "TEDPAYSAYISI": 532391951.0,
-      "KISISAYISI": 14130.0,
-      "PORTFOYBUYUKLUK": 639144887.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +475,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201448,
-      "TEDPAYSAYISI": 555911357.0,
-      "KISISAYISI": 14222.0,
-      "PORTFOYBUYUKLUK": 667898385.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +485,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191087,
-      "TEDPAYSAYISI": 567170917.0,
-      "KISISAYISI": 14312.0,
-      "PORTFOYBUYUKLUK": 675549695.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +495,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182815,
-      "TEDPAYSAYISI": 572402192.0,
-      "KISISAYISI": 14468.0,
-      "PORTFOYBUYUKLUK": 677045892.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +505,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213843,
-      "TEDPAYSAYISI": 577293004.0,
-      "KISISAYISI": 14676.0,
-      "PORTFOYBUYUKLUK": 700743290.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +515,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226146,
-      "TEDPAYSAYISI": 576600894.0,
-      "KISISAYISI": 14717.0,
-      "PORTFOYBUYUKLUK": 706996775.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +525,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250767,
-      "TEDPAYSAYISI": 586092431.0,
-      "KISISAYISI": 14823.0,
-      "PORTFOYBUYUKLUK": 733065314.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +535,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249774,
-      "TEDPAYSAYISI": 630660217.0,
-      "KISISAYISI": 15268.0,
-      "PORTFOYBUYUKLUK": 788182840.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +545,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232581,
-      "TEDPAYSAYISI": 662295200.0,
-      "KISISAYISI": 15629.0,
-      "PORTFOYBUYUKLUK": 816332496.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +555,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240774,
-      "TEDPAYSAYISI": 662609006.0,
-      "KISISAYISI": 15874.0,
-      "PORTFOYBUYUKLUK": 822148020.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +565,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250109,
-      "TEDPAYSAYISI": 672140746.0,
-      "KISISAYISI": 15992.0,
-      "PORTFOYBUYUKLUK": 840249251.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +575,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243136,
-      "TEDPAYSAYISI": 675959928.0,
-      "KISISAYISI": 16093.0,
-      "PORTFOYBUYUKLUK": 840310040.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +585,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231623,
-      "TEDPAYSAYISI": 685762229.0,
-      "KISISAYISI": 16297.0,
-      "PORTFOYBUYUKLUK": 844600687.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +595,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224174,
-      "TEDPAYSAYISI": 691331050.0,
-      "KISISAYISI": 16359.0,
-      "PORTFOYBUYUKLUK": 846309713.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +605,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242404,
-      "TEDPAYSAYISI": 679881245.0,
-      "KISISAYISI": 16369.0,
-      "PORTFOYBUYUKLUK": 844687157.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +615,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240769,
-      "TEDPAYSAYISI": 677372654.0,
-      "KISISAYISI": 16336.0,
-      "PORTFOYBUYUKLUK": 840462772.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +625,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238496,
-      "TEDPAYSAYISI": 679444695.0,
-      "KISISAYISI": 16336.0,
-      "PORTFOYBUYUKLUK": 841489378.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +635,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240742,
-      "TEDPAYSAYISI": 667781117.0,
-      "KISISAYISI": 16334.0,
-      "PORTFOYBUYUKLUK": 828544260.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +645,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238666,
-      "TEDPAYSAYISI": 635331060.0,
-      "KISISAYISI": 16229.0,
-      "PORTFOYBUYUKLUK": 786963210.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +655,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248368,
-      "TEDPAYSAYISI": 628517270.0,
-      "KISISAYISI": 16127.0,
-      "PORTFOYBUYUKLUK": 784620751.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +665,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246145,
-      "TEDPAYSAYISI": 620158405.0,
-      "KISISAYISI": 16076.0,
-      "PORTFOYBUYUKLUK": 772807319.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +675,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249304,
-      "TEDPAYSAYISI": 616532339.0,
-      "KISISAYISI": 16014.0,
-      "PORTFOYBUYUKLUK": 770236546.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +685,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253864,
-      "TEDPAYSAYISI": 608723929.0,
-      "KISISAYISI": 16019.0,
-      "PORTFOYBUYUKLUK": 763256806.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +695,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254129,
-      "TEDPAYSAYISI": 605454926.0,
-      "KISISAYISI": 16001.0,
-      "PORTFOYBUYUKLUK": 759318581.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +705,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.247937,
-      "TEDPAYSAYISI": 601593217.0,
-      "KISISAYISI": 16011.0,
-      "PORTFOYBUYUKLUK": 750750352.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +715,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25434,
-      "TEDPAYSAYISI": 598795412.0,
-      "KISISAYISI": 16029.0,
-      "PORTFOYBUYUKLUK": 751093037.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +725,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249902,
-      "TEDPAYSAYISI": 598735562.0,
-      "KISISAYISI": 16035.0,
-      "PORTFOYBUYUKLUK": 748360940.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +735,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264763,
-      "TEDPAYSAYISI": 587488141.0,
-      "KISISAYISI": 16072.0,
-      "PORTFOYBUYUKLUK": 743033360.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +745,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272994,
-      "TEDPAYSAYISI": 575560193.0,
-      "KISISAYISI": 16023.0,
-      "PORTFOYBUYUKLUK": 732684652.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +755,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280908,
-      "TEDPAYSAYISI": 577165956.0,
-      "KISISAYISI": 15992.0,
-      "PORTFOYBUYUKLUK": 739296369.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +765,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.300184,
-      "TEDPAYSAYISI": 583256284.0,
-      "KISISAYISI": 16056.0,
-      "PORTFOYBUYUKLUK": 758340281.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +775,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.304371,
-      "TEDPAYSAYISI": 591401712.0,
-      "KISISAYISI": 16148.0,
-      "PORTFOYBUYUKLUK": 771407385.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +785,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.303782,
-      "TEDPAYSAYISI": 606322115.0,
-      "KISISAYISI": 16669.0,
-      "PORTFOYBUYUKLUK": 790511705.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +795,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296632,
-      "TEDPAYSAYISI": 620008892.0,
-      "KISISAYISI": 17068.0,
-      "PORTFOYBUYUKLUK": 803923520.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +805,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.303661,
-      "TEDPAYSAYISI": 623605714.0,
-      "KISISAYISI": 17225.0,
-      "PORTFOYBUYUKLUK": 812970557.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +815,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.293827,
-      "TEDPAYSAYISI": 627185591.0,
-      "KISISAYISI": 17336.0,
-      "PORTFOYBUYUKLUK": 811469703.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +825,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311406,
-      "TEDPAYSAYISI": 632688258.0,
-      "KISISAYISI": 17427.0,
-      "PORTFOYBUYUKLUK": 829711471.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +835,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276935,
-      "TEDPAYSAYISI": 632560189.0,
-      "KISISAYISI": 17522.0,
-      "PORTFOYBUYUKLUK": 807738065.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +845,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241468,
-      "TEDPAYSAYISI": 635991454.0,
-      "KISISAYISI": 17528.0,
-      "PORTFOYBUYUKLUK": 789562740.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +855,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269884,
-      "TEDPAYSAYISI": 622329200.0,
-      "KISISAYISI": 17542.0,
-      "PORTFOYBUYUKLUK": 790285913.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +865,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267784,
-      "TEDPAYSAYISI": 621231357.0,
-      "KISISAYISI": 17400.0,
-      "PORTFOYBUYUKLUK": 787587051.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +875,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236041,
-      "TEDPAYSAYISI": 619997901.0,
-      "KISISAYISI": 17364.0,
-      "PORTFOYBUYUKLUK": 766342925.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +885,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243898,
-      "TEDPAYSAYISI": 609113449.0,
-      "KISISAYISI": 17337.0,
-      "PORTFOYBUYUKLUK": 757674811.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +895,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254798,
-      "TEDPAYSAYISI": 602215060.0,
-      "KISISAYISI": 17179.0,
-      "PORTFOYBUYUKLUK": 755658113.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +905,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233469,
-      "TEDPAYSAYISI": 598063902.0,
-      "KISISAYISI": 17045.0,
-      "PORTFOYBUYUKLUK": 737693110.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +915,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.227732,
-      "TEDPAYSAYISI": 593216649.0,
-      "KISISAYISI": 16951.0,
-      "PORTFOYBUYUKLUK": 728311094.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +925,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.285833,
-      "TEDPAYSAYISI": 587293443.0,
-      "KISISAYISI": 16901.0,
-      "PORTFOYBUYUKLUK": 755161309.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +935,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.310934,
-      "TEDPAYSAYISI": 588045101.0,
-      "KISISAYISI": 16876.0,
-      "PORTFOYBUYUKLUK": 770888356.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +945,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.30508,
-      "TEDPAYSAYISI": 585681785.0,
-      "KISISAYISI": 16808.0,
-      "PORTFOYBUYUKLUK": 764361612.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +955,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267816,
-      "TEDPAYSAYISI": 583411768.0,
-      "KISISAYISI": 16737.0,
-      "PORTFOYBUYUKLUK": 739658522.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +965,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.294775,
-      "TEDPAYSAYISI": 579749730.0,
-      "KISISAYISI": 16697.0,
-      "PORTFOYBUYUKLUK": 750645441.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +975,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290762,
-      "TEDPAYSAYISI": 573232697.0,
-      "KISISAYISI": 16678.0,
-      "PORTFOYBUYUKLUK": 739906892.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +985,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27331,
-      "TEDPAYSAYISI": 568300971.0,
-      "KISISAYISI": 16680.0,
-      "PORTFOYBUYUKLUK": 723623530.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +995,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.28494,
-      "TEDPAYSAYISI": 560138457.0,
-      "KISISAYISI": 16582.0,
-      "PORTFOYBUYUKLUK": 719744461.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1005,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289705,
-      "TEDPAYSAYISI": 560149452.0,
-      "KISISAYISI": 16515.0,
-      "PORTFOYBUYUKLUK": 722427745.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1015,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.275909,
-      "TEDPAYSAYISI": 557950981.0,
-      "KISISAYISI": 16438.0,
-      "PORTFOYBUYUKLUK": 711894499.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1025,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.28308,
-      "TEDPAYSAYISI": 554328964.0,
-      "KISISAYISI": 16391.0,
-      "PORTFOYBUYUKLUK": 711248382.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1035,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274336,
-      "TEDPAYSAYISI": 544758767.0,
-      "KISISAYISI": 16349.0,
-      "PORTFOYBUYUKLUK": 694205745.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1045,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301843,
-      "TEDPAYSAYISI": 541004402.0,
-      "KISISAYISI": 16239.0,
-      "PORTFOYBUYUKLUK": 704302571.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1055,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.30455,
-      "TEDPAYSAYISI": 534920977.0,
-      "KISISAYISI": 16161.0,
-      "PORTFOYBUYUKLUK": 697830953.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1065,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283368,
-      "TEDPAYSAYISI": 533161544.0,
-      "KISISAYISI": 16080.0,
-      "PORTFOYBUYUKLUK": 684242429.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1075,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274044,
-      "TEDPAYSAYISI": 531905888.0,
-      "KISISAYISI": 16056.0,
-      "PORTFOYBUYUKLUK": 677671439.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1085,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287589,
-      "TEDPAYSAYISI": 528921117.0,
-      "KISISAYISI": 16074.0,
-      "PORTFOYBUYUKLUK": 681032929.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1095,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277648,
-      "TEDPAYSAYISI": 522068585.0,
-      "KISISAYISI": 15989.0,
-      "PORTFOYBUYUKLUK": 667019788.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1105,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266994,
-      "TEDPAYSAYISI": 517504682.0,
-      "KISISAYISI": 15923.0,
-      "PORTFOYBUYUKLUK": 655675170.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1115,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287718,
-      "TEDPAYSAYISI": 515505727.0,
-      "KISISAYISI": 15867.0,
-      "PORTFOYBUYUKLUK": 663826045.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1125,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268823,
-      "TEDPAYSAYISI": 511311077.0,
-      "KISISAYISI": 15808.0,
-      "PORTFOYBUYUKLUK": 648763031.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1135,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237664,
-      "TEDPAYSAYISI": 503404348.0,
-      "KISISAYISI": 15800.0,
-      "PORTFOYBUYUKLUK": 623045328.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1145,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248596,
-      "TEDPAYSAYISI": 500257625.0,
-      "KISISAYISI": 15705.0,
-      "PORTFOYBUYUKLUK": 624619863.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1155,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233626,
-      "TEDPAYSAYISI": 497883386.0,
-      "KISISAYISI": 15647.0,
-      "PORTFOYBUYUKLUK": 614202011.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1165,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.220977,
-      "TEDPAYSAYISI": 489544559.0,
-      "KISISAYISI": 15580.0,
-      "PORTFOYBUYUKLUK": 597722512.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1175,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260694,
-      "TEDPAYSAYISI": 485097903.0,
-      "KISISAYISI": 15498.0,
-      "PORTFOYBUYUKLUK": 611559949.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1185,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265465,
-      "TEDPAYSAYISI": 479261768.0,
-      "KISISAYISI": 15419.0,
-      "PORTFOYBUYUKLUK": 606489104.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1195,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265509,
-      "TEDPAYSAYISI": 477030629.0,
-      "KISISAYISI": 15316.0,
-      "PORTFOYBUYUKLUK": 603686352.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1205,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25587,
-      "TEDPAYSAYISI": 471459049.0,
-      "KISISAYISI": 15251.0,
-      "PORTFOYBUYUKLUK": 592091295.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1215,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289191,
-      "TEDPAYSAYISI": 469500946.0,
-      "KISISAYISI": 15196.0,
-      "PORTFOYBUYUKLUK": 605276550.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1225,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278846,
-      "TEDPAYSAYISI": 469280149.0,
-      "KISISAYISI": 15174.0,
-      "PORTFOYBUYUKLUK": 600137156.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1235,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.281781,
-      "TEDPAYSAYISI": 464760729.0,
-      "KISISAYISI": 15174.0,
-      "PORTFOYBUYUKLUK": 595721412.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1245,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296746,
-      "TEDPAYSAYISI": 463565127.0,
-      "KISISAYISI": 15106.0,
-      "PORTFOYBUYUKLUK": 601126102.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1255,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311686,
-      "TEDPAYSAYISI": 461861092.0,
-      "KISISAYISI": 15093.0,
-      "PORTFOYBUYUKLUK": 605816897.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1265,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.324626,
-      "TEDPAYSAYISI": 458164350.0,
-      "KISISAYISI": 15057.0,
-      "PORTFOYBUYUKLUK": 606896600.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1275,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.313596,
-      "TEDPAYSAYISI": 454629497.0,
-      "KISISAYISI": 15046.0,
-      "PORTFOYBUYUKLUK": 597199495.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1285,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.336424,
-      "TEDPAYSAYISI": 450274352.0,
-      "KISISAYISI": 14973.0,
-      "PORTFOYBUYUKLUK": 601757377.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1295,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.347814,
-      "TEDPAYSAYISI": 447549698.0,
-      "KISISAYISI": 14906.0,
-      "PORTFOYBUYUKLUK": 603213915.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1305,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.324152,
-      "TEDPAYSAYISI": 446825256.0,
-      "KISISAYISI": 14876.0,
-      "PORTFOYBUYUKLUK": 591664376.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1315,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.310604,
-      "TEDPAYSAYISI": 447091139.0,
-      "KISISAYISI": 14876.0,
-      "PORTFOYBUYUKLUK": 585959604.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1325,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277952,
-      "TEDPAYSAYISI": 444682700.0,
-      "KISISAYISI": 14887.0,
-      "PORTFOYBUYUKLUK": 568283184.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1335,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274355,
-      "TEDPAYSAYISI": 443779491.0,
-      "KISISAYISI": 14862.0,
-      "PORTFOYBUYUKLUK": 565532440.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1345,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26479,
-      "TEDPAYSAYISI": 440549541.0,
-      "KISISAYISI": 14815.0,
-      "PORTFOYBUYUKLUK": 557202715.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1355,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257059,
-      "TEDPAYSAYISI": 439179762.0,
-      "KISISAYISI": 14752.0,
-      "PORTFOYBUYUKLUK": 552074798.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1365,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27898,
-      "TEDPAYSAYISI": 438269049.0,
-      "KISISAYISI": 14713.0,
-      "PORTFOYBUYUKLUK": 560537162.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1375,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267991,
-      "TEDPAYSAYISI": 435136424.0,
-      "KISISAYISI": 14689.0,
-      "PORTFOYBUYUKLUK": 551748953.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1385,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280655,
-      "TEDPAYSAYISI": 428283944.0,
-      "KISISAYISI": 14629.0,
-      "PORTFOYBUYUKLUK": 548483822.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1395,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.28547,
-      "TEDPAYSAYISI": 426838329.0,
-      "KISISAYISI": 14568.0,
-      "PORTFOYBUYUKLUK": 548687941.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1405,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289699,
-      "TEDPAYSAYISI": 426984087.0,
-      "KISISAYISI": 14539.0,
-      "PORTFOYBUYUKLUK": 550680962.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1415,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.292075,
-      "TEDPAYSAYISI": 425218972.0,
-      "KISISAYISI": 14513.0,
-      "PORTFOYBUYUKLUK": 549414705.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1425,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274533,
-      "TEDPAYSAYISI": 421885016.0,
-      "KISISAYISI": 14500.0,
-      "PORTFOYBUYUKLUK": 537706357.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1435,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255208,
-      "TEDPAYSAYISI": 420315982.0,
-      "KISISAYISI": 14438.0,
-      "PORTFOYBUYUKLUK": 527583911.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1445,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26236,
-      "TEDPAYSAYISI": 420245834.0,
-      "KISISAYISI": 14396.0,
-      "PORTFOYBUYUKLUK": 530501694.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1455,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255849,
-      "TEDPAYSAYISI": 419332610.0,
-      "KISISAYISI": 14350.0,
-      "PORTFOYBUYUKLUK": 526618599.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1465,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282087,
-      "TEDPAYSAYISI": 417874294.0,
-      "KISISAYISI": 14320.0,
-      "PORTFOYBUYUKLUK": 535751259.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1475,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282282,
-      "TEDPAYSAYISI": 413405513.0,
-      "KISISAYISI": 14318.0,
-      "PORTFOYBUYUKLUK": 530102260.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1485,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.28507,
-      "TEDPAYSAYISI": 411459941.0,
-      "KISISAYISI": 14246.0,
-      "PORTFOYBUYUKLUK": 528754808.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1495,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260038,
-      "TEDPAYSAYISI": 416142784.0,
-      "KISISAYISI": 14188.0,
-      "PORTFOYBUYUKLUK": 524355863.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1505,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262664,
-      "TEDPAYSAYISI": 412045954.0,
-      "KISISAYISI": 14155.0,
-      "PORTFOYBUYUKLUK": 520275544.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1515,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.265869,
-      "TEDPAYSAYISI": 410903355.0,
-      "KISISAYISI": 14123.0,
-      "PORTFOYBUYUKLUK": 520149907.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1525,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26389,
-      "TEDPAYSAYISI": 409784907.0,
-      "KISISAYISI": 14091.0,
-      "PORTFOYBUYUKLUK": 517923076.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1535,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257415,
-      "TEDPAYSAYISI": 405576099.0,
-      "KISISAYISI": 14037.0,
-      "PORTFOYBUYUKLUK": 509977646.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1545,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262184,
-      "TEDPAYSAYISI": 400224959.0,
-      "KISISAYISI": 13986.0,
-      "PORTFOYBUYUKLUK": 505157613.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1555,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261935,
-      "TEDPAYSAYISI": 397441761.0,
-      "KISISAYISI": 13939.0,
-      "PORTFOYBUYUKLUK": 501545743.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1565,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26641,
-      "TEDPAYSAYISI": 398250576.0,
-      "KISISAYISI": 13897.0,
-      "PORTFOYBUYUKLUK": 504348501.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1575,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257491,
-      "TEDPAYSAYISI": 409040784.0,
-      "KISISAYISI": 13866.0,
-      "PORTFOYBUYUKLUK": 514365104.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1585,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258165,
-      "TEDPAYSAYISI": 406579810.0,
-      "KISISAYISI": 13770.0,
-      "PORTFOYBUYUKLUK": 511544406.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1595,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259509,
-      "TEDPAYSAYISI": 404504760.0,
-      "KISISAYISI": 13678.0,
-      "PORTFOYBUYUKLUK": 509477428.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1605,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250841,
-      "TEDPAYSAYISI": 403929616.0,
-      "KISISAYISI": 13621.0,
-      "PORTFOYBUYUKLUK": 505251779.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1615,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243893,
-      "TEDPAYSAYISI": 390043668.0,
-      "KISISAYISI": 13572.0,
-      "PORTFOYBUYUKLUK": 485172635.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1625,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24237,
-      "TEDPAYSAYISI": 385524540.0,
-      "KISISAYISI": 13537.0,
-      "PORTFOYBUYUKLUK": 478964284.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1635,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240485,
-      "TEDPAYSAYISI": 378673816.0,
-      "KISISAYISI": 13412.0,
-      "PORTFOYBUYUKLUK": 469739004.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1645,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243651,
-      "TEDPAYSAYISI": 375226848.0,
-      "KISISAYISI": 13310.0,
-      "PORTFOYBUYUKLUK": 466651165.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1655,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240926,
-      "TEDPAYSAYISI": 372621872.0,
-      "KISISAYISI": 13228.0,
-      "PORTFOYBUYUKLUK": 462396061.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1665,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218859,
-      "TEDPAYSAYISI": 371426103.0,
-      "KISISAYISI": 13163.0,
-      "PORTFOYBUYUKLUK": 452715991.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1675,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.222011,
-      "TEDPAYSAYISI": 368265645.0,
-      "KISISAYISI": 13122.0,
-      "PORTFOYBUYUKLUK": 450024754.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1685,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240391,
-      "TEDPAYSAYISI": 366166092.0,
-      "KISISAYISI": 13051.0,
-      "PORTFOYBUYUKLUK": 454189109.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1695,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249296,
-      "TEDPAYSAYISI": 365362771.0,
-      "KISISAYISI": 12986.0,
-      "PORTFOYBUYUKLUK": 456446329.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1705,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254987,
-      "TEDPAYSAYISI": 363421006.0,
-      "KISISAYISI": 12954.0,
-      "PORTFOYBUYUKLUK": 456088565.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1715,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286165,
-      "TEDPAYSAYISI": 361115489.0,
-      "KISISAYISI": 12915.0,
-      "PORTFOYBUYUKLUK": 464453924.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1725,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286356,
-      "TEDPAYSAYISI": 359473667.0,
-      "KISISAYISI": 12824.0,
-      "PORTFOYBUYUKLUK": 462411221.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1735,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301375,
-      "TEDPAYSAYISI": 357396961.0,
-      "KISISAYISI": 12763.0,
-      "PORTFOYBUYUKLUK": 465107507.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1745,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.319467,
-      "TEDPAYSAYISI": 356993195.0,
-      "KISISAYISI": 12712.0,
-      "PORTFOYBUYUKLUK": 471040864.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1755,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.34055,
-      "TEDPAYSAYISI": 356588013.0,
-      "KISISAYISI": 12677.0,
-      "PORTFOYBUYUKLUK": 478023935.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1765,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.347402,
-      "TEDPAYSAYISI": 355623623.0,
-      "KISISAYISI": 12683.0,
-      "PORTFOYBUYUKLUK": 479167941.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1775,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.336946,
-      "TEDPAYSAYISI": 355233633.0,
-      "KISISAYISI": 12633.0,
-      "PORTFOYBUYUKLUK": 474928101.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1785,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369037,
-      "TEDPAYSAYISI": 354950985.0,
-      "KISISAYISI": 12594.0,
-      "PORTFOYBUYUKLUK": 485941149.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1795,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390847,
-      "TEDPAYSAYISI": 353922890.0,
-      "KISISAYISI": 12561.0,
-      "PORTFOYBUYUKLUK": 492252522.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1805,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.40771,
-      "TEDPAYSAYISI": 353334010.0,
-      "KISISAYISI": 12520.0,
-      "PORTFOYBUYUKLUK": 497391870.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1815,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.393103,
-      "TEDPAYSAYISI": 353419784.0,
-      "KISISAYISI": 12599.0,
-      "PORTFOYBUYUKLUK": 492350129.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1825,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.384837,
-      "TEDPAYSAYISI": 353885544.0,
-      "KISISAYISI": 12601.0,
-      "PORTFOYBUYUKLUK": 490073788.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1835,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.396111,
-      "TEDPAYSAYISI": 352408689.0,
-      "KISISAYISI": 12608.0,
-      "PORTFOYBUYUKLUK": 492001475.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1845,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.412177,
-      "TEDPAYSAYISI": 352340705.0,
-      "KISISAYISI": 12590.0,
-      "PORTFOYBUYUKLUK": 497567541.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1855,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.419503,
-      "TEDPAYSAYISI": 352906877.0,
-      "KISISAYISI": 12588.0,
-      "PORTFOYBUYUKLUK": 500952455.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1865,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.41726,
-      "TEDPAYSAYISI": 352297106.0,
-      "KISISAYISI": 12592.0,
-      "PORTFOYBUYUKLUK": 499296643.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1875,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.426298,
-      "TEDPAYSAYISI": 349569477.0,
-      "KISISAYISI": 12552.0,
-      "PORTFOYBUYUKLUK": 498590397.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1885,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.436931,
-      "TEDPAYSAYISI": 347668921.0,
-      "KISISAYISI": 12532.0,
-      "PORTFOYBUYUKLUK": 499576357.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1895,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.438593,
-      "TEDPAYSAYISI": 347395600.0,
-      "KISISAYISI": 12537.0,
-      "PORTFOYBUYUKLUK": 499760837.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1905,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.436154,
-      "TEDPAYSAYISI": 348320194.0,
-      "KISISAYISI": 12554.0,
-      "PORTFOYBUYUKLUK": 500241394.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1915,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.439541,
-      "TEDPAYSAYISI": 346883842.0,
-      "KISISAYISI": 12561.0,
-      "PORTFOYBUYUKLUK": 499353554.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1925,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.423217,
-      "TEDPAYSAYISI": 349274536.0,
-      "KISISAYISI": 12523.0,
-      "PORTFOYBUYUKLUK": 497093444.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1935,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.396608,
-      "TEDPAYSAYISI": 349462742.0,
-      "KISISAYISI": 12524.0,
-      "PORTFOYBUYUKLUK": 488062583.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1945,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.388597,
-      "TEDPAYSAYISI": 348956729.0,
-      "KISISAYISI": 12525.0,
-      "PORTFOYBUYUKLUK": 484560208.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +1955,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.421138,
-      "TEDPAYSAYISI": 348519507.0,
-      "KISISAYISI": 12511.0,
-      "PORTFOYBUYUKLUK": 495294426.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +1965,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.423825,
-      "TEDPAYSAYISI": 347621033.0,
-      "KISISAYISI": 12520.0,
-      "PORTFOYBUYUKLUK": 494951346.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +1975,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.419028,
-      "TEDPAYSAYISI": 346938747.0,
-      "KISISAYISI": 12508.0,
-      "PORTFOYBUYUKLUK": 492315917.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +1985,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44039,
-      "TEDPAYSAYISI": 346736088.0,
-      "KISISAYISI": 12512.0,
-      "PORTFOYBUYUKLUK": 499435083.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +1995,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.455435,
-      "TEDPAYSAYISI": 345910623.0,
-      "KISISAYISI": 12514.0,
-      "PORTFOYBUYUKLUK": 503450504.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2005,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.476574,
-      "TEDPAYSAYISI": 345259694.0,
-      "KISISAYISI": 12497.0,
-      "PORTFOYBUYUKLUK": 509801482.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2015,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.473364,
-      "TEDPAYSAYISI": 345359973.0,
-      "KISISAYISI": 12523.0,
-      "PORTFOYBUYUKLUK": 508840924.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2025,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.451574,
-      "TEDPAYSAYISI": 346985020.0,
-      "KISISAYISI": 12523.0,
-      "PORTFOYBUYUKLUK": 503674558.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2035,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.401345,
-      "TEDPAYSAYISI": 347218068.0,
-      "KISISAYISI": 12543.0,
-      "PORTFOYBUYUKLUK": 486572342.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2045,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.399745,
-      "TEDPAYSAYISI": 344217917.0,
-      "KISISAYISI": 12555.0,
-      "PORTFOYBUYUKLUK": 481817279.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2055,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.421591,
-      "TEDPAYSAYISI": 344717670.0,
-      "KISISAYISI": 12537.0,
-      "PORTFOYBUYUKLUK": 490047418.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2065,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.408973,
-      "TEDPAYSAYISI": 342709608.0,
-      "KISISAYISI": 12560.0,
-      "PORTFOYBUYUKLUK": 482868723.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2075,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.388881,
-      "TEDPAYSAYISI": 342468744.0,
-      "KISISAYISI": 12553.0,
-      "PORTFOYBUYUKLUK": 475648350.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2085,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.383432,
-      "TEDPAYSAYISI": 340926751.0,
-      "KISISAYISI": 12529.0,
-      "PORTFOYBUYUKLUK": 471648995.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2095,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392015,
-      "TEDPAYSAYISI": 340603385.0,
-      "KISISAYISI": 12517.0,
-      "PORTFOYBUYUKLUK": 474125091.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2105,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.34543,
-      "TEDPAYSAYISI": 339104255.0,
-      "KISISAYISI": 12508.0,
-      "PORTFOYBUYUKLUK": 456241001.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2115,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.317171,
-      "TEDPAYSAYISI": 336366857.0,
-      "KISISAYISI": 12495.0,
-      "PORTFOYBUYUKLUK": 443052757.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2125,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.332318,
-      "TEDPAYSAYISI": 335190436.0,
-      "KISISAYISI": 12435.0,
-      "PORTFOYBUYUKLUK": 446580346.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2135,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.34721,
-      "TEDPAYSAYISI": 333302781.0,
-      "KISISAYISI": 12404.0,
-      "PORTFOYBUYUKLUK": 449028832.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2145,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.329749,
-      "TEDPAYSAYISI": 333041644.0,
-      "KISISAYISI": 12373.0,
-      "PORTFOYBUYUKLUK": 442861705.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2155,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.323051,
-      "TEDPAYSAYISI": 331943605.0,
-      "KISISAYISI": 12364.0,
-      "PORTFOYBUYUKLUK": 439178388.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2165,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.37437,
-      "TEDPAYSAYISI": 328885868.0,
-      "KISISAYISI": 12366.0,
-      "PORTFOYBUYUKLUK": 452011016.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2175,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369261,
-      "TEDPAYSAYISI": 327284245.0,
-      "KISISAYISI": 12346.0,
-      "PORTFOYBUYUKLUK": 448137547.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2185,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.361405,
-      "TEDPAYSAYISI": 326312560.0,
-      "KISISAYISI": 12336.0,
-      "PORTFOYBUYUKLUK": 444243569.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2195,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.349406,
-      "TEDPAYSAYISI": 324759731.0,
-      "KISISAYISI": 12318.0,
-      "PORTFOYBUYUKLUK": 438232626.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2205,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.333541,
-      "TEDPAYSAYISI": 323804248.0,
-      "KISISAYISI": 12295.0,
-      "PORTFOYBUYUKLUK": 431806337.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2215,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.360815,
-      "TEDPAYSAYISI": 322741904.0,
-      "KISISAYISI": 12298.0,
-      "PORTFOYBUYUKLUK": 439191970.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2225,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.359854,
-      "TEDPAYSAYISI": 322273589.0,
-      "KISISAYISI": 12273.0,
-      "PORTFOYBUYUKLUK": 438245068.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2235,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.356558,
-      "TEDPAYSAYISI": 321886573.0,
-      "KISISAYISI": 12273.0,
-      "PORTFOYBUYUKLUK": 436657714.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2245,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.35433,
-      "TEDPAYSAYISI": 322421689.0,
-      "KISISAYISI": 12260.0,
-      "PORTFOYBUYUKLUK": 436665491.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2255,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.338905,
-      "TEDPAYSAYISI": 313820508.0,
-      "KISISAYISI": 12279.0,
-      "PORTFOYBUYUKLUK": 420175707.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2265,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357005,
-      "TEDPAYSAYISI": 312700126.0,
-      "KISISAYISI": 12175.0,
-      "PORTFOYBUYUKLUK": 424335734.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2275,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.342684,
-      "TEDPAYSAYISI": 311199155.0,
-      "KISISAYISI": 12128.0,
-      "PORTFOYBUYUKLUK": 417842211.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2285,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31477,
-      "TEDPAYSAYISI": 309695365.0,
-      "KISISAYISI": 12087.0,
-      "PORTFOYBUYUKLUK": 407178157.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2295,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291843,
-      "TEDPAYSAYISI": 308914706.0,
-      "KISISAYISI": 12045.0,
-      "PORTFOYBUYUKLUK": 399069334.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2305,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.30506,
-      "TEDPAYSAYISI": 303139828.0,
-      "KISISAYISI": 12028.0,
-      "PORTFOYBUYUKLUK": 395615788.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2315,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.3308,
-      "TEDPAYSAYISI": 300716377.0,
-      "KISISAYISI": 11969.0,
-      "PORTFOYBUYUKLUK": 400193347.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2325,9 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.338111,
-      "TEDPAYSAYISI": 299473796.0,
-      "KISISAYISI": 11920.0,
-      "PORTFOYBUYUKLUK": 400729137.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2335,139 @@
       "FONKODU": "NLE",
       "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.346149,
-      "TEDPAYSAYISI": 299174241.0,
-      "KISISAYISI": 11890.0,
-      "PORTFOYBUYUKLUK": 402733165.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.357704,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.339945,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.380945,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.385376,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.40931,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.400746,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.416925,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.422728,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.41198,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.447621,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.437882,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.435976,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "NLE",
+      "FONUNVAN": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.433729,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

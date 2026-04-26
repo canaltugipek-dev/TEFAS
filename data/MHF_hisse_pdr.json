@@ -1,29 +1,124 @@
 {
   "kod": "MHF",
-  "guncelleme": "2026-04-08T18:25:26Z",
+  "guncelleme": "2026-04-26T18:26:44Z",
   "kaynak_tefas": true,
   "unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mhf-mt-portfoy-bist-halka-arz-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.51
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.71
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.53
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 3.25
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 8.81
+    },
+    {
+      "ticker": "ARFYE",
+      "ad": "",
+      "agirlik": 8.54
+    },
+    {
+      "ticker": "BULGS",
+      "ad": "",
+      "agirlik": 8.17
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 7.85
+    },
+    {
+      "ticker": "DITAS",
+      "ad": "",
+      "agirlik": 5.82
+    },
+    {
+      "ticker": "DSTKF",
+      "ad": "",
+      "agirlik": 4.83
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 4.78
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "BIGEN",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "OBAMS",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "MOPAS",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "ECOGR",
+      "ad": "",
+      "agirlik": 2.8
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "FRMPL",
+      "ad": "",
+      "agirlik": 0.8
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 15:08:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4dec10721a4a"
 }

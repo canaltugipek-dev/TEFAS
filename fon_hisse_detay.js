@@ -193,9 +193,14 @@
     const caption = document.getElementById("fhdChartCaption");
     const note = document.getElementById("fhdVarlikNote");
     const metaEl = document.getElementById("fhdFundMeta");
+    const ocrBanner = document.getElementById("fhdOcrBanner");
 
     if (!fhdData || !fhdData.fonlar) {
       if (bars) bars.innerHTML = '<div class="fhd-empty">Veri yüklenemedi.</div>';
+      if (ocrBanner) {
+        ocrBanner.hidden = true;
+        ocrBanner.textContent = "";
+      }
       return;
     }
 
@@ -211,7 +216,22 @@
       if (caption) caption.textContent = "";
       if (note) note.textContent = "";
       if (metaEl) metaEl.textContent = "";
+      if (ocrBanner) {
+        ocrBanner.hidden = true;
+        ocrBanner.textContent = "";
+      }
       return;
+    }
+
+    if (ocrBanner) {
+      if (block.kaynak_pdr_ocr === true) {
+        ocrBanner.hidden = false;
+        ocrBanner.innerHTML =
+          "<strong>OCR ile okunan PDR.</strong> Bu fonun KAP portföy dağılım raporu PDF’i taramalı (görüntü) olduğu için hisse ağırlıkları optik karakter tanıma ile çıkarıldı. Okuma hataları veya eksik satırlar olabilir; oranlar yaklaşıktır.";
+      } else {
+        ocrBanner.hidden = true;
+        ocrBanner.textContent = "";
+      }
     }
 
     const rows = fhdNormalizeRows(block);

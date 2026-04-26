@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TEFAS / FundTurkey — Hisse Senedi Yogun Fon (HSYF) kesfi ve tarihsel veri.
+TEFAS — Hisse Senedi Yogun Fon (HSYF) kesfi ve tarihsel veri.
 
-- Baslangicta BindComparisonFundReturns (tefas.gov.tr) ile tum YAT fonlari cekilir;
-  "Hisse Senedi Semsiye Fonu" + (unvanda Yogun / EQUITY-INTENSIVE) ile HSYF filtrelenir.
-- Her fon icin son N gun (varsayilan 1825) BindHistoryInfo ile parca parca indirilir.
-- Cikti: data/<KOD>_tefas.json ve data/manifest.json
+NOT (2026-04): TEFAS yeni Next.js UI'a gecti, eski /api/DB/BindHistoryInfo ve
+BindComparisonFundReturns endpointleri 404 ("Method not found or disabled!").
+Ek olarak F5 BIG-IP TSPD anti-bot katmani aktif. Bu nedenle veri cekimi
+`tefas_browser_client.py` icindeki stealth Chromium oturumu uzerinden yeni
+JSON endpoint'i `POST /api/funds/fonFiyatBilgiGetir` ile yapilir. HSYF
+listesi mevcut data/manifest.json + data/<KOD>_tefas.json bundle'larindan
+fallback olarak okunur.
 
 Kullanim:
   py -m venv .venv
   .venv/Scripts/python -m pip install -r requirements.txt
+  .venv/Scripts/python -m playwright install chromium
   .venv/Scripts/python tefas_scraper.py                  # tum HSYF, 5 yil, data/ + manifest(stats)
   .venv/Scripts/python tefas_scraper.py --liste          # sadece kod listesi
   .venv/Scripts/python tefas_scraper.py --manifest-yenile
@@ -260,46 +264,97 @@ def _post_json(
     return None
 
 
-def discover_hsyf_funds(session: requests.Session) -> List[Dict[str, str]]:
-    """Aktif HSYF fon kodlari ve unvanlari."""
-    url = BASE_COMPARISON + COMPARISON_PATH
-    form = {
-        "calismatipi": "2",
-        "fontip": "YAT",
-        "sfontur": "Tümü",
-        "kurucukod": "",
-        "fongrup": "",
-        "bastarih": "Başlangıç",
-        "bittarih": "Bitiş",
-        "fonturkod": "",
-        "fonunvantip": "",
-        "strperiod": "1,1,1,1,1,1,1",
-        "islemdurum": "1",
-    }
-    _warmup(session, BASE_COMPARISON, REF_COMPARISON)
-    payload = _post_json(session, url, form, REF_COMPARISON, BASE_COMPARISON)
-    if not payload:
-        return []
-    raw = payload.get("data")
-    if not isinstance(raw, list):
-        return []
+def _hsyf_from_manifest(data_dir: Path = Path("data")) -> List[Dict[str, str]]:
+    """Onceden tanimli HSYF listesini manifest.json + bundle dosyalarindan oku."""
     out: List[Dict[str, str]] = []
-    seen = set()
-    for row in raw:
-        if not _is_hsyf_row(row):
-            continue
-        kod = (row.get("FONKODU") or "").strip().upper()
-        if not kod or kod in seen:
-            continue
-        seen.add(kod)
-        out.append(
-            {
-                "fon_kodu": kod,
-                "fon_unvan": (row.get("FONUNVAN") or "").strip() or kod,
-            }
-        )
+    seen: set[str] = set()
+    manifest_path = data_dir / "manifest.json"
+    try:
+        with open(manifest_path, "r", encoding="utf-8") as f:
+            manifest = json.load(f)
+        for entry in manifest.get("fonlar") or []:
+            kod = (entry.get("kod") or "").strip().upper()
+            if not kod or kod in seen:
+                continue
+            seen.add(kod)
+            out.append({"fon_kodu": kod, "fon_unvan": entry.get("ad") or kod})
+    except (OSError, ValueError):
+        pass
+    if not out:
+        for path in sorted(data_dir.glob("*_tefas.json")):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    bundle = json.load(f)
+            except (OSError, ValueError):
+                continue
+            kod = (bundle.get("fon_kodu") or "").strip().upper()
+            if not kod or kod in seen:
+                continue
+            seen.add(kod)
+            out.append(
+                {
+                    "fon_kodu": kod,
+                    "fon_unvan": bundle.get("fon_unvan") or kod,
+                }
+            )
     out.sort(key=lambda x: x["fon_kodu"])
     return out
+
+
+def discover_hsyf_funds(session: requests.Session) -> List[Dict[str, str]]:
+    """Aktif HSYF fon kodlari ve unvanlari.
+
+    2026 Nisan: TEFAS yeni Next.js UI'a gecti, /api/DB/* endpointleri 404.
+    Bu nedenle once eski endpoint'i deniyoruz; basarisiz olursa mevcut
+    manifest/bundle dosyalarini fallback olarak kullaniyoruz.
+    """
+    out: List[Dict[str, str]] = []
+    try:
+        url = BASE_COMPARISON + COMPARISON_PATH
+        form = {
+            "calismatipi": "2",
+            "fontip": "YAT",
+            "sfontur": "Tümü",
+            "kurucukod": "",
+            "fongrup": "",
+            "bastarih": "Başlangıç",
+            "bittarih": "Bitiş",
+            "fonturkod": "",
+            "fonunvantip": "",
+            "strperiod": "1,1,1,1,1,1,1",
+            "islemdurum": "1",
+        }
+        _warmup(session, BASE_COMPARISON, REF_COMPARISON)
+        payload = _post_json(session, url, form, REF_COMPARISON, BASE_COMPARISON)
+        if payload:
+            raw = payload.get("data")
+            if isinstance(raw, list):
+                seen: set[str] = set()
+                for row in raw:
+                    if not _is_hsyf_row(row):
+                        continue
+                    kod = (row.get("FONKODU") or "").strip().upper()
+                    if not kod or kod in seen:
+                        continue
+                    seen.add(kod)
+                    out.append(
+                        {
+                            "fon_kodu": kod,
+                            "fon_unvan": (row.get("FONUNVAN") or "").strip() or kod,
+                        }
+                    )
+    except Exception:
+        out = []
+    if out:
+        out.sort(key=lambda x: x["fon_kodu"])
+        return out
+    # Fallback: mevcut manifest / bundle'lardan
+    print(
+        "  (eski TEFAS comparison API'si calismiyor; HSYF listesi mevcut manifest'ten "
+        "okunuyor)",
+        file=sys.stderr,
+    )
+    return _hsyf_from_manifest()
 
 
 def _post_history_chunk(
@@ -340,17 +395,11 @@ def _post_history_chunk(
 
 
 def resolve_history_base(session: requests.Session) -> Tuple[str, str]:
-    """Tarihsel API icin calisan taban URL."""
-    end = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-    start = end - timedelta(days=7)
-    a, b = start, end
-    for base_root, referer in BASES_HISTORY:
-        _warmup(session, base_root, referer)
-        rows = _post_history_chunk(
-            session, base_root, referer, "MAC", _fmt_tr(a), _fmt_tr(b), "YAT"
-        )
-        if rows is not None and len(rows) > 0:
-            return base_root, referer
+    """Tarihsel API icin calisan taban URL.
+
+    Yeni Next.js TEFAS UI tek noktadan servis ediliyor; calisan baz/referer
+    sabit. Eski donus tipini koruyoruz ki cagiranlar bozulmasin.
+    """
     return BASES_HISTORY[0]
 
 
@@ -364,19 +413,42 @@ def fetch_fund_history(
     fontip: str = "YAT",
     delay_sec: float = 0.32,
 ) -> List[Dict[str, Any]]:
-    chunks = _date_chunks(start, end)
-    merged: List[Dict[str, Any]] = []
-    for a, b in chunks:
-        rows = _post_history_chunk(
-            session, base_root, referer, fonkod, _fmt_tr(a), _fmt_tr(b), fontip
-        )
-        if rows is None:
+    """TEFAS yeni API'sinden (fonFiyatBilgiGetir) tarihsel fiyatlar.
+
+    Eski .aspx + /api/DB/* yolu 2026 Nisan itibariyla 404; stealth
+    Chromium uzerinden yeni JSON endpoint'ini cagiriyoruz. Donus formati
+    eski sema ile uyumlu (TARIH, FONKODU, FONUNVAN, FIYAT, ...).
+    `session`/`base_root`/`referer`/`fontip` argumanlari geriye donuk
+    uyumluluk icin korundu.
+    """
+    from tefas_browser_client import (
+        browser_rows_to_legacy,
+        get_browser_client,
+        period_for_days,
+    )
+
+    days = max(1, (end - start).days)
+    periyod = period_for_days(days)
+    client = get_browser_client()
+    last_err: Optional[Exception] = None
+    items: List[Dict[str, Any]] = []
+    for attempt in range(3):
+        try:
+            items = client.get_price_history(fonkod, periyod=periyod)
             break
-        merged.extend(rows)
+        except Exception as exc:
+            last_err = exc
+            time.sleep(min(2.0 + attempt * 1.5, 6.0))
+    else:
+        print(f"  ! TEFAS api hata ({fonkod}): {last_err}", file=sys.stderr)
+        return []
+    rows = browser_rows_to_legacy(items)
+    rows = _dedupe_by_date(rows)
+    rows.sort(key=_row_date_sort_key)
+    rows = [r for r in rows if start <= _row_date_sort_key(r) <= end + timedelta(days=1)]
+    if delay_sec > 0:
         time.sleep(delay_sec)
-    merged = _dedupe_by_date(merged)
-    merged.sort(key=_row_date_sort_key)
-    return merged
+    return rows
 
 
 def _span_days(rows: List[Dict[str, Any]]) -> int:

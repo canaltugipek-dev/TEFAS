@@ -2,22 +2,122 @@
   "fon_kodu": "SLG",
   "fon_unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 97,
-  "gun_kapsami": 138,
+  "kayit_sayisi": 120,
+  "gun_kapsami": 170,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1762300800000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762387200000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762473600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762732800000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762819200000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762905600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1762992000000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763078400000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763337600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1763424000000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1763510400000",
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998189,
-      "TEDPAYSAYISI": 1030518.0,
-      "KISISAYISI": 6.0,
-      "PORTFOYBUYUKLUK": 1028652.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +125,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00235,
-      "TEDPAYSAYISI": 3474137.0,
-      "KISISAYISI": 12.0,
-      "PORTFOYBUYUKLUK": 3482300.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +135,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006868,
-      "TEDPAYSAYISI": 3495818.0,
-      "KISISAYISI": 18.0,
-      "PORTFOYBUYUKLUK": 3519826.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +145,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003013,
-      "TEDPAYSAYISI": 3535789.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 3546443.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +155,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001019,
-      "TEDPAYSAYISI": 3612612.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 3616294.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +165,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998253,
-      "TEDPAYSAYISI": 3702020.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 3695553.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +175,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001981,
-      "TEDPAYSAYISI": 1311162.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 1313759.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +185,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004672,
-      "TEDPAYSAYISI": 1270567.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 1276502.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +195,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000104,
-      "TEDPAYSAYISI": 1720362.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 1720541.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +205,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022835,
-      "TEDPAYSAYISI": 1722005.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 1761327.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +215,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034161,
-      "TEDPAYSAYISI": 1765970.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 1826297.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +225,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029038,
-      "TEDPAYSAYISI": 6119350.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 6297043.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +235,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016544,
-      "TEDPAYSAYISI": 6385296.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 6490933.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +245,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024684,
-      "TEDPAYSAYISI": 8615555.0,
-      "KISISAYISI": 71.0,
-      "PORTFOYBUYUKLUK": 8828218.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +255,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038698,
-      "TEDPAYSAYISI": 9322085.0,
-      "KISISAYISI": 76.0,
-      "PORTFOYBUYUKLUK": 9682834.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +265,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040784,
-      "TEDPAYSAYISI": 9785370.0,
-      "KISISAYISI": 82.0,
-      "PORTFOYBUYUKLUK": 10184451.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +275,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033951,
-      "TEDPAYSAYISI": 12677941.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 13108373.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +285,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034966,
-      "TEDPAYSAYISI": 14034699.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 14525433.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +295,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042856,
-      "TEDPAYSAYISI": 12312857.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 12840533.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +305,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050876,
-      "TEDPAYSAYISI": 12252173.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 12875513.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +315,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039056,
-      "TEDPAYSAYISI": 12897989.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 13401728.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +325,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034373,
-      "TEDPAYSAYISI": 16049388.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 16601055.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +335,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040915,
-      "TEDPAYSAYISI": 16014322.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 16669541.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +345,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041541,
-      "TEDPAYSAYISI": 12257102.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 12766269.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +355,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042497,
-      "TEDPAYSAYISI": 12307186.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 12830207.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +365,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046684,
-      "TEDPAYSAYISI": 12023657.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 12584963.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +375,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049562,
-      "TEDPAYSAYISI": 12094381.0,
-      "KISISAYISI": 136.0,
-      "PORTFOYBUYUKLUK": 12693797.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +385,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046058,
-      "TEDPAYSAYISI": 13134469.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 13739422.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +395,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049288,
-      "TEDPAYSAYISI": 13325527.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 13982319.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +405,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039005,
-      "TEDPAYSAYISI": 13843960.0,
-      "KISISAYISI": 155.0,
-      "PORTFOYBUYUKLUK": 14383945.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +415,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044035,
-      "TEDPAYSAYISI": 14236977.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 14863897.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +425,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055905,
-      "TEDPAYSAYISI": 13835150.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 14608600.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +435,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071767,
-      "TEDPAYSAYISI": 14311711.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 15338814.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +445,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081691,
-      "TEDPAYSAYISI": 14767102.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 15973441.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +455,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108002,
-      "TEDPAYSAYISI": 16376048.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 18144698.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +465,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102318,
-      "TEDPAYSAYISI": 20679999.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 22795943.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +475,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112296,
-      "TEDPAYSAYISI": 22454238.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 24975769.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +485,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119136,
-      "TEDPAYSAYISI": 23132005.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 25887869.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +495,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128894,
-      "TEDPAYSAYISI": 23939549.0,
-      "KISISAYISI": 249.0,
-      "PORTFOYBUYUKLUK": 27025219.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +505,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144195,
-      "TEDPAYSAYISI": 27166085.0,
-      "KISISAYISI": 284.0,
-      "PORTFOYBUYUKLUK": 31083303.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +515,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137736,
-      "TEDPAYSAYISI": 36639247.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 41685800.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +525,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14882,
-      "TEDPAYSAYISI": 43115446.0,
-      "KISISAYISI": 350.0,
-      "PORTFOYBUYUKLUK": 49531908.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +535,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165904,
-      "TEDPAYSAYISI": 54904700.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 64013602.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +545,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179192,
-      "TEDPAYSAYISI": 57047811.0,
-      "KISISAYISI": 400.0,
-      "PORTFOYBUYUKLUK": 67270345.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +555,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178753,
-      "TEDPAYSAYISI": 64334983.0,
-      "KISISAYISI": 441.0,
-      "PORTFOYBUYUKLUK": 75835022.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +565,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.184959,
-      "TEDPAYSAYISI": 79533431.0,
-      "KISISAYISI": 491.0,
-      "PORTFOYBUYUKLUK": 94243857.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +575,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205955,
-      "TEDPAYSAYISI": 96085458.0,
-      "KISISAYISI": 534.0,
-      "PORTFOYBUYUKLUK": 115874739.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +585,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221671,
-      "TEDPAYSAYISI": 102543077.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 125273881.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +595,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236085,
-      "TEDPAYSAYISI": 113345638.0,
-      "KISISAYISI": 614.0,
-      "PORTFOYBUYUKLUK": 140104828.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +605,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.230095,
-      "TEDPAYSAYISI": 142466320.0,
-      "KISISAYISI": 719.0,
-      "PORTFOYBUYUKLUK": 175247127.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +615,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249006,
-      "TEDPAYSAYISI": 159292698.0,
-      "KISISAYISI": 811.0,
-      "PORTFOYBUYUKLUK": 198957456.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +625,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274437,
-      "TEDPAYSAYISI": 180986407.0,
-      "KISISAYISI": 861.0,
-      "PORTFOYBUYUKLUK": 230655831.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +635,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277976,
-      "TEDPAYSAYISI": 197702899.0,
-      "KISISAYISI": 921.0,
-      "PORTFOYBUYUKLUK": 252659613.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +645,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255578,
-      "TEDPAYSAYISI": 211323852.0,
-      "KISISAYISI": 981.0,
-      "PORTFOYBUYUKLUK": 265333491.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +655,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278709,
-      "TEDPAYSAYISI": 302341231.0,
-      "KISISAYISI": 1037.0,
-      "PORTFOYBUYUKLUK": 386606569.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +665,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276668,
-      "TEDPAYSAYISI": 318884992.0,
-      "KISISAYISI": 1087.0,
-      "PORTFOYBUYUKLUK": 407110211.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +675,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245803,
-      "TEDPAYSAYISI": 341149306.0,
-      "KISISAYISI": 1123.0,
-      "PORTFOYBUYUKLUK": 425004977.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +685,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238931,
-      "TEDPAYSAYISI": 342182813.0,
-      "KISISAYISI": 1146.0,
-      "PORTFOYBUYUKLUK": 423940803.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +695,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269054,
-      "TEDPAYSAYISI": 339227385.0,
-      "KISISAYISI": 1158.0,
-      "PORTFOYBUYUKLUK": 430497703.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +705,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279107,
-      "TEDPAYSAYISI": 345150498.0,
-      "KISISAYISI": 1167.0,
-      "PORTFOYBUYUKLUK": 441484260.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +715,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.28345,
-      "TEDPAYSAYISI": 348028110.0,
-      "KISISAYISI": 1183.0,
-      "PORTFOYBUYUKLUK": 446676540.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +725,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.322104,
-      "TEDPAYSAYISI": 369285307.0,
-      "KISISAYISI": 1195.0,
-      "PORTFOYBUYUKLUK": 488233576.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +735,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.314453,
-      "TEDPAYSAYISI": 374829662.0,
-      "KISISAYISI": 1219.0,
-      "PORTFOYBUYUKLUK": 492695828.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +745,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.325004,
-      "TEDPAYSAYISI": 391111734.0,
-      "KISISAYISI": 1257.0,
-      "PORTFOYBUYUKLUK": 518224565.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +755,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.310559,
-      "TEDPAYSAYISI": 425844027.0,
-      "KISISAYISI": 1311.0,
-      "PORTFOYBUYUKLUK": 558093640.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +765,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311655,
-      "TEDPAYSAYISI": 428307843.0,
-      "KISISAYISI": 1347.0,
-      "PORTFOYBUYUKLUK": 561792190.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +775,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272486,
-      "TEDPAYSAYISI": 432019257.0,
-      "KISISAYISI": 1367.0,
-      "PORTFOYBUYUKLUK": 549738446.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +785,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.288843,
-      "TEDPAYSAYISI": 429519303.0,
-      "KISISAYISI": 1367.0,
-      "PORTFOYBUYUKLUK": 553582896.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +795,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306657,
-      "TEDPAYSAYISI": 443906081.0,
-      "KISISAYISI": 1347.0,
-      "PORTFOYBUYUKLUK": 580033039.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +805,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.308539,
-      "TEDPAYSAYISI": 439628651.0,
-      "KISISAYISI": 1332.0,
-      "PORTFOYBUYUKLUK": 575271279.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +815,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.293069,
-      "TEDPAYSAYISI": 431586863.0,
-      "KISISAYISI": 1334.0,
-      "PORTFOYBUYUKLUK": 558071442.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +825,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.302858,
-      "TEDPAYSAYISI": 434922867.0,
-      "KISISAYISI": 1329.0,
-      "PORTFOYBUYUKLUK": 566642902.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +835,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289157,
-      "TEDPAYSAYISI": 435155253.0,
-      "KISISAYISI": 1321.0,
-      "PORTFOYBUYUKLUK": 560983231.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +845,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245958,
-      "TEDPAYSAYISI": 435699512.0,
-      "KISISAYISI": 1320.0,
-      "PORTFOYBUYUKLUK": 542863452.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +855,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199577,
-      "TEDPAYSAYISI": 419364330.0,
-      "KISISAYISI": 1304.0,
-      "PORTFOYBUYUKLUK": 503059856.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +865,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198063,
-      "TEDPAYSAYISI": 413079435.0,
-      "KISISAYISI": 1245.0,
-      "PORTFOYBUYUKLUK": 494895256.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +875,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212644,
-      "TEDPAYSAYISI": 323109015.0,
-      "KISISAYISI": 1212.0,
-      "PORTFOYBUYUKLUK": 391816161.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +885,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206856,
-      "TEDPAYSAYISI": 323747574.0,
-      "KISISAYISI": 1187.0,
-      "PORTFOYBUYUKLUK": 390716681.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +895,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209607,
-      "TEDPAYSAYISI": 322983352.0,
-      "KISISAYISI": 1180.0,
-      "PORTFOYBUYUKLUK": 390683004.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +905,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260077,
-      "TEDPAYSAYISI": 307978728.0,
-      "KISISAYISI": 1174.0,
-      "PORTFOYBUYUKLUK": 388076770.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +915,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.2546,
-      "TEDPAYSAYISI": 306658210.0,
-      "KISISAYISI": 1147.0,
-      "PORTFOYBUYUKLUK": 384733396.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +925,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.263207,
-      "TEDPAYSAYISI": 307212833.0,
-      "KISISAYISI": 1138.0,
-      "PORTFOYBUYUKLUK": 388073455.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +935,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245239,
-      "TEDPAYSAYISI": 308233937.0,
-      "KISISAYISI": 1137.0,
-      "PORTFOYBUYUKLUK": 383825059.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +945,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237907,
-      "TEDPAYSAYISI": 307597575.0,
-      "KISISAYISI": 1132.0,
-      "PORTFOYBUYUKLUK": 380777317.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +955,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.263252,
-      "TEDPAYSAYISI": 306240167.0,
-      "KISISAYISI": 1129.0,
-      "PORTFOYBUYUKLUK": 386858368.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +965,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248424,
-      "TEDPAYSAYISI": 304589762.0,
-      "KISISAYISI": 1112.0,
-      "PORTFOYBUYUKLUK": 380257142.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +975,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241177,
-      "TEDPAYSAYISI": 306833298.0,
-      "KISISAYISI": 1107.0,
-      "PORTFOYBUYUKLUK": 380834442.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +985,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.244491,
-      "TEDPAYSAYISI": 306721175.0,
-      "KISISAYISI": 1096.0,
-      "PORTFOYBUYUKLUK": 381711753.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +995,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22019,
-      "TEDPAYSAYISI": 300427179.0,
-      "KISISAYISI": 1093.0,
-      "PORTFOYBUYUKLUK": 366578356.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1005,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.230472,
-      "TEDPAYSAYISI": 298241470.0,
-      "KISISAYISI": 1068.0,
-      "PORTFOYBUYUKLUK": 366977835.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1015,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207869,
-      "TEDPAYSAYISI": 294994019.0,
-      "KISISAYISI": 1060.0,
-      "PORTFOYBUYUKLUK": 356314247.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1025,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202742,
-      "TEDPAYSAYISI": 294575553.0,
-      "KISISAYISI": 1044.0,
-      "PORTFOYBUYUKLUK": 354298389.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1035,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195249,
-      "TEDPAYSAYISI": 290932372.0,
-      "KISISAYISI": 1031.0,
-      "PORTFOYBUYUKLUK": 347736679.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1045,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205648,
-      "TEDPAYSAYISI": 286809087.0,
-      "KISISAYISI": 1021.0,
-      "PORTFOYBUYUKLUK": 345790758.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1055,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231126,
-      "TEDPAYSAYISI": 284007766.0,
-      "KISISAYISI": 999.0,
-      "PORTFOYBUYUKLUK": 349649223.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1065,9 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241914,
-      "TEDPAYSAYISI": 284278914.0,
-      "KISISAYISI": 987.0,
-      "PORTFOYBUYUKLUK": 353049843.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1075,139 @@
       "FONKODU": "SLG",
       "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.228817,
-      "TEDPAYSAYISI": 368335984.0,
-      "KISISAYISI": 985.0,
-      "PORTFOYBUYUKLUK": 452617605.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.248802,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.224874,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.286402,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.293504,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.32035,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.312912,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.333284,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.336852,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.331036,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.368715,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.356841,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.344268,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "SLG",
+      "FONUNVAN": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.340727,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

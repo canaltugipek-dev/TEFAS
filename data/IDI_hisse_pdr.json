@@ -1,21 +1,59 @@
 {
   "kod": "IDI",
-  "guncelleme": "2026-04-08T18:23:31Z",
+  "guncelleme": "2026-04-26T18:32:31Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idi-azimut-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.68
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 8.32
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 19.37
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 15.97
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 15.27
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 13.13
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 10.4
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 7.05
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 5.23
+    },
+    {
+      "ticker": "VKGYO",
+      "ad": "",
+      "agirlik": 4.38
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "8 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:17:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3dd394736"
 }

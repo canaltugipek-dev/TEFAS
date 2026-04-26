@@ -1,25 +1,139 @@
 {
   "kod": "ENJ",
-  "guncelleme": "2026-04-08T18:21:05Z",
+  "guncelleme": "2026-04-26T18:22:16Z",
   "kaynak_tefas": true,
   "unvan": "AKTİF PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/enj-aktif-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.34
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.1
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 9.56
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 8.97
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 8.95
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 6.25
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 5.08
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 4.83
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 4.62
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "ENERY",
+      "ad": "",
+      "agirlik": 4.13
+    },
+    {
+      "ticker": "AHGAZ",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.4
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "AKENR",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "SMRTG",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "IZENR",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "AKSUE",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "HUNER",
+      "ad": "",
+      "agirlik": 0.87
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 18:31:02",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4cf4186c07bf"
 }

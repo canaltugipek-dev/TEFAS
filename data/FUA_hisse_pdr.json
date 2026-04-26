@@ -1,25 +1,124 @@
 {
   "kod": "FUA",
-  "guncelleme": "2026-04-08T18:21:11Z",
+  "guncelleme": "2026-04-26T18:22:18Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fua-ak-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.19
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.27
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 4.54
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.67
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 9.31
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.02
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 7.47
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 4.48
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "PARSN",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "MNDRS",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 2.8
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 2.33
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 0.03
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.04.2026 18:41:39",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5380bca84fe0"
 }

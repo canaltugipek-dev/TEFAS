@@ -1,25 +1,159 @@
 {
   "kod": "NKM",
-  "guncelleme": "2026-04-08T18:25:50Z",
+  "guncelleme": "2026-04-26T18:27:00Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkm-neo-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.41
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 2.26
-    },
-    {
-      "tip": "Katılma Hesabı (TL)",
-      "oran": 4.33
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 7.67
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 7.3
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 6.45
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 6.16
+    },
+    {
+      "ticker": "PLTUR",
+      "ad": "",
+      "agirlik": 5.51
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 4.58
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.46
+    },
+    {
+      "ticker": "KRSTL",
+      "ad": "",
+      "agirlik": 3.24
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "PKART",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "SAYAS",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "GOLTS",
+      "ad": "",
+      "agirlik": 1.53
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 1.37
+    },
+    {
+      "ticker": "GEDZA",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "PETUN",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "BNTAS",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 1.09
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "28 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 23:06:33",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6738d5c308ce"
 }

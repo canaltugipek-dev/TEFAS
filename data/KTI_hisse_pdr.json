@@ -1,33 +1,114 @@
 {
   "kod": "KTI",
-  "guncelleme": "2026-04-08T18:25:08Z",
+  "guncelleme": "2026-04-26T18:26:41Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kti-azimut-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 88.9
-    },
-    {
-      "tip": "Katılma Hesabı (TL)",
-      "oran": 0.09
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 7.25
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 1.46
-    },
-    {
-      "tip": "Kamu Kira Sertifikaları (TL)",
-      "oran": 2.3
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 15.54
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 15.31
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 14.84
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 11.73
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.85
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 9.1
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 8.52
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 8.2
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 7.67
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 7.5
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 7.3
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 6.87
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 6.54
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 5.74
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 5.45
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.89
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.35
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 1.48
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:16:54",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a9c95a4895"
 }

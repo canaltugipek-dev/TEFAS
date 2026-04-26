@@ -2,22 +2,102 @@
   "fon_kodu": "DTH",
   "fon_unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 82,
-  "gun_kapsami": 117,
+  "kayit_sayisi": 103,
+  "gun_kapsami": 147,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1764288000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764547200000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764633600000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764720000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764806400000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1764892800000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765152000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1765238400000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1765324800000",
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005895,
-      "TEDPAYSAYISI": 107001605.0,
-      "KISISAYISI": 5.0,
-      "PORTFOYBUYUKLUK": 107632327.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +105,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999888,
-      "TEDPAYSAYISI": 107055013.0,
-      "KISISAYISI": 10.0,
-      "PORTFOYBUYUKLUK": 107042993.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +115,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003534,
-      "TEDPAYSAYISI": 107055913.0,
-      "KISISAYISI": 13.0,
-      "PORTFOYBUYUKLUK": 107434272.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +125,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006048,
-      "TEDPAYSAYISI": 107075231.0,
-      "KISISAYISI": 18.0,
-      "PORTFOYBUYUKLUK": 107722809.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +135,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016746,
-      "TEDPAYSAYISI": 107075530.0,
-      "KISISAYISI": 19.0,
-      "PORTFOYBUYUKLUK": 108868620.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +145,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003402,
-      "TEDPAYSAYISI": 107085396.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 107449675.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +155,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991246,
-      "TEDPAYSAYISI": 113165908.0,
-      "KISISAYISI": 24.0,
-      "PORTFOYBUYUKLUK": 112175300.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +165,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997589,
-      "TEDPAYSAYISI": 113169171.0,
-      "KISISAYISI": 25.0,
-      "PORTFOYBUYUKLUK": 112896292.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +175,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000114,
-      "TEDPAYSAYISI": 113191113.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 113204060.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +185,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996913,
-      "TEDPAYSAYISI": 113196310.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 112846825.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +195,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002119,
-      "TEDPAYSAYISI": 113219093.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 113458969.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +205,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00296,
-      "TEDPAYSAYISI": 113169526.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 113504518.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +215,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006165,
-      "TEDPAYSAYISI": 113169824.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 113867534.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +225,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012319,
-      "TEDPAYSAYISI": 113205108.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 114599649.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +235,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994789,
-      "TEDPAYSAYISI": 113208810.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 112618917.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +245,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005497,
-      "TEDPAYSAYISI": 113618911.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 114243498.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +255,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007154,
-      "TEDPAYSAYISI": 113619646.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 114432428.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +265,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015472,
-      "TEDPAYSAYISI": 113619845.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 115377820.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +275,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024305,
-      "TEDPAYSAYISI": 113517447.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 116276452.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +285,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037777,
-      "TEDPAYSAYISI": 113488805.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 117776085.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +295,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031947,
-      "TEDPAYSAYISI": 113491862.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 117117600.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +305,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036983,
-      "TEDPAYSAYISI": 113518191.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 117716458.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +315,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044661,
-      "TEDPAYSAYISI": 113543022.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 118613994.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +325,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059157,
-      "TEDPAYSAYISI": 113562369.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 120280391.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +335,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073472,
-      "TEDPAYSAYISI": 113588587.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 121934119.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +345,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070183,
-      "TEDPAYSAYISI": 113592639.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 121564897.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +355,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097479,
-      "TEDPAYSAYISI": 113401773.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 124456085.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +365,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107499,
-      "TEDPAYSAYISI": 113394199.0,
-      "KISISAYISI": 65.0,
-      "PORTFOYBUYUKLUK": 125583967.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +375,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113002,
-      "TEDPAYSAYISI": 113426909.0,
-      "KISISAYISI": 70.0,
-      "PORTFOYBUYUKLUK": 126244396.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +385,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112309,
-      "TEDPAYSAYISI": 113575652.0,
-      "KISISAYISI": 81.0,
-      "PORTFOYBUYUKLUK": 126331188.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +395,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093868,
-      "TEDPAYSAYISI": 113763704.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 124442502.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +405,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120717,
-      "TEDPAYSAYISI": 114061681.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 127830864.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +415,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124071,
-      "TEDPAYSAYISI": 114249881.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 128425035.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +425,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146827,
-      "TEDPAYSAYISI": 114839711.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 131701239.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +435,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140051,
-      "TEDPAYSAYISI": 114996395.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 131101729.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +445,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143014,
-      "TEDPAYSAYISI": 120282953.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 137485050.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +455,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156164,
-      "TEDPAYSAYISI": 120317300.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 139106521.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +465,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146485,
-      "TEDPAYSAYISI": 120416528.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 138055711.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +475,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140481,
-      "TEDPAYSAYISI": 124818598.0,
-      "KISISAYISI": 132.0,
-      "PORTFOYBUYUKLUK": 142353216.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +485,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151795,
-      "TEDPAYSAYISI": 124897490.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 143856301.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +495,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162484,
-      "TEDPAYSAYISI": 124957762.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 145261391.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +505,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141709,
-      "TEDPAYSAYISI": 125010150.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 142725159.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +515,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129082,
-      "TEDPAYSAYISI": 125146326.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 141300485.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +525,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149181,
-      "TEDPAYSAYISI": 133999367.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 153989465.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +535,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156272,
-      "TEDPAYSAYISI": 133981799.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 154919414.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +545,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16198,
-      "TEDPAYSAYISI": 133961813.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 155660937.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +555,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182794,
-      "TEDPAYSAYISI": 133954208.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 158440296.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +565,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192694,
-      "TEDPAYSAYISI": 138204759.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 164836036.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +575,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205649,
-      "TEDPAYSAYISI": 138395856.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 166856826.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +585,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206278,
-      "TEDPAYSAYISI": 138446836.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 167005402.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +595,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194833,
-      "TEDPAYSAYISI": 138374716.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 165334679.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +605,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148806,
-      "TEDPAYSAYISI": 138440716.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 159041568.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +615,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162954,
-      "TEDPAYSAYISI": 137991330.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 160477612.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +625,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168097,
-      "TEDPAYSAYISI": 137957548.0,
-      "KISISAYISI": 162.0,
-      "PORTFOYBUYUKLUK": 161147859.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +635,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159891,
-      "TEDPAYSAYISI": 137674477.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 159687429.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +645,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140025,
-      "TEDPAYSAYISI": 137614165.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 156883532.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +655,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141696,
-      "TEDPAYSAYISI": 137646767.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 157150809.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +665,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131804,
-      "TEDPAYSAYISI": 137620767.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 155759705.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +675,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11839,
-      "TEDPAYSAYISI": 137636790.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 153931647.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +685,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09862,
-      "TEDPAYSAYISI": 137590830.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 151159988.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +695,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104861,
-      "TEDPAYSAYISI": 137358650.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 151762167.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +705,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121204,
-      "TEDPAYSAYISI": 137240248.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 153874309.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +715,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098039,
-      "TEDPAYSAYISI": 137290756.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 150750662.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +725,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089123,
-      "TEDPAYSAYISI": 137296375.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 149532673.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +735,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135059,
-      "TEDPAYSAYISI": 137273938.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 155814070.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +745,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132406,
-      "TEDPAYSAYISI": 137279354.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 155455988.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +755,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.139492,
-      "TEDPAYSAYISI": 137284635.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 156434793.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +765,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127911,
-      "TEDPAYSAYISI": 137291366.0,
-      "KISISAYISI": 136.0,
-      "PORTFOYBUYUKLUK": 154852467.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +775,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11794,
-      "TEDPAYSAYISI": 137295859.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 153488563.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +785,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138724,
-      "TEDPAYSAYISI": 137295350.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 156341475.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +795,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132252,
-      "TEDPAYSAYISI": 137293516.0,
-      "KISISAYISI": 132.0,
-      "PORTFOYBUYUKLUK": 155450914.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +805,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131514,
-      "TEDPAYSAYISI": 137293516.0,
-      "KISISAYISI": 132.0,
-      "PORTFOYBUYUKLUK": 155349552.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +815,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144768,
-      "TEDPAYSAYISI": 137272864.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 157145534.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +825,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124123,
-      "TEDPAYSAYISI": 137275719.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 154314827.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +835,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132447,
-      "TEDPAYSAYISI": 137249740.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 155428077.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +845,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116991,
-      "TEDPAYSAYISI": 137249425.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 153306426.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +855,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10472,
-      "TEDPAYSAYISI": 139485932.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 154092851.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +865,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115846,
-      "TEDPAYSAYISI": 139486162.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 155645024.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +875,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119819,
-      "TEDPAYSAYISI": 139375258.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 156075047.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +885,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138146,
-      "TEDPAYSAYISI": 139377033.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 158631439.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +895,9 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149167,
-      "TEDPAYSAYISI": 139378921.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 160169676.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +905,139 @@
       "FONKODU": "DTH",
       "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144394,
-      "TEDPAYSAYISI": 139378341.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 159503680.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.156328,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.131285,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.169501,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.17775,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.203419,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.201083,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.210263,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.206939,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.205174,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.228262,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.225711,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.223228,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "DTH",
+      "FONUNVAN": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.20949,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

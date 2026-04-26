@@ -1,29 +1,69 @@
 {
   "kod": "YZH",
-  "guncelleme": "2026-04-08T18:29:23Z",
+  "guncelleme": "2026-04-26T18:31:39Z",
   "kaynak_tefas": true,
   "unvan": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yzh-teb-portfoy-bist-banka-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.34
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.08
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 3.21
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.37
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 28.59
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 20.1
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 19.81
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 13.82
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 2.46
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "ICBCT",
+      "ad": "",
+      "agirlik": 0.16
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "10 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 17:12:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e6c3dc22ccc"
 }

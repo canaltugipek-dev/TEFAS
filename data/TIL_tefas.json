@@ -2,22 +2,192 @@
   "fon_kodu": "TIL",
   "fon_unvan": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 150,
-  "gun_kapsami": 214,
+  "kayit_sayisi": 180,
+  "gun_kapsami": 255,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1754956800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755043200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755129600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755216000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755475200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755561600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755648000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755734400000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755820800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756080000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756166400000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756252800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756339200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756425600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756684800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756771200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756857600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1756944000000",
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000696,
-      "TEDPAYSAYISI": 9321548.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 9328039.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +195,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008032,
-      "TEDPAYSAYISI": 10438405.0,
-      "KISISAYISI": 80.0,
-      "PORTFOYBUYUKLUK": 10522241.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +205,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992843,
-      "TEDPAYSAYISI": 10542219.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 10466763.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +215,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962382,
-      "TEDPAYSAYISI": 10674028.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 10272496.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +225,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962157,
-      "TEDPAYSAYISI": 10707370.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 10302167.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +235,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961934,
-      "TEDPAYSAYISI": 11531881.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 11092911.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +245,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953363,
-      "TEDPAYSAYISI": 11600289.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 11059289.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +255,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950247,
-      "TEDPAYSAYISI": 11980792.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 11384713.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +265,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996129,
-      "TEDPAYSAYISI": 11999716.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 11953269.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +275,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020127,
-      "TEDPAYSAYISI": 12054185.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 12296804.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +285,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014378,
-      "TEDPAYSAYISI": 12191038.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 12366326.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +295,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001184,
-      "TEDPAYSAYISI": 12372523.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 12387174.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +305,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01344,
-      "TEDPAYSAYISI": 12464273.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 12631794.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +315,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027843,
-      "TEDPAYSAYISI": 12522069.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 12870722.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +325,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024991,
-      "TEDPAYSAYISI": 12648427.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 12964524.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +335,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034899,
-      "TEDPAYSAYISI": 12791114.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 13237517.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +345,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034799,
-      "TEDPAYSAYISI": 13356952.0,
-      "KISISAYISI": 204.0,
-      "PORTFOYBUYUKLUK": 13821757.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +355,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017066,
-      "TEDPAYSAYISI": 13885056.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 14122023.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +365,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006553,
-      "TEDPAYSAYISI": 14059146.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 14151280.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +375,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009922,
-      "TEDPAYSAYISI": 14117400.0,
-      "KISISAYISI": 225.0,
-      "PORTFOYBUYUKLUK": 14257467.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +385,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026673,
-      "TEDPAYSAYISI": 14141679.0,
-      "KISISAYISI": 230.0,
-      "PORTFOYBUYUKLUK": 14518872.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +395,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029367,
-      "TEDPAYSAYISI": 14174403.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 14590669.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +405,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012056,
-      "TEDPAYSAYISI": 14260457.0,
-      "KISISAYISI": 240.0,
-      "PORTFOYBUYUKLUK": 14432377.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +415,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01495,
-      "TEDPAYSAYISI": 14300068.0,
-      "KISISAYISI": 244.0,
-      "PORTFOYBUYUKLUK": 14513860.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +425,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024362,
-      "TEDPAYSAYISI": 14331956.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 14681109.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +435,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015877,
-      "TEDPAYSAYISI": 14453239.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 14682711.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +445,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014474,
-      "TEDPAYSAYISI": 14524249.0,
-      "KISISAYISI": 255.0,
-      "PORTFOYBUYUKLUK": 14734476.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +455,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021066,
-      "TEDPAYSAYISI": 16078341.0,
-      "KISISAYISI": 272.0,
-      "PORTFOYBUYUKLUK": 16417053.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +465,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000237,
-      "TEDPAYSAYISI": 15960159.0,
-      "KISISAYISI": 278.0,
-      "PORTFOYBUYUKLUK": 15963948.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +475,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979916,
-      "TEDPAYSAYISI": 17543064.0,
-      "KISISAYISI": 303.0,
-      "PORTFOYBUYUKLUK": 17190728.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +485,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002526,
-      "TEDPAYSAYISI": 16862260.0,
-      "KISISAYISI": 318.0,
-      "PORTFOYBUYUKLUK": 16904853.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +495,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993407,
-      "TEDPAYSAYISI": 17278316.0,
-      "KISISAYISI": 325.0,
-      "PORTFOYBUYUKLUK": 17164398.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +505,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987985,
-      "TEDPAYSAYISI": 17353754.0,
-      "KISISAYISI": 329.0,
-      "PORTFOYBUYUKLUK": 17145245.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +515,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007495,
-      "TEDPAYSAYISI": 17535477.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 17666907.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +525,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007811,
-      "TEDPAYSAYISI": 17569935.0,
-      "KISISAYISI": 340.0,
-      "PORTFOYBUYUKLUK": 17707168.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +535,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018995,
-      "TEDPAYSAYISI": 17958996.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 18300133.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +545,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01584,
-      "TEDPAYSAYISI": 17985262.0,
-      "KISISAYISI": 348.0,
-      "PORTFOYBUYUKLUK": 18270152.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +555,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045384,
-      "TEDPAYSAYISI": 18010479.0,
-      "KISISAYISI": 352.0,
-      "PORTFOYBUYUKLUK": 18827871.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +565,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039457,
-      "TEDPAYSAYISI": 18585582.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 19318915.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +575,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038136,
-      "TEDPAYSAYISI": 17705034.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 18380231.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +585,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045675,
-      "TEDPAYSAYISI": 18950352.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 19815916.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +595,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058124,
-      "TEDPAYSAYISI": 18977244.0,
-      "KISISAYISI": 369.0,
-      "PORTFOYBUYUKLUK": 20080278.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +605,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.066532,
-      "TEDPAYSAYISI": 19923678.0,
-      "KISISAYISI": 374.0,
-      "PORTFOYBUYUKLUK": 21249250.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +615,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055647,
-      "TEDPAYSAYISI": 20448885.0,
-      "KISISAYISI": 396.0,
-      "PORTFOYBUYUKLUK": 21586805.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +625,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064048,
-      "TEDPAYSAYISI": 20877733.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 22214901.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +635,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.061097,
-      "TEDPAYSAYISI": 21875834.0,
-      "KISISAYISI": 426.0,
-      "PORTFOYBUYUKLUK": 23212392.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +645,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051327,
-      "TEDPAYSAYISI": 22806218.0,
-      "KISISAYISI": 455.0,
-      "PORTFOYBUYUKLUK": 23976784.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +655,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043006,
-      "TEDPAYSAYISI": 21541907.0,
-      "KISISAYISI": 477.0,
-      "PORTFOYBUYUKLUK": 22468337.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +665,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023182,
-      "TEDPAYSAYISI": 22139747.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 22652991.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +675,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01993,
-      "TEDPAYSAYISI": 22615956.0,
-      "KISISAYISI": 495.0,
-      "PORTFOYBUYUKLUK": 23066699.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +685,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013607,
-      "TEDPAYSAYISI": 22787494.0,
-      "KISISAYISI": 497.0,
-      "PORTFOYBUYUKLUK": 23097561.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +695,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003388,
-      "TEDPAYSAYISI": 22757577.0,
-      "KISISAYISI": 487.0,
-      "PORTFOYBUYUKLUK": 22834689.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +705,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020086,
-      "TEDPAYSAYISI": 22776723.0,
-      "KISISAYISI": 488.0,
-      "PORTFOYBUYUKLUK": 23234209.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +715,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015741,
-      "TEDPAYSAYISI": 22433358.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 22786487.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +725,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025617,
-      "TEDPAYSAYISI": 22532031.0,
-      "KISISAYISI": 497.0,
-      "PORTFOYBUYUKLUK": 23109229.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +735,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029133,
-      "TEDPAYSAYISI": 23011262.0,
-      "KISISAYISI": 499.0,
-      "PORTFOYBUYUKLUK": 23681653.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +745,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025852,
-      "TEDPAYSAYISI": 23101008.0,
-      "KISISAYISI": 501.0,
-      "PORTFOYBUYUKLUK": 23698222.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +755,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02256,
-      "TEDPAYSAYISI": 23156137.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 23678544.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +765,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011307,
-      "TEDPAYSAYISI": 23163434.0,
-      "KISISAYISI": 507.0,
-      "PORTFOYBUYUKLUK": 23425341.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +775,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009953,
-      "TEDPAYSAYISI": 23428141.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 23661332.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +785,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012115,
-      "TEDPAYSAYISI": 23337266.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 23619997.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +795,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006719,
-      "TEDPAYSAYISI": 23346183.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 23503046.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +805,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020779,
-      "TEDPAYSAYISI": 20244699.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 20665362.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +815,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02058,
-      "TEDPAYSAYISI": 19729285.0,
-      "KISISAYISI": 501.0,
-      "PORTFOYBUYUKLUK": 20135315.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +825,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015891,
-      "TEDPAYSAYISI": 20319384.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 20642289.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +835,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011963,
-      "TEDPAYSAYISI": 20061568.0,
-      "KISISAYISI": 501.0,
-      "PORTFOYBUYUKLUK": 20301566.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +845,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016473,
-      "TEDPAYSAYISI": 20010695.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 20340332.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +855,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028399,
-      "TEDPAYSAYISI": 19947234.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 20513709.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +865,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037653,
-      "TEDPAYSAYISI": 19929328.0,
-      "KISISAYISI": 506.0,
-      "PORTFOYBUYUKLUK": 20679731.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +875,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033952,
-      "TEDPAYSAYISI": 19939922.0,
-      "KISISAYISI": 505.0,
-      "PORTFOYBUYUKLUK": 20616926.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +885,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046355,
-      "TEDPAYSAYISI": 19837437.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 20756994.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +895,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060455,
-      "TEDPAYSAYISI": 19916524.0,
-      "KISISAYISI": 507.0,
-      "PORTFOYBUYUKLUK": 21120580.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +905,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069591,
-      "TEDPAYSAYISI": 19916766.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 21302789.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +915,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068074,
-      "TEDPAYSAYISI": 20685707.0,
-      "KISISAYISI": 529.0,
-      "PORTFOYBUYUKLUK": 22093865.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +925,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073619,
-      "TEDPAYSAYISI": 22999834.0,
-      "KISISAYISI": 544.0,
-      "PORTFOYBUYUKLUK": 24693053.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +935,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078258,
-      "TEDPAYSAYISI": 23344017.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 25170870.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +945,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074236,
-      "TEDPAYSAYISI": 22102544.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 23743350.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +955,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070262,
-      "TEDPAYSAYISI": 24315580.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 26024048.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +965,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068487,
-      "TEDPAYSAYISI": 23192363.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 24780728.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +975,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074298,
-      "TEDPAYSAYISI": 23002947.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 24712017.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +985,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081953,
-      "TEDPAYSAYISI": 24516649.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 26525855.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +995,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0767,
-      "TEDPAYSAYISI": 24491593.0,
-      "KISISAYISI": 615.0,
-      "PORTFOYBUYUKLUK": 26370106.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1005,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06799,
-      "TEDPAYSAYISI": 24918594.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 26612812.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1015,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080724,
-      "TEDPAYSAYISI": 25369741.0,
-      "KISISAYISI": 638.0,
-      "PORTFOYBUYUKLUK": 27417689.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1025,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088453,
-      "TEDPAYSAYISI": 25689418.0,
-      "KISISAYISI": 658.0,
-      "PORTFOYBUYUKLUK": 27961715.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1035,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089292,
-      "TEDPAYSAYISI": 25840235.0,
-      "KISISAYISI": 662.0,
-      "PORTFOYBUYUKLUK": 28147559.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1045,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096439,
-      "TEDPAYSAYISI": 28371377.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 31107494.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1055,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115859,
-      "TEDPAYSAYISI": 30656112.0,
-      "KISISAYISI": 747.0,
-      "PORTFOYBUYUKLUK": 34207911.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1065,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11338,
-      "TEDPAYSAYISI": 32379260.0,
-      "KISISAYISI": 776.0,
-      "PORTFOYBUYUKLUK": 36050432.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1075,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116048,
-      "TEDPAYSAYISI": 34611312.0,
-      "KISISAYISI": 820.0,
-      "PORTFOYBUYUKLUK": 38627892.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1085,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125713,
-      "TEDPAYSAYISI": 36873026.0,
-      "KISISAYISI": 847.0,
-      "PORTFOYBUYUKLUK": 41508457.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1095,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135342,
-      "TEDPAYSAYISI": 37809180.0,
-      "KISISAYISI": 888.0,
-      "PORTFOYBUYUKLUK": 42926338.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1105,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151134,
-      "TEDPAYSAYISI": 40388188.0,
-      "KISISAYISI": 931.0,
-      "PORTFOYBUYUKLUK": 46492227.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1115,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144661,
-      "TEDPAYSAYISI": 40060662.0,
-      "KISISAYISI": 960.0,
-      "PORTFOYBUYUKLUK": 45855864.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1125,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156034,
-      "TEDPAYSAYISI": 43173741.0,
-      "KISISAYISI": 991.0,
-      "PORTFOYBUYUKLUK": 49910313.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1135,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174977,
-      "TEDPAYSAYISI": 44367730.0,
-      "KISISAYISI": 1034.0,
-      "PORTFOYBUYUKLUK": 52131048.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1145,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181269,
-      "TEDPAYSAYISI": 46170955.0,
-      "KISISAYISI": 1051.0,
-      "PORTFOYBUYUKLUK": 54540307.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1155,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176065,
-      "TEDPAYSAYISI": 48060548.0,
-      "KISISAYISI": 1098.0,
-      "PORTFOYBUYUKLUK": 56522322.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1165,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165446,
-      "TEDPAYSAYISI": 51116074.0,
-      "KISISAYISI": 1114.0,
-      "PORTFOYBUYUKLUK": 59573038.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1175,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18452,
-      "TEDPAYSAYISI": 51790839.0,
-      "KISISAYISI": 1145.0,
-      "PORTFOYBUYUKLUK": 61347294.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1185,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189822,
-      "TEDPAYSAYISI": 52428110.0,
-      "KISISAYISI": 1158.0,
-      "PORTFOYBUYUKLUK": 62380130.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1195,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207528,
-      "TEDPAYSAYISI": 52289156.0,
-      "KISISAYISI": 1166.0,
-      "PORTFOYBUYUKLUK": 63140640.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1205,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.211346,
-      "TEDPAYSAYISI": 49896546.0,
-      "KISISAYISI": 1216.0,
-      "PORTFOYBUYUKLUK": 60441972.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1215,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22771,
-      "TEDPAYSAYISI": 50142803.0,
-      "KISISAYISI": 1219.0,
-      "PORTFOYBUYUKLUK": 61560839.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1225,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243598,
-      "TEDPAYSAYISI": 51913395.0,
-      "KISISAYISI": 1245.0,
-      "PORTFOYBUYUKLUK": 64559418.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1235,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245426,
-      "TEDPAYSAYISI": 52884443.0,
-      "KISISAYISI": 1260.0,
-      "PORTFOYBUYUKLUK": 65863643.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1245,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.228065,
-      "TEDPAYSAYISI": 56940424.0,
-      "KISISAYISI": 1280.0,
-      "PORTFOYBUYUKLUK": 69926542.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1255,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242375,
-      "TEDPAYSAYISI": 57111864.0,
-      "KISISAYISI": 1308.0,
-      "PORTFOYBUYUKLUK": 70954369.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1265,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240331,
-      "TEDPAYSAYISI": 57702082.0,
-      "KISISAYISI": 1313.0,
-      "PORTFOYBUYUKLUK": 71569662.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1275,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.222138,
-      "TEDPAYSAYISI": 58403905.0,
-      "KISISAYISI": 1333.0,
-      "PORTFOYBUYUKLUK": 71377651.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1285,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218642,
-      "TEDPAYSAYISI": 57448123.0,
-      "KISISAYISI": 1355.0,
-      "PORTFOYBUYUKLUK": 70008694.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1295,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246721,
-      "TEDPAYSAYISI": 59493119.0,
-      "KISISAYISI": 1364.0,
-      "PORTFOYBUYUKLUK": 74171343.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1305,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24749,
-      "TEDPAYSAYISI": 59713379.0,
-      "KISISAYISI": 1379.0,
-      "PORTFOYBUYUKLUK": 74491871.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1315,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25585,
-      "TEDPAYSAYISI": 59849146.0,
-      "KISISAYISI": 1388.0,
-      "PORTFOYBUYUKLUK": 75161562.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1325,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278515,
-      "TEDPAYSAYISI": 60061013.0,
-      "KISISAYISI": 1399.0,
-      "PORTFOYBUYUKLUK": 76788914.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1335,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280762,
-      "TEDPAYSAYISI": 60854772.0,
-      "KISISAYISI": 1418.0,
-      "PORTFOYBUYUKLUK": 77940459.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1345,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295326,
-      "TEDPAYSAYISI": 62076015.0,
-      "KISISAYISI": 1445.0,
-      "PORTFOYBUYUKLUK": 80408666.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1355,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290995,
-      "TEDPAYSAYISI": 62618903.0,
-      "KISISAYISI": 1495.0,
-      "PORTFOYBUYUKLUK": 80840676.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1365,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296382,
-      "TEDPAYSAYISI": 63252767.0,
-      "KISISAYISI": 1525.0,
-      "PORTFOYBUYUKLUK": 81999732.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1375,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.252625,
-      "TEDPAYSAYISI": 64247764.0,
-      "KISISAYISI": 1541.0,
-      "PORTFOYBUYUKLUK": 80478342.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1385,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25919,
-      "TEDPAYSAYISI": 61618097.0,
-      "KISISAYISI": 1555.0,
-      "PORTFOYBUYUKLUK": 77588888.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1395,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267142,
-      "TEDPAYSAYISI": 61189160.0,
-      "KISISAYISI": 1569.0,
-      "PORTFOYBUYUKLUK": 77535378.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1405,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267546,
-      "TEDPAYSAYISI": 64742057.0,
-      "KISISAYISI": 1591.0,
-      "PORTFOYBUYUKLUK": 82063534.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1415,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.252405,
-      "TEDPAYSAYISI": 65172133.0,
-      "KISISAYISI": 1598.0,
-      "PORTFOYBUYUKLUK": 81621881.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1425,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249024,
-      "TEDPAYSAYISI": 65292421.0,
-      "KISISAYISI": 1612.0,
-      "PORTFOYBUYUKLUK": 81551774.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1435,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.234643,
-      "TEDPAYSAYISI": 65244390.0,
-      "KISISAYISI": 1620.0,
-      "PORTFOYBUYUKLUK": 80553501.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1445,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.223275,
-      "TEDPAYSAYISI": 64074870.0,
-      "KISISAYISI": 1615.0,
-      "PORTFOYBUYUKLUK": 78381214.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1455,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201732,
-      "TEDPAYSAYISI": 61342822.0,
-      "KISISAYISI": 1613.0,
-      "PORTFOYBUYUKLUK": 73717634.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1465,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198598,
-      "TEDPAYSAYISI": 60952787.0,
-      "KISISAYISI": 1562.0,
-      "PORTFOYBUYUKLUK": 73057896.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1475,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212357,
-      "TEDPAYSAYISI": 60917207.0,
-      "KISISAYISI": 1544.0,
-      "PORTFOYBUYUKLUK": 73853417.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1485,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19839,
-      "TEDPAYSAYISI": 58522779.0,
-      "KISISAYISI": 1530.0,
-      "PORTFOYBUYUKLUK": 70133091.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1495,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192221,
-      "TEDPAYSAYISI": 64248296.0,
-      "KISISAYISI": 1521.0,
-      "PORTFOYBUYUKLUK": 76598183.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1505,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23367,
-      "TEDPAYSAYISI": 63861186.0,
-      "KISISAYISI": 1531.0,
-      "PORTFOYBUYUKLUK": 78783629.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1515,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238862,
-      "TEDPAYSAYISI": 63605928.0,
-      "KISISAYISI": 1517.0,
-      "PORTFOYBUYUKLUK": 78798946.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1525,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260388,
-      "TEDPAYSAYISI": 63669449.0,
-      "KISISAYISI": 1509.0,
-      "PORTFOYBUYUKLUK": 80248190.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1535,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26403,
-      "TEDPAYSAYISI": 63372815.0,
-      "KISISAYISI": 1503.0,
-      "PORTFOYBUYUKLUK": 80105112.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1545,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26676,
-      "TEDPAYSAYISI": 63350866.0,
-      "KISISAYISI": 1503.0,
-      "PORTFOYBUYUKLUK": 80250365.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1555,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286535,
-      "TEDPAYSAYISI": 63547617.0,
-      "KISISAYISI": 1533.0,
-      "PORTFOYBUYUKLUK": 81756224.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1565,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279199,
-      "TEDPAYSAYISI": 65896884.0,
-      "KISISAYISI": 1544.0,
-      "PORTFOYBUYUKLUK": 84295254.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1575,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.281752,
-      "TEDPAYSAYISI": 65191432.0,
-      "KISISAYISI": 1544.0,
-      "PORTFOYBUYUKLUK": 83559232.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1585,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277283,
-      "TEDPAYSAYISI": 65756841.0,
-      "KISISAYISI": 1563.0,
-      "PORTFOYBUYUKLUK": 83990086.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1595,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259567,
-      "TEDPAYSAYISI": 65232433.0,
-      "KISISAYISI": 1583.0,
-      "PORTFOYBUYUKLUK": 82164631.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1605,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257973,
-      "TEDPAYSAYISI": 64541694.0,
-      "KISISAYISI": 1572.0,
-      "PORTFOYBUYUKLUK": 81191702.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1615,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239535,
-      "TEDPAYSAYISI": 64453221.0,
-      "KISISAYISI": 1560.0,
-      "PORTFOYBUYUKLUK": 79892050.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1625,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232038,
-      "TEDPAYSAYISI": 64598463.0,
-      "KISISAYISI": 1549.0,
-      "PORTFOYBUYUKLUK": 79587741.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1635,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225081,
-      "TEDPAYSAYISI": 64528580.0,
-      "KISISAYISI": 1547.0,
-      "PORTFOYBUYUKLUK": 79052711.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1645,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238174,
-      "TEDPAYSAYISI": 64239092.0,
-      "KISISAYISI": 1532.0,
-      "PORTFOYBUYUKLUK": 79539145.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1655,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249763,
-      "TEDPAYSAYISI": 64097639.0,
-      "KISISAYISI": 1521.0,
-      "PORTFOYBUYUKLUK": 80106829.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1665,9 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253758,
-      "TEDPAYSAYISI": 64223620.0,
-      "KISISAYISI": 1510.0,
-      "PORTFOYBUYUKLUK": 80520850.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1675,139 @@
       "FONKODU": "TIL",
       "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249415,
-      "TEDPAYSAYISI": 64150628.0,
-      "KISISAYISI": 1507.0,
-      "PORTFOYBUYUKLUK": 80150788.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.273722,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.254148,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.301487,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.310535,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.33479,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.338471,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.352441,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.366286,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.357583,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.388913,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.383073,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.374128,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "TIL",
+      "FONUNVAN": "İŞ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.362431,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

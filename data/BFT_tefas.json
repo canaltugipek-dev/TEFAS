@@ -2,22 +2,132 @@
   "fon_kodu": "BFT",
   "fon_unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 322,
-  "gun_kapsami": 467,
+  "kayit_sayisi": 346,
+  "gun_kapsami": 500,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1733788800000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733875200000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733961600000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734048000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734307200000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734393600000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734480000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734566400000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734652800000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734912000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1734998400000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1735084800000",
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 72.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +135,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006232,
-      "TEDPAYSAYISI": 25184074.0,
-      "KISISAYISI": 102.0,
-      "PORTFOYBUYUKLUK": 25341023.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +145,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003658,
-      "TEDPAYSAYISI": 30491244.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 30602792.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +155,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01499,
-      "TEDPAYSAYISI": 41625771.0,
-      "KISISAYISI": 135.0,
-      "PORTFOYBUYUKLUK": 42249729.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +165,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027373,
-      "TEDPAYSAYISI": 43043527.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 44221748.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +175,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024865,
-      "TEDPAYSAYISI": 46471563.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 47627092.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +185,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022861,
-      "TEDPAYSAYISI": 58639673.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 59980236.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +195,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011743,
-      "TEDPAYSAYISI": 63553598.0,
-      "KISISAYISI": 298.0,
-      "PORTFOYBUYUKLUK": 64299878.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +205,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01103,
-      "TEDPAYSAYISI": 74427901.0,
-      "KISISAYISI": 324.0,
-      "PORTFOYBUYUKLUK": 75248814.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +215,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997572,
-      "TEDPAYSAYISI": 75450628.0,
-      "KISISAYISI": 339.0,
-      "PORTFOYBUYUKLUK": 75267458.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +225,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982848,
-      "TEDPAYSAYISI": 76078711.0,
-      "KISISAYISI": 349.0,
-      "PORTFOYBUYUKLUK": 74773825.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +235,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00758,
-      "TEDPAYSAYISI": 75099711.0,
-      "KISISAYISI": 399.0,
-      "PORTFOYBUYUKLUK": 75668990.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +245,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995763,
-      "TEDPAYSAYISI": 89989345.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 89608039.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +255,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981039,
-      "TEDPAYSAYISI": 110316300.0,
-      "KISISAYISI": 419.0,
-      "PORTFOYBUYUKLUK": 108224633.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +265,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981585,
-      "TEDPAYSAYISI": 111008934.0,
-      "KISISAYISI": 420.0,
-      "PORTFOYBUYUKLUK": 108964713.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +275,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983573,
-      "TEDPAYSAYISI": 140279613.0,
-      "KISISAYISI": 426.0,
-      "PORTFOYBUYUKLUK": 137975280.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +285,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00214,
-      "TEDPAYSAYISI": 140838433.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 141139823.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +295,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023574,
-      "TEDPAYSAYISI": 140863281.0,
-      "KISISAYISI": 433.0,
-      "PORTFOYBUYUKLUK": 144184013.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +305,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035335,
-      "TEDPAYSAYISI": 122889658.0,
-      "KISISAYISI": 442.0,
-      "PORTFOYBUYUKLUK": 127231948.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +315,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039219,
-      "TEDPAYSAYISI": 130197732.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 135304010.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +325,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059508,
-      "TEDPAYSAYISI": 131227664.0,
-      "KISISAYISI": 497.0,
-      "PORTFOYBUYUKLUK": 139036726.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +335,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044641,
-      "TEDPAYSAYISI": 189094488.0,
-      "KISISAYISI": 556.0,
-      "PORTFOYBUYUKLUK": 197535867.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +345,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038208,
-      "TEDPAYSAYISI": 216287755.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 224551677.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +355,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032175,
-      "TEDPAYSAYISI": 216461532.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 223426207.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +365,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039937,
-      "TEDPAYSAYISI": 240960543.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 250583793.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +375,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033943,
-      "TEDPAYSAYISI": 229305814.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 237089109.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +385,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026452,
-      "TEDPAYSAYISI": 210814762.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 216391208.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +395,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00603,
-      "TEDPAYSAYISI": 211518378.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 212793921.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +405,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977296,
-      "TEDPAYSAYISI": 227858021.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 222684646.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +415,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987279,
-      "TEDPAYSAYISI": 255189992.0,
-      "KISISAYISI": 586.0,
-      "PORTFOYBUYUKLUK": 251943842.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +425,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977426,
-      "TEDPAYSAYISI": 273657918.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 267480299.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +435,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977641,
-      "TEDPAYSAYISI": 276127570.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 269953518.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +445,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977737,
-      "TEDPAYSAYISI": 276475898.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 270320790.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +455,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976052,
-      "TEDPAYSAYISI": 276346824.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 269728904.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +465,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980954,
-      "TEDPAYSAYISI": 272455224.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 267266145.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +475,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972318,
-      "TEDPAYSAYISI": 264388735.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 257069912.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +485,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986109,
-      "TEDPAYSAYISI": 257693452.0,
-      "KISISAYISI": 558.0,
-      "PORTFOYBUYUKLUK": 254113711.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +495,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983839,
-      "TEDPAYSAYISI": 257690275.0,
-      "KISISAYISI": 552.0,
-      "PORTFOYBUYUKLUK": 253525868.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +505,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978909,
-      "TEDPAYSAYISI": 263612825.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 258052940.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +515,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99258,
-      "TEDPAYSAYISI": 264310833.0,
-      "KISISAYISI": 557.0,
-      "PORTFOYBUYUKLUK": 262349686.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +525,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98122,
-      "TEDPAYSAYISI": 263930831.0,
-      "KISISAYISI": 549.0,
-      "PORTFOYBUYUKLUK": 258974194.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +535,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001289,
-      "TEDPAYSAYISI": 274272201.0,
-      "KISISAYISI": 546.0,
-      "PORTFOYBUYUKLUK": 274625870.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +545,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985662,
-      "TEDPAYSAYISI": 304988067.0,
-      "KISISAYISI": 548.0,
-      "PORTFOYBUYUKLUK": 300615250.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +555,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973855,
-      "TEDPAYSAYISI": 305076338.0,
-      "KISISAYISI": 545.0,
-      "PORTFOYBUYUKLUK": 297100131.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +565,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968184,
-      "TEDPAYSAYISI": 305056531.0,
-      "KISISAYISI": 545.0,
-      "PORTFOYBUYUKLUK": 295350957.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +575,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98778,
-      "TEDPAYSAYISI": 305998884.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 302259677.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +585,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997174,
-      "TEDPAYSAYISI": 317143296.0,
-      "KISISAYISI": 537.0,
-      "PORTFOYBUYUKLUK": 316246939.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +595,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98909,
-      "TEDPAYSAYISI": 332201319.0,
-      "KISISAYISI": 533.0,
-      "PORTFOYBUYUKLUK": 328576915.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +605,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034703,
-      "TEDPAYSAYISI": 345661695.0,
-      "KISISAYISI": 533.0,
-      "PORTFOYBUYUKLUK": 357657356.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +615,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038233,
-      "TEDPAYSAYISI": 410082733.0,
-      "KISISAYISI": 552.0,
-      "PORTFOYBUYUKLUK": 425761592.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +625,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054827,
-      "TEDPAYSAYISI": 433516247.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 457284489.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +635,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06924,
-      "TEDPAYSAYISI": 453725617.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 485141541.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +645,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076792,
-      "TEDPAYSAYISI": 453965475.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 488826588.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +655,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074072,
-      "TEDPAYSAYISI": 460205034.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 494293306.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +665,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062859,
-      "TEDPAYSAYISI": 461603540.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 490619275.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +675,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085377,
-      "TEDPAYSAYISI": 467520264.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 507435650.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +685,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093489,
-      "TEDPAYSAYISI": 478403112.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 523128421.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +695,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102415,
-      "TEDPAYSAYISI": 493493406.0,
-      "KISISAYISI": 624.0,
-      "PORTFOYBUYUKLUK": 544034505.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +705,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100821,
-      "TEDPAYSAYISI": 507173313.0,
-      "KISISAYISI": 634.0,
-      "PORTFOYBUYUKLUK": 558307235.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +715,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087223,
-      "TEDPAYSAYISI": 474633448.0,
-      "KISISAYISI": 640.0,
-      "PORTFOYBUYUKLUK": 516032532.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +725,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977689,
-      "TEDPAYSAYISI": 472930281.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 462378714.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +735,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935133,
-      "TEDPAYSAYISI": 530494365.0,
-      "KISISAYISI": 646.0,
-      "PORTFOYBUYUKLUK": 496082816.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +745,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874662,
-      "TEDPAYSAYISI": 598139525.0,
-      "KISISAYISI": 644.0,
-      "PORTFOYBUYUKLUK": 523169958.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +755,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891592,
-      "TEDPAYSAYISI": 570939797.0,
-      "KISISAYISI": 633.0,
-      "PORTFOYBUYUKLUK": 509045325.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +765,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932393,
-      "TEDPAYSAYISI": 553366315.0,
-      "KISISAYISI": 634.0,
-      "PORTFOYBUYUKLUK": 515954645.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +775,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919857,
-      "TEDPAYSAYISI": 547974598.0,
-      "KISISAYISI": 631.0,
-      "PORTFOYBUYUKLUK": 504058076.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +785,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919308,
-      "TEDPAYSAYISI": 384273800.0,
-      "KISISAYISI": 630.0,
-      "PORTFOYBUYUKLUK": 353266142.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +795,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.911694,
-      "TEDPAYSAYISI": 289247462.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 263705093.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +805,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899045,
-      "TEDPAYSAYISI": 288622356.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 259484423.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +815,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.896196,
-      "TEDPAYSAYISI": 288449743.0,
-      "KISISAYISI": 485.0,
-      "PORTFOYBUYUKLUK": 258507382.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +825,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.888633,
-      "TEDPAYSAYISI": 288187784.0,
-      "KISISAYISI": 486.0,
-      "PORTFOYBUYUKLUK": 256093313.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +835,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.882976,
-      "TEDPAYSAYISI": 269680484.0,
-      "KISISAYISI": 481.0,
-      "PORTFOYBUYUKLUK": 238121284.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +845,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.881296,
-      "TEDPAYSAYISI": 264776037.0,
-      "KISISAYISI": 448.0,
-      "PORTFOYBUYUKLUK": 233345968.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +855,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85264,
-      "TEDPAYSAYISI": 264761466.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 225746258.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +865,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.8588,
-      "TEDPAYSAYISI": 238339461.0,
-      "KISISAYISI": 445.0,
-      "PORTFOYBUYUKLUK": 204685942.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +875,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.855707,
-      "TEDPAYSAYISI": 237403279.0,
-      "KISISAYISI": 436.0,
-      "PORTFOYBUYUKLUK": 203147766.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +885,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.859241,
-      "TEDPAYSAYISI": 223339282.0,
-      "KISISAYISI": 433.0,
-      "PORTFOYBUYUKLUK": 191902182.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +895,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866238,
-      "TEDPAYSAYISI": 219650208.0,
-      "KISISAYISI": 413.0,
-      "PORTFOYBUYUKLUK": 190269363.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +905,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.85511,
-      "TEDPAYSAYISI": 215573799.0,
-      "KISISAYISI": 404.0,
-      "PORTFOYBUYUKLUK": 184339294.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +915,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.877926,
-      "TEDPAYSAYISI": 215365258.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 189074694.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +925,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.864009,
-      "TEDPAYSAYISI": 209844454.0,
-      "KISISAYISI": 395.0,
-      "PORTFOYBUYUKLUK": 181307471.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +935,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875373,
-      "TEDPAYSAYISI": 209804017.0,
-      "KISISAYISI": 391.0,
-      "PORTFOYBUYUKLUK": 183656783.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +945,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.854235,
-      "TEDPAYSAYISI": 195124790.0,
-      "KISISAYISI": 387.0,
-      "PORTFOYBUYUKLUK": 166682370.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +955,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.874778,
-      "TEDPAYSAYISI": 180743310.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 158110326.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +965,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.857675,
-      "TEDPAYSAYISI": 154788743.0,
-      "KISISAYISI": 369.0,
-      "PORTFOYBUYUKLUK": 132758509.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +975,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.839902,
-      "TEDPAYSAYISI": 154894998.0,
-      "KISISAYISI": 366.0,
-      "PORTFOYBUYUKLUK": 130096679.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +985,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.833134,
-      "TEDPAYSAYISI": 154422465.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 128654597.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +995,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.823,
-      "TEDPAYSAYISI": 154664976.0,
-      "KISISAYISI": 369.0,
-      "PORTFOYBUYUKLUK": 127289238.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1005,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.822603,
-      "TEDPAYSAYISI": 133894809.0,
-      "KISISAYISI": 369.0,
-      "PORTFOYBUYUKLUK": 110142330.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1015,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.813472,
-      "TEDPAYSAYISI": 132835158.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 108057658.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1025,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.825551,
-      "TEDPAYSAYISI": 132729482.0,
-      "KISISAYISI": 367.0,
-      "PORTFOYBUYUKLUK": 109574973.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1035,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.819056,
-      "TEDPAYSAYISI": 128117239.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 104935251.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1045,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.83029,
-      "TEDPAYSAYISI": 127984816.0,
-      "KISISAYISI": 356.0,
-      "PORTFOYBUYUKLUK": 106264535.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1055,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.835618,
-      "TEDPAYSAYISI": 104294107.0,
-      "KISISAYISI": 356.0,
-      "PORTFOYBUYUKLUK": 87150062.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1065,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.870708,
-      "TEDPAYSAYISI": 104201551.0,
-      "KISISAYISI": 345.0,
-      "PORTFOYBUYUKLUK": 90729126.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1075,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873842,
-      "TEDPAYSAYISI": 109411061.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 95607951.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1085,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.873728,
-      "TEDPAYSAYISI": 109678438.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 95829079.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1095,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.856177,
-      "TEDPAYSAYISI": 112897074.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 96659934.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1105,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.877058,
-      "TEDPAYSAYISI": 112899067.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 99018984.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1115,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875447,
-      "TEDPAYSAYISI": 112900697.0,
-      "KISISAYISI": 355.0,
-      "PORTFOYBUYUKLUK": 98838602.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1125,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.863143,
-      "TEDPAYSAYISI": 112869320.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 97422345.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1135,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868277,
-      "TEDPAYSAYISI": 122011401.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 105939647.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1145,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.850222,
-      "TEDPAYSAYISI": 128052472.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 108873084.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1155,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.845971,
-      "TEDPAYSAYISI": 128062801.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 108337385.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1165,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.82448,
-      "TEDPAYSAYISI": 128051670.0,
-      "KISISAYISI": 355.0,
-      "PORTFOYBUYUKLUK": 105576090.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1175,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830538,
-      "TEDPAYSAYISI": 127726283.0,
-      "KISISAYISI": 352.0,
-      "PORTFOYBUYUKLUK": 106081541.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1185,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.834607,
-      "TEDPAYSAYISI": 175588641.0,
-      "KISISAYISI": 384.0,
-      "PORTFOYBUYUKLUK": 146547453.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1195,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.823195,
-      "TEDPAYSAYISI": 175590736.0,
-      "KISISAYISI": 386.0,
-      "PORTFOYBUYUKLUK": 144545380.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1205,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.830018,
-      "TEDPAYSAYISI": 175689188.0,
-      "KISISAYISI": 386.0,
-      "PORTFOYBUYUKLUK": 145825171.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1215,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.860948,
-      "TEDPAYSAYISI": 178339423.0,
-      "KISISAYISI": 384.0,
-      "PORTFOYBUYUKLUK": 153540888.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1225,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866374,
-      "TEDPAYSAYISI": 182954136.0,
-      "KISISAYISI": 383.0,
-      "PORTFOYBUYUKLUK": 158506617.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1235,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865824,
-      "TEDPAYSAYISI": 182953555.0,
-      "KISISAYISI": 383.0,
-      "PORTFOYBUYUKLUK": 158405506.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1245,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.90583,
-      "TEDPAYSAYISI": 177431736.0,
-      "KISISAYISI": 382.0,
-      "PORTFOYBUYUKLUK": 160723015.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1255,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.904065,
-      "TEDPAYSAYISI": 178061259.0,
-      "KISISAYISI": 390.0,
-      "PORTFOYBUYUKLUK": 160979040.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1265,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.887845,
-      "TEDPAYSAYISI": 189520953.0,
-      "KISISAYISI": 401.0,
-      "PORTFOYBUYUKLUK": 168265235.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1275,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875226,
-      "TEDPAYSAYISI": 188999759.0,
-      "KISISAYISI": 402.0,
-      "PORTFOYBUYUKLUK": 165417480.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1285,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.885946,
-      "TEDPAYSAYISI": 214141483.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 189717856.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1295,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.875058,
-      "TEDPAYSAYISI": 214322614.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 187544651.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1305,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.868948,
-      "TEDPAYSAYISI": 215709185.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 187440067.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1315,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.853909,
-      "TEDPAYSAYISI": 215856499.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 184321778.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1325,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.86657,
-      "TEDPAYSAYISI": 215415321.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 186672367.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1335,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.866739,
-      "TEDPAYSAYISI": 217268138.0,
-      "KISISAYISI": 406.0,
-      "PORTFOYBUYUKLUK": 188314816.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1345,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.899982,
-      "TEDPAYSAYISI": 217522725.0,
-      "KISISAYISI": 405.0,
-      "PORTFOYBUYUKLUK": 195766620.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1355,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.903491,
-      "TEDPAYSAYISI": 222453007.0,
-      "KISISAYISI": 414.0,
-      "PORTFOYBUYUKLUK": 200984309.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1365,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.900747,
-      "TEDPAYSAYISI": 187889261.0,
-      "KISISAYISI": 413.0,
-      "PORTFOYBUYUKLUK": 169240771.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1375,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.91299,
-      "TEDPAYSAYISI": 185043160.0,
-      "KISISAYISI": 416.0,
-      "PORTFOYBUYUKLUK": 168942636.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1385,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99666,
-      "TEDPAYSAYISI": 134491607.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 134042367.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1395,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006817,
-      "TEDPAYSAYISI": 139399643.0,
-      "KISISAYISI": 376.0,
-      "PORTFOYBUYUKLUK": 140349889.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1405,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018822,
-      "TEDPAYSAYISI": 193186314.0,
-      "KISISAYISI": 435.0,
-      "PORTFOYBUYUKLUK": 196822435.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1415,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011002,
-      "TEDPAYSAYISI": 204132389.0,
-      "KISISAYISI": 465.0,
-      "PORTFOYBUYUKLUK": 206378270.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1425,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017446,
-      "TEDPAYSAYISI": 205290115.0,
-      "KISISAYISI": 462.0,
-      "PORTFOYBUYUKLUK": 208871661.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1435,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998511,
-      "TEDPAYSAYISI": 165439479.0,
-      "KISISAYISI": 464.0,
-      "PORTFOYBUYUKLUK": 165193101.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1445,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999577,
-      "TEDPAYSAYISI": 158715432.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 158648354.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1455,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03066,
-      "TEDPAYSAYISI": 159034654.0,
-      "KISISAYISI": 428.0,
-      "PORTFOYBUYUKLUK": 163910715.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1465,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051111,
-      "TEDPAYSAYISI": 182047545.0,
-      "KISISAYISI": 453.0,
-      "PORTFOYBUYUKLUK": 191352144.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1475,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050221,
-      "TEDPAYSAYISI": 184108163.0,
-      "KISISAYISI": 465.0,
-      "PORTFOYBUYUKLUK": 193354185.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1485,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016116,
-      "TEDPAYSAYISI": 179968286.0,
-      "KISISAYISI": 478.0,
-      "PORTFOYBUYUKLUK": 182868578.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1495,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995233,
-      "TEDPAYSAYISI": 209682783.0,
-      "KISISAYISI": 505.0,
-      "PORTFOYBUYUKLUK": 208683240.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1505,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038674,
-      "TEDPAYSAYISI": 210038596.0,
-      "KISISAYISI": 511.0,
-      "PORTFOYBUYUKLUK": 218161719.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1515,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031298,
-      "TEDPAYSAYISI": 212576581.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 219229879.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1525,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056555,
-      "TEDPAYSAYISI": 172226149.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 181966312.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1535,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048465,
-      "TEDPAYSAYISI": 174805694.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 183277657.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1545,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04303,
-      "TEDPAYSAYISI": 175538970.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 183092424.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1555,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052819,
-      "TEDPAYSAYISI": 180540724.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 190076762.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1565,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051581,
-      "TEDPAYSAYISI": 180966872.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 190301290.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1575,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031235,
-      "TEDPAYSAYISI": 181797036.0,
-      "KISISAYISI": 523.0,
-      "PORTFOYBUYUKLUK": 187475458.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1585,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036259,
-      "TEDPAYSAYISI": 184361135.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 191045970.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1595,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059177,
-      "TEDPAYSAYISI": 184319081.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 195226601.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1605,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071228,
-      "TEDPAYSAYISI": 184625403.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 197775841.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1615,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07606,
-      "TEDPAYSAYISI": 186719284.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 200921156.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1625,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093041,
-      "TEDPAYSAYISI": 187362228.0,
-      "KISISAYISI": 522.0,
-      "PORTFOYBUYUKLUK": 204794517.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1635,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088681,
-      "TEDPAYSAYISI": 176910534.0,
-      "KISISAYISI": 534.0,
-      "PORTFOYBUYUKLUK": 192599174.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1645,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079636,
-      "TEDPAYSAYISI": 158804295.0,
-      "KISISAYISI": 548.0,
-      "PORTFOYBUYUKLUK": 171450882.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1655,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08737,
-      "TEDPAYSAYISI": 159271792.0,
-      "KISISAYISI": 550.0,
-      "PORTFOYBUYUKLUK": 173187326.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1665,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073785,
-      "TEDPAYSAYISI": 163734407.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 175815507.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1675,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07709,
-      "TEDPAYSAYISI": 162520864.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 175049531.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1685,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068856,
-      "TEDPAYSAYISI": 161884401.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 173031193.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1695,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072253,
-      "TEDPAYSAYISI": 155599876.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 166842406.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1705,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052198,
-      "TEDPAYSAYISI": 154486819.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 162550751.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1715,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049773,
-      "TEDPAYSAYISI": 154096255.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 161766081.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1725,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047063,
-      "TEDPAYSAYISI": 186410134.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 195183197.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1735,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046373,
-      "TEDPAYSAYISI": 186831308.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 195495322.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1745,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064664,
-      "TEDPAYSAYISI": 186198584.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 198238894.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1755,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084538,
-      "TEDPAYSAYISI": 186183305.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 201922947.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1765,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092421,
-      "TEDPAYSAYISI": 185269996.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 202392761.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1775,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088404,
-      "TEDPAYSAYISI": 182106946.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 198205841.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1785,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095421,
-      "TEDPAYSAYISI": 176514836.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 193358081.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1795,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071742,
-      "TEDPAYSAYISI": 173727565.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 186191171.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1805,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072602,
-      "TEDPAYSAYISI": 173814073.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 186433274.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1815,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06047,
-      "TEDPAYSAYISI": 173317638.0,
-      "KISISAYISI": 583.0,
-      "PORTFOYBUYUKLUK": 183798107.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1825,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064147,
-      "TEDPAYSAYISI": 221469626.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 235676136.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1835,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00509,
-      "TEDPAYSAYISI": 220415354.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 221537214.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1845,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948403,
-      "TEDPAYSAYISI": 219852211.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 208508423.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1855,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963235,
-      "TEDPAYSAYISI": 245290357.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 236272195.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1865,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.964163,
-      "TEDPAYSAYISI": 272722254.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 262948767.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1875,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950374,
-      "TEDPAYSAYISI": 269222794.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 255862384.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1885,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957001,
-      "TEDPAYSAYISI": 267606473.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 256099663.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1895,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.973365,
-      "TEDPAYSAYISI": 268772963.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 261614136.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1905,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949661,
-      "TEDPAYSAYISI": 268596862.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 255075915.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1915,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952545,
-      "TEDPAYSAYISI": 249937874.496,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 238077014.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1925,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006249,
-      "TEDPAYSAYISI": 297584891.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 299444394.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1935,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018975,
-      "TEDPAYSAYISI": 312736729.0,
-      "KISISAYISI": 587.0,
-      "PORTFOYBUYUKLUK": 318670860.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1945,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014227,
-      "TEDPAYSAYISI": 394554092.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 400167424.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1955,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990858,
-      "TEDPAYSAYISI": 393585066.0,
-      "KISISAYISI": 618.0,
-      "PORTFOYBUYUKLUK": 389987054.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1965,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017142,
-      "TEDPAYSAYISI": 394006721.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 400760848.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1975,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035163,
-      "TEDPAYSAYISI": 395109224.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 409002579.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1985,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011273,
-      "TEDPAYSAYISI": 335855944.0,
-      "KISISAYISI": 603.0,
-      "PORTFOYBUYUKLUK": 339642092.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1995,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000146,
-      "TEDPAYSAYISI": 343848528.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 343898672.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2005,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996643,
-      "TEDPAYSAYISI": 404921691.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 403562378.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2015,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978686,
-      "TEDPAYSAYISI": 404067944.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 395455795.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2025,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.970378,
-      "TEDPAYSAYISI": 450192619.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 436857233.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2035,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972879,
-      "TEDPAYSAYISI": 452903622.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 440620444.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2045,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999277,
-      "TEDPAYSAYISI": 452632537.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 452305448.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2055,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975769,
-      "TEDPAYSAYISI": 452072592.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 441118292.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2065,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95589,
-      "TEDPAYSAYISI": 440971136.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 421520038.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2075,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946324,
-      "TEDPAYSAYISI": 484126222.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 458140242.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2085,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958785,
-      "TEDPAYSAYISI": 493622611.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 473277776.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2095,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952542,
-      "TEDPAYSAYISI": 493612418.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 470186406.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2105,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950401,
-      "TEDPAYSAYISI": 493056021.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 468600708.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2115,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955945,
-      "TEDPAYSAYISI": 489456287.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 467893206.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2125,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945526,
-      "TEDPAYSAYISI": 514674155.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 486638037.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2135,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928301,
-      "TEDPAYSAYISI": 524605771.0,
-      "KISISAYISI": 603.0,
-      "PORTFOYBUYUKLUK": 486992101.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2145,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.941242,
-      "TEDPAYSAYISI": 510416900.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 480425910.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2155,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930955,
-      "TEDPAYSAYISI": 512335740.0,
-      "KISISAYISI": 590.0,
-      "PORTFOYBUYUKLUK": 476961708.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2165,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9166,
-      "TEDPAYSAYISI": 511848492.0,
-      "KISISAYISI": 587.0,
-      "PORTFOYBUYUKLUK": 469160487.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2175,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943155,
-      "TEDPAYSAYISI": 505362245.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 476634951.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2185,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953518,
-      "TEDPAYSAYISI": 505123151.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 481644228.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2195,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.96485,
-      "TEDPAYSAYISI": 505099485.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 487345295.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2205,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972701,
-      "TEDPAYSAYISI": 490780252.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 477382625.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2215,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015024,
-      "TEDPAYSAYISI": 432035277.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 438526167.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2225,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997659,
-      "TEDPAYSAYISI": 432298173.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 431285963.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2235,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997613,
-      "TEDPAYSAYISI": 431856195.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 430825297.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2245,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007147,
-      "TEDPAYSAYISI": 430862802.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 433942097.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2255,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028332,
-      "TEDPAYSAYISI": 430762611.0,
-      "KISISAYISI": 552.0,
-      "PORTFOYBUYUKLUK": 442966947.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2265,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040094,
-      "TEDPAYSAYISI": 420142766.0,
-      "KISISAYISI": 553.0,
-      "PORTFOYBUYUKLUK": 436988142.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2275,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030695,
-      "TEDPAYSAYISI": 381025094.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 392720668.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2285,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040339,
-      "TEDPAYSAYISI": 380874409.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 396238320.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2295,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05162,
-      "TEDPAYSAYISI": 346260216.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 364134157.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2305,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036882,
-      "TEDPAYSAYISI": 346114803.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 358880320.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2315,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023086,
-      "TEDPAYSAYISI": 346481501.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 354480212.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2325,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998142,
-      "TEDPAYSAYISI": 345562955.0,
-      "KISISAYISI": 586.0,
-      "PORTFOYBUYUKLUK": 344920807.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2335,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997068,
-      "TEDPAYSAYISI": 258520011.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 257762116.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2345,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997219,
-      "TEDPAYSAYISI": 308102037.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 307245058.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2355,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997156,
-      "TEDPAYSAYISI": 308261912.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 307385228.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2365,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003168,
-      "TEDPAYSAYISI": 330878679.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 331926848.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2375,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002265,
-      "TEDPAYSAYISI": 321161743.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 321889182.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2385,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017246,
-      "TEDPAYSAYISI": 339147794.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 344996631.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2395,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023653,
-      "TEDPAYSAYISI": 349862886.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 358138067.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2405,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014077,
-      "TEDPAYSAYISI": 294958588.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 299110727.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2415,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026115,
-      "TEDPAYSAYISI": 295374102.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 303087933.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2425,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032412,
-      "TEDPAYSAYISI": 296156778.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 305755699.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2435,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038803,
-      "TEDPAYSAYISI": 253091195.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 262911834.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2445,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047805,
-      "TEDPAYSAYISI": 248185611.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 260050020.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2455,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055921,
-      "TEDPAYSAYISI": 251011417.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 265048207.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2465,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089313,
-      "TEDPAYSAYISI": 251788097.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 274276044.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2475,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083972,
-      "TEDPAYSAYISI": 292435474.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 316991968.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2485,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091873,
-      "TEDPAYSAYISI": 295009515.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 322112904.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2495,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069433,
-      "TEDPAYSAYISI": 305120000.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 326305529.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2505,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088008,
-      "TEDPAYSAYISI": 309337630.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 336561821.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2515,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09983,
-      "TEDPAYSAYISI": 309369331.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 340253732.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2525,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104813,
-      "TEDPAYSAYISI": 257019843.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 283958783.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2535,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093293,
-      "TEDPAYSAYISI": 261949928.0,
-      "KISISAYISI": 584.0,
-      "PORTFOYBUYUKLUK": 286387900.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2545,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083231,
-      "TEDPAYSAYISI": 253731876.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 274850266.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2555,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092402,
-      "TEDPAYSAYISI": 253910945.0,
-      "KISISAYISI": 587.0,
-      "PORTFOYBUYUKLUK": 277372914.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2565,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105037,
-      "TEDPAYSAYISI": 254184084.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 280882702.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2575,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10206,
-      "TEDPAYSAYISI": 257759777.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 284066612.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2585,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095846,
-      "TEDPAYSAYISI": 204731711.0,
-      "KISISAYISI": 601.0,
-      "PORTFOYBUYUKLUK": 224354345.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2595,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112028,
-      "TEDPAYSAYISI": 204354343.0,
-      "KISISAYISI": 600.0,
-      "PORTFOYBUYUKLUK": 227247697.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2605,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.116885,
-      "TEDPAYSAYISI": 204120171.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 227978750.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2615,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123868,
-      "TEDPAYSAYISI": 232442381.0,
-      "KISISAYISI": 606.0,
-      "PORTFOYBUYUKLUK": 261234438.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2625,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114204,
-      "TEDPAYSAYISI": 231586019.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 258034041.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2635,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099051,
-      "TEDPAYSAYISI": 225837764.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 248207283.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2645,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095708,
-      "TEDPAYSAYISI": 226001058.0,
-      "KISISAYISI": 622.0,
-      "PORTFOYBUYUKLUK": 247631213.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2655,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090061,
-      "TEDPAYSAYISI": 252252877.0,
-      "KISISAYISI": 621.0,
-      "PORTFOYBUYUKLUK": 274971126.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2665,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087813,
-      "TEDPAYSAYISI": 251943606.0,
-      "KISISAYISI": 620.0,
-      "PORTFOYBUYUKLUK": 274067412.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2675,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080854,
-      "TEDPAYSAYISI": 251684115.0,
-      "KISISAYISI": 616.0,
-      "PORTFOYBUYUKLUK": 272033712.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2685,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094711,
-      "TEDPAYSAYISI": 249080031.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 272670559.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2695,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128811,
-      "TEDPAYSAYISI": 248878963.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 280937229.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2705,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132711,
-      "TEDPAYSAYISI": 247368025.0,
-      "KISISAYISI": 598.0,
-      "PORTFOYBUYUKLUK": 280196543.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2715,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147544,
-      "TEDPAYSAYISI": 260364199.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 298779396.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2725,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127957,
-      "TEDPAYSAYISI": 254889800.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 287504624.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2735,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133102,
-      "TEDPAYSAYISI": 256189681.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 290288953.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2745,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132339,
-      "TEDPAYSAYISI": 254919672.0,
-      "KISISAYISI": 614.0,
-      "PORTFOYBUYUKLUK": 288655577.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2755,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1315,
-      "TEDPAYSAYISI": 255314938.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 288888761.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2765,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136844,
-      "TEDPAYSAYISI": 254659820.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 289508511.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2775,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137099,
-      "TEDPAYSAYISI": 253532356.0,
-      "KISISAYISI": 613.0,
-      "PORTFOYBUYUKLUK": 288291378.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2785,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130279,
-      "TEDPAYSAYISI": 243133493.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 274808688.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2795,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137632,
-      "TEDPAYSAYISI": 268697197.0,
-      "KISISAYISI": 619.0,
-      "PORTFOYBUYUKLUK": 305678507.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2805,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152405,
-      "TEDPAYSAYISI": 269343114.0,
-      "KISISAYISI": 617.0,
-      "PORTFOYBUYUKLUK": 310392290.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2815,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146481,
-      "TEDPAYSAYISI": 271592838.0,
-      "KISISAYISI": 615.0,
-      "PORTFOYBUYUKLUK": 311375980.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2825,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.164734,
-      "TEDPAYSAYISI": 270871834.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 315493658.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2835,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152257,
-      "TEDPAYSAYISI": 270359576.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 311523820.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2845,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177332,
-      "TEDPAYSAYISI": 242413536.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 285401172.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2855,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.184561,
-      "TEDPAYSAYISI": 242364424.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 287095440.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2865,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180626,
-      "TEDPAYSAYISI": 243265471.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 287205641.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2875,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219953,
-      "TEDPAYSAYISI": 233633993.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 285022494.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2885,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266895,
-      "TEDPAYSAYISI": 233113374.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 295330158.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2895,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291358,
-      "TEDPAYSAYISI": 227226579.0,
-      "KISISAYISI": 596.0,
-      "PORTFOYBUYUKLUK": 293430756.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2905,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272262,
-      "TEDPAYSAYISI": 185929570.0,
-      "KISISAYISI": 588.0,
-      "PORTFOYBUYUKLUK": 236551212.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +2915,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.285545,
-      "TEDPAYSAYISI": 179586096.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 230866021.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +2925,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.2761,
-      "TEDPAYSAYISI": 183492956.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 234155413.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +2935,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256515,
-      "TEDPAYSAYISI": 201255329.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 252880325.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +2945,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251074,
-      "TEDPAYSAYISI": 214062298.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 267807673.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +2955,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.275211,
-      "TEDPAYSAYISI": 213596346.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 272380320.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +2965,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261323,
-      "TEDPAYSAYISI": 213708806.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 269555843.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +2975,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269093,
-      "TEDPAYSAYISI": 218812115.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 277693023.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +2985,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.33064,
-      "TEDPAYSAYISI": 230481877.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 306688342.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +2995,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.320602,
-      "TEDPAYSAYISI": 228002057.0,
-      "KISISAYISI": 595.0,
-      "PORTFOYBUYUKLUK": 301099987.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +3005,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.326402,
-      "TEDPAYSAYISI": 229972505.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 305036011.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +3015,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31144,
-      "TEDPAYSAYISI": 229698665.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 301235986.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +3025,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31916,
-      "TEDPAYSAYISI": 229019745.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 302113727.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3035,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261694,
-      "TEDPAYSAYISI": 227382095.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 286886629.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3045,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271122,
-      "TEDPAYSAYISI": 222833719.0,
-      "KISISAYISI": 605.0,
-      "PORTFOYBUYUKLUK": 283248786.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3055,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287305,
-      "TEDPAYSAYISI": 228705108.0,
-      "KISISAYISI": 600.0,
-      "PORTFOYBUYUKLUK": 294413149.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3065,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283452,
-      "TEDPAYSAYISI": 225790758.0,
-      "KISISAYISI": 602.0,
-      "PORTFOYBUYUKLUK": 289791634.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3075,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272844,
-      "TEDPAYSAYISI": 225266987.0,
-      "KISISAYISI": 607.0,
-      "PORTFOYBUYUKLUK": 286729767.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3085,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289606,
-      "TEDPAYSAYISI": 163049814.0,
-      "KISISAYISI": 608.0,
-      "PORTFOYBUYUKLUK": 210269978.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3095,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25345,
-      "TEDPAYSAYISI": 163012299.0,
-      "KISISAYISI": 606.0,
-      "PORTFOYBUYUKLUK": 204327718.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3105,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175482,
-      "TEDPAYSAYISI": 164642619.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 193534450.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3115,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142282,
-      "TEDPAYSAYISI": 197316002.0,
-      "KISISAYISI": 610.0,
-      "PORTFOYBUYUKLUK": 225390423.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3125,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143946,
-      "TEDPAYSAYISI": 196139296.0,
-      "KISISAYISI": 604.0,
-      "PORTFOYBUYUKLUK": 224372738.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3135,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14681,
-      "TEDPAYSAYISI": 234225861.0,
-      "KISISAYISI": 599.0,
-      "PORTFOYBUYUKLUK": 268612547.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3145,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130325,
-      "TEDPAYSAYISI": 234029111.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 264528873.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3155,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13935,
-      "TEDPAYSAYISI": 234385691.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 267047297.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3165,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173233,
-      "TEDPAYSAYISI": 268911194.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 315495381.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3175,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170499,
-      "TEDPAYSAYISI": 220671692.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 258295936.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3185,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179853,
-      "TEDPAYSAYISI": 219663036.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 259170138.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3195,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179763,
-      "TEDPAYSAYISI": 217535147.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 256639898.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3205,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16146,
-      "TEDPAYSAYISI": 171368978.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 199038215.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3215,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192991,
-      "TEDPAYSAYISI": 170731891.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 203681682.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3225,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175041,
-      "TEDPAYSAYISI": 192580046.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 226289483.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3235,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17509,
-      "TEDPAYSAYISI": 192156104.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 225800808.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3245,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150107,
-      "TEDPAYSAYISI": 192173111.0,
-      "KISISAYISI": 565.0,
-      "PORTFOYBUYUKLUK": 221019688.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3255,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121987,
-      "TEDPAYSAYISI": 191415329.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 214765601.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3265,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131758,
-      "TEDPAYSAYISI": 190259515.0,
-      "KISISAYISI": 558.0,
-      "PORTFOYBUYUKLUK": 215327759.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3275,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110374,
-      "TEDPAYSAYISI": 187645773.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 208357030.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3285,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10549,
-      "TEDPAYSAYISI": 187675174.0,
-      "KISISAYISI": 554.0,
-      "PORTFOYBUYUKLUK": 207473094.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3295,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097492,
-      "TEDPAYSAYISI": 187690496.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 205988834.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3305,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107392,
-      "TEDPAYSAYISI": 108749648.0,
-      "KISISAYISI": 555.0,
-      "PORTFOYBUYUKLUK": 120428521.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3315,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120019,
-      "TEDPAYSAYISI": 107844382.0,
-      "KISISAYISI": 543.0,
-      "PORTFOYBUYUKLUK": 120787750.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3325,9 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119454,
-      "TEDPAYSAYISI": 100792640.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 112832756.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3335,139 @@
       "FONKODU": "BFT",
       "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111525,
-      "TEDPAYSAYISI": 99356459.0,
-      "KISISAYISI": 539.0,
-      "PORTFOYBUYUKLUK": 110437166.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.131166,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.106429,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.182227,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.185918,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.219623,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.205499,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.21105,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.211101,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.199576,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.258454,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.23891,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.221486,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "BFT",
+      "FONUNVAN": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.207178,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

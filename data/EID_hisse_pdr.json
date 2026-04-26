@@ -1,30 +1,129 @@
 {
   "kod": "EID",
-  "guncelleme": "2026-04-08T18:20:56Z",
+  "guncelleme": "2026-04-26T16:44:46Z",
   "kaynak_tefas": true,
   "unvan": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/eid-qinvest-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 88.93
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 2.83
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 5.29
-    },
-    {
-      "tip": "Diğer",
-      "oran": 2.95
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 6.77
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 6.54
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 6.39
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 5.88
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 5.21
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 4.88
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 4.72
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 4.13
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.77
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.59
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.37
+    },
+    {
+      "ticker": "GOODY",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 2.62
+    },
+    {
+      "ticker": "ATAKP",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 2.11
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 17:06:25",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d631bd25342f8"
 }

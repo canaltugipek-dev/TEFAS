@@ -2,22 +2,172 @@
   "fon_kodu": "HFR",
   "fon_unvan": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 120,
-  "gun_kapsami": 172,
+  "kayit_sayisi": 148,
+  "gun_kapsami": 211,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1758758400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1758844800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759104000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759190400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759276800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759363200000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759449600000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759708800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759795200000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759881600000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1759968000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760054400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760313600000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760400000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1760486400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1760572800000",
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006228,
-      "TEDPAYSAYISI": 20000000.0,
-      "KISISAYISI": 2.0,
-      "PORTFOYBUYUKLUK": 20124565.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +175,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001727,
-      "TEDPAYSAYISI": 20116111.0,
-      "KISISAYISI": 7.0,
-      "PORTFOYBUYUKLUK": 20150855.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +185,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989631,
-      "TEDPAYSAYISI": 20175128.0,
-      "KISISAYISI": 19.0,
-      "PORTFOYBUYUKLUK": 19965940.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +195,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010269,
-      "TEDPAYSAYISI": 20176340.0,
-      "KISISAYISI": 22.0,
-      "PORTFOYBUYUKLUK": 20383534.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +205,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006984,
-      "TEDPAYSAYISI": 20285345.0,
-      "KISISAYISI": 23.0,
-      "PORTFOYBUYUKLUK": 20427025.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +215,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012455,
-      "TEDPAYSAYISI": 20368877.0,
-      "KISISAYISI": 28.0,
-      "PORTFOYBUYUKLUK": 20622577.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +225,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018785,
-      "TEDPAYSAYISI": 20358094.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 20740524.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +235,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044654,
-      "TEDPAYSAYISI": 20375531.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 21285380.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +245,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036866,
-      "TEDPAYSAYISI": 20899096.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 21669558.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +255,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039054,
-      "TEDPAYSAYISI": 20898996.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 21715178.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +265,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033578,
-      "TEDPAYSAYISI": 21368941.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 22086464.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +275,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047097,
-      "TEDPAYSAYISI": 25407396.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 26604006.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +285,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064484,
-      "TEDPAYSAYISI": 27166055.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 28917836.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +295,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064067,
-      "TEDPAYSAYISI": 35800222.0,
-      "KISISAYISI": 74.0,
-      "PORTFOYBUYUKLUK": 38093850.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +305,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076314,
-      "TEDPAYSAYISI": 36743951.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 39548024.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +315,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097788,
-      "TEDPAYSAYISI": 37262558.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 40906377.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +325,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093752,
-      "TEDPAYSAYISI": 37738087.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 41276122.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +335,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093198,
-      "TEDPAYSAYISI": 39986804.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 43713474.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +345,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084013,
-      "TEDPAYSAYISI": 43146982.0,
-      "KISISAYISI": 186.0,
-      "PORTFOYBUYUKLUK": 46771902.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +355,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091848,
-      "TEDPAYSAYISI": 35940236.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 39241292.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +365,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095411,
-      "TEDPAYSAYISI": 36390133.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 39862167.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +375,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086895,
-      "TEDPAYSAYISI": 37049160.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 40268549.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +385,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09844,
-      "TEDPAYSAYISI": 36542749.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 40140008.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +395,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100529,
-      "TEDPAYSAYISI": 35137606.0,
-      "KISISAYISI": 227.0,
-      "PORTFOYBUYUKLUK": 38669956.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +405,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11787,
-      "TEDPAYSAYISI": 36004987.0,
-      "KISISAYISI": 235.0,
-      "PORTFOYBUYUKLUK": 40248888.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +415,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137067,
-      "TEDPAYSAYISI": 41433093.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 47112204.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +425,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143971,
-      "TEDPAYSAYISI": 48270688.0,
-      "KISISAYISI": 306.0,
-      "PORTFOYBUYUKLUK": 55220273.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +435,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153884,
-      "TEDPAYSAYISI": 50496040.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 58266569.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +445,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147724,
-      "TEDPAYSAYISI": 59193910.0,
-      "KISISAYISI": 416.0,
-      "PORTFOYBUYUKLUK": 67938274.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +455,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150054,
-      "TEDPAYSAYISI": 71004036.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 81658503.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +465,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153121,
-      "TEDPAYSAYISI": 83770457.0,
-      "KISISAYISI": 539.0,
-      "PORTFOYBUYUKLUK": 96597463.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +475,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148281,
-      "TEDPAYSAYISI": 89003451.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 102200934.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +485,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175232,
-      "TEDPAYSAYISI": 82707720.0,
-      "KISISAYISI": 612.0,
-      "PORTFOYBUYUKLUK": 97200768.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +495,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186202,
-      "TEDPAYSAYISI": 92496843.0,
-      "KISISAYISI": 661.0,
-      "PORTFOYBUYUKLUK": 109719955.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +505,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179819,
-      "TEDPAYSAYISI": 102095027.0,
-      "KISISAYISI": 688.0,
-      "PORTFOYBUYUKLUK": 120453672.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +515,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166303,
-      "TEDPAYSAYISI": 127520161.0,
-      "KISISAYISI": 773.0,
-      "PORTFOYBUYUKLUK": 148727206.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +525,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175583,
-      "TEDPAYSAYISI": 137531502.0,
-      "KISISAYISI": 814.0,
-      "PORTFOYBUYUKLUK": 161679757.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +535,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190592,
-      "TEDPAYSAYISI": 132291360.0,
-      "KISISAYISI": 833.0,
-      "PORTFOYBUYUKLUK": 157505018.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +545,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196806,
-      "TEDPAYSAYISI": 166651560.0,
-      "KISISAYISI": 858.0,
-      "PORTFOYBUYUKLUK": 199449549.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +555,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192445,
-      "TEDPAYSAYISI": 157610019.0,
-      "KISISAYISI": 876.0,
-      "PORTFOYBUYUKLUK": 187941350.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +565,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194499,
-      "TEDPAYSAYISI": 161697382.0,
-      "KISISAYISI": 916.0,
-      "PORTFOYBUYUKLUK": 193147351.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +575,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204782,
-      "TEDPAYSAYISI": 165197643.0,
-      "KISISAYISI": 932.0,
-      "PORTFOYBUYUKLUK": 199027209.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +585,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.222657,
-      "TEDPAYSAYISI": 171346331.0,
-      "KISISAYISI": 945.0,
-      "PORTFOYBUYUKLUK": 209497715.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +595,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210974,
-      "TEDPAYSAYISI": 172336755.0,
-      "KISISAYISI": 974.0,
-      "PORTFOYBUYUKLUK": 208695247.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +605,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200953,
-      "TEDPAYSAYISI": 182125576.0,
-      "KISISAYISI": 1014.0,
-      "PORTFOYBUYUKLUK": 218724219.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +615,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206424,
-      "TEDPAYSAYISI": 180840035.0,
-      "KISISAYISI": 1048.0,
-      "PORTFOYBUYUKLUK": 218169814.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +625,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206793,
-      "TEDPAYSAYISI": 185077206.0,
-      "KISISAYISI": 1046.0,
-      "PORTFOYBUYUKLUK": 223349916.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +635,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199996,
-      "TEDPAYSAYISI": 186912159.0,
-      "KISISAYISI": 1056.0,
-      "PORTFOYBUYUKLUK": 224293903.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +645,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200897,
-      "TEDPAYSAYISI": 151382953.0,
-      "KISISAYISI": 1069.0,
-      "PORTFOYBUYUKLUK": 181795294.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +655,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208148,
-      "TEDPAYSAYISI": 137037957.0,
-      "KISISAYISI": 1049.0,
-      "PORTFOYBUYUKLUK": 165562174.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +665,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201641,
-      "TEDPAYSAYISI": 138663802.0,
-      "KISISAYISI": 1006.0,
-      "PORTFOYBUYUKLUK": 166624041.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +675,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198365,
-      "TEDPAYSAYISI": 139598587.0,
-      "KISISAYISI": 972.0,
-      "PORTFOYBUYUKLUK": 167290121.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +685,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182822,
-      "TEDPAYSAYISI": 130543694.0,
-      "KISISAYISI": 961.0,
-      "PORTFOYBUYUKLUK": 154409986.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +695,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194651,
-      "TEDPAYSAYISI": 122239205.0,
-      "KISISAYISI": 940.0,
-      "PORTFOYBUYUKLUK": 146033211.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +705,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200787,
-      "TEDPAYSAYISI": 119853498.0,
-      "KISISAYISI": 901.0,
-      "PORTFOYBUYUKLUK": 143918568.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +715,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221181,
-      "TEDPAYSAYISI": 119720958.0,
-      "KISISAYISI": 869.0,
-      "PORTFOYBUYUKLUK": 146200915.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +725,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233715,
-      "TEDPAYSAYISI": 123500275.0,
-      "KISISAYISI": 874.0,
-      "PORTFOYBUYUKLUK": 152364090.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +735,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262363,
-      "TEDPAYSAYISI": 125377273.0,
-      "KISISAYISI": 872.0,
-      "PORTFOYBUYUKLUK": 158271593.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +745,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258961,
-      "TEDPAYSAYISI": 109726002.0,
-      "KISISAYISI": 861.0,
-      "PORTFOYBUYUKLUK": 138140780.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +755,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264714,
-      "TEDPAYSAYISI": 107377663.0,
-      "KISISAYISI": 867.0,
-      "PORTFOYBUYUKLUK": 135802078.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +765,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277681,
-      "TEDPAYSAYISI": 107293189.0,
-      "KISISAYISI": 871.0,
-      "PORTFOYBUYUKLUK": 137086447.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +775,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291113,
-      "TEDPAYSAYISI": 107647400.0,
-      "KISISAYISI": 877.0,
-      "PORTFOYBUYUKLUK": 138984926.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +785,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311667,
-      "TEDPAYSAYISI": 110222103.0,
-      "KISISAYISI": 887.0,
-      "PORTFOYBUYUKLUK": 144574648.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +795,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311201,
-      "TEDPAYSAYISI": 109315194.0,
-      "KISISAYISI": 895.0,
-      "PORTFOYBUYUKLUK": 143334172.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +805,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.330601,
-      "TEDPAYSAYISI": 115374083.0,
-      "KISISAYISI": 910.0,
-      "PORTFOYBUYUKLUK": 153516856.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +815,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.355793,
-      "TEDPAYSAYISI": 114622765.0,
-      "KISISAYISI": 921.0,
-      "PORTFOYBUYUKLUK": 155404797.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +825,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365863,
-      "TEDPAYSAYISI": 113187581.0,
-      "KISISAYISI": 934.0,
-      "PORTFOYBUYUKLUK": 154598742.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +835,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.362125,
-      "TEDPAYSAYISI": 117296410.0,
-      "KISISAYISI": 992.0,
-      "PORTFOYBUYUKLUK": 159772317.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +845,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.356172,
-      "TEDPAYSAYISI": 125669488.0,
-      "KISISAYISI": 1047.0,
-      "PORTFOYBUYUKLUK": 170429413.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +855,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372257,
-      "TEDPAYSAYISI": 125735286.0,
-      "KISISAYISI": 1089.0,
-      "PORTFOYBUYUKLUK": 172541173.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +865,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.393322,
-      "TEDPAYSAYISI": 128270969.0,
-      "KISISAYISI": 1119.0,
-      "PORTFOYBUYUKLUK": 178722738.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +875,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.413608,
-      "TEDPAYSAYISI": 127220561.0,
-      "KISISAYISI": 1149.0,
-      "PORTFOYBUYUKLUK": 179840031.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +885,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.401756,
-      "TEDPAYSAYISI": 129966508.0,
-      "KISISAYISI": 1192.0,
-      "PORTFOYBUYUKLUK": 182181314.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +895,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.423997,
-      "TEDPAYSAYISI": 134285900.0,
-      "KISISAYISI": 1238.0,
-      "PORTFOYBUYUKLUK": 191222769.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +905,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.46389,
-      "TEDPAYSAYISI": 135520608.0,
-      "KISISAYISI": 1255.0,
-      "PORTFOYBUYUKLUK": 198387265.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +915,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.461254,
-      "TEDPAYSAYISI": 140306978.0,
-      "KISISAYISI": 1282.0,
-      "PORTFOYBUYUKLUK": 205024149.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +925,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.434372,
-      "TEDPAYSAYISI": 143017725.0,
-      "KISISAYISI": 1321.0,
-      "PORTFOYBUYUKLUK": 205140620.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +935,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456084,
-      "TEDPAYSAYISI": 141502887.0,
-      "KISISAYISI": 1357.0,
-      "PORTFOYBUYUKLUK": 206040071.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +945,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.449062,
-      "TEDPAYSAYISI": 144885474.0,
-      "KISISAYISI": 1356.0,
-      "PORTFOYBUYUKLUK": 209947990.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +955,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.415156,
-      "TEDPAYSAYISI": 143883402.0,
-      "KISISAYISI": 1369.0,
-      "PORTFOYBUYUKLUK": 203617509.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +965,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.408442,
-      "TEDPAYSAYISI": 143746803.0,
-      "KISISAYISI": 1374.0,
-      "PORTFOYBUYUKLUK": 202459065.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +975,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.442061,
-      "TEDPAYSAYISI": 139744669.0,
-      "KISISAYISI": 1371.0,
-      "PORTFOYBUYUKLUK": 201520385.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +985,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.430985,
-      "TEDPAYSAYISI": 139110609.0,
-      "KISISAYISI": 1362.0,
-      "PORTFOYBUYUKLUK": 199065214.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +995,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.43824,
-      "TEDPAYSAYISI": 139065149.0,
-      "KISISAYISI": 1344.0,
-      "PORTFOYBUYUKLUK": 200009084.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1005,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.489772,
-      "TEDPAYSAYISI": 135656663.0,
-      "KISISAYISI": 1340.0,
-      "PORTFOYBUYUKLUK": 202097524.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1015,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.49289,
-      "TEDPAYSAYISI": 135891104.0,
-      "KISISAYISI": 1325.0,
-      "PORTFOYBUYUKLUK": 202870427.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1025,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.502523,
-      "TEDPAYSAYISI": 137229971.0,
-      "KISISAYISI": 1323.0,
-      "PORTFOYBUYUKLUK": 206191210.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1035,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.483081,
-      "TEDPAYSAYISI": 141257065.0,
-      "KISISAYISI": 1344.0,
-      "PORTFOYBUYUKLUK": 209495611.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1045,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.484162,
-      "TEDPAYSAYISI": 142337691.0,
-      "KISISAYISI": 1352.0,
-      "PORTFOYBUYUKLUK": 211252127.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1055,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.442801,
-      "TEDPAYSAYISI": 141358897.0,
-      "KISISAYISI": 1362.0,
-      "PORTFOYBUYUKLUK": 203952734.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1065,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456287,
-      "TEDPAYSAYISI": 127516378.0,
-      "KISISAYISI": 1353.0,
-      "PORTFOYBUYUKLUK": 185700432.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1075,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.470563,
-      "TEDPAYSAYISI": 126816896.0,
-      "KISISAYISI": 1316.0,
-      "PORTFOYBUYUKLUK": 186492274.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1085,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.463681,
-      "TEDPAYSAYISI": 123703989.0,
-      "KISISAYISI": 1315.0,
-      "PORTFOYBUYUKLUK": 181063161.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1095,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.444408,
-      "TEDPAYSAYISI": 116664987.0,
-      "KISISAYISI": 1289.0,
-      "PORTFOYBUYUKLUK": 168511818.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1105,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.449728,
-      "TEDPAYSAYISI": 113702739.0,
-      "KISISAYISI": 1262.0,
-      "PORTFOYBUYUKLUK": 164838013.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1115,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.433457,
-      "TEDPAYSAYISI": 110859782.0,
-      "KISISAYISI": 1226.0,
-      "PORTFOYBUYUKLUK": 158912720.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1125,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.398926,
-      "TEDPAYSAYISI": 105936664.0,
-      "KISISAYISI": 1201.0,
-      "PORTFOYBUYUKLUK": 148197544.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1135,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358819,
-      "TEDPAYSAYISI": 93158435.0,
-      "KISISAYISI": 1167.0,
-      "PORTFOYBUYUKLUK": 126585413.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1145,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358781,
-      "TEDPAYSAYISI": 92535966.0,
-      "KISISAYISI": 1111.0,
-      "PORTFOYBUYUKLUK": 125736121.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1155,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.374972,
-      "TEDPAYSAYISI": 90776608.0,
-      "KISISAYISI": 1085.0,
-      "PORTFOYBUYUKLUK": 124815276.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1165,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.340681,
-      "TEDPAYSAYISI": 90416057.0,
-      "KISISAYISI": 1052.0,
-      "PORTFOYBUYUKLUK": 121219069.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1175,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.339155,
-      "TEDPAYSAYISI": 89968854.0,
-      "KISISAYISI": 1035.0,
-      "PORTFOYBUYUKLUK": 120482244.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1185,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.393666,
-      "TEDPAYSAYISI": 85535589.0,
-      "KISISAYISI": 1032.0,
-      "PORTFOYBUYUKLUK": 119208015.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1195,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395604,
-      "TEDPAYSAYISI": 85288209.0,
-      "KISISAYISI": 990.0,
-      "PORTFOYBUYUKLUK": 119028603.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1205,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.405026,
-      "TEDPAYSAYISI": 84725972.0,
-      "KISISAYISI": 971.0,
-      "PORTFOYBUYUKLUK": 119042202.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1215,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.382103,
-      "TEDPAYSAYISI": 84656770.0,
-      "KISISAYISI": 959.0,
-      "PORTFOYBUYUKLUK": 117004347.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1225,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.374035,
-      "TEDPAYSAYISI": 83920982.0,
-      "KISISAYISI": 958.0,
-      "PORTFOYBUYUKLUK": 115310371.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1235,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.40144,
-      "TEDPAYSAYISI": 83145451.0,
-      "KISISAYISI": 950.0,
-      "PORTFOYBUYUKLUK": 116523376.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1245,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.386873,
-      "TEDPAYSAYISI": 82239919.0,
-      "KISISAYISI": 942.0,
-      "PORTFOYBUYUKLUK": 114056322.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1255,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.381097,
-      "TEDPAYSAYISI": 82135592.0,
-      "KISISAYISI": 942.0,
-      "PORTFOYBUYUKLUK": 113437205.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1265,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.3937,
-      "TEDPAYSAYISI": 82101293.0,
-      "KISISAYISI": 929.0,
-      "PORTFOYBUYUKLUK": 114424608.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1275,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365747,
-      "TEDPAYSAYISI": 80988316.0,
-      "KISISAYISI": 927.0,
-      "PORTFOYBUYUKLUK": 110609510.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1285,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.375692,
-      "TEDPAYSAYISI": 71773083.0,
-      "KISISAYISI": 896.0,
-      "PORTFOYBUYUKLUK": 98737629.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1295,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.354734,
-      "TEDPAYSAYISI": 71025272.0,
-      "KISISAYISI": 885.0,
-      "PORTFOYBUYUKLUK": 96220327.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1305,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.351501,
-      "TEDPAYSAYISI": 70144150.0,
-      "KISISAYISI": 876.0,
-      "PORTFOYBUYUKLUK": 94799890.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1315,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.339486,
-      "TEDPAYSAYISI": 68754245.0,
-      "KISISAYISI": 862.0,
-      "PORTFOYBUYUKLUK": 92095359.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1325,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.351504,
-      "TEDPAYSAYISI": 65268878.0,
-      "KISISAYISI": 849.0,
-      "PORTFOYBUYUKLUK": 88211135.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1335,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.367801,
-      "TEDPAYSAYISI": 64425595.0,
-      "KISISAYISI": 823.0,
-      "PORTFOYBUYUKLUK": 88121379.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1345,9 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.380002,
-      "TEDPAYSAYISI": 63767314.0,
-      "KISISAYISI": 801.0,
-      "PORTFOYBUYUKLUK": 87999045.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1355,139 @@
       "FONKODU": "HFR",
       "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.367379,
-      "TEDPAYSAYISI": 63724540.0,
-      "KISISAYISI": 792.0,
-      "PORTFOYBUYUKLUK": 87135626.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.387801,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.367088,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.433902,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456681,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.49608,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.487484,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.501132,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.502071,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.491874,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.533849,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.519898,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.506581,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "HFR",
+      "FONUNVAN": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.501194,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

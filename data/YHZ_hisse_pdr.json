@@ -1,29 +1,229 @@
 {
   "kod": "YHZ",
-  "guncelleme": "2026-04-08T18:29:12Z",
+  "guncelleme": "2026-04-26T18:31:33Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhz-yapi-kredi-portfoy-bist-teknoloji-agirlik-sinirlamali-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.87
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.67
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.7
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.76
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 19.84
+    },
+    {
+      "ticker": "ODINE",
+      "ad": "",
+      "agirlik": 8.62
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 7.21
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "PATEK",
+      "ad": "",
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.59
+    },
+    {
+      "ticker": "MANAS",
+      "ad": "",
+      "agirlik": 2.33
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.38
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.21
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 1.16
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "KRONT",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "MOBTL",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 0.82
+    },
+    {
+      "ticker": "NETAS",
+      "ad": "",
+      "agirlik": 0.8
+    },
+    {
+      "ticker": "LINK",
+      "ad": "",
+      "agirlik": 0.72
+    },
+    {
+      "ticker": "REEDR",
+      "ad": "",
+      "agirlik": 0.67
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 0.45
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 0.44
+    },
+    {
+      "ticker": "ARENA",
+      "ad": "",
+      "agirlik": 0.43
+    },
+    {
+      "ticker": "PKART",
+      "ad": "",
+      "agirlik": 0.35
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 0.3
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 0.27
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "42 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 13:34:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6c62b418298d"
 }

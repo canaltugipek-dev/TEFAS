@@ -1,21 +1,129 @@
 {
   "kod": "KH1",
-  "guncelleme": "2026-04-08T18:24:33Z",
+  "guncelleme": "2026-04-26T18:26:16Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kh1-ak-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.46
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 8.54
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.91
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 9.48
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.19
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.75
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.91
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.64
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.57
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.8
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "VAKKO",
+      "ad": "",
+      "agirlik": 2.72
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 1.23
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 0.07
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 15:25:15",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d53277d1373ea"
 }

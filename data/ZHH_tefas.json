@@ -2,22 +2,112 @@
   "fon_kodu": "ZHH",
   "fon_unvan": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 419,
-  "gun_kapsami": 606,
+  "kayit_sayisi": 441,
+  "gun_kapsami": 637,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1721952000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722211200000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722297600000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722384000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722470400000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722556800000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722816000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722902400000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1722988800000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1723075200000",
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 14.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +115,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015085,
-      "TEDPAYSAYISI": 34469.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 34988.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +125,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99199,
-      "TEDPAYSAYISI": 19896000.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 19736629.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +135,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987999,
-      "TEDPAYSAYISI": 19993994.0,
-      "KISISAYISI": 67.0,
-      "PORTFOYBUYUKLUK": 19754044.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +145,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002288,
-      "TEDPAYSAYISI": 19998222.0,
-      "KISISAYISI": 71.0,
-      "PORTFOYBUYUKLUK": 20043983.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +155,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992069,
-      "TEDPAYSAYISI": 20010382.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 19851672.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +165,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010098,
-      "TEDPAYSAYISI": 30457248.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 30764791.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +175,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993865,
-      "TEDPAYSAYISI": 30707817.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 30519434.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +185,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019443,
-      "TEDPAYSAYISI": 31268922.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 31876881.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +195,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018322,
-      "TEDPAYSAYISI": 31306060.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 31879640.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +205,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014358,
-      "TEDPAYSAYISI": 31408482.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 31859448.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +215,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023384,
-      "TEDPAYSAYISI": 31619834.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 32359242.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +225,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996262,
-      "TEDPAYSAYISI": 31720481.0,
-      "KISISAYISI": 293.0,
-      "PORTFOYBUYUKLUK": 31601925.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +235,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992531,
-      "TEDPAYSAYISI": 32193758.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 31953309.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +245,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005457,
-      "TEDPAYSAYISI": 32350962.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 32527508.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +255,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005593,
-      "TEDPAYSAYISI": 32278293.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 32458820.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +265,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010537,
-      "TEDPAYSAYISI": 32225744.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 32565320.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +275,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041628,
-      "TEDPAYSAYISI": 32229064.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 33570697.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +285,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033399,
-      "TEDPAYSAYISI": 32034060.0,
-      "KISISAYISI": 322.0,
-      "PORTFOYBUYUKLUK": 33103973.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +295,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032469,
-      "TEDPAYSAYISI": 32000473.0,
-      "KISISAYISI": 324.0,
-      "PORTFOYBUYUKLUK": 33039497.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +305,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030651,
-      "TEDPAYSAYISI": 32028493.0,
-      "KISISAYISI": 319.0,
-      "PORTFOYBUYUKLUK": 33010211.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +315,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015524,
-      "TEDPAYSAYISI": 32031136.0,
-      "KISISAYISI": 319.0,
-      "PORTFOYBUYUKLUK": 32528378.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +325,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007793,
-      "TEDPAYSAYISI": 32087153.0,
-      "KISISAYISI": 322.0,
-      "PORTFOYBUYUKLUK": 32337203.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +335,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999425,
-      "TEDPAYSAYISI": 32048296.0,
-      "KISISAYISI": 323.0,
-      "PORTFOYBUYUKLUK": 32029872.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +345,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977387,
-      "TEDPAYSAYISI": 31996692.0,
-      "KISISAYISI": 328.0,
-      "PORTFOYBUYUKLUK": 31273137.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +355,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993389,
-      "TEDPAYSAYISI": 32015316.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 31803646.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +365,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004947,
-      "TEDPAYSAYISI": 31993278.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 32151542.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +375,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993049,
-      "TEDPAYSAYISI": 31978307.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 31756016.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +385,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012401,
-      "TEDPAYSAYISI": 32127002.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 32525402.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +395,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017594,
-      "TEDPAYSAYISI": 32232248.0,
-      "KISISAYISI": 344.0,
-      "PORTFOYBUYUKLUK": 32799342.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +405,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039497,
-      "TEDPAYSAYISI": 32224334.0,
-      "KISISAYISI": 350.0,
-      "PORTFOYBUYUKLUK": 33497082.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +415,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036372,
-      "TEDPAYSAYISI": 32359574.0,
-      "KISISAYISI": 352.0,
-      "PORTFOYBUYUKLUK": 33536548.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +425,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032641,
-      "TEDPAYSAYISI": 32314927.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 33369726.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +435,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049926,
-      "TEDPAYSAYISI": 32325521.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 33939418.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +445,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040206,
-      "TEDPAYSAYISI": 32298078.0,
-      "KISISAYISI": 357.0,
-      "PORTFOYBUYUKLUK": 33596648.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +455,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036714,
-      "TEDPAYSAYISI": 32302623.0,
-      "KISISAYISI": 361.0,
-      "PORTFOYBUYUKLUK": 33488579.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +465,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040195,
-      "TEDPAYSAYISI": 32249680.0,
-      "KISISAYISI": 362.0,
-      "PORTFOYBUYUKLUK": 33545968.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +475,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027766,
-      "TEDPAYSAYISI": 32330837.0,
-      "KISISAYISI": 367.0,
-      "PORTFOYBUYUKLUK": 33228537.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +485,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99343,
-      "TEDPAYSAYISI": 32303107.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 32090870.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +495,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953711,
-      "TEDPAYSAYISI": 32105476.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 30619330.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +505,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934034,
-      "TEDPAYSAYISI": 32097267.0,
-      "KISISAYISI": 363.0,
-      "PORTFOYBUYUKLUK": 29979949.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +515,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963112,
-      "TEDPAYSAYISI": 32074489.0,
-      "KISISAYISI": 362.0,
-      "PORTFOYBUYUKLUK": 30891324.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +525,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955971,
-      "TEDPAYSAYISI": 32078924.0,
-      "KISISAYISI": 378.0,
-      "PORTFOYBUYUKLUK": 30666526.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +535,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958347,
-      "TEDPAYSAYISI": 32087862.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 30751299.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +545,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972438,
-      "TEDPAYSAYISI": 32004463.0,
-      "KISISAYISI": 380.0,
-      "PORTFOYBUYUKLUK": 31122360.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +555,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952851,
-      "TEDPAYSAYISI": 32074654.0,
-      "KISISAYISI": 387.0,
-      "PORTFOYBUYUKLUK": 30562350.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +565,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943713,
-      "TEDPAYSAYISI": 34171425.0,
-      "KISISAYISI": 384.0,
-      "PORTFOYBUYUKLUK": 32248028.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +575,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924642,
-      "TEDPAYSAYISI": 34379304.0,
-      "KISISAYISI": 385.0,
-      "PORTFOYBUYUKLUK": 31788558.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +585,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943867,
-      "TEDPAYSAYISI": 34432138.0,
-      "KISISAYISI": 387.0,
-      "PORTFOYBUYUKLUK": 32499352.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +595,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950733,
-      "TEDPAYSAYISI": 34218740.0,
-      "KISISAYISI": 392.0,
-      "PORTFOYBUYUKLUK": 32532873.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +605,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955203,
-      "TEDPAYSAYISI": 34270468.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 32735262.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +615,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927472,
-      "TEDPAYSAYISI": 34303135.0,
-      "KISISAYISI": 398.0,
-      "PORTFOYBUYUKLUK": 31815188.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +625,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.909858,
-      "TEDPAYSAYISI": 34335345.0,
-      "KISISAYISI": 403.0,
-      "PORTFOYBUYUKLUK": 31240300.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +635,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.929077,
-      "TEDPAYSAYISI": 34346855.0,
-      "KISISAYISI": 404.0,
-      "PORTFOYBUYUKLUK": 31910871.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +645,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912348,
-      "TEDPAYSAYISI": 34307768.0,
-      "KISISAYISI": 405.0,
-      "PORTFOYBUYUKLUK": 31300633.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +655,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925958,
-      "TEDPAYSAYISI": 34421101.0,
-      "KISISAYISI": 407.0,
-      "PORTFOYBUYUKLUK": 31872493.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +665,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931092,
-      "TEDPAYSAYISI": 34420458.0,
-      "KISISAYISI": 409.0,
-      "PORTFOYBUYUKLUK": 32048614.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +675,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932235,
-      "TEDPAYSAYISI": 34443464.0,
-      "KISISAYISI": 411.0,
-      "PORTFOYBUYUKLUK": 32109391.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +685,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936018,
-      "TEDPAYSAYISI": 34445014.0,
-      "KISISAYISI": 413.0,
-      "PORTFOYBUYUKLUK": 32241154.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +695,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.920887,
-      "TEDPAYSAYISI": 34419146.0,
-      "KISISAYISI": 412.0,
-      "PORTFOYBUYUKLUK": 31696150.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +705,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.919123,
-      "TEDPAYSAYISI": 34399945.0,
-      "KISISAYISI": 414.0,
-      "PORTFOYBUYUKLUK": 31617775.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +715,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.891695,
-      "TEDPAYSAYISI": 34349498.0,
-      "KISISAYISI": 420.0,
-      "PORTFOYBUYUKLUK": 30629267.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +725,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.888323,
-      "TEDPAYSAYISI": 34092420.0,
-      "KISISAYISI": 416.0,
-      "PORTFOYBUYUKLUK": 30285068.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +735,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916591,
-      "TEDPAYSAYISI": 34034368.0,
-      "KISISAYISI": 418.0,
-      "PORTFOYBUYUKLUK": 31195585.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +745,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924634,
-      "TEDPAYSAYISI": 34037896.0,
-      "KISISAYISI": 424.0,
-      "PORTFOYBUYUKLUK": 31472591.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +755,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950749,
-      "TEDPAYSAYISI": 35133060.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 33402716.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +765,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958752,
-      "TEDPAYSAYISI": 35912610.0,
-      "KISISAYISI": 434.0,
-      "PORTFOYBUYUKLUK": 34431273.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +775,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960909,
-      "TEDPAYSAYISI": 35917783.0,
-      "KISISAYISI": 436.0,
-      "PORTFOYBUYUKLUK": 34513707.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +785,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97128,
-      "TEDPAYSAYISI": 35902483.0,
-      "KISISAYISI": 435.0,
-      "PORTFOYBUYUKLUK": 34871363.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +795,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981672,
-      "TEDPAYSAYISI": 35911356.0,
-      "KISISAYISI": 439.0,
-      "PORTFOYBUYUKLUK": 35253175.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +805,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978513,
-      "TEDPAYSAYISI": 36040645.0,
-      "KISISAYISI": 449.0,
-      "PORTFOYBUYUKLUK": 35266247.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +815,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981469,
-      "TEDPAYSAYISI": 36060861.0,
-      "KISISAYISI": 461.0,
-      "PORTFOYBUYUKLUK": 35392616.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +825,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960187,
-      "TEDPAYSAYISI": 36143454.0,
-      "KISISAYISI": 461.0,
-      "PORTFOYBUYUKLUK": 34704467.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +835,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.93901,
-      "TEDPAYSAYISI": 36051146.0,
-      "KISISAYISI": 459.0,
-      "PORTFOYBUYUKLUK": 33852401.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +845,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972743,
-      "TEDPAYSAYISI": 36050164.0,
-      "KISISAYISI": 463.0,
-      "PORTFOYBUYUKLUK": 35067541.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +855,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99422,
-      "TEDPAYSAYISI": 37901312.0,
-      "KISISAYISI": 464.0,
-      "PORTFOYBUYUKLUK": 37682258.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +865,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005771,
-      "TEDPAYSAYISI": 37946045.0,
-      "KISISAYISI": 475.0,
-      "PORTFOYBUYUKLUK": 38165022.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +875,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00068,
-      "TEDPAYSAYISI": 37950804.0,
-      "KISISAYISI": 477.0,
-      "PORTFOYBUYUKLUK": 37976618.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +885,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999018,
-      "TEDPAYSAYISI": 37818603.0,
-      "KISISAYISI": 475.0,
-      "PORTFOYBUYUKLUK": 37781468.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +895,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998187,
-      "TEDPAYSAYISI": 37710939.0,
-      "KISISAYISI": 481.0,
-      "PORTFOYBUYUKLUK": 37642585.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +905,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000015,
-      "TEDPAYSAYISI": 37857800.0,
-      "KISISAYISI": 483.0,
-      "PORTFOYBUYUKLUK": 37858349.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +915,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00248,
-      "TEDPAYSAYISI": 37057804.0,
-      "KISISAYISI": 486.0,
-      "PORTFOYBUYUKLUK": 37149701.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +925,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016447,
-      "TEDPAYSAYISI": 37085196.0,
-      "KISISAYISI": 484.0,
-      "PORTFOYBUYUKLUK": 37695135.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +935,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020415,
-      "TEDPAYSAYISI": 37211683.0,
-      "KISISAYISI": 490.0,
-      "PORTFOYBUYUKLUK": 37971359.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +945,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027374,
-      "TEDPAYSAYISI": 37574762.0,
-      "KISISAYISI": 491.0,
-      "PORTFOYBUYUKLUK": 38603320.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +955,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044389,
-      "TEDPAYSAYISI": 38321582.0,
-      "KISISAYISI": 497.0,
-      "PORTFOYBUYUKLUK": 40022634.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +965,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063155,
-      "TEDPAYSAYISI": 38285985.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 40703928.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +975,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043653,
-      "TEDPAYSAYISI": 38358726.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 40033213.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +985,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039043,
-      "TEDPAYSAYISI": 38118295.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 39606550.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +995,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038755,
-      "TEDPAYSAYISI": 37981351.0,
-      "KISISAYISI": 501.0,
-      "PORTFOYBUYUKLUK": 39453325.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1005,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044677,
-      "TEDPAYSAYISI": 39380276.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 41139655.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1015,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034019,
-      "TEDPAYSAYISI": 39366138.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 40705353.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1025,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037562,
-      "TEDPAYSAYISI": 39075674.0,
-      "KISISAYISI": 496.0,
-      "PORTFOYBUYUKLUK": 40543428.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1035,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028537,
-      "TEDPAYSAYISI": 39072629.0,
-      "KISISAYISI": 497.0,
-      "PORTFOYBUYUKLUK": 40187662.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1045,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014953,
-      "TEDPAYSAYISI": 39117826.0,
-      "KISISAYISI": 499.0,
-      "PORTFOYBUYUKLUK": 39702760.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1055,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016878,
-      "TEDPAYSAYISI": 39224445.0,
-      "KISISAYISI": 496.0,
-      "PORTFOYBUYUKLUK": 39886455.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1065,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005906,
-      "TEDPAYSAYISI": 39248136.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 39479943.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1075,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012407,
-      "TEDPAYSAYISI": 39086024.0,
-      "KISISAYISI": 502.0,
-      "PORTFOYBUYUKLUK": 39570961.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1085,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039685,
-      "TEDPAYSAYISI": 39108563.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 40660596.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1095,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042392,
-      "TEDPAYSAYISI": 39173743.0,
-      "KISISAYISI": 504.0,
-      "PORTFOYBUYUKLUK": 40834407.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1105,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04965,
-      "TEDPAYSAYISI": 39185378.0,
-      "KISISAYISI": 508.0,
-      "PORTFOYBUYUKLUK": 41130922.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1115,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029176,
-      "TEDPAYSAYISI": 39180474.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 40323610.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1125,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017066,
-      "TEDPAYSAYISI": 41149817.0,
-      "KISISAYISI": 517.0,
-      "PORTFOYBUYUKLUK": 41852060.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1135,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03341,
-      "TEDPAYSAYISI": 41155497.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 42530507.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1145,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04478,
-      "TEDPAYSAYISI": 42129662.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 44016214.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1155,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043578,
-      "TEDPAYSAYISI": 42122747.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 43958352.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1165,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031097,
-      "TEDPAYSAYISI": 42179035.0,
-      "KISISAYISI": 526.0,
-      "PORTFOYBUYUKLUK": 43490662.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1175,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022186,
-      "TEDPAYSAYISI": 42670403.0,
-      "KISISAYISI": 525.0,
-      "PORTFOYBUYUKLUK": 43617107.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1185,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036771,
-      "TEDPAYSAYISI": 42485070.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 44047267.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1195,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02625,
-      "TEDPAYSAYISI": 42972269.0,
-      "KISISAYISI": 526.0,
-      "PORTFOYBUYUKLUK": 44100309.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1205,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00438,
-      "TEDPAYSAYISI": 42972670.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 43160873.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1215,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003031,
-      "TEDPAYSAYISI": 41969073.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 42096265.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1225,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007161,
-      "TEDPAYSAYISI": 41975319.0,
-      "KISISAYISI": 535.0,
-      "PORTFOYBUYUKLUK": 42275892.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1235,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020226,
-      "TEDPAYSAYISI": 41871907.0,
-      "KISISAYISI": 530.0,
-      "PORTFOYBUYUKLUK": 42718816.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1245,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033602,
-      "TEDPAYSAYISI": 41867056.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 43273889.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1255,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039083,
-      "TEDPAYSAYISI": 41805239.0,
-      "KISISAYISI": 531.0,
-      "PORTFOYBUYUKLUK": 43439106.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1265,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035654,
-      "TEDPAYSAYISI": 41570788.0,
-      "KISISAYISI": 529.0,
-      "PORTFOYBUYUKLUK": 43052949.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1275,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050291,
-      "TEDPAYSAYISI": 41561585.0,
-      "KISISAYISI": 529.0,
-      "PORTFOYBUYUKLUK": 43651746.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1285,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049108,
-      "TEDPAYSAYISI": 41316312.0,
-      "KISISAYISI": 527.0,
-      "PORTFOYBUYUKLUK": 43345271.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1295,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048824,
-      "TEDPAYSAYISI": 41317809.0,
-      "KISISAYISI": 526.0,
-      "PORTFOYBUYUKLUK": 43335116.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1305,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039604,
-      "TEDPAYSAYISI": 41327074.0,
-      "KISISAYISI": 524.0,
-      "PORTFOYBUYUKLUK": 42963783.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1315,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.050814,
-      "TEDPAYSAYISI": 41428770.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 43533935.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1325,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04399,
-      "TEDPAYSAYISI": 41288139.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 43104388.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1335,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040715,
-      "TEDPAYSAYISI": 41325193.0,
-      "KISISAYISI": 514.0,
-      "PORTFOYBUYUKLUK": 43007732.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1345,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030902,
-      "TEDPAYSAYISI": 41323957.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 42600950.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1355,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006891,
-      "TEDPAYSAYISI": 41458984.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 41744670.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1365,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009927,
-      "TEDPAYSAYISI": 41669775.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 42083418.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1375,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004205,
-      "TEDPAYSAYISI": 41586999.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 41761865.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1385,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015278,
-      "TEDPAYSAYISI": 41734436.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 42372066.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1395,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026542,
-      "TEDPAYSAYISI": 41748821.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 42856929.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1405,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019065,
-      "TEDPAYSAYISI": 41746805.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 42542693.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1415,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022554,
-      "TEDPAYSAYISI": 41717255.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 42658166.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1425,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017997,
-      "TEDPAYSAYISI": 41715704.0,
-      "KISISAYISI": 519.0,
-      "PORTFOYBUYUKLUK": 42466478.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1435,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035167,
-      "TEDPAYSAYISI": 41684364.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 43150263.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1445,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034189,
-      "TEDPAYSAYISI": 42833431.0,
-      "KISISAYISI": 524.0,
-      "PORTFOYBUYUKLUK": 44297865.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1455,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027871,
-      "TEDPAYSAYISI": 42798328.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 43991155.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1465,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032751,
-      "TEDPAYSAYISI": 41715335.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 43081563.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1475,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016299,
-      "TEDPAYSAYISI": 41761175.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 42441827.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1485,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024651,
-      "TEDPAYSAYISI": 42396006.0,
-      "KISISAYISI": 516.0,
-      "PORTFOYBUYUKLUK": 43441107.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1495,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005396,
-      "TEDPAYSAYISI": 42378965.0,
-      "KISISAYISI": 515.0,
-      "PORTFOYBUYUKLUK": 42607646.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1505,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999581,
-      "TEDPAYSAYISI": 42411687.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 42393907.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1515,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990388,
-      "TEDPAYSAYISI": 41996445.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 41592786.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1525,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001392,
-      "TEDPAYSAYISI": 41985179.0,
-      "KISISAYISI": 512.0,
-      "PORTFOYBUYUKLUK": 42043641.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1535,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015544,
-      "TEDPAYSAYISI": 41742090.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 42390941.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1545,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007816,
-      "TEDPAYSAYISI": 41541372.0,
-      "KISISAYISI": 507.0,
-      "PORTFOYBUYUKLUK": 41866052.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1555,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037008,
-      "TEDPAYSAYISI": 41501458.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 43037348.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1565,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037873,
-      "TEDPAYSAYISI": 41494283.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 43065797.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1575,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068042,
-      "TEDPAYSAYISI": 40697601.0,
-      "KISISAYISI": 506.0,
-      "PORTFOYBUYUKLUK": 43466742.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1585,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.087138,
-      "TEDPAYSAYISI": 40711081.0,
-      "KISISAYISI": 503.0,
-      "PORTFOYBUYUKLUK": 44258549.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1595,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096714,
-      "TEDPAYSAYISI": 40808410.0,
-      "KISISAYISI": 510.0,
-      "PORTFOYBUYUKLUK": 44755152.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1605,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088978,
-      "TEDPAYSAYISI": 41242831.0,
-      "KISISAYISI": 513.0,
-      "PORTFOYBUYUKLUK": 44912541.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1615,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089469,
-      "TEDPAYSAYISI": 42021982.0,
-      "KISISAYISI": 518.0,
-      "PORTFOYBUYUKLUK": 45781654.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1625,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107109,
-      "TEDPAYSAYISI": 41993971.0,
-      "KISISAYISI": 522.0,
-      "PORTFOYBUYUKLUK": 46491884.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1635,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.119598,
-      "TEDPAYSAYISI": 42392120.0,
-      "KISISAYISI": 526.0,
-      "PORTFOYBUYUKLUK": 47462122.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1645,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130257,
-      "TEDPAYSAYISI": 42547903.0,
-      "KISISAYISI": 532.0,
-      "PORTFOYBUYUKLUK": 48090047.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1655,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129133,
-      "TEDPAYSAYISI": 42601325.0,
-      "KISISAYISI": 537.0,
-      "PORTFOYBUYUKLUK": 48102542.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1665,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125741,
-      "TEDPAYSAYISI": 42842794.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 48229879.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1675,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0366,
-      "TEDPAYSAYISI": 43007085.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 44581134.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1685,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026611,
-      "TEDPAYSAYISI": 42833511.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 43973350.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1695,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948826,
-      "TEDPAYSAYISI": 43047601.0,
-      "KISISAYISI": 562.0,
-      "PORTFOYBUYUKLUK": 40844687.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1705,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975903,
-      "TEDPAYSAYISI": 43148604.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 42108855.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1715,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016698,
-      "TEDPAYSAYISI": 43531802.0,
-      "KISISAYISI": 563.0,
-      "PORTFOYBUYUKLUK": 44258685.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1725,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011692,
-      "TEDPAYSAYISI": 43831579.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 44344076.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1735,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009366,
-      "TEDPAYSAYISI": 44076179.0,
-      "KISISAYISI": 565.0,
-      "PORTFOYBUYUKLUK": 44488975.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1745,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014173,
-      "TEDPAYSAYISI": 44711395.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 45345096.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1755,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994861,
-      "TEDPAYSAYISI": 44693257.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 44463590.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1765,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99289,
-      "TEDPAYSAYISI": 47669509.0,
-      "KISISAYISI": 581.0,
-      "PORTFOYBUYUKLUK": 47330601.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1775,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981538,
-      "TEDPAYSAYISI": 47935924.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 47050908.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1785,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988739,
-      "TEDPAYSAYISI": 47074965.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 46544873.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1795,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998654,
-      "TEDPAYSAYISI": 47585384.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 47521311.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1805,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982459,
-      "TEDPAYSAYISI": 47649822.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 46813987.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1815,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984984,
-      "TEDPAYSAYISI": 47656969.0,
-      "KISISAYISI": 572.0,
-      "PORTFOYBUYUKLUK": 46941332.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1825,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992876,
-      "TEDPAYSAYISI": 47345550.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 47008264.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1835,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995842,
-      "TEDPAYSAYISI": 47358982.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 47162071.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1845,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994578,
-      "TEDPAYSAYISI": 46983833.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 46729074.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1855,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977039,
-      "TEDPAYSAYISI": 46933407.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 45855760.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1865,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985567,
-      "TEDPAYSAYISI": 46711711.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 46037512.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1875,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974343,
-      "TEDPAYSAYISI": 46712942.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 45514445.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1885,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977479,
-      "TEDPAYSAYISI": 46720622.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 45668421.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1895,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975965,
-      "TEDPAYSAYISI": 46655967.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 45534604.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1905,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995329,
-      "TEDPAYSAYISI": 46771584.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 46553133.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1915,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982064,
-      "TEDPAYSAYISI": 46017454.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 45192072.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1925,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968837,
-      "TEDPAYSAYISI": 45767083.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 44340863.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1935,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957842,
-      "TEDPAYSAYISI": 45820435.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 43888733.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1945,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947467,
-      "TEDPAYSAYISI": 46353913.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 43918792.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1955,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953371,
-      "TEDPAYSAYISI": 46469844.0,
-      "KISISAYISI": 572.0,
-      "PORTFOYBUYUKLUK": 44303006.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +1965,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947389,
-      "TEDPAYSAYISI": 45958213.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 43540326.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +1975,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952128,
-      "TEDPAYSAYISI": 47678680.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 45396217.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +1985,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946834,
-      "TEDPAYSAYISI": 47590078.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 45059898.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +1995,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963775,
-      "TEDPAYSAYISI": 47523510.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 45801977.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2005,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9799,
-      "TEDPAYSAYISI": 47382522.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 46430132.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2015,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019887,
-      "TEDPAYSAYISI": 47367909.0,
-      "KISISAYISI": 572.0,
-      "PORTFOYBUYUKLUK": 48309907.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2025,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01372,
-      "TEDPAYSAYISI": 47712723.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 48367328.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2035,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014391,
-      "TEDPAYSAYISI": 47704814.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 48391317.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2045,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997942,
-      "TEDPAYSAYISI": 47668533.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 47570444.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2055,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00859,
-      "TEDPAYSAYISI": 47548557.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 47956998.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2065,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000758,
-      "TEDPAYSAYISI": 47580420.0,
-      "KISISAYISI": 578.0,
-      "PORTFOYBUYUKLUK": 47616484.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2075,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98654,
-      "TEDPAYSAYISI": 45917280.0,
-      "KISISAYISI": 582.0,
-      "PORTFOYBUYUKLUK": 45299219.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2085,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99407,
-      "TEDPAYSAYISI": 45315988.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 45047258.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2095,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980245,
-      "TEDPAYSAYISI": 45331842.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 44436312.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2105,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982353,
-      "TEDPAYSAYISI": 45162825.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 44365851.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2115,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.970776,
-      "TEDPAYSAYISI": 45418660.0,
-      "KISISAYISI": 579.0,
-      "PORTFOYBUYUKLUK": 44091353.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2125,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.967439,
-      "TEDPAYSAYISI": 45390807.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 43912823.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2135,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966608,
-      "TEDPAYSAYISI": 45265077.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 43753569.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2145,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950382,
-      "TEDPAYSAYISI": 45262869.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 43017034.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2155,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952098,
-      "TEDPAYSAYISI": 45240499.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 43073388.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2165,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980675,
-      "TEDPAYSAYISI": 45216973.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 44343162.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2175,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996674,
-      "TEDPAYSAYISI": 45243980.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 45093478.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2185,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999082,
-      "TEDPAYSAYISI": 45246014.0,
-      "KISISAYISI": 568.0,
-      "PORTFOYBUYUKLUK": 45204486.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2195,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021931,
-      "TEDPAYSAYISI": 45349791.0,
-      "KISISAYISI": 569.0,
-      "PORTFOYBUYUKLUK": 46344349.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2205,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028637,
-      "TEDPAYSAYISI": 45351533.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 46650244.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2215,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011593,
-      "TEDPAYSAYISI": 45244664.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 45769184.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2225,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990361,
-      "TEDPAYSAYISI": 45267118.0,
-      "KISISAYISI": 574.0,
-      "PORTFOYBUYUKLUK": 44830786.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2235,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995147,
-      "TEDPAYSAYISI": 45222970.0,
-      "KISISAYISI": 575.0,
-      "PORTFOYBUYUKLUK": 45003511.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2245,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986922,
-      "TEDPAYSAYISI": 45141010.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 44550658.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2255,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97255,
-      "TEDPAYSAYISI": 45136694.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 43897687.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2265,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961428,
-      "TEDPAYSAYISI": 45130171.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 43389411.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2275,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974559,
-      "TEDPAYSAYISI": 45104760.0,
-      "KISISAYISI": 571.0,
-      "PORTFOYBUYUKLUK": 43957272.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2285,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968756,
-      "TEDPAYSAYISI": 45101119.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 43691979.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2295,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00639,
-      "TEDPAYSAYISI": 45090011.0,
-      "KISISAYISI": 570.0,
-      "PORTFOYBUYUKLUK": 45378150.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2305,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00693,
-      "TEDPAYSAYISI": 44420660.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 44728488.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2315,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998881,
-      "TEDPAYSAYISI": 44415047.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 44365357.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2325,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01013,
-      "TEDPAYSAYISI": 44384843.0,
-      "KISISAYISI": 560.0,
-      "PORTFOYBUYUKLUK": 44834467.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2335,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075106,
-      "TEDPAYSAYISI": 44423612.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 47760113.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2345,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092263,
-      "TEDPAYSAYISI": 44540962.0,
-      "KISISAYISI": 566.0,
-      "PORTFOYBUYUKLUK": 48650450.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2355,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101677,
-      "TEDPAYSAYISI": 47732579.0,
-      "KISISAYISI": 576.0,
-      "PORTFOYBUYUKLUK": 52585871.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2365,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105122,
-      "TEDPAYSAYISI": 48929137.0,
-      "KISISAYISI": 585.0,
-      "PORTFOYBUYUKLUK": 54072643.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2375,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113663,
-      "TEDPAYSAYISI": 49422332.0,
-      "KISISAYISI": 589.0,
-      "PORTFOYBUYUKLUK": 55039845.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2385,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095842,
-      "TEDPAYSAYISI": 51883032.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 56855614.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2395,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088536,
-      "TEDPAYSAYISI": 57348998.0,
-      "KISISAYISI": 619.0,
-      "PORTFOYBUYUKLUK": 62426454.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2405,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105432,
-      "TEDPAYSAYISI": 57237527.0,
-      "KISISAYISI": 626.0,
-      "PORTFOYBUYUKLUK": 63272212.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2415,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123232,
-      "TEDPAYSAYISI": 59128456.0,
-      "KISISAYISI": 629.0,
-      "PORTFOYBUYUKLUK": 66414989.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2425,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125149,
-      "TEDPAYSAYISI": 59576657.0,
-      "KISISAYISI": 630.0,
-      "PORTFOYBUYUKLUK": 67032602.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2435,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107018,
-      "TEDPAYSAYISI": 60629698.0,
-      "KISISAYISI": 640.0,
-      "PORTFOYBUYUKLUK": 67118173.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2445,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092254,
-      "TEDPAYSAYISI": 61227346.0,
-      "KISISAYISI": 649.0,
-      "PORTFOYBUYUKLUK": 66875791.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2455,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118275,
-      "TEDPAYSAYISI": 61489916.0,
-      "KISISAYISI": 667.0,
-      "PORTFOYBUYUKLUK": 68762666.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2465,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11549,
-      "TEDPAYSAYISI": 61169104.0,
-      "KISISAYISI": 662.0,
-      "PORTFOYBUYUKLUK": 68233505.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2475,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138095,
-      "TEDPAYSAYISI": 60859084.0,
-      "KISISAYISI": 662.0,
-      "PORTFOYBUYUKLUK": 69263404.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2485,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135585,
-      "TEDPAYSAYISI": 61642643.0,
-      "KISISAYISI": 665.0,
-      "PORTFOYBUYUKLUK": 70000443.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2495,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130869,
-      "TEDPAYSAYISI": 62171029.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 70307270.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2505,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140253,
-      "TEDPAYSAYISI": 58979626.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 67251668.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2515,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131731,
-      "TEDPAYSAYISI": 59172925.0,
-      "KISISAYISI": 669.0,
-      "PORTFOYBUYUKLUK": 66967860.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2525,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1197,
-      "TEDPAYSAYISI": 59138969.0,
-      "KISISAYISI": 672.0,
-      "PORTFOYBUYUKLUK": 66217887.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2535,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1146,
-      "TEDPAYSAYISI": 58718813.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 65447990.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2545,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131115,
-      "TEDPAYSAYISI": 56056302.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 63406146.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2555,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144086,
-      "TEDPAYSAYISI": 55961237.0,
-      "KISISAYISI": 670.0,
-      "PORTFOYBUYUKLUK": 64024447.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2565,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145236,
-      "TEDPAYSAYISI": 55996637.0,
-      "KISISAYISI": 676.0,
-      "PORTFOYBUYUKLUK": 64129375.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2575,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157673,
-      "TEDPAYSAYISI": 56167180.0,
-      "KISISAYISI": 682.0,
-      "PORTFOYBUYUKLUK": 65023222.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2585,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158946,
-      "TEDPAYSAYISI": 56199188.0,
-      "KISISAYISI": 689.0,
-      "PORTFOYBUYUKLUK": 65131834.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2595,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161805,
-      "TEDPAYSAYISI": 56030409.0,
-      "KISISAYISI": 693.0,
-      "PORTFOYBUYUKLUK": 65096398.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2605,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170798,
-      "TEDPAYSAYISI": 56074485.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 65651903.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2615,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166623,
-      "TEDPAYSAYISI": 55953063.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 65276126.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2625,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172825,
-      "TEDPAYSAYISI": 55268381.0,
-      "KISISAYISI": 699.0,
-      "PORTFOYBUYUKLUK": 64820165.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2635,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163308,
-      "TEDPAYSAYISI": 54606598.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 63524310.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2645,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162265,
-      "TEDPAYSAYISI": 52039792.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 60484029.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2655,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147267,
-      "TEDPAYSAYISI": 51923604.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 59570251.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2665,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15109,
-      "TEDPAYSAYISI": 49976841.0,
-      "KISISAYISI": 702.0,
-      "PORTFOYBUYUKLUK": 57527830.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2675,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151305,
-      "TEDPAYSAYISI": 49832229.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 57372105.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2685,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15244,
-      "TEDPAYSAYISI": 49810644.0,
-      "KISISAYISI": 692.0,
-      "PORTFOYBUYUKLUK": 57403787.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2695,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170949,
-      "TEDPAYSAYISI": 49847918.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 58369357.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2705,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.186692,
-      "TEDPAYSAYISI": 49847416.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 59153520.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2715,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189765,
-      "TEDPAYSAYISI": 51571036.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 61357422.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2725,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194126,
-      "TEDPAYSAYISI": 51662942.0,
-      "KISISAYISI": 681.0,
-      "PORTFOYBUYUKLUK": 61692057.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2735,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199039,
-      "TEDPAYSAYISI": 51606012.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 61877636.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2745,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181253,
-      "TEDPAYSAYISI": 51633391.0,
-      "KISISAYISI": 692.0,
-      "PORTFOYBUYUKLUK": 60992108.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2755,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180041,
-      "TEDPAYSAYISI": 51790009.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 61114315.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2765,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17029,
-      "TEDPAYSAYISI": 51804834.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 60626668.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2775,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167649,
-      "TEDPAYSAYISI": 51787704.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 60469850.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2785,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121308,
-      "TEDPAYSAYISI": 51610275.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 57871025.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2795,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098815,
-      "TEDPAYSAYISI": 51601410.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 56700384.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2805,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108713,
-      "TEDPAYSAYISI": 50868448.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 56398519.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2815,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101428,
-      "TEDPAYSAYISI": 52405321.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 57720694.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2825,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07984,
-      "TEDPAYSAYISI": 52427402.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 56613182.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2835,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.083467,
-      "TEDPAYSAYISI": 50849852.0,
-      "KISISAYISI": 687.0,
-      "PORTFOYBUYUKLUK": 55094149.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2845,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093649,
-      "TEDPAYSAYISI": 50612240.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 55352012.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2855,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075376,
-      "TEDPAYSAYISI": 50396376.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 54195034.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2865,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.07888,
-      "TEDPAYSAYISI": 50405284.0,
-      "KISISAYISI": 677.0,
-      "PORTFOYBUYUKLUK": 54381265.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2875,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138942,
-      "TEDPAYSAYISI": 50772745.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 57827236.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2885,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152487,
-      "TEDPAYSAYISI": 49585205.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 57146319.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +2895,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144152,
-      "TEDPAYSAYISI": 49966336.0,
-      "KISISAYISI": 692.0,
-      "PORTFOYBUYUKLUK": 57169088.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +2905,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127009,
-      "TEDPAYSAYISI": 49661524.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 55969004.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +2915,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149769,
-      "TEDPAYSAYISI": 49655448.0,
-      "KISISAYISI": 690.0,
-      "PORTFOYBUYUKLUK": 57092273.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +2925,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167867,
-      "TEDPAYSAYISI": 49383910.0,
-      "KISISAYISI": 694.0,
-      "PORTFOYBUYUKLUK": 57673854.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +2935,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147444,
-      "TEDPAYSAYISI": 49793115.0,
-      "KISISAYISI": 693.0,
-      "PORTFOYBUYUKLUK": 57134807.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +2945,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147794,
-      "TEDPAYSAYISI": 49921369.0,
-      "KISISAYISI": 686.0,
-      "PORTFOYBUYUKLUK": 57299458.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +2955,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143758,
-      "TEDPAYSAYISI": 49827862.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 56991029.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +2965,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118057,
-      "TEDPAYSAYISI": 49810206.0,
-      "KISISAYISI": 683.0,
-      "PORTFOYBUYUKLUK": 55690669.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +2975,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.109606,
-      "TEDPAYSAYISI": 49578305.0,
-      "KISISAYISI": 684.0,
-      "PORTFOYBUYUKLUK": 55012360.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +2985,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11385,
-      "TEDPAYSAYISI": 50480693.0,
-      "KISISAYISI": 680.0,
-      "PORTFOYBUYUKLUK": 56227907.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +2995,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136639,
-      "TEDPAYSAYISI": 50404321.0,
-      "KISISAYISI": 679.0,
-      "PORTFOYBUYUKLUK": 57291528.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +3005,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126776,
-      "TEDPAYSAYISI": 50628245.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 57046674.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3015,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105896,
-      "TEDPAYSAYISI": 52034434.0,
-      "KISISAYISI": 691.0,
-      "PORTFOYBUYUKLUK": 57544659.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3025,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091243,
-      "TEDPAYSAYISI": 52018500.0,
-      "KISISAYISI": 696.0,
-      "PORTFOYBUYUKLUK": 56764821.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3035,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101816,
-      "TEDPAYSAYISI": 50694585.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 55856101.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3045,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094572,
-      "TEDPAYSAYISI": 50715706.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 55511973.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3055,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088949,
-      "TEDPAYSAYISI": 52581383.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 57258431.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3065,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091691,
-      "TEDPAYSAYISI": 52734040.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 57569255.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3075,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076033,
-      "TEDPAYSAYISI": 52739175.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 56749107.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3085,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046023,
-      "TEDPAYSAYISI": 51932599.0,
-      "KISISAYISI": 703.0,
-      "PORTFOYBUYUKLUK": 54322697.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3095,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060259,
-      "TEDPAYSAYISI": 51953581.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 55084273.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3105,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04961,
-      "TEDPAYSAYISI": 50447461.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 52950171.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3115,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038025,
-      "TEDPAYSAYISI": 50678849.0,
-      "KISISAYISI": 707.0,
-      "PORTFOYBUYUKLUK": 52605918.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3125,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067285,
-      "TEDPAYSAYISI": 50681160.0,
-      "KISISAYISI": 708.0,
-      "PORTFOYBUYUKLUK": 54091265.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3135,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068835,
-      "TEDPAYSAYISI": 50753918.0,
-      "KISISAYISI": 705.0,
-      "PORTFOYBUYUKLUK": 54247546.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3145,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077566,
-      "TEDPAYSAYISI": 50769143.0,
-      "KISISAYISI": 697.0,
-      "PORTFOYBUYUKLUK": 54707081.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3155,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081235,
-      "TEDPAYSAYISI": 50825500.0,
-      "KISISAYISI": 698.0,
-      "PORTFOYBUYUKLUK": 54954324.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3165,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114833,
-      "TEDPAYSAYISI": 50662973.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 56480771.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3175,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104553,
-      "TEDPAYSAYISI": 52915957.0,
-      "KISISAYISI": 700.0,
-      "PORTFOYBUYUKLUK": 58448482.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3185,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100462,
-      "TEDPAYSAYISI": 52704438.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 57999241.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3195,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101269,
-      "TEDPAYSAYISI": 52705927.0,
-      "KISISAYISI": 697.0,
-      "PORTFOYBUYUKLUK": 58043391.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3205,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114,
-      "TEDPAYSAYISI": 50082160.0,
-      "KISISAYISI": 701.0,
-      "PORTFOYBUYUKLUK": 55791543.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3215,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118795,
-      "TEDPAYSAYISI": 50052665.0,
-      "KISISAYISI": 699.0,
-      "PORTFOYBUYUKLUK": 55998677.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3225,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107385,
-      "TEDPAYSAYISI": 49444809.0,
-      "KISISAYISI": 706.0,
-      "PORTFOYBUYUKLUK": 54754426.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3235,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112604,
-      "TEDPAYSAYISI": 49387866.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 54949154.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3245,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128623,
-      "TEDPAYSAYISI": 49408829.0,
-      "KISISAYISI": 710.0,
-      "PORTFOYBUYUKLUK": 55763940.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3255,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117178,
-      "TEDPAYSAYISI": 49412737.0,
-      "KISISAYISI": 710.0,
-      "PORTFOYBUYUKLUK": 55202828.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3265,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101026,
-      "TEDPAYSAYISI": 48901198.0,
-      "KISISAYISI": 714.0,
-      "PORTFOYBUYUKLUK": 53841482.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3275,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080577,
-      "TEDPAYSAYISI": 48879420.0,
-      "KISISAYISI": 712.0,
-      "PORTFOYBUYUKLUK": 52817960.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3285,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0885,
-      "TEDPAYSAYISI": 49153813.0,
-      "KISISAYISI": 710.0,
-      "PORTFOYBUYUKLUK": 53503937.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3295,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.090515,
-      "TEDPAYSAYISI": 49096339.0,
-      "KISISAYISI": 707.0,
-      "PORTFOYBUYUKLUK": 53540296.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3305,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081156,
-      "TEDPAYSAYISI": 48752411.0,
-      "KISISAYISI": 707.0,
-      "PORTFOYBUYUKLUK": 52708953.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3315,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092319,
-      "TEDPAYSAYISI": 49125867.0,
-      "KISISAYISI": 707.0,
-      "PORTFOYBUYUKLUK": 53661101.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3325,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093786,
-      "TEDPAYSAYISI": 49111394.0,
-      "KISISAYISI": 704.0,
-      "PORTFOYBUYUKLUK": 53717375.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3335,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114037,
-      "TEDPAYSAYISI": 49203671.0,
-      "KISISAYISI": 704.0,
-      "PORTFOYBUYUKLUK": 54814703.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3345,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120439,
-      "TEDPAYSAYISI": 49467156.0,
-      "KISISAYISI": 710.0,
-      "PORTFOYBUYUKLUK": 55424954.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3355,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115018,
-      "TEDPAYSAYISI": 49425598.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 55110437.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3365,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11893,
-      "TEDPAYSAYISI": 49362328.0,
-      "KISISAYISI": 717.0,
-      "PORTFOYBUYUKLUK": 55232973.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3375,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126542,
-      "TEDPAYSAYISI": 49944087.0,
-      "KISISAYISI": 716.0,
-      "PORTFOYBUYUKLUK": 56264096.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3385,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131334,
-      "TEDPAYSAYISI": 49853795.0,
-      "KISISAYISI": 713.0,
-      "PORTFOYBUYUKLUK": 56401301.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3395,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140879,
-      "TEDPAYSAYISI": 49828531.0,
-      "KISISAYISI": 711.0,
-      "PORTFOYBUYUKLUK": 56848313.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3405,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13877,
-      "TEDPAYSAYISI": 50115470.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 57069973.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3415,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166738,
-      "TEDPAYSAYISI": 50352622.0,
-      "KISISAYISI": 715.0,
-      "PORTFOYBUYUKLUK": 58748332.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3425,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170376,
-      "TEDPAYSAYISI": 50404345.0,
-      "KISISAYISI": 722.0,
-      "PORTFOYBUYUKLUK": 58992021.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3435,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163603,
-      "TEDPAYSAYISI": 50942707.0,
-      "KISISAYISI": 722.0,
-      "PORTFOYBUYUKLUK": 59277107.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3445,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14893,
-      "TEDPAYSAYISI": 51111280.0,
-      "KISISAYISI": 729.0,
-      "PORTFOYBUYUKLUK": 58723288.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3455,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156955,
-      "TEDPAYSAYISI": 53657172.0,
-      "KISISAYISI": 736.0,
-      "PORTFOYBUYUKLUK": 62078939.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3375,9 +3465,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169641,
-      "TEDPAYSAYISI": 53692577.0,
-      "KISISAYISI": 737.0,
-      "PORTFOYBUYUKLUK": 62801031.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3385,9 +3475,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178615,
-      "TEDPAYSAYISI": 53647120.0,
-      "KISISAYISI": 752.0,
-      "PORTFOYBUYUKLUK": 63229310.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3395,9 +3485,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173236,
-      "TEDPAYSAYISI": 52329680.0,
-      "KISISAYISI": 748.0,
-      "PORTFOYBUYUKLUK": 61395039.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3405,9 +3495,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176302,
-      "TEDPAYSAYISI": 53903680.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 63406984.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3415,9 +3505,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19148,
-      "TEDPAYSAYISI": 53948024.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 64278001.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3425,9 +3515,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206591,
-      "TEDPAYSAYISI": 53871601.0,
-      "KISISAYISI": 756.0,
-      "PORTFOYBUYUKLUK": 65000999.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3435,9 +3525,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194782,
-      "TEDPAYSAYISI": 55220069.0,
-      "KISISAYISI": 768.0,
-      "PORTFOYBUYUKLUK": 65975917.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3445,9 +3535,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192105,
-      "TEDPAYSAYISI": 55385484.0,
-      "KISISAYISI": 780.0,
-      "PORTFOYBUYUKLUK": 66025315.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3455,9 +3545,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195517,
-      "TEDPAYSAYISI": 55469785.0,
-      "KISISAYISI": 779.0,
-      "PORTFOYBUYUKLUK": 66315044.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3465,9 +3555,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192883,
-      "TEDPAYSAYISI": 55363783.0,
-      "KISISAYISI": 785.0,
-      "PORTFOYBUYUKLUK": 66042511.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3475,9 +3565,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18447,
-      "TEDPAYSAYISI": 55344998.0,
-      "KISISAYISI": 785.0,
-      "PORTFOYBUYUKLUK": 65554498.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3485,9 +3575,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179469,
-      "TEDPAYSAYISI": 55482549.0,
-      "KISISAYISI": 783.0,
-      "PORTFOYBUYUKLUK": 65439954.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3495,9 +3585,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185684,
-      "TEDPAYSAYISI": 54403406.0,
-      "KISISAYISI": 783.0,
-      "PORTFOYBUYUKLUK": 64505234.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3505,9 +3595,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180378,
-      "TEDPAYSAYISI": 54286603.0,
-      "KISISAYISI": 777.0,
-      "PORTFOYBUYUKLUK": 64078715.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3515,9 +3605,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173509,
-      "TEDPAYSAYISI": 54239274.0,
-      "KISISAYISI": 770.0,
-      "PORTFOYBUYUKLUK": 63650283.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3525,9 +3615,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169264,
-      "TEDPAYSAYISI": 54111683.0,
-      "KISISAYISI": 774.0,
-      "PORTFOYBUYUKLUK": 63270819.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3535,9 +3625,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176727,
-      "TEDPAYSAYISI": 52434130.0,
-      "KISISAYISI": 776.0,
-      "PORTFOYBUYUKLUK": 61700643.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3545,9 +3635,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182176,
-      "TEDPAYSAYISI": 51539440.0,
-      "KISISAYISI": 772.0,
-      "PORTFOYBUYUKLUK": 60928674.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3555,9 +3645,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205711,
-      "TEDPAYSAYISI": 52202841.0,
-      "KISISAYISI": 770.0,
-      "PORTFOYBUYUKLUK": 62941552.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3565,9 +3655,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.223332,
-      "TEDPAYSAYISI": 51875365.0,
-      "KISISAYISI": 772.0,
-      "PORTFOYBUYUKLUK": 63460783.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3575,9 +3665,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253155,
-      "TEDPAYSAYISI": 53000690.0,
-      "KISISAYISI": 787.0,
-      "PORTFOYBUYUKLUK": 66418100.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3585,9 +3675,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250833,
-      "TEDPAYSAYISI": 54772245.0,
-      "KISISAYISI": 786.0,
-      "PORTFOYBUYUKLUK": 68510932.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3595,9 +3685,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260599,
-      "TEDPAYSAYISI": 54444339.0,
-      "KISISAYISI": 799.0,
-      "PORTFOYBUYUKLUK": 68632493.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3605,9 +3695,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266404,
-      "TEDPAYSAYISI": 55773643.0,
-      "KISISAYISI": 808.0,
-      "PORTFOYBUYUKLUK": 70631959.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3615,9 +3705,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271513,
-      "TEDPAYSAYISI": 56368550.0,
-      "KISISAYISI": 818.0,
-      "PORTFOYBUYUKLUK": 71673343.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3625,9 +3715,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283071,
-      "TEDPAYSAYISI": 56232302.0,
-      "KISISAYISI": 832.0,
-      "PORTFOYBUYUKLUK": 72150038.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3635,9 +3725,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289959,
-      "TEDPAYSAYISI": 54547748.0,
-      "KISISAYISI": 835.0,
-      "PORTFOYBUYUKLUK": 70364332.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3645,9 +3735,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.303654,
-      "TEDPAYSAYISI": 54989630.0,
-      "KISISAYISI": 839.0,
-      "PORTFOYBUYUKLUK": 71687465.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3655,9 +3745,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331372,
-      "TEDPAYSAYISI": 56128670.0,
-      "KISISAYISI": 857.0,
-      "PORTFOYBUYUKLUK": 74728121.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3665,9 +3755,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.33175,
-      "TEDPAYSAYISI": 56613550.0,
-      "KISISAYISI": 867.0,
-      "PORTFOYBUYUKLUK": 75395108.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3675,9 +3765,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.320338,
-      "TEDPAYSAYISI": 59298600.0,
-      "KISISAYISI": 909.0,
-      "PORTFOYBUYUKLUK": 78294201.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3685,9 +3775,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.315975,
-      "TEDPAYSAYISI": 60048464.0,
-      "KISISAYISI": 934.0,
-      "PORTFOYBUYUKLUK": 79022294.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3695,9 +3785,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331635,
-      "TEDPAYSAYISI": 60671549.0,
-      "KISISAYISI": 946.0,
-      "PORTFOYBUYUKLUK": 80792344.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3705,9 +3795,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.346927,
-      "TEDPAYSAYISI": 62144415.0,
-      "KISISAYISI": 948.0,
-      "PORTFOYBUYUKLUK": 83703988.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3715,9 +3805,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.366356,
-      "TEDPAYSAYISI": 62044512.0,
-      "KISISAYISI": 961.0,
-      "PORTFOYBUYUKLUK": 84774910.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3725,9 +3815,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358016,
-      "TEDPAYSAYISI": 61117319.0,
-      "KISISAYISI": 985.0,
-      "PORTFOYBUYUKLUK": 82998313.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3735,9 +3825,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.382331,
-      "TEDPAYSAYISI": 62953804.0,
-      "KISISAYISI": 1002.0,
-      "PORTFOYBUYUKLUK": 87022974.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3745,9 +3835,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.407506,
-      "TEDPAYSAYISI": 69986409.0,
-      "KISISAYISI": 1024.0,
-      "PORTFOYBUYUKLUK": 98506312.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3755,9 +3845,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.419171,
-      "TEDPAYSAYISI": 71096734.0,
-      "KISISAYISI": 1034.0,
-      "PORTFOYBUYUKLUK": 100898418.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3765,9 +3855,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.410647,
-      "TEDPAYSAYISI": 71930679.0,
-      "KISISAYISI": 1048.0,
-      "PORTFOYBUYUKLUK": 101468810.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3775,9 +3865,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.437832,
-      "TEDPAYSAYISI": 76478261.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 109962879.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3785,9 +3875,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.432989,
-      "TEDPAYSAYISI": 77649548.0,
-      "KISISAYISI": 1083.0,
-      "PORTFOYBUYUKLUK": 111270913.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3795,9 +3885,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.406066,
-      "TEDPAYSAYISI": 78998836.0,
-      "KISISAYISI": 1101.0,
-      "PORTFOYBUYUKLUK": 111077606.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3805,9 +3895,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.405133,
-      "TEDPAYSAYISI": 81654840.0,
-      "KISISAYISI": 1124.0,
-      "PORTFOYBUYUKLUK": 114735870.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3815,9 +3905,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.440038,
-      "TEDPAYSAYISI": 77370556.0,
-      "KISISAYISI": 1132.0,
-      "PORTFOYBUYUKLUK": 111416550.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3825,9 +3915,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.428082,
-      "TEDPAYSAYISI": 78184960.0,
-      "KISISAYISI": 1134.0,
-      "PORTFOYBUYUKLUK": 111654510.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3835,9 +3925,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.437777,
-      "TEDPAYSAYISI": 100107659.0,
-      "KISISAYISI": 1142.0,
-      "PORTFOYBUYUKLUK": 143932461.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3845,9 +3935,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.484436,
-      "TEDPAYSAYISI": 100183491.0,
-      "KISISAYISI": 1157.0,
-      "PORTFOYBUYUKLUK": 148715988.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3855,9 +3945,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.489939,
-      "TEDPAYSAYISI": 100558139.0,
-      "KISISAYISI": 1163.0,
-      "PORTFOYBUYUKLUK": 149825477.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3865,9 +3955,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.502589,
-      "TEDPAYSAYISI": 115444876.0,
-      "KISISAYISI": 1170.0,
-      "PORTFOYBUYUKLUK": 173466152.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3875,9 +3965,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.483657,
-      "TEDPAYSAYISI": 117538433.0,
-      "KISISAYISI": 1218.0,
-      "PORTFOYBUYUKLUK": 174386755.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3885,9 +3975,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.467265,
-      "TEDPAYSAYISI": 119362746.0,
-      "KISISAYISI": 1266.0,
-      "PORTFOYBUYUKLUK": 175136782.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3895,9 +3985,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.412752,
-      "TEDPAYSAYISI": 121247910.0,
-      "KISISAYISI": 1288.0,
-      "PORTFOYBUYUKLUK": 171293217.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3905,9 +3995,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.427202,
-      "TEDPAYSAYISI": 122680053.0,
-      "KISISAYISI": 1290.0,
-      "PORTFOYBUYUKLUK": 175089266.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3915,9 +4005,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.434959,
-      "TEDPAYSAYISI": 118575234.0,
-      "KISISAYISI": 1288.0,
-      "PORTFOYBUYUKLUK": 170150587.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3925,9 +4015,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.424853,
-      "TEDPAYSAYISI": 97526731.0,
-      "KISISAYISI": 1291.0,
-      "PORTFOYBUYUKLUK": 138961250.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3935,9 +4025,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.4092,
-      "TEDPAYSAYISI": 96190557.0,
-      "KISISAYISI": 1281.0,
-      "PORTFOYBUYUKLUK": 135551745.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3945,9 +4035,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.417537,
-      "TEDPAYSAYISI": 95952140.0,
-      "KISISAYISI": 1277.0,
-      "PORTFOYBUYUKLUK": 136015701.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3955,9 +4045,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390971,
-      "TEDPAYSAYISI": 95210716.0,
-      "KISISAYISI": 1274.0,
-      "PORTFOYBUYUKLUK": 132435362.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3965,9 +4055,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.351971,
-      "TEDPAYSAYISI": 95358839.0,
-      "KISISAYISI": 1266.0,
-      "PORTFOYBUYUKLUK": 128922420.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3975,9 +4065,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.314616,
-      "TEDPAYSAYISI": 91069800.0,
-      "KISISAYISI": 1265.0,
-      "PORTFOYBUYUKLUK": 119721857.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3985,9 +4075,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.319494,
-      "TEDPAYSAYISI": 86777060.0,
-      "KISISAYISI": 1237.0,
-      "PORTFOYBUYUKLUK": 114501843.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3995,9 +4085,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.328227,
-      "TEDPAYSAYISI": 85237623.0,
-      "KISISAYISI": 1226.0,
-      "PORTFOYBUYUKLUK": 113214889.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4005,9 +4095,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287733,
-      "TEDPAYSAYISI": 85019093.0,
-      "KISISAYISI": 1213.0,
-      "PORTFOYBUYUKLUK": 109481925.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4015,9 +4105,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.285344,
-      "TEDPAYSAYISI": 85634113.0,
-      "KISISAYISI": 1213.0,
-      "PORTFOYBUYUKLUK": 110069262.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4025,9 +4115,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.340234,
-      "TEDPAYSAYISI": 84096824.0,
-      "KISISAYISI": 1211.0,
-      "PORTFOYBUYUKLUK": 112709409.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4035,9 +4125,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.330631,
-      "TEDPAYSAYISI": 83544134.0,
-      "KISISAYISI": 1201.0,
-      "PORTFOYBUYUKLUK": 111166455.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4045,9 +4135,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.328446,
-      "TEDPAYSAYISI": 83594450.0,
-      "KISISAYISI": 1198.0,
-      "PORTFOYBUYUKLUK": 111050738.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4055,9 +4145,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.316504,
-      "TEDPAYSAYISI": 83497504.0,
-      "KISISAYISI": 1200.0,
-      "PORTFOYBUYUKLUK": 109924787.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4065,9 +4155,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306956,
-      "TEDPAYSAYISI": 83694636.0,
-      "KISISAYISI": 1194.0,
-      "PORTFOYBUYUKLUK": 109385202.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4075,9 +4165,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.333398,
-      "TEDPAYSAYISI": 85160392.0,
-      "KISISAYISI": 1193.0,
-      "PORTFOYBUYUKLUK": 113552691.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4085,9 +4175,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.322798,
-      "TEDPAYSAYISI": 85625537.0,
-      "KISISAYISI": 1192.0,
-      "PORTFOYBUYUKLUK": 113265268.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4095,9 +4185,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.322938,
-      "TEDPAYSAYISI": 85714040.0,
-      "KISISAYISI": 1186.0,
-      "PORTFOYBUYUKLUK": 113394400.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4105,9 +4195,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.327319,
-      "TEDPAYSAYISI": 85341275.0,
-      "KISISAYISI": 1182.0,
-      "PORTFOYBUYUKLUK": 113275128.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4115,9 +4205,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301463,
-      "TEDPAYSAYISI": 85026451.0,
-      "KISISAYISI": 1191.0,
-      "PORTFOYBUYUKLUK": 110658777.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4125,9 +4215,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.310593,
-      "TEDPAYSAYISI": 84854827.0,
-      "KISISAYISI": 1180.0,
-      "PORTFOYBUYUKLUK": 111210163.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4135,9 +4225,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296672,
-      "TEDPAYSAYISI": 82921313.0,
-      "KISISAYISI": 1172.0,
-      "PORTFOYBUYUKLUK": 107521755.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4145,9 +4235,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295196,
-      "TEDPAYSAYISI": 82298396.0,
-      "KISISAYISI": 1168.0,
-      "PORTFOYBUYUKLUK": 106592520.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4155,9 +4245,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278188,
-      "TEDPAYSAYISI": 82319096.0,
-      "KISISAYISI": 1158.0,
-      "PORTFOYBUYUKLUK": 105219282.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4165,9 +4255,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295388,
-      "TEDPAYSAYISI": 81926780.0,
-      "KISISAYISI": 1157.0,
-      "PORTFOYBUYUKLUK": 106126971.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4175,9 +4265,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.315465,
-      "TEDPAYSAYISI": 81854476.0,
-      "KISISAYISI": 1151.0,
-      "PORTFOYBUYUKLUK": 107676673.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4185,9 +4275,9 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.318405,
-      "TEDPAYSAYISI": 81699708.0,
-      "KISISAYISI": 1140.0,
-      "PORTFOYBUYUKLUK": 107713325.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -4195,9 +4285,139 @@
       "FONKODU": "ZHH",
       "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306117,
-      "TEDPAYSAYISI": 81090542.0,
-      "KISISAYISI": 1135.0,
-      "PORTFOYBUYUKLUK": 105913711.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.320909,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.298378,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.368423,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.379199,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.417574,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.402244,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.416532,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.415947,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.408641,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.450791,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.432648,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.421216,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "ZHH",
+      "FONUNVAN": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.410823,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

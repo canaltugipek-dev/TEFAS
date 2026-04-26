@@ -2,22 +2,292 @@
   "fon_kodu": "GNH",
   "fon_unvan": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 232,
-  "gun_kapsami": 334,
+  "kayit_sayisi": 272,
+  "gun_kapsami": 395,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1742860800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742947200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743033600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743120000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743552000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743638400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743724800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743984000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744070400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744156800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744243200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744329600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744588800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744675200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744761600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744848000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744934400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745193600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745280000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745452800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745539200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745798400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745884800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1745971200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746144000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746403200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1746489600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1746576000000",
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995498,
-      "TEDPAYSAYISI": 1000000.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 995498.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +295,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984631,
-      "TEDPAYSAYISI": 1065826.0,
-      "KISISAYISI": 5.0,
-      "PORTFOYBUYUKLUK": 1049445.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +305,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998071,
-      "TEDPAYSAYISI": 1072706.0,
-      "KISISAYISI": 7.0,
-      "PORTFOYBUYUKLUK": 1070636.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +315,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006585,
-      "TEDPAYSAYISI": 1072955.0,
-      "KISISAYISI": 8.0,
-      "PORTFOYBUYUKLUK": 1080020.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +325,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026336,
-      "TEDPAYSAYISI": 1092823.0,
-      "KISISAYISI": 9.0,
-      "PORTFOYBUYUKLUK": 1121603.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +335,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028556,
-      "TEDPAYSAYISI": 1111849.0,
-      "KISISAYISI": 15.0,
-      "PORTFOYBUYUKLUK": 1143599.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +345,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030923,
-      "TEDPAYSAYISI": 1396323.0,
-      "KISISAYISI": 22.0,
-      "PORTFOYBUYUKLUK": 1439501.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +355,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019284,
-      "TEDPAYSAYISI": 1396223.0,
-      "KISISAYISI": 22.0,
-      "PORTFOYBUYUKLUK": 1423148.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +365,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029068,
-      "TEDPAYSAYISI": 1510735.0,
-      "KISISAYISI": 27.0,
-      "PORTFOYBUYUKLUK": 1554649.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +375,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025668,
-      "TEDPAYSAYISI": 1486313.0,
-      "KISISAYISI": 28.0,
-      "PORTFOYBUYUKLUK": 1524463.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +385,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022898,
-      "TEDPAYSAYISI": 1495387.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 1529628.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +395,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.027794,
-      "TEDPAYSAYISI": 1478187.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 1519271.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +405,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02065,
-      "TEDPAYSAYISI": 1515152.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 1546440.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +415,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018317,
-      "TEDPAYSAYISI": 1516353.0,
-      "KISISAYISI": 31.0,
-      "PORTFOYBUYUKLUK": 1544128.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +425,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005927,
-      "TEDPAYSAYISI": 1521461.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 1530478.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +435,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994714,
-      "TEDPAYSAYISI": 1521562.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 1513518.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +445,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994171,
-      "TEDPAYSAYISI": 1519802.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 1510943.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +455,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982657,
-      "TEDPAYSAYISI": 1520208.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 1493843.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +465,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974285,
-      "TEDPAYSAYISI": 1520781.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 1481674.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +475,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993835,
-      "TEDPAYSAYISI": 1522471.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 1513084.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +485,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013871,
-      "TEDPAYSAYISI": 1473617.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 1494057.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +495,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018024,
-      "TEDPAYSAYISI": 1473617.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 1500176.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +505,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036354,
-      "TEDPAYSAYISI": 1475928.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 1529583.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +515,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043147,
-      "TEDPAYSAYISI": 1471218.0,
-      "KISISAYISI": 38.0,
-      "PORTFOYBUYUKLUK": 1534696.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +525,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028945,
-      "TEDPAYSAYISI": 1471432.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 1514022.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +535,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001085,
-      "TEDPAYSAYISI": 1491402.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 1493020.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +545,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013347,
-      "TEDPAYSAYISI": 1523460.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 1543793.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +555,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017972,
-      "TEDPAYSAYISI": 1523765.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 1551149.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +565,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008482,
-      "TEDPAYSAYISI": 1523863.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 1536788.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +575,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00229,
-      "TEDPAYSAYISI": 1525035.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 1528526.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +585,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01149,
-      "TEDPAYSAYISI": 1525134.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 1542657.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +595,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002713,
-      "TEDPAYSAYISI": 1525335.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 1529472.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +605,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033797,
-      "TEDPAYSAYISI": 1544743.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 1596951.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +615,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040807,
-      "TEDPAYSAYISI": 1545220.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 1608276.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +625,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035585,
-      "TEDPAYSAYISI": 1545316.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 1600305.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +635,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034491,
-      "TEDPAYSAYISI": 1546248.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 1599579.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +645,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064893,
-      "TEDPAYSAYISI": 1546643.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 1647008.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +655,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077455,
-      "TEDPAYSAYISI": 1493678.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 1609371.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +665,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080656,
-      "TEDPAYSAYISI": 1493594.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 1614060.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +675,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091019,
-      "TEDPAYSAYISI": 1499235.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 1635694.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +685,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094396,
-      "TEDPAYSAYISI": 2506248.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 2742828.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +695,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092638,
-      "TEDPAYSAYISI": 5543363.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 6056889.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +705,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0823,
-      "TEDPAYSAYISI": 5550526.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 6007334.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +715,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096097,
-      "TEDPAYSAYISI": 5625940.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 6166573.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +725,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107177,
-      "TEDPAYSAYISI": 5648721.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 6254134.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +735,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110143,
-      "TEDPAYSAYISI": 5795161.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 6433458.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +745,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115576,
-      "TEDPAYSAYISI": 6100068.0,
-      "KISISAYISI": 65.0,
-      "PORTFOYBUYUKLUK": 6805089.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +755,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111856,
-      "TEDPAYSAYISI": 6199847.0,
-      "KISISAYISI": 67.0,
-      "PORTFOYBUYUKLUK": 6893336.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +765,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.139504,
-      "TEDPAYSAYISI": 6211917.0,
-      "KISISAYISI": 74.0,
-      "PORTFOYBUYUKLUK": 7078505.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +775,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150864,
-      "TEDPAYSAYISI": 6261158.0,
-      "KISISAYISI": 78.0,
-      "PORTFOYBUYUKLUK": 7205739.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +785,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173298,
-      "TEDPAYSAYISI": 6859961.0,
-      "KISISAYISI": 82.0,
-      "PORTFOYBUYUKLUK": 8048778.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +795,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180109,
-      "TEDPAYSAYISI": 7215632.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 8515233.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +805,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175422,
-      "TEDPAYSAYISI": 7950501.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 9345192.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +815,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.184266,
-      "TEDPAYSAYISI": 8739616.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 10350033.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +825,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180746,
-      "TEDPAYSAYISI": 9029880.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 10661998.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +835,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189572,
-      "TEDPAYSAYISI": 8910410.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 10599573.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +845,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192435,
-      "TEDPAYSAYISI": 8963445.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 10688323.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +855,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191175,
-      "TEDPAYSAYISI": 10354786.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 12334364.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +865,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208873,
-      "TEDPAYSAYISI": 11610678.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 14035838.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +875,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212892,
-      "TEDPAYSAYISI": 13558380.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 16444854.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +885,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226384,
-      "TEDPAYSAYISI": 14866171.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 18231629.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +895,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235092,
-      "TEDPAYSAYISI": 15499288.0,
-      "KISISAYISI": 285.0,
-      "PORTFOYBUYUKLUK": 19143040.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +905,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231162,
-      "TEDPAYSAYISI": 21377663.0,
-      "KISISAYISI": 307.0,
-      "PORTFOYBUYUKLUK": 26319372.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +915,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240217,
-      "TEDPAYSAYISI": 24664920.0,
-      "KISISAYISI": 324.0,
-      "PORTFOYBUYUKLUK": 30589862.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +925,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23452,
-      "TEDPAYSAYISI": 26536568.0,
-      "KISISAYISI": 340.0,
-      "PORTFOYBUYUKLUK": 32759922.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +935,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24387,
-      "TEDPAYSAYISI": 27781338.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 34556383.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +945,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239632,
-      "TEDPAYSAYISI": 29527166.0,
-      "KISISAYISI": 375.0,
-      "PORTFOYBUYUKLUK": 36602829.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +955,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238273,
-      "TEDPAYSAYISI": 31052724.0,
-      "KISISAYISI": 390.0,
-      "PORTFOYBUYUKLUK": 38451747.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +965,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232218,
-      "TEDPAYSAYISI": 31627754.0,
-      "KISISAYISI": 400.0,
-      "PORTFOYBUYUKLUK": 38972298.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +975,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249355,
-      "TEDPAYSAYISI": 31732764.0,
-      "KISISAYISI": 405.0,
-      "PORTFOYBUYUKLUK": 39645492.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +985,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258761,
-      "TEDPAYSAYISI": 30925239.0,
-      "KISISAYISI": 417.0,
-      "PORTFOYBUYUKLUK": 38927478.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +995,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257213,
-      "TEDPAYSAYISI": 31878424.0,
-      "KISISAYISI": 434.0,
-      "PORTFOYBUYUKLUK": 40077961.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +1005,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.263629,
-      "TEDPAYSAYISI": 32792546.0,
-      "KISISAYISI": 463.0,
-      "PORTFOYBUYUKLUK": 41437595.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +1015,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282563,
-      "TEDPAYSAYISI": 33119831.0,
-      "KISISAYISI": 487.0,
-      "PORTFOYBUYUKLUK": 42478278.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +1025,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287546,
-      "TEDPAYSAYISI": 34168942.0,
-      "KISISAYISI": 498.0,
-      "PORTFOYBUYUKLUK": 43994071.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +1035,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.304691,
-      "TEDPAYSAYISI": 36181929.0,
-      "KISISAYISI": 520.0,
-      "PORTFOYBUYUKLUK": 47206230.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +1045,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301734,
-      "TEDPAYSAYISI": 35937788.0,
-      "KISISAYISI": 546.0,
-      "PORTFOYBUYUKLUK": 46781427.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +1055,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283518,
-      "TEDPAYSAYISI": 37158122.0,
-      "KISISAYISI": 564.0,
-      "PORTFOYBUYUKLUK": 47693135.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +1065,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286739,
-      "TEDPAYSAYISI": 39526907.0,
-      "KISISAYISI": 573.0,
-      "PORTFOYBUYUKLUK": 50860827.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1075,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279221,
-      "TEDPAYSAYISI": 39708131.0,
-      "KISISAYISI": 580.0,
-      "PORTFOYBUYUKLUK": 50795459.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1085,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290536,
-      "TEDPAYSAYISI": 38982994.0,
-      "KISISAYISI": 587.0,
-      "PORTFOYBUYUKLUK": 50308956.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1095,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258274,
-      "TEDPAYSAYISI": 39671769.0,
-      "KISISAYISI": 592.0,
-      "PORTFOYBUYUKLUK": 49917961.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1105,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258333,
-      "TEDPAYSAYISI": 40287712.0,
-      "KISISAYISI": 591.0,
-      "PORTFOYBUYUKLUK": 50695354.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1115,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280157,
-      "TEDPAYSAYISI": 36847724.0,
-      "KISISAYISI": 594.0,
-      "PORTFOYBUYUKLUK": 47170861.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1125,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26615,
-      "TEDPAYSAYISI": 36621650.0,
-      "KISISAYISI": 567.0,
-      "PORTFOYBUYUKLUK": 46368508.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1135,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.232114,
-      "TEDPAYSAYISI": 36503155.0,
-      "KISISAYISI": 561.0,
-      "PORTFOYBUYUKLUK": 44976061.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1145,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235161,
-      "TEDPAYSAYISI": 35468956.0,
-      "KISISAYISI": 559.0,
-      "PORTFOYBUYUKLUK": 43809873.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1155,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235052,
-      "TEDPAYSAYISI": 34092551.0,
-      "KISISAYISI": 540.0,
-      "PORTFOYBUYUKLUK": 42106076.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1165,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210139,
-      "TEDPAYSAYISI": 33239307.0,
-      "KISISAYISI": 528.0,
-      "PORTFOYBUYUKLUK": 40224194.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1175,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205161,
-      "TEDPAYSAYISI": 32758065.0,
-      "KISISAYISI": 522.0,
-      "PORTFOYBUYUKLUK": 39478732.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1185,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260717,
-      "TEDPAYSAYISI": 32075893.0,
-      "KISISAYISI": 505.0,
-      "PORTFOYBUYUKLUK": 40438637.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1195,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286138,
-      "TEDPAYSAYISI": 29603110.0,
-      "KISISAYISI": 500.0,
-      "PORTFOYBUYUKLUK": 38073681.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1205,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282915,
-      "TEDPAYSAYISI": 29891797.0,
-      "KISISAYISI": 499.0,
-      "PORTFOYBUYUKLUK": 38348646.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1215,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.279859,
-      "TEDPAYSAYISI": 29710558.0,
-      "KISISAYISI": 496.0,
-      "PORTFOYBUYUKLUK": 38025312.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1225,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291771,
-      "TEDPAYSAYISI": 29199540.0,
-      "KISISAYISI": 492.0,
-      "PORTFOYBUYUKLUK": 37719131.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1235,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309313,
-      "TEDPAYSAYISI": 27465198.0,
-      "KISISAYISI": 487.0,
-      "PORTFOYBUYUKLUK": 35960534.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1245,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295835,
-      "TEDPAYSAYISI": 27639869.0,
-      "KISISAYISI": 486.0,
-      "PORTFOYBUYUKLUK": 35816708.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1255,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296038,
-      "TEDPAYSAYISI": 28207706.0,
-      "KISISAYISI": 481.0,
-      "PORTFOYBUYUKLUK": 36558256.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1265,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.292507,
-      "TEDPAYSAYISI": 27712777.0,
-      "KISISAYISI": 476.0,
-      "PORTFOYBUYUKLUK": 35818945.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1275,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277423,
-      "TEDPAYSAYISI": 27057354.0,
-      "KISISAYISI": 466.0,
-      "PORTFOYBUYUKLUK": 34563689.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1285,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261793,
-      "TEDPAYSAYISI": 26761225.0,
-      "KISISAYISI": 459.0,
-      "PORTFOYBUYUKLUK": 33767129.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1295,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255951,
-      "TEDPAYSAYISI": 26405269.0,
-      "KISISAYISI": 457.0,
-      "PORTFOYBUYUKLUK": 33163728.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1305,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269755,
-      "TEDPAYSAYISI": 26101448.0,
-      "KISISAYISI": 447.0,
-      "PORTFOYBUYUKLUK": 33142445.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1315,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260814,
-      "TEDPAYSAYISI": 25735891.0,
-      "KISISAYISI": 434.0,
-      "PORTFOYBUYUKLUK": 32448174.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1325,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253375,
-      "TEDPAYSAYISI": 25511986.0,
-      "KISISAYISI": 432.0,
-      "PORTFOYBUYUKLUK": 31976093.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1335,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243719,
-      "TEDPAYSAYISI": 26060209.0,
-      "KISISAYISI": 430.0,
-      "PORTFOYBUYUKLUK": 32411568.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1345,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256352,
-      "TEDPAYSAYISI": 23456689.0,
-      "KISISAYISI": 429.0,
-      "PORTFOYBUYUKLUK": 29469863.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1355,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25242,
-      "TEDPAYSAYISI": 24913871.0,
-      "KISISAYISI": 417.0,
-      "PORTFOYBUYUKLUK": 31202632.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1365,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257805,
-      "TEDPAYSAYISI": 24597993.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 30939486.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1375,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.263374,
-      "TEDPAYSAYISI": 24002468.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 30324083.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1385,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243982,
-      "TEDPAYSAYISI": 24580677.0,
-      "KISISAYISI": 407.0,
-      "PORTFOYBUYUKLUK": 30577917.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1395,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219332,
-      "TEDPAYSAYISI": 23426153.0,
-      "KISISAYISI": 410.0,
-      "PORTFOYBUYUKLUK": 28564247.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1405,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239149,
-      "TEDPAYSAYISI": 20724350.0,
-      "KISISAYISI": 404.0,
-      "PORTFOYBUYUKLUK": 25680555.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1415,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.228387,
-      "TEDPAYSAYISI": 19333752.0,
-      "KISISAYISI": 396.0,
-      "PORTFOYBUYUKLUK": 23749322.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1425,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.20969,
-      "TEDPAYSAYISI": 18854304.0,
-      "KISISAYISI": 390.0,
-      "PORTFOYBUYUKLUK": 22807869.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1435,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231037,
-      "TEDPAYSAYISI": 19113449.0,
-      "KISISAYISI": 384.0,
-      "PORTFOYBUYUKLUK": 23529353.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1445,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231903,
-      "TEDPAYSAYISI": 17873355.0,
-      "KISISAYISI": 381.0,
-      "PORTFOYBUYUKLUK": 22018233.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1455,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233934,
-      "TEDPAYSAYISI": 17864281.0,
-      "KISISAYISI": 374.0,
-      "PORTFOYBUYUKLUK": 22043346.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1465,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237221,
-      "TEDPAYSAYISI": 17547054.0,
-      "KISISAYISI": 372.0,
-      "PORTFOYBUYUKLUK": 21709581.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1475,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.270969,
-      "TEDPAYSAYISI": 17864847.0,
-      "KISISAYISI": 369.0,
-      "PORTFOYBUYUKLUK": 22705658.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1485,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269065,
-      "TEDPAYSAYISI": 17856555.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 22661123.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1495,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269383,
-      "TEDPAYSAYISI": 17667455.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 22426760.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1505,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286782,
-      "TEDPAYSAYISI": 17754204.0,
-      "KISISAYISI": 365.0,
-      "PORTFOYBUYUKLUK": 22845791.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1515,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.304046,
-      "TEDPAYSAYISI": 17442290.0,
-      "KISISAYISI": 366.0,
-      "PORTFOYBUYUKLUK": 22745556.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1525,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.32075,
-      "TEDPAYSAYISI": 17560220.0,
-      "KISISAYISI": 365.0,
-      "PORTFOYBUYUKLUK": 23192660.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1535,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311207,
-      "TEDPAYSAYISI": 16834052.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 22072929.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1545,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.314719,
-      "TEDPAYSAYISI": 16760220.0,
-      "KISISAYISI": 362.0,
-      "PORTFOYBUYUKLUK": 22034982.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1555,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.320449,
-      "TEDPAYSAYISI": 16450302.0,
-      "KISISAYISI": 359.0,
-      "PORTFOYBUYUKLUK": 21721781.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1565,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301667,
-      "TEDPAYSAYISI": 16362301.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 21298274.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1575,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291232,
-      "TEDPAYSAYISI": 16387795.0,
-      "KISISAYISI": 354.0,
-      "PORTFOYBUYUKLUK": 21160437.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1585,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258108,
-      "TEDPAYSAYISI": 16335390.0,
-      "KISISAYISI": 358.0,
-      "PORTFOYBUYUKLUK": 20551692.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1595,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251081,
-      "TEDPAYSAYISI": 14468294.0,
-      "KISISAYISI": 355.0,
-      "PORTFOYBUYUKLUK": 18101014.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1605,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254022,
-      "TEDPAYSAYISI": 14301705.0,
-      "KISISAYISI": 348.0,
-      "PORTFOYBUYUKLUK": 17934654.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1615,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24475,
-      "TEDPAYSAYISI": 13891919.0,
-      "KISISAYISI": 341.0,
-      "PORTFOYBUYUKLUK": 17291968.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1625,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268612,
-      "TEDPAYSAYISI": 13517491.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 17148446.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1635,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260834,
-      "TEDPAYSAYISI": 12992126.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 16380912.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1645,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264224,
-      "TEDPAYSAYISI": 10551742.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 13339769.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1655,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268847,
-      "TEDPAYSAYISI": 10541783.0,
-      "KISISAYISI": 325.0,
-      "PORTFOYBUYUKLUK": 13375905.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1665,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267321,
-      "TEDPAYSAYISI": 10375033.0,
-      "KISISAYISI": 322.0,
-      "PORTFOYBUYUKLUK": 13148492.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1675,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267034,
-      "TEDPAYSAYISI": 10214401.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 12941995.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1685,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249143,
-      "TEDPAYSAYISI": 10174130.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 12708942.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1695,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236376,
-      "TEDPAYSAYISI": 9821625.0,
-      "KISISAYISI": 320.0,
-      "PORTFOYBUYUKLUK": 12143223.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1705,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23849,
-      "TEDPAYSAYISI": 9759338.0,
-      "KISISAYISI": 316.0,
-      "PORTFOYBUYUKLUK": 12086845.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1715,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231343,
-      "TEDPAYSAYISI": 9768536.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 12028419.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1725,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25608,
-      "TEDPAYSAYISI": 9713672.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 12201148.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1735,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.258346,
-      "TEDPAYSAYISI": 9562809.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 12033321.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1745,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26045,
-      "TEDPAYSAYISI": 9549106.0,
-      "KISISAYISI": 303.0,
-      "PORTFOYBUYUKLUK": 12036168.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1755,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253622,
-      "TEDPAYSAYISI": 8252885.0,
-      "KISISAYISI": 303.0,
-      "PORTFOYBUYUKLUK": 10345999.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1765,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261501,
-      "TEDPAYSAYISI": 7757198.0,
-      "KISISAYISI": 301.0,
-      "PORTFOYBUYUKLUK": 9785714.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1775,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272721,
-      "TEDPAYSAYISI": 7710661.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 9813519.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1785,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276909,
-      "TEDPAYSAYISI": 7638251.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 9753350.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1795,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267292,
-      "TEDPAYSAYISI": 7579068.0,
-      "KISISAYISI": 292.0,
-      "PORTFOYBUYUKLUK": 9604893.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1805,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271946,
-      "TEDPAYSAYISI": 7120398.0,
-      "KISISAYISI": 290.0,
-      "PORTFOYBUYUKLUK": 9056762.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1815,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.273888,
-      "TEDPAYSAYISI": 7349707.0,
-      "KISISAYISI": 286.0,
-      "PORTFOYBUYUKLUK": 9362703.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1825,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282833,
-      "TEDPAYSAYISI": 7332340.0,
-      "KISISAYISI": 283.0,
-      "PORTFOYBUYUKLUK": 9406166.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1835,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.27853,
-      "TEDPAYSAYISI": 7321717.0,
-      "KISISAYISI": 285.0,
-      "PORTFOYBUYUKLUK": 9361032.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1845,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271914,
-      "TEDPAYSAYISI": 6632113.0,
-      "KISISAYISI": 281.0,
-      "PORTFOYBUYUKLUK": 8435474.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1855,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271565,
-      "TEDPAYSAYISI": 6656248.0,
-      "KISISAYISI": 275.0,
-      "PORTFOYBUYUKLUK": 8463851.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1865,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269387,
-      "TEDPAYSAYISI": 6401914.0,
-      "KISISAYISI": 272.0,
-      "PORTFOYBUYUKLUK": 8126507.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1875,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259578,
-      "TEDPAYSAYISI": 6490265.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 8174996.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1885,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257923,
-      "TEDPAYSAYISI": 6363896.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 8005288.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1895,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.255192,
-      "TEDPAYSAYISI": 5756090.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 7225000.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1905,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256661,
-      "TEDPAYSAYISI": 5144235.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 6464559.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1915,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257636,
-      "TEDPAYSAYISI": 5142372.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 6467234.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1925,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23795,
-      "TEDPAYSAYISI": 5145246.0,
-      "KISISAYISI": 249.0,
-      "PORTFOYBUYUKLUK": 6369557.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1935,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241193,
-      "TEDPAYSAYISI": 5020113.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 6230928.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1945,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246324,
-      "TEDPAYSAYISI": 5245404.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 6537474.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1955,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268567,
-      "TEDPAYSAYISI": 5243453.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 6651670.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1965,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276636,
-      "TEDPAYSAYISI": 5155981.0,
-      "KISISAYISI": 249.0,
-      "PORTFOYBUYUKLUK": 6582311.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1975,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.291618,
-      "TEDPAYSAYISI": 5151093.0,
-      "KISISAYISI": 246.0,
-      "PORTFOYBUYUKLUK": 6653245.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1985,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.281404,
-      "TEDPAYSAYISI": 5068943.0,
-      "KISISAYISI": 244.0,
-      "PORTFOYBUYUKLUK": 6495365.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1995,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.285039,
-      "TEDPAYSAYISI": 5045038.0,
-      "KISISAYISI": 242.0,
-      "PORTFOYBUYUKLUK": 6483070.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +2005,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.289558,
-      "TEDPAYSAYISI": 5038087.0,
-      "KISISAYISI": 241.0,
-      "PORTFOYBUYUKLUK": 6496903.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +2015,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295414,
-      "TEDPAYSAYISI": 4880266.0,
-      "KISISAYISI": 240.0,
-      "PORTFOYBUYUKLUK": 6321965.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +2025,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.307088,
-      "TEDPAYSAYISI": 5189931.0,
-      "KISISAYISI": 237.0,
-      "PORTFOYBUYUKLUK": 6783698.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +2035,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.300738,
-      "TEDPAYSAYISI": 4956802.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 6447498.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +2045,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.316493,
-      "TEDPAYSAYISI": 4951643.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 6518803.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +2055,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.325699,
-      "TEDPAYSAYISI": 4921247.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 6524093.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +2065,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.335001,
-      "TEDPAYSAYISI": 4920344.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 6568662.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2075,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.333785,
-      "TEDPAYSAYISI": 4905342.0,
-      "KISISAYISI": 227.0,
-      "PORTFOYBUYUKLUK": 6542669.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2085,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.330167,
-      "TEDPAYSAYISI": 4872123.0,
-      "KISISAYISI": 225.0,
-      "PORTFOYBUYUKLUK": 6480735.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2095,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.348811,
-      "TEDPAYSAYISI": 5044438.0,
-      "KISISAYISI": 226.0,
-      "PORTFOYBUYUKLUK": 6803994.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2105,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357689,
-      "TEDPAYSAYISI": 5004318.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 6794308.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2115,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372128,
-      "TEDPAYSAYISI": 4871155.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 6683850.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2125,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.374459,
-      "TEDPAYSAYISI": 4759890.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 6542273.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2135,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.381731,
-      "TEDPAYSAYISI": 4990367.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 6895346.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2145,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.394894,
-      "TEDPAYSAYISI": 4982378.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 6949891.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2155,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.387305,
-      "TEDPAYSAYISI": 4982463.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 6912197.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2165,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.378714,
-      "TEDPAYSAYISI": 4970000.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 6852209.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2175,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392674,
-      "TEDPAYSAYISI": 4622494.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 6437626.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2185,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389783,
-      "TEDPAYSAYISI": 4752405.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 6604812.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2195,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372273,
-      "TEDPAYSAYISI": 4941185.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 6780656.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2205,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369376,
-      "TEDPAYSAYISI": 4943651.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 6769718.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2215,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.401232,
-      "TEDPAYSAYISI": 4943717.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 6927295.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2225,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.406802,
-      "TEDPAYSAYISI": 4925823.0,
-      "KISISAYISI": 214.0,
-      "PORTFOYBUYUKLUK": 6929656.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2235,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.412916,
-      "TEDPAYSAYISI": 4963322.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 7012758.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2245,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.439732,
-      "TEDPAYSAYISI": 4964371.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7147364.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2255,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.446923,
-      "TEDPAYSAYISI": 4978790.0,
-      "KISISAYISI": 221.0,
-      "PORTFOYBUYUKLUK": 7203925.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2265,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.467879,
-      "TEDPAYSAYISI": 4987285.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 7320729.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2275,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.465818,
-      "TEDPAYSAYISI": 4999396.0,
-      "KISISAYISI": 226.0,
-      "PORTFOYBUYUKLUK": 7328205.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2285,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.437929,
-      "TEDPAYSAYISI": 4991704.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 7177715.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2295,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389964,
-      "TEDPAYSAYISI": 5671180.0,
-      "KISISAYISI": 231.0,
-      "PORTFOYBUYUKLUK": 7882737.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2305,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.401049,
-      "TEDPAYSAYISI": 5349015.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 7494229.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2315,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.41615,
-      "TEDPAYSAYISI": 5343340.0,
-      "KISISAYISI": 228.0,
-      "PORTFOYBUYUKLUK": 7566972.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2325,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.409918,
-      "TEDPAYSAYISI": 5403114.0,
-      "KISISAYISI": 227.0,
-      "PORTFOYBUYUKLUK": 7617949.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2335,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.388488,
-      "TEDPAYSAYISI": 5402241.0,
-      "KISISAYISI": 224.0,
-      "PORTFOYBUYUKLUK": 7500947.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2345,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.391639,
-      "TEDPAYSAYISI": 5361515.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 7461292.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2355,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.381987,
-      "TEDPAYSAYISI": 5302086.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 7327414.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2365,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.34179,
-      "TEDPAYSAYISI": 5302105.0,
-      "KISISAYISI": 220.0,
-      "PORTFOYBUYUKLUK": 7114313.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2375,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.328091,
-      "TEDPAYSAYISI": 5302957.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 7042807.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2385,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.335526,
-      "TEDPAYSAYISI": 5291434.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 7066848.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2395,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.355543,
-      "TEDPAYSAYISI": 5283955.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 7162628.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2405,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.337615,
-      "TEDPAYSAYISI": 5282873.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 7066450.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2415,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.33453,
-      "TEDPAYSAYISI": 5283016.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7050344.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2425,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.374914,
-      "TEDPAYSAYISI": 5283232.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7263989.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2435,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372056,
-      "TEDPAYSAYISI": 5286785.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7253762.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2445,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.375338,
-      "TEDPAYSAYISI": 5286215.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7270331.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2455,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.362743,
-      "TEDPAYSAYISI": 5281231.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 7196958.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2465,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.355026,
-      "TEDPAYSAYISI": 5281549.0,
-      "KISISAYISI": 215.0,
-      "PORTFOYBUYUKLUK": 7156633.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2475,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372261,
-      "TEDPAYSAYISI": 5262025.0,
-      "KISISAYISI": 216.0,
-      "PORTFOYBUYUKLUK": 7220870.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2485,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.364107,
-      "TEDPAYSAYISI": 5261842.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 7177716.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2495,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.366483,
-      "TEDPAYSAYISI": 4091862.0,
-      "KISISAYISI": 211.0,
-      "PORTFOYBUYUKLUK": 5591458.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2505,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369687,
-      "TEDPAYSAYISI": 5259807.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 7204288.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2515,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.354862,
-      "TEDPAYSAYISI": 5194251.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 7037492.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2525,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358895,
-      "TEDPAYSAYISI": 5192609.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 7056209.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2535,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.340838,
-      "TEDPAYSAYISI": 5191954.0,
-      "KISISAYISI": 207.0,
-      "PORTFOYBUYUKLUK": 6961570.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2545,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.330268,
-      "TEDPAYSAYISI": 5191045.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 6905480.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2555,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.3272,
-      "TEDPAYSAYISI": 5191045.0,
-      "KISISAYISI": 204.0,
-      "PORTFOYBUYUKLUK": 6889556.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2565,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.339566,
-      "TEDPAYSAYISI": 5088635.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 6816559.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2575,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.362813,
-      "TEDPAYSAYISI": 5086763.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 6932308.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2585,9 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.368789,
-      "TEDPAYSAYISI": 5090431.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 6967723.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2595,139 @@
       "FONKODU": "GNH",
       "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.370328,
-      "TEDPAYSAYISI": 5089343.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 6974068.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.385253,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.361104,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.398189,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.407008,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.434812,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.427045,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444498,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.456963,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.45333,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.488697,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.490043,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.483784,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "GNH",
+      "FONUNVAN": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.475778,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

@@ -1,25 +1,119 @@
 {
   "kod": "RPI",
-  "guncelleme": "2026-04-08T18:26:59Z",
+  "guncelleme": "2026-04-26T18:36:34Z",
   "kaynak_tefas": true,
   "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 88.62
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 1.28
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 10.1
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.8
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.58
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 7.16
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 6.21
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 6.17
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.5
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 3.85
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.55
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "VESBE",
+      "ad": "",
+      "agirlik": 0.51
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 14:46:40",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d626e650f1394"
 }

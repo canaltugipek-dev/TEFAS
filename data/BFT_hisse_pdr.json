@@ -1,25 +1,64 @@
 {
   "kod": "BFT",
-  "guncelleme": "2026-04-08T18:19:51Z",
+  "guncelleme": "2026-04-26T18:21:37Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bft-azimut-portfoy-banka-ve-finans-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.71
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.62
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 5.67
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 24.91
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 15.85
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 15.82
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 13.71
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 11.14
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 10.5
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 9.47
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 8.99
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 5.86
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "9 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:18:35",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d669f98d845c7"
 }

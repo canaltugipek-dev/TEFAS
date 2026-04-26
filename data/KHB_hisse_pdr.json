@@ -1,21 +1,149 @@
 {
   "kod": "KHB",
-  "guncelleme": "2026-04-08T18:24:38Z",
+  "guncelleme": "2026-04-26T18:26:20Z",
   "kaynak_tefas": true,
   "unvan": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khb-kare-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 99.06
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.94
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BLCYT",
+      "ad": "",
+      "agirlik": 5.04
+    },
+    {
+      "ticker": "FZLGY",
+      "ad": "",
+      "agirlik": 4.72
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "ISGSY",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 3.85
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 3.82
+    },
+    {
+      "ticker": "BULGS",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "ULUFA",
+      "ad": "",
+      "agirlik": 3.54
+    },
+    {
+      "ticker": "GLRYH",
+      "ad": "",
+      "agirlik": 3.46
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "HLGYO",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "TMSN",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "RTALB",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "EDIP",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 3.07
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 3.06
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "AVHOL",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "ADESE",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "INVEO",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "IZMDC",
+      "ad": "",
+      "agirlik": 2.59
+    },
+    {
+      "ticker": "USAK",
+      "ad": "",
+      "agirlik": 1.71
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 20:43:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6e1f5de16c82"
 }

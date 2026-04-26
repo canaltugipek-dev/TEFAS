@@ -1,25 +1,114 @@
 {
   "kod": "HIH",
-  "guncelleme": "2026-04-08T18:22:37Z",
+  "guncelleme": "2026-04-26T18:22:51Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hih-garanti-portfoy-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.01
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.87
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 8.12
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 9.07
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 8.77
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 8.76
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 7.97
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 7.49
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.0
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 5.07
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 4.48
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.76
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.39
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:55:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde34505b1"
 }

@@ -1,25 +1,139 @@
 {
   "kod": "HNC",
-  "guncelleme": "2026-04-08T18:22:46Z",
+  "guncelleme": "2026-04-26T18:22:57Z",
   "kaynak_tefas": true,
   "unvan": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hnc-hedef-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.06
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.11
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 8.83
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 8.99
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.91
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 6.82
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 6.69
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 5.98
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 4.07
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "GLDTR",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 1.34
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 11:38:52",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d532aa8215602"
 }

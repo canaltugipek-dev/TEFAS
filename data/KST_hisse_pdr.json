@@ -1,25 +1,119 @@
 {
   "kod": "KST",
-  "guncelleme": "2026-04-08T18:24:59Z",
+  "guncelleme": "2026-04-26T18:26:39Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kst-allbatross-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.64
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 2.6
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 9.76
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.4
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.75
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 6.75
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 6.13
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 5.84
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 5.15
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 5.07
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 4.81
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.78
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.65
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 4.46
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.13
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.48
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.04
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.75
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 11:14:40",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e715e802d87"
 }

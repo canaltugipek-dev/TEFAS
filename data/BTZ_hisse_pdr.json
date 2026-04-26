@@ -1,21 +1,149 @@
 {
   "kod": "BTZ",
-  "guncelleme": "2026-04-08T18:20:12Z",
+  "guncelleme": "2026-04-26T18:21:52Z",
   "kaynak_tefas": true,
   "unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/btz-atlas-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.8
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.2
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BSOKE",
+      "ad": "",
+      "agirlik": 7.16
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 5.01
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.7
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.44
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 3.56
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.54
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 3.37
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.37
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 1.79
+    },
+    {
+      "ticker": "KRSTL",
+      "ad": "",
+      "agirlik": 1.05
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 17:21:37",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61f7ac2220b3"
 }

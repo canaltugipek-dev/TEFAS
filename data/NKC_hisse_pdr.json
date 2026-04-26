@@ -1,21 +1,164 @@
 {
   "kod": "NKC",
-  "guncelleme": "2026-04-08T18:25:47Z",
+  "guncelleme": "2026-04-26T18:26:58Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkc-neo-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.65
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 7.35
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 9.62
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 6.16
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 4.91
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 4.82
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.05
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.48
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.25
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 2.17
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "PLTUR",
+      "ad": "",
+      "agirlik": 1.35
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.18
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 0.94
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "OSMEN",
+      "ad": "",
+      "agirlik": 0.79
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 0.68
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 23:06:07",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d66b5e5452dce"
 }

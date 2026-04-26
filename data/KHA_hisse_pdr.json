@@ -1,25 +1,189 @@
 {
   "kod": "KHA",
-  "guncelleme": "2026-04-08T18:24:35Z",
+  "guncelleme": "2026-04-26T18:26:18Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kha-pardus-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 100.88
-    },
-    {
-      "tip": "Borsa İstanbul Para Piyasası",
-      "oran": -0.89
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.01
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TERA",
+      "ad": "",
+      "agirlik": 10.29
+    },
+    {
+      "ticker": "TEHOL",
+      "ad": "",
+      "agirlik": 9.43
+    },
+    {
+      "ticker": "DSTKF",
+      "ad": "",
+      "agirlik": 8.11
+    },
+    {
+      "ticker": "ALKLC",
+      "ad": "",
+      "agirlik": 7.3
+    },
+    {
+      "ticker": "PEKGY",
+      "ad": "",
+      "agirlik": 6.16
+    },
+    {
+      "ticker": "TRHOL",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.78
+    },
+    {
+      "ticker": "TMPOL",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.9
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "IZENR",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 1.25
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 0.83
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 0.74
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 0.74
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 0.48
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 0.06
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e96985c32e1"
 }

@@ -1,29 +1,119 @@
 {
   "kod": "ACC",
-  "guncelleme": "2026-04-08T18:18:55Z",
+  "guncelleme": "2026-04-26T18:21:28Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 86.64
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 1.21
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 8.21
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 3.94
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 8.87
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.44
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 6.21
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 5.42
+    },
+    {
+      "ticker": "MEGMT",
+      "ad": "",
+      "agirlik": 5.29
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 4.9
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.87
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "BTCIM",
+      "ad": "",
+      "agirlik": 3.58
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 2.94
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 2.81
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.81
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 2.4
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.6
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 15:16:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62b7a79d14fa"
 }

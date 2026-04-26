@@ -1,21 +1,124 @@
 {
   "kod": "HKH",
-  "guncelleme": "2026-04-08T18:22:40Z",
+  "guncelleme": "2026-04-26T18:22:53Z",
   "kaynak_tefas": true,
   "unvan": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hkh-hedef-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.59
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.41
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 10.49
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 9.73
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.87
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 7.97
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 4.57
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "MNDRS",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 2.53
+    },
+    {
+      "ticker": "DGNMO",
+      "ad": "",
+      "agirlik": 0.47
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 0.3
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 11:38:51",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d532aa6a855d0"
 }

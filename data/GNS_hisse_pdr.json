@@ -1,25 +1,124 @@
 {
   "kod": "GNS",
-  "guncelleme": "2026-04-08T18:22:03Z",
+  "guncelleme": "2026-04-26T18:22:30Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.51
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.47
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 8.03
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 13.54
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 11.33
+    },
+    {
+      "ticker": "ENERY",
+      "ad": "",
+      "agirlik": 9.33
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 8.92
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 6.62
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 6.06
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 5.56
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 5.52
+    },
+    {
+      "ticker": "AHGAZ",
+      "ad": "",
+      "agirlik": 4.33
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.85
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 3.24
+    },
+    {
+      "ticker": "SMRTG",
+      "ad": "",
+      "agirlik": 3.03
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 2.23
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "BIOEN",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "CONSE",
+      "ad": "",
+      "agirlik": 0.64
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:55:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde1880575"
 }

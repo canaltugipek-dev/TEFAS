@@ -1,30 +1,39 @@
 {
   "kod": "TI3",
-  "guncelleme": "2026-04-08T18:27:48Z",
+  "guncelleme": "2026-04-26T16:49:52Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti3-is-portfoy-is-bankasi-istirakleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.23
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.55
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 6.86
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.36
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "ISGSY",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "ISYAT",
+      "ad": "",
+      "agirlik": 0.89
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "4 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 15:18:25",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d62acf4f708dd"
 }

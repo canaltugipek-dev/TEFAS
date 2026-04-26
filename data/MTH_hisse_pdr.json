@@ -1,33 +1,134 @@
 {
   "kod": "MTH",
-  "guncelleme": "2026-04-08T18:25:40Z",
+  "guncelleme": "2026-04-26T18:26:52Z",
   "kaynak_tefas": true,
   "unvan": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mth-mt-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.46
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.04
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 11.12
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.65
-    },
-    {
-      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
-      "oran": 0.73
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.93
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 7.14
+    },
+    {
+      "ticker": "DITAS",
+      "ad": "",
+      "agirlik": 6.75
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.64
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 5.79
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 5.78
+    },
+    {
+      "ticker": "TEHOL",
+      "ad": "",
+      "agirlik": 5.77
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 5.05
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 5.0
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.4
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.31
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.74
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "PEKGY",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "GRTHO",
+      "ad": "",
+      "agirlik": 1.98
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 1.04
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 15:08:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4dec127e1a86"
 }

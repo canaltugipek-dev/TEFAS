@@ -1,21 +1,139 @@
 {
   "kod": "KHC",
-  "guncelleme": "2026-04-08T18:24:40Z",
+  "guncelleme": "2026-04-26T18:26:22Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khc-pardus-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 82.91
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 17.09
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 6.89
+    },
+    {
+      "ticker": "EYGYO",
+      "ad": "",
+      "agirlik": 6.66
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 5.52
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 5.14
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 5.13
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.35
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "RUBNS",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 3.37
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 3.08
+    },
+    {
+      "ticker": "TMSN",
+      "ad": "",
+      "agirlik": 2.83
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 1.96
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "BRLSM",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.18
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.21
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e9698bc32eb"
 }

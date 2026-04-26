@@ -2,22 +2,152 @@
   "fon_kodu": "PTO",
   "fon_unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 289,
-  "gun_kapsami": 419,
+  "kayit_sayisi": 315,
+  "gun_kapsami": 456,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1737590400000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737676800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1737936000000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738022400000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738108800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738195200000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738281600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738540800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738627200000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738713600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738800000000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1738886400000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1739145600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1739232000000",
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999507,
-      "TEDPAYSAYISI": 10000000.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 9995069.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +155,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999637,
-      "TEDPAYSAYISI": 10000097.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 9996466.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +165,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998367,
-      "TEDPAYSAYISI": 10000445.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 9984117.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +175,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002681,
-      "TEDPAYSAYISI": 10005005.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 10031826.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +185,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001062,
-      "TEDPAYSAYISI": 10005377.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 10015998.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +195,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002762,
-      "TEDPAYSAYISI": 10010526.0,
-      "KISISAYISI": 67.0,
-      "PORTFOYBUYUKLUK": 10038177.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +205,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00416,
-      "TEDPAYSAYISI": 10110613.0,
-      "KISISAYISI": 75.0,
-      "PORTFOYBUYUKLUK": 10152675.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +215,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004946,
-      "TEDPAYSAYISI": 10135217.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 10185343.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +225,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007092,
-      "TEDPAYSAYISI": 10152413.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 10224414.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +235,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006882,
-      "TEDPAYSAYISI": 10153346.0,
-      "KISISAYISI": 86.0,
-      "PORTFOYBUYUKLUK": 10223217.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +245,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004695,
-      "TEDPAYSAYISI": 10174195.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 10221958.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +255,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002365,
-      "TEDPAYSAYISI": 10177782.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 10201852.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +265,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002641,
-      "TEDPAYSAYISI": 10187879.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 10214784.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +275,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004836,
-      "TEDPAYSAYISI": 10189492.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 10238764.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +285,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001987,
-      "TEDPAYSAYISI": 10191336.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 10211585.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +295,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005345,
-      "TEDPAYSAYISI": 10180681.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 10235099.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +305,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007622,
-      "TEDPAYSAYISI": 10184062.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 10261688.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +315,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010526,
-      "TEDPAYSAYISI": 10192570.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 10299858.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +325,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020564,
-      "TEDPAYSAYISI": 10201581.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 10411369.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +335,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021167,
-      "TEDPAYSAYISI": 10203631.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 10419609.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +345,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014452,
-      "TEDPAYSAYISI": 10203714.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 10351173.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +355,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018244,
-      "TEDPAYSAYISI": 10196735.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 10382759.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +365,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026757,
-      "TEDPAYSAYISI": 10204573.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 10477616.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +375,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036411,
-      "TEDPAYSAYISI": 10221504.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 10593682.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +385,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039102,
-      "TEDPAYSAYISI": 10222903.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 10622635.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +395,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039658,
-      "TEDPAYSAYISI": 10237803.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 10643815.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +405,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033806,
-      "TEDPAYSAYISI": 10272265.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 10619531.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +415,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.970808,
-      "TEDPAYSAYISI": 10293857.0,
-      "KISISAYISI": 133.0,
-      "PORTFOYBUYUKLUK": 9993357.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +425,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952083,
-      "TEDPAYSAYISI": 10312672.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 9818516.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +435,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910062,
-      "TEDPAYSAYISI": 10320579.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 9392371.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +445,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.912521,
-      "TEDPAYSAYISI": 10325935.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 9422637.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +455,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.933484,
-      "TEDPAYSAYISI": 10309878.0,
-      "KISISAYISI": 142.0,
-      "PORTFOYBUYUKLUK": 9624109.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +465,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928039,
-      "TEDPAYSAYISI": 10343959.0,
-      "KISISAYISI": 139.0,
-      "PORTFOYBUYUKLUK": 9599596.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +475,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925491,
-      "TEDPAYSAYISI": 10361099.0,
-      "KISISAYISI": 140.0,
-      "PORTFOYBUYUKLUK": 9589108.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +485,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930959,
-      "TEDPAYSAYISI": 10388551.0,
-      "KISISAYISI": 144.0,
-      "PORTFOYBUYUKLUK": 9671313.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +495,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92563,
-      "TEDPAYSAYISI": 10388390.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 9615802.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +505,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928323,
-      "TEDPAYSAYISI": 10384887.0,
-      "KISISAYISI": 148.0,
-      "PORTFOYBUYUKLUK": 9640533.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +515,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923539,
-      "TEDPAYSAYISI": 10385207.0,
-      "KISISAYISI": 146.0,
-      "PORTFOYBUYUKLUK": 9591141.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +525,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.924247,
-      "TEDPAYSAYISI": 10384243.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 9597609.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +535,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939535,
-      "TEDPAYSAYISI": 10384757.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 9756846.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +545,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.927146,
-      "TEDPAYSAYISI": 10386511.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 9629815.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +555,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.93226,
-      "TEDPAYSAYISI": 10352181.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 9650922.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +565,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930746,
-      "TEDPAYSAYISI": 10353159.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 9636164.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +575,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931022,
-      "TEDPAYSAYISI": 10342155.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 9628771.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +585,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925316,
-      "TEDPAYSAYISI": 10343547.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 9571048.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +595,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918348,
-      "TEDPAYSAYISI": 10337611.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 9493521.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +605,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.92786,
-      "TEDPAYSAYISI": 10349260.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 9602667.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +615,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925205,
-      "TEDPAYSAYISI": 10459284.0,
-      "KISISAYISI": 156.0,
-      "PORTFOYBUYUKLUK": 9676978.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +625,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931674,
-      "TEDPAYSAYISI": 10465026.0,
-      "KISISAYISI": 159.0,
-      "PORTFOYBUYUKLUK": 9749996.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +635,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926889,
-      "TEDPAYSAYISI": 10465395.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 9700258.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +645,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947887,
-      "TEDPAYSAYISI": 10469349.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 9923759.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +655,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.937942,
-      "TEDPAYSAYISI": 10444485.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 9796325.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +665,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.931962,
-      "TEDPAYSAYISI": 10468558.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 9756296.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +675,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928815,
-      "TEDPAYSAYISI": 10474912.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 9729254.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +685,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922444,
-      "TEDPAYSAYISI": 10480275.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 9667471.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +695,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.922663,
-      "TEDPAYSAYISI": 10480653.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 9670113.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +705,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.916078,
-      "TEDPAYSAYISI": 10481363.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 9601743.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +715,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923801,
-      "TEDPAYSAYISI": 10482016.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 9683296.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +725,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.925773,
-      "TEDPAYSAYISI": 10490319.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 9711654.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +735,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942528,
-      "TEDPAYSAYISI": 10522404.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 9917658.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +745,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947043,
-      "TEDPAYSAYISI": 10526574.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 9969117.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +755,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980619,
-      "TEDPAYSAYISI": 10527732.0,
-      "KISISAYISI": 173.0,
-      "PORTFOYBUYUKLUK": 10323694.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +765,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977723,
-      "TEDPAYSAYISI": 10528530.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 10293989.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +775,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981799,
-      "TEDPAYSAYISI": 10543979.0,
-      "KISISAYISI": 176.0,
-      "PORTFOYBUYUKLUK": 10352071.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +785,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968131,
-      "TEDPAYSAYISI": 10533858.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 10198159.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +795,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979629,
-      "TEDPAYSAYISI": 10539482.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 10324780.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +805,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966976,
-      "TEDPAYSAYISI": 10539989.0,
-      "KISISAYISI": 176.0,
-      "PORTFOYBUYUKLUK": 10191911.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +815,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958906,
-      "TEDPAYSAYISI": 10541758.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 10108559.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +825,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.964854,
-      "TEDPAYSAYISI": 10546565.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 10175900.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +835,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.9509,
-      "TEDPAYSAYISI": 10548104.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 10030195.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +845,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.954301,
-      "TEDPAYSAYISI": 10548955.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 10066875.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +855,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943078,
-      "TEDPAYSAYISI": 10558949.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 9957915.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +865,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.937285,
-      "TEDPAYSAYISI": 10583833.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 9920071.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +875,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.935959,
-      "TEDPAYSAYISI": 10691101.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 10006428.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +885,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.928041,
-      "TEDPAYSAYISI": 10691481.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 9922129.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +895,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.926547,
-      "TEDPAYSAYISI": 10689572.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 9904385.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +905,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950333,
-      "TEDPAYSAYISI": 10663865.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 10134226.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +915,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.965828,
-      "TEDPAYSAYISI": 10652192.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 10288188.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +925,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963184,
-      "TEDPAYSAYISI": 10651672.0,
-      "KISISAYISI": 184.0,
-      "PORTFOYBUYUKLUK": 10259524.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +935,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97354,
-      "TEDPAYSAYISI": 10673503.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 10391085.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +945,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976203,
-      "TEDPAYSAYISI": 10675295.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 10421254.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +955,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960138,
-      "TEDPAYSAYISI": 10697968.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 10271521.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +965,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.954848,
-      "TEDPAYSAYISI": 10700567.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 10217410.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +975,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953113,
-      "TEDPAYSAYISI": 10700741.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 10199012.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +985,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950895,
-      "TEDPAYSAYISI": 10624243.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 10102537.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +995,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943742,
-      "TEDPAYSAYISI": 10627568.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 10029679.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1005,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.939827,
-      "TEDPAYSAYISI": 10669739.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 10027703.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1015,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.945702,
-      "TEDPAYSAYISI": 10686759.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 10106492.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1025,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942495,
-      "TEDPAYSAYISI": 10692296.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 10077437.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1035,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960148,
-      "TEDPAYSAYISI": 10686013.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 10260152.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1045,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957514,
-      "TEDPAYSAYISI": 10684421.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 10230485.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1055,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958941,
-      "TEDPAYSAYISI": 10688598.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 10249737.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1065,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960217,
-      "TEDPAYSAYISI": 10923231.0,
-      "KISISAYISI": 178.0,
-      "PORTFOYBUYUKLUK": 10488669.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1075,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002083,
-      "TEDPAYSAYISI": 10931997.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 10954764.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1085,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018462,
-      "TEDPAYSAYISI": 10931766.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 11133585.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1095,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029316,
-      "TEDPAYSAYISI": 10844759.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 11162688.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1105,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031084,
-      "TEDPAYSAYISI": 10954713.0,
-      "KISISAYISI": 183.0,
-      "PORTFOYBUYUKLUK": 11295230.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1115,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036391,
-      "TEDPAYSAYISI": 10954164.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 11352793.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1125,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029555,
-      "TEDPAYSAYISI": 10950957.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 11274609.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1135,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019712,
-      "TEDPAYSAYISI": 10995536.0,
-      "KISISAYISI": 189.0,
-      "PORTFOYBUYUKLUK": 11212281.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1145,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033486,
-      "TEDPAYSAYISI": 10998315.0,
-      "KISISAYISI": 190.0,
-      "PORTFOYBUYUKLUK": 11366601.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1155,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046121,
-      "TEDPAYSAYISI": 10923588.0,
-      "KISISAYISI": 191.0,
-      "PORTFOYBUYUKLUK": 11427395.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1165,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04473,
-      "TEDPAYSAYISI": 10923105.0,
-      "KISISAYISI": 190.0,
-      "PORTFOYBUYUKLUK": 11411698.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1175,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033949,
-      "TEDPAYSAYISI": 10936194.0,
-      "KISISAYISI": 194.0,
-      "PORTFOYBUYUKLUK": 11307472.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1185,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020744,
-      "TEDPAYSAYISI": 10911308.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 11137657.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1195,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043212,
-      "TEDPAYSAYISI": 10955687.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 11429108.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1205,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042041,
-      "TEDPAYSAYISI": 10957730.0,
-      "KISISAYISI": 199.0,
-      "PORTFOYBUYUKLUK": 11418398.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1215,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060428,
-      "TEDPAYSAYISI": 10974384.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 11637540.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1225,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.059703,
-      "TEDPAYSAYISI": 11148183.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 11813758.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1235,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05733,
-      "TEDPAYSAYISI": 11171898.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 11812388.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1245,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067603,
-      "TEDPAYSAYISI": 11189894.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 11946361.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1255,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062134,
-      "TEDPAYSAYISI": 11209467.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 11905952.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1265,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054337,
-      "TEDPAYSAYISI": 11234369.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 11844811.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1275,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045789,
-      "TEDPAYSAYISI": 11233749.0,
-      "KISISAYISI": 201.0,
-      "PORTFOYBUYUKLUK": 11748127.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1285,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.067315,
-      "TEDPAYSAYISI": 11232895.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 11989035.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1295,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076553,
-      "TEDPAYSAYISI": 12171162.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 13102896.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1305,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077408,
-      "TEDPAYSAYISI": 12173787.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 13116141.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1315,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08505,
-      "TEDPAYSAYISI": 12176489.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 13212100.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1325,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085028,
-      "TEDPAYSAYISI": 12148085.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 13181007.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1335,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086534,
-      "TEDPAYSAYISI": 12310127.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 13375373.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1345,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094331,
-      "TEDPAYSAYISI": 12309240.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 13470386.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1355,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091403,
-      "TEDPAYSAYISI": 12306085.0,
-      "KISISAYISI": 203.0,
-      "PORTFOYBUYUKLUK": 13430899.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1365,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095522,
-      "TEDPAYSAYISI": 15992617.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 17520265.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1375,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088707,
-      "TEDPAYSAYISI": 15957353.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 17372877.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1385,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08915,
-      "TEDPAYSAYISI": 15971135.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 17394965.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1395,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078908,
-      "TEDPAYSAYISI": 16054362.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 17321184.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1405,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079117,
-      "TEDPAYSAYISI": 16068165.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 17339436.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1415,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082661,
-      "TEDPAYSAYISI": 16020563.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 17344830.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1425,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08209,
-      "TEDPAYSAYISI": 20590220.0,
-      "KISISAYISI": 212.0,
-      "PORTFOYBUYUKLUK": 22280461.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1435,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097604,
-      "TEDPAYSAYISI": 20624454.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 22637484.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1445,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111705,
-      "TEDPAYSAYISI": 20502744.0,
-      "KISISAYISI": 213.0,
-      "PORTFOYBUYUKLUK": 22793013.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1455,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11244,
-      "TEDPAYSAYISI": 20523625.0,
-      "KISISAYISI": 222.0,
-      "PORTFOYBUYUKLUK": 22831310.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1465,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121494,
-      "TEDPAYSAYISI": 20674126.0,
-      "KISISAYISI": 229.0,
-      "PORTFOYBUYUKLUK": 23185913.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1475,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11957,
-      "TEDPAYSAYISI": 20822314.0,
-      "KISISAYISI": 242.0,
-      "PORTFOYBUYUKLUK": 23312035.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1485,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10451,
-      "TEDPAYSAYISI": 20842935.0,
-      "KISISAYISI": 248.0,
-      "PORTFOYBUYUKLUK": 23021235.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1495,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107076,
-      "TEDPAYSAYISI": 20517190.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 22714088.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1505,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103678,
-      "TEDPAYSAYISI": 20779946.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 22934374.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1515,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100745,
-      "TEDPAYSAYISI": 20829708.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22928196.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1525,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065329,
-      "TEDPAYSAYISI": 20590177.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 21935321.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1535,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056254,
-      "TEDPAYSAYISI": 20491623.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 21644361.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1545,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069455,
-      "TEDPAYSAYISI": 20479602.0,
-      "KISISAYISI": 255.0,
-      "PORTFOYBUYUKLUK": 21902015.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1555,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.061417,
-      "TEDPAYSAYISI": 20479618.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 21737419.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1565,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041479,
-      "TEDPAYSAYISI": 20515149.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 21366104.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1575,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048588,
-      "TEDPAYSAYISI": 19984251.0,
-      "KISISAYISI": 256.0,
-      "PORTFOYBUYUKLUK": 20955253.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1585,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057445,
-      "TEDPAYSAYISI": 20030238.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 21180882.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1595,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044978,
-      "TEDPAYSAYISI": 20021595.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 20922117.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1605,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048973,
-      "TEDPAYSAYISI": 20025812.0,
-      "KISISAYISI": 250.0,
-      "PORTFOYBUYUKLUK": 21006540.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1615,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106141,
-      "TEDPAYSAYISI": 20027243.0,
-      "KISISAYISI": 248.0,
-      "PORTFOYBUYUKLUK": 22152944.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1625,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115591,
-      "TEDPAYSAYISI": 20242775.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 22582665.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1635,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108903,
-      "TEDPAYSAYISI": 20302547.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 22513553.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1645,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098574,
-      "TEDPAYSAYISI": 20302057.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 22303316.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1655,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11574,
-      "TEDPAYSAYISI": 20305270.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 22655396.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1665,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124706,
-      "TEDPAYSAYISI": 20482429.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 23036702.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1675,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108311,
-      "TEDPAYSAYISI": 20473120.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 22690581.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1685,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107373,
-      "TEDPAYSAYISI": 20561280.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 22769013.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1695,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.102368,
-      "TEDPAYSAYISI": 20475522.0,
-      "KISISAYISI": 255.0,
-      "PORTFOYBUYUKLUK": 22571562.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1705,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08109,
-      "TEDPAYSAYISI": 20479363.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 22140032.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1715,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.071566,
-      "TEDPAYSAYISI": 20533953.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 22003480.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1725,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077938,
-      "TEDPAYSAYISI": 20565067.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 22167873.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1735,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097079,
-      "TEDPAYSAYISI": 20569510.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 22566374.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1745,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084424,
-      "TEDPAYSAYISI": 20455729.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22182687.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1755,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074557,
-      "TEDPAYSAYISI": 20460379.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 21985849.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1765,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064143,
-      "TEDPAYSAYISI": 20541132.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 21858707.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1775,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.075951,
-      "TEDPAYSAYISI": 20638253.0,
-      "KISISAYISI": 266.0,
-      "PORTFOYBUYUKLUK": 22205752.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1785,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065546,
-      "TEDPAYSAYISI": 20639619.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 21992454.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1795,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058768,
-      "TEDPAYSAYISI": 20665109.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 21879558.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1805,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063147,
-      "TEDPAYSAYISI": 20666268.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 21971279.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1815,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043131,
-      "TEDPAYSAYISI": 20491429.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 21375248.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1825,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022357,
-      "TEDPAYSAYISI": 20549342.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 21008757.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1835,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039931,
-      "TEDPAYSAYISI": 20552861.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 21373558.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1845,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.030435,
-      "TEDPAYSAYISI": 20572796.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 21198922.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1855,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023187,
-      "TEDPAYSAYISI": 20592737.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 21070217.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1865,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045311,
-      "TEDPAYSAYISI": 20588249.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 21521114.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1875,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046961,
-      "TEDPAYSAYISI": 20583496.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 21550116.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1885,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060486,
-      "TEDPAYSAYISI": 20590773.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 21836233.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1895,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.069831,
-      "TEDPAYSAYISI": 20600436.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 22038992.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1905,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100873,
-      "TEDPAYSAYISI": 20615895.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 22695485.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1915,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088296,
-      "TEDPAYSAYISI": 20632235.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22453984.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1925,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085266,
-      "TEDPAYSAYISI": 20627050.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22385846.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1935,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08719,
-      "TEDPAYSAYISI": 20693999.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 22498302.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1945,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099045,
-      "TEDPAYSAYISI": 20691084.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22740423.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1955,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107864,
-      "TEDPAYSAYISI": 20711781.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 22945841.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1965,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093248,
-      "TEDPAYSAYISI": 20727093.0,
-      "KISISAYISI": 268.0,
-      "PORTFOYBUYUKLUK": 22659855.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1975,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099604,
-      "TEDPAYSAYISI": 20625736.0,
-      "KISISAYISI": 267.0,
-      "PORTFOYBUYUKLUK": 22680134.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1985,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108807,
-      "TEDPAYSAYISI": 20626100.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 22870368.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +1995,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093235,
-      "TEDPAYSAYISI": 20628362.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 22551639.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2005,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085512,
-      "TEDPAYSAYISI": 20494561.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 22247100.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2015,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072451,
-      "TEDPAYSAYISI": 20430840.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 21911067.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2025,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.077244,
-      "TEDPAYSAYISI": 20432425.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 22010701.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2035,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079427,
-      "TEDPAYSAYISI": 20433109.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 22056053.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2045,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072362,
-      "TEDPAYSAYISI": 20479407.0,
-      "KISISAYISI": 256.0,
-      "PORTFOYBUYUKLUK": 21961344.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2055,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076387,
-      "TEDPAYSAYISI": 20478185.0,
-      "KISISAYISI": 255.0,
-      "PORTFOYBUYUKLUK": 22042448.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2065,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082616,
-      "TEDPAYSAYISI": 20477089.0,
-      "KISISAYISI": 256.0,
-      "PORTFOYBUYUKLUK": 22168825.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2075,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094619,
-      "TEDPAYSAYISI": 20793529.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 22760993.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2085,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097855,
-      "TEDPAYSAYISI": 20886151.0,
-      "KISISAYISI": 256.0,
-      "PORTFOYBUYUKLUK": 22929971.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2095,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09084,
-      "TEDPAYSAYISI": 20863424.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 22758652.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2105,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092205,
-      "TEDPAYSAYISI": 21355733.0,
-      "KISISAYISI": 259.0,
-      "PORTFOYBUYUKLUK": 23324838.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2115,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093283,
-      "TEDPAYSAYISI": 21273655.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 23258126.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2125,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094904,
-      "TEDPAYSAYISI": 21272895.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 23291780.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2135,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097988,
-      "TEDPAYSAYISI": 21273132.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 23357636.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2145,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093932,
-      "TEDPAYSAYISI": 21315979.0,
-      "KISISAYISI": 254.0,
-      "PORTFOYBUYUKLUK": 23318234.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2155,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113029,
-      "TEDPAYSAYISI": 21317347.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 23726830.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2165,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117718,
-      "TEDPAYSAYISI": 21156116.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 23646580.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2175,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.112325,
-      "TEDPAYSAYISI": 21164443.0,
-      "KISISAYISI": 249.0,
-      "PORTFOYBUYUKLUK": 23541747.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2185,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.105199,
-      "TEDPAYSAYISI": 21182751.0,
-      "KISISAYISI": 248.0,
-      "PORTFOYBUYUKLUK": 23411152.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2195,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114195,
-      "TEDPAYSAYISI": 21332428.0,
-      "KISISAYISI": 248.0,
-      "PORTFOYBUYUKLUK": 23768485.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2205,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133895,
-      "TEDPAYSAYISI": 21311492.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 24164999.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2215,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130025,
-      "TEDPAYSAYISI": 21315863.0,
-      "KISISAYISI": 255.0,
-      "PORTFOYBUYUKLUK": 24087452.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2225,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124067,
-      "TEDPAYSAYISI": 21620892.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 24303328.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2235,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128255,
-      "TEDPAYSAYISI": 21623951.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 24397337.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2245,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141523,
-      "TEDPAYSAYISI": 21624410.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 24684769.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2255,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155524,
-      "TEDPAYSAYISI": 21640941.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 25006627.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2265,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148475,
-      "TEDPAYSAYISI": 21139588.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 24278281.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2275,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142888,
-      "TEDPAYSAYISI": 21154057.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 24176726.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2285,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147877,
-      "TEDPAYSAYISI": 21117261.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 24240017.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2295,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144438,
-      "TEDPAYSAYISI": 21151031.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 24206054.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2305,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146265,
-      "TEDPAYSAYISI": 21169788.0,
-      "KISISAYISI": 266.0,
-      "PORTFOYBUYUKLUK": 24266183.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2315,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136722,
-      "TEDPAYSAYISI": 21071634.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 23952592.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2325,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142743,
-      "TEDPAYSAYISI": 21069153.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 24076632.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2335,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.143628,
-      "TEDPAYSAYISI": 20940518.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 23948162.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2345,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138453,
-      "TEDPAYSAYISI": 20939162.0,
-      "KISISAYISI": 271.0,
-      "PORTFOYBUYUKLUK": 23838249.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2355,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127502,
-      "TEDPAYSAYISI": 20936488.0,
-      "KISISAYISI": 271.0,
-      "PORTFOYBUYUKLUK": 23605931.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2365,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129941,
-      "TEDPAYSAYISI": 20939514.0,
-      "KISISAYISI": 272.0,
-      "PORTFOYBUYUKLUK": 23660415.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2375,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.134486,
-      "TEDPAYSAYISI": 20935462.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 23750984.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2385,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156385,
-      "TEDPAYSAYISI": 20928464.0,
-      "KISISAYISI": 267.0,
-      "PORTFOYBUYUKLUK": 24201367.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2395,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171424,
-      "TEDPAYSAYISI": 20917534.0,
-      "KISISAYISI": 267.0,
-      "PORTFOYBUYUKLUK": 24503311.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2405,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190363,
-      "TEDPAYSAYISI": 20920381.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 24902837.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2415,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182048,
-      "TEDPAYSAYISI": 20931107.0,
-      "KISISAYISI": 262.0,
-      "PORTFOYBUYUKLUK": 24741573.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2425,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191683,
-      "TEDPAYSAYISI": 21101863.0,
-      "KISISAYISI": 265.0,
-      "PORTFOYBUYUKLUK": 25146729.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2435,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194586,
-      "TEDPAYSAYISI": 21134000.0,
-      "KISISAYISI": 264.0,
-      "PORTFOYBUYUKLUK": 25246373.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2445,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201668,
-      "TEDPAYSAYISI": 21160272.0,
-      "KISISAYISI": 269.0,
-      "PORTFOYBUYUKLUK": 25427617.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2455,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219375,
-      "TEDPAYSAYISI": 21202372.0,
-      "KISISAYISI": 270.0,
-      "PORTFOYBUYUKLUK": 25853651.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2465,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.222634,
-      "TEDPAYSAYISI": 21248293.0,
-      "KISISAYISI": 272.0,
-      "PORTFOYBUYUKLUK": 25978877.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2475,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.234235,
-      "TEDPAYSAYISI": 21256088.0,
-      "KISISAYISI": 275.0,
-      "PORTFOYBUYUKLUK": 26235009.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2485,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254284,
-      "TEDPAYSAYISI": 21094335.0,
-      "KISISAYISI": 276.0,
-      "PORTFOYBUYUKLUK": 26458277.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2495,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259577,
-      "TEDPAYSAYISI": 21171562.0,
-      "KISISAYISI": 289.0,
-      "PORTFOYBUYUKLUK": 26667209.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2505,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245238,
-      "TEDPAYSAYISI": 21373776.0,
-      "KISISAYISI": 294.0,
-      "PORTFOYBUYUKLUK": 26615440.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2515,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.244357,
-      "TEDPAYSAYISI": 21428975.0,
-      "KISISAYISI": 299.0,
-      "PORTFOYBUYUKLUK": 26665286.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2525,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266058,
-      "TEDPAYSAYISI": 21434847.0,
-      "KISISAYISI": 302.0,
-      "PORTFOYBUYUKLUK": 27137764.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2535,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.288507,
-      "TEDPAYSAYISI": 23020103.0,
-      "KISISAYISI": 303.0,
-      "PORTFOYBUYUKLUK": 29661553.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2545,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.294321,
-      "TEDPAYSAYISI": 22862283.0,
-      "KISISAYISI": 302.0,
-      "PORTFOYBUYUKLUK": 29591123.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2555,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290715,
-      "TEDPAYSAYISI": 22854600.0,
-      "KISISAYISI": 309.0,
-      "PORTFOYBUYUKLUK": 29498771.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2565,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.314253,
-      "TEDPAYSAYISI": 23102306.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 30362275.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2575,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.340583,
-      "TEDPAYSAYISI": 23180548.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 31075451.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2585,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.351036,
-      "TEDPAYSAYISI": 23189710.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 31330134.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2595,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.333421,
-      "TEDPAYSAYISI": 23816368.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 31757254.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2605,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.352016,
-      "TEDPAYSAYISI": 23815699.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 32199214.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2615,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.349406,
-      "TEDPAYSAYISI": 23861950.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 32199459.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2625,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.334546,
-      "TEDPAYSAYISI": 24089429.0,
-      "KISISAYISI": 318.0,
-      "PORTFOYBUYUKLUK": 32148440.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2635,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.328896,
-      "TEDPAYSAYISI": 24435203.0,
-      "KISISAYISI": 327.0,
-      "PORTFOYBUYUKLUK": 32471853.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2645,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.355854,
-      "TEDPAYSAYISI": 24367244.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 33038433.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2655,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.350288,
-      "TEDPAYSAYISI": 24422492.0,
-      "KISISAYISI": 331.0,
-      "PORTFOYBUYUKLUK": 32977396.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2665,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.359223,
-      "TEDPAYSAYISI": 24433324.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 33210330.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2675,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.402143,
-      "TEDPAYSAYISI": 24467486.0,
-      "KISISAYISI": 333.0,
-      "PORTFOYBUYUKLUK": 34306909.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2685,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.403162,
-      "TEDPAYSAYISI": 24513005.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 34395715.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2695,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.418339,
-      "TEDPAYSAYISI": 24458036.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 34689791.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2705,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.398362,
-      "TEDPAYSAYISI": 24415822.0,
-      "KISISAYISI": 350.0,
-      "PORTFOYBUYUKLUK": 34142160.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2715,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390714,
-      "TEDPAYSAYISI": 24423477.0,
-      "KISISAYISI": 353.0,
-      "PORTFOYBUYUKLUK": 33966074.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2725,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.358245,
-      "TEDPAYSAYISI": 24435836.0,
-      "KISISAYISI": 359.0,
-      "PORTFOYBUYUKLUK": 33189841.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2735,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365096,
-      "TEDPAYSAYISI": 22877407.0,
-      "KISISAYISI": 363.0,
-      "PORTFOYBUYUKLUK": 31229863.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2745,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.382962,
-      "TEDPAYSAYISI": 22877457.0,
-      "KISISAYISI": 363.0,
-      "PORTFOYBUYUKLUK": 31638644.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2755,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.37373,
-      "TEDPAYSAYISI": 22884726.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 31437439.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2765,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.354757,
-      "TEDPAYSAYISI": 22899078.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 31022677.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2775,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357343,
-      "TEDPAYSAYISI": 22895380.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 31076884.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2785,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331589,
-      "TEDPAYSAYISI": 22813909.0,
-      "KISISAYISI": 363.0,
-      "PORTFOYBUYUKLUK": 30378743.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2795,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.293832,
-      "TEDPAYSAYISI": 26562908.0,
-      "KISISAYISI": 361.0,
-      "PORTFOYBUYUKLUK": 34367950.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2805,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.297437,
-      "TEDPAYSAYISI": 27298265.0,
-      "KISISAYISI": 364.0,
-      "PORTFOYBUYUKLUK": 35417776.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2815,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.294002,
-      "TEDPAYSAYISI": 39876060.0,
-      "KISISAYISI": 367.0,
-      "PORTFOYBUYUKLUK": 51599703.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2825,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.294314,
-      "TEDPAYSAYISI": 39886881.0,
-      "KISISAYISI": 368.0,
-      "PORTFOYBUYUKLUK": 51626163.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2835,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.29856,
-      "TEDPAYSAYISI": 132637587.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 172237871.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2845,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309896,
-      "TEDPAYSAYISI": 134580124.0,
-      "KISISAYISI": 373.0,
-      "PORTFOYBUYUKLUK": 176286013.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2855,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.323694,
-      "TEDPAYSAYISI": 175792837.0,
-      "KISISAYISI": 372.0,
-      "PORTFOYBUYUKLUK": 232695987.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +2865,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.347841,
-      "TEDPAYSAYISI": 180589029.0,
-      "KISISAYISI": 378.0,
-      "PORTFOYBUYUKLUK": 243405345.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +2875,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.369328,
-      "TEDPAYSAYISI": 198991395.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 272484403.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +2885,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.385522,
-      "TEDPAYSAYISI": 201790115.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 279584581.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +2895,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.384895,
-      "TEDPAYSAYISI": 201782695.0,
-      "KISISAYISI": 386.0,
-      "PORTFOYBUYUKLUK": 279447940.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +2905,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.383833,
-      "TEDPAYSAYISI": 189042474.0,
-      "KISISAYISI": 412.0,
-      "PORTFOYBUYUKLUK": 261603120.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +2915,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389828,
-      "TEDPAYSAYISI": 200762099.0,
-      "KISISAYISI": 426.0,
-      "PORTFOYBUYUKLUK": 279024746.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +2925,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.397665,
-      "TEDPAYSAYISI": 200742674.0,
-      "KISISAYISI": 426.0,
-      "PORTFOYBUYUKLUK": 280570969.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +2935,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.389598,
-      "TEDPAYSAYISI": 189070244.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 262731552.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +2945,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.391392,
-      "TEDPAYSAYISI": 189203940.0,
-      "KISISAYISI": 431.0,
-      "PORTFOYBUYUKLUK": 263256892.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +2955,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390626,
-      "TEDPAYSAYISI": 189102692.0,
-      "KISISAYISI": 434.0,
-      "PORTFOYBUYUKLUK": 262971035.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +2965,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395335,
-      "TEDPAYSAYISI": 189308114.0,
-      "KISISAYISI": 435.0,
-      "PORTFOYBUYUKLUK": 264148267.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +2975,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395927,
-      "TEDPAYSAYISI": 189322012.0,
-      "KISISAYISI": 442.0,
-      "PORTFOYBUYUKLUK": 264279654.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +2985,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.396361,
-      "TEDPAYSAYISI": 190096788.0,
-      "KISISAYISI": 442.0,
-      "PORTFOYBUYUKLUK": 265443825.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +2995,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.391973,
-      "TEDPAYSAYISI": 190162075.0,
-      "KISISAYISI": 450.0,
-      "PORTFOYBUYUKLUK": 264700531.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +3005,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.38966,
-      "TEDPAYSAYISI": 190629486.0,
-      "KISISAYISI": 469.0,
-      "PORTFOYBUYUKLUK": 264910120.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +3015,9 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.395136,
-      "TEDPAYSAYISI": 190712928.0,
-      "KISISAYISI": 472.0,
-      "PORTFOYBUYUKLUK": 266070559.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +3025,139 @@
       "FONKODU": "PTO",
       "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.397419,
-      "TEDPAYSAYISI": 190725620.0,
-      "KISISAYISI": 469.0,
-      "PORTFOYBUYUKLUK": 266523518.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.398265,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.405829,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.428212,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.45829,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.432219,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.439604,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.437844,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.437775,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.434187,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.435849,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.43806,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "PTO",
+      "FONUNVAN": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.440541,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

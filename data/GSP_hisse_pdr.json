@@ -1,30 +1,164 @@
 {
   "kod": "GSP",
-  "guncelleme": "2026-04-08T18:22:14Z",
+  "guncelleme": "2026-04-26T16:45:23Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 82.77
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.07
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 15.37
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.79
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.83
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.28
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.88
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.58
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.49
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 3.81
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 2.9
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "TRCAS",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 1.71
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 1.54
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.48
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.29
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 0.72
+    },
+    {
+      "ticker": "BAGFS",
+      "ad": "",
+      "agirlik": 0.51
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
   "kap_rapor_tarihi": "07.04.2026 18:17:44",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3db81470e"
 }

@@ -1,29 +1,129 @@
 {
   "kod": "DPT",
-  "guncelleme": "2026-04-08T18:20:33Z",
+  "guncelleme": "2026-04-26T18:22:05Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dpt-deniz-portfoy-bist-temettu-25-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.11
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.3
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 4.67
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.92
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 15.53
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 13.89
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 10.05
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 6.19
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 6.1
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 5.73
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.89
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.71
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.81
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.41
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.3
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.16
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 0.82
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 0.74
+    },
+    {
+      "ticker": "BRYAT",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 0.46
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 14:36:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5306934369f2"
 }

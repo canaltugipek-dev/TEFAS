@@ -1,29 +1,134 @@
 {
   "kod": "KHJ",
-  "guncelleme": "2026-04-08T18:24:43Z",
+  "guncelleme": "2026-04-26T18:26:26Z",
   "kaynak_tefas": true,
   "unvan": "ATLAS PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khj-atlas-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.03
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Satım",
-      "oran": 2.22
-    },
-    {
-      "tip": "Girişim Sermayesi Yatırım Fonları Katılma Payları",
-      "oran": 4.54
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.21
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TARKM",
+      "ad": "",
+      "agirlik": 7.56
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 6.42
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 5.76
+    },
+    {
+      "ticker": "SRVGY",
+      "ad": "",
+      "agirlik": 5.27
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 5.23
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.97
+    },
+    {
+      "ticker": "BORSK",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 4.87
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.64
+    },
+    {
+      "ticker": "DARDL",
+      "ad": "",
+      "agirlik": 4.52
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 4.49
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "KBORU",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "KUYAS",
+      "ad": "",
+      "agirlik": 2.48
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "ELITE",
+      "ad": "",
+      "agirlik": 0.38
+    },
+    {
+      "ticker": "VESBE",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 17:20:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61f99547213a"
 }

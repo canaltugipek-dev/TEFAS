@@ -2,22 +2,212 @@
   "fon_kodu": "KH1",
   "fon_unvan": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 156,
-  "gun_kapsami": 222,
+  "kayit_sayisi": 188,
+  "gun_kapsami": 267,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1753920000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754006400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754265600000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754352000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754438400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754524800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754611200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754870400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754956800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755043200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755129600000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755216000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755475200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755561600000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755648000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755734400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1755820800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756080000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1756166400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1756252800000",
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009587,
-      "TEDPAYSAYISI": 30314163.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 30604780.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +215,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998233,
-      "TEDPAYSAYISI": 30371416.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 30317737.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +225,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002076,
-      "TEDPAYSAYISI": 30974421.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 31038711.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +235,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996921,
-      "TEDPAYSAYISI": 31034344.0,
-      "KISISAYISI": 79.0,
-      "PORTFOYBUYUKLUK": 30938775.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +245,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992354,
-      "TEDPAYSAYISI": 31217570.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 30978870.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +255,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.967913,
-      "TEDPAYSAYISI": 31304327.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 30299877.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +265,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963135,
-      "TEDPAYSAYISI": 31725219.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 30555677.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +275,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974581,
-      "TEDPAYSAYISI": 31941950.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 31130019.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +285,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957011,
-      "TEDPAYSAYISI": 32048345.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 30670610.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +295,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.936968,
-      "TEDPAYSAYISI": 32124041.0,
-      "KISISAYISI": 137.0,
-      "PORTFOYBUYUKLUK": 30099206.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +305,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934788,
-      "TEDPAYSAYISI": 32162800.0,
-      "KISISAYISI": 143.0,
-      "PORTFOYBUYUKLUK": 30065389.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +315,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94254,
-      "TEDPAYSAYISI": 32222455.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 30370958.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +325,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.930927,
-      "TEDPAYSAYISI": 31826925.0,
-      "KISISAYISI": 149.0,
-      "PORTFOYBUYUKLUK": 29628557.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +335,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.933184,
-      "TEDPAYSAYISI": 32048664.0,
-      "KISISAYISI": 153.0,
-      "PORTFOYBUYUKLUK": 29907309.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +345,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981426,
-      "TEDPAYSAYISI": 32071216.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 31475535.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +355,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998309,
-      "TEDPAYSAYISI": 32358897.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 32304184.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +365,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994578,
-      "TEDPAYSAYISI": 32208926.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32034289.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +375,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981263,
-      "TEDPAYSAYISI": 32213433.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 31609847.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +385,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002484,
-      "TEDPAYSAYISI": 32275068.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 32355230.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +395,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016763,
-      "TEDPAYSAYISI": 32305157.0,
-      "KISISAYISI": 188.0,
-      "PORTFOYBUYUKLUK": 32846685.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +405,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011421,
-      "TEDPAYSAYISI": 32117163.0,
-      "KISISAYISI": 202.0,
-      "PORTFOYBUYUKLUK": 32483983.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +415,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018052,
-      "TEDPAYSAYISI": 32645156.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 33234466.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +425,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017922,
-      "TEDPAYSAYISI": 32636287.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 33221191.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +435,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000062,
-      "TEDPAYSAYISI": 32660935.0,
-      "KISISAYISI": 209.0,
-      "PORTFOYBUYUKLUK": 32662945.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +445,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989982,
-      "TEDPAYSAYISI": 32616823.0,
-      "KISISAYISI": 210.0,
-      "PORTFOYBUYUKLUK": 32290076.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +455,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993009,
-      "TEDPAYSAYISI": 32672454.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 32444028.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +465,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003107,
-      "TEDPAYSAYISI": 32978466.0,
-      "KISISAYISI": 217.0,
-      "PORTFOYBUYUKLUK": 33080925.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +475,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997964,
-      "TEDPAYSAYISI": 35551977.0,
-      "KISISAYISI": 218.0,
-      "PORTFOYBUYUKLUK": 35479587.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +485,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980128,
-      "TEDPAYSAYISI": 35161390.0,
-      "KISISAYISI": 219.0,
-      "PORTFOYBUYUKLUK": 34462676.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +495,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.974904,
-      "TEDPAYSAYISI": 35210529.0,
-      "KISISAYISI": 226.0,
-      "PORTFOYBUYUKLUK": 34326896.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +505,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978897,
-      "TEDPAYSAYISI": 34794447.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 34060189.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +515,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975171,
-      "TEDPAYSAYISI": 34897461.0,
-      "KISISAYISI": 234.0,
-      "PORTFOYBUYUKLUK": 34031004.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +525,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98064,
-      "TEDPAYSAYISI": 34922756.0,
-      "KISISAYISI": 232.0,
-      "PORTFOYBUYUKLUK": 34246658.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +535,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978476,
-      "TEDPAYSAYISI": 34912513.0,
-      "KISISAYISI": 238.0,
-      "PORTFOYBUYUKLUK": 34161052.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +545,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960964,
-      "TEDPAYSAYISI": 35180172.0,
-      "KISISAYISI": 241.0,
-      "PORTFOYBUYUKLUK": 33806883.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +555,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946316,
-      "TEDPAYSAYISI": 39779618.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 37644104.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +565,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95581,
-      "TEDPAYSAYISI": 39800675.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 38041891.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +575,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.94584,
-      "TEDPAYSAYISI": 39869587.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 37710261.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +585,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932692,
-      "TEDPAYSAYISI": 39376180.0,
-      "KISISAYISI": 253.0,
-      "PORTFOYBUYUKLUK": 36725841.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +595,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950734,
-      "TEDPAYSAYISI": 39219440.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 37287255.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +605,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.947043,
-      "TEDPAYSAYISI": 39138705.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 37066040.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +615,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955814,
-      "TEDPAYSAYISI": 39522123.0,
-      "KISISAYISI": 251.0,
-      "PORTFOYBUYUKLUK": 37775778.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +625,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960048,
-      "TEDPAYSAYISI": 39527043.0,
-      "KISISAYISI": 252.0,
-      "PORTFOYBUYUKLUK": 37947871.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +635,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985633,
-      "TEDPAYSAYISI": 39572109.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 39003584.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +645,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984345,
-      "TEDPAYSAYISI": 39714329.0,
-      "KISISAYISI": 261.0,
-      "PORTFOYBUYUKLUK": 39092608.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +655,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98645,
-      "TEDPAYSAYISI": 39713581.0,
-      "KISISAYISI": 263.0,
-      "PORTFOYBUYUKLUK": 39175468.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +665,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986378,
-      "TEDPAYSAYISI": 39711776.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 39170808.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +675,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99365,
-      "TEDPAYSAYISI": 39673448.0,
-      "KISISAYISI": 266.0,
-      "PORTFOYBUYUKLUK": 39421519.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +685,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998486,
-      "TEDPAYSAYISI": 39696041.0,
-      "KISISAYISI": 267.0,
-      "PORTFOYBUYUKLUK": 39635955.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +695,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984274,
-      "TEDPAYSAYISI": 39591408.0,
-      "KISISAYISI": 271.0,
-      "PORTFOYBUYUKLUK": 38968788.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +705,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983575,
-      "TEDPAYSAYISI": 39608433.0,
-      "KISISAYISI": 268.0,
-      "PORTFOYBUYUKLUK": 38957879.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +715,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986877,
-      "TEDPAYSAYISI": 39635457.0,
-      "KISISAYISI": 273.0,
-      "PORTFOYBUYUKLUK": 39115314.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +725,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972652,
-      "TEDPAYSAYISI": 39849034.0,
-      "KISISAYISI": 273.0,
-      "PORTFOYBUYUKLUK": 38759246.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +735,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966153,
-      "TEDPAYSAYISI": 39742583.0,
-      "KISISAYISI": 278.0,
-      "PORTFOYBUYUKLUK": 38397429.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +745,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942653,
-      "TEDPAYSAYISI": 39645179.0,
-      "KISISAYISI": 276.0,
-      "PORTFOYBUYUKLUK": 37371648.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +755,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944327,
-      "TEDPAYSAYISI": 39581144.0,
-      "KISISAYISI": 274.0,
-      "PORTFOYBUYUKLUK": 37377561.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +765,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.942212,
-      "TEDPAYSAYISI": 39595988.0,
-      "KISISAYISI": 274.0,
-      "PORTFOYBUYUKLUK": 37307810.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +775,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.932049,
-      "TEDPAYSAYISI": 39592445.0,
-      "KISISAYISI": 274.0,
-      "PORTFOYBUYUKLUK": 36902117.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +785,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949646,
-      "TEDPAYSAYISI": 39580459.0,
-      "KISISAYISI": 273.0,
-      "PORTFOYBUYUKLUK": 37587429.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +795,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948653,
-      "TEDPAYSAYISI": 39601777.0,
-      "KISISAYISI": 275.0,
-      "PORTFOYBUYUKLUK": 37568336.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +805,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958781,
-      "TEDPAYSAYISI": 39311867.0,
-      "KISISAYISI": 276.0,
-      "PORTFOYBUYUKLUK": 37691489.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +815,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957743,
-      "TEDPAYSAYISI": 39327290.0,
-      "KISISAYISI": 278.0,
-      "PORTFOYBUYUKLUK": 37665436.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +825,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.953245,
-      "TEDPAYSAYISI": 39646780.0,
-      "KISISAYISI": 279.0,
-      "PORTFOYBUYUKLUK": 37793098.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +835,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946636,
-      "TEDPAYSAYISI": 36543212.0,
-      "KISISAYISI": 277.0,
-      "PORTFOYBUYUKLUK": 34593124.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +845,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.937476,
-      "TEDPAYSAYISI": 36379182.0,
-      "KISISAYISI": 279.0,
-      "PORTFOYBUYUKLUK": 34104626.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +855,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943917,
-      "TEDPAYSAYISI": 36649959.0,
-      "KISISAYISI": 277.0,
-      "PORTFOYBUYUKLUK": 34594537.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +865,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944132,
-      "TEDPAYSAYISI": 36373728.0,
-      "KISISAYISI": 281.0,
-      "PORTFOYBUYUKLUK": 34341588.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +875,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.940765,
-      "TEDPAYSAYISI": 36381023.0,
-      "KISISAYISI": 281.0,
-      "PORTFOYBUYUKLUK": 34225982.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +885,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.954117,
-      "TEDPAYSAYISI": 36396259.0,
-      "KISISAYISI": 281.0,
-      "PORTFOYBUYUKLUK": 34726288.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +895,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956142,
-      "TEDPAYSAYISI": 36435739.0,
-      "KISISAYISI": 284.0,
-      "PORTFOYBUYUKLUK": 34837745.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +905,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949995,
-      "TEDPAYSAYISI": 36550891.0,
-      "KISISAYISI": 290.0,
-      "PORTFOYBUYUKLUK": 34723169.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +915,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943999,
-      "TEDPAYSAYISI": 36498392.0,
-      "KISISAYISI": 293.0,
-      "PORTFOYBUYUKLUK": 34454454.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +925,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950169,
-      "TEDPAYSAYISI": 36482539.0,
-      "KISISAYISI": 289.0,
-      "PORTFOYBUYUKLUK": 34664574.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +935,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.963599,
-      "TEDPAYSAYISI": 36303071.0,
-      "KISISAYISI": 293.0,
-      "PORTFOYBUYUKLUK": 34981602.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +945,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.969488,
-      "TEDPAYSAYISI": 36421927.0,
-      "KISISAYISI": 297.0,
-      "PORTFOYBUYUKLUK": 35310613.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +955,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.966109,
-      "TEDPAYSAYISI": 36182246.0,
-      "KISISAYISI": 295.0,
-      "PORTFOYBUYUKLUK": 34955978.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +965,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971943,
-      "TEDPAYSAYISI": 36190453.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 35175054.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +975,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979625,
-      "TEDPAYSAYISI": 36561811.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 35816878.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +985,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989246,
-      "TEDPAYSAYISI": 36618687.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 36224895.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +995,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.981533,
-      "TEDPAYSAYISI": 36605465.0,
-      "KISISAYISI": 311.0,
-      "PORTFOYBUYUKLUK": 35929458.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1005,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972412,
-      "TEDPAYSAYISI": 36799728.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 35784505.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1015,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.977542,
-      "TEDPAYSAYISI": 37153858.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 36319449.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1025,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.979125,
-      "TEDPAYSAYISI": 37229598.0,
-      "KISISAYISI": 316.0,
-      "PORTFOYBUYUKLUK": 36452429.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1035,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976767,
-      "TEDPAYSAYISI": 37287321.0,
-      "KISISAYISI": 316.0,
-      "PORTFOYBUYUKLUK": 36421013.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1045,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976601,
-      "TEDPAYSAYISI": 37338843.0,
-      "KISISAYISI": 318.0,
-      "PORTFOYBUYUKLUK": 36465161.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1055,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986244,
-      "TEDPAYSAYISI": 36932697.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 36424666.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1065,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98883,
-      "TEDPAYSAYISI": 36964169.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 36551280.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1075,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989967,
-      "TEDPAYSAYISI": 37313734.0,
-      "KISISAYISI": 311.0,
-      "PORTFOYBUYUKLUK": 36939367.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1085,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975312,
-      "TEDPAYSAYISI": 37493189.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 36567560.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1095,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988215,
-      "TEDPAYSAYISI": 38227205.0,
-      "KISISAYISI": 328.0,
-      "PORTFOYBUYUKLUK": 37776706.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1105,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992138,
-      "TEDPAYSAYISI": 41073232.0,
-      "KISISAYISI": 329.0,
-      "PORTFOYBUYUKLUK": 40750325.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1115,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997368,
-      "TEDPAYSAYISI": 41093696.0,
-      "KISISAYISI": 328.0,
-      "PORTFOYBUYUKLUK": 40985537.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1125,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010084,
-      "TEDPAYSAYISI": 40830651.0,
-      "KISISAYISI": 331.0,
-      "PORTFOYBUYUKLUK": 41242397.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1135,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029585,
-      "TEDPAYSAYISI": 38005203.0,
-      "KISISAYISI": 347.0,
-      "PORTFOYBUYUKLUK": 39129572.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1145,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024421,
-      "TEDPAYSAYISI": 38134556.0,
-      "KISISAYISI": 351.0,
-      "PORTFOYBUYUKLUK": 39065857.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1155,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023725,
-      "TEDPAYSAYISI": 38846427.0,
-      "KISISAYISI": 360.0,
-      "PORTFOYBUYUKLUK": 39768059.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1165,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0403,
-      "TEDPAYSAYISI": 39072335.0,
-      "KISISAYISI": 363.0,
-      "PORTFOYBUYUKLUK": 40646934.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1175,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048888,
-      "TEDPAYSAYISI": 39097322.0,
-      "KISISAYISI": 371.0,
-      "PORTFOYBUYUKLUK": 41008731.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1185,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062389,
-      "TEDPAYSAYISI": 39180791.0,
-      "KISISAYISI": 379.0,
-      "PORTFOYBUYUKLUK": 41625256.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1195,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058872,
-      "TEDPAYSAYISI": 39226500.0,
-      "KISISAYISI": 380.0,
-      "PORTFOYBUYUKLUK": 41535844.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1205,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072507,
-      "TEDPAYSAYISI": 39550355.0,
-      "KISISAYISI": 395.0,
-      "PORTFOYBUYUKLUK": 42418044.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1215,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.094195,
-      "TEDPAYSAYISI": 40940165.0,
-      "KISISAYISI": 408.0,
-      "PORTFOYBUYUKLUK": 44796520.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1225,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106753,
-      "TEDPAYSAYISI": 41496821.0,
-      "KISISAYISI": 421.0,
-      "PORTFOYBUYUKLUK": 45926719.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1235,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110283,
-      "TEDPAYSAYISI": 42192993.0,
-      "KISISAYISI": 456.0,
-      "PORTFOYBUYUKLUK": 46846170.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1245,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099207,
-      "TEDPAYSAYISI": 43637925.0,
-      "KISISAYISI": 476.0,
-      "PORTFOYBUYUKLUK": 47967112.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1255,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120653,
-      "TEDPAYSAYISI": 44856814.0,
-      "KISISAYISI": 501.0,
-      "PORTFOYBUYUKLUK": 50268909.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1265,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128029,
-      "TEDPAYSAYISI": 45106980.0,
-      "KISISAYISI": 521.0,
-      "PORTFOYBUYUKLUK": 50881984.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1275,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147932,
-      "TEDPAYSAYISI": 45881371.0,
-      "KISISAYISI": 535.0,
-      "PORTFOYBUYUKLUK": 52668712.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1285,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145004,
-      "TEDPAYSAYISI": 52991454.0,
-      "KISISAYISI": 577.0,
-      "PORTFOYBUYUKLUK": 60675453.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1295,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168001,
-      "TEDPAYSAYISI": 54936584.0,
-      "KISISAYISI": 597.0,
-      "PORTFOYBUYUKLUK": 64165998.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1305,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185363,
-      "TEDPAYSAYISI": 55447400.0,
-      "KISISAYISI": 618.0,
-      "PORTFOYBUYUKLUK": 65725289.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1315,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172416,
-      "TEDPAYSAYISI": 56800563.0,
-      "KISISAYISI": 625.0,
-      "PORTFOYBUYUKLUK": 66593916.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1325,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15217,
-      "TEDPAYSAYISI": 59823166.0,
-      "KISISAYISI": 637.0,
-      "PORTFOYBUYUKLUK": 68926428.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1335,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171457,
-      "TEDPAYSAYISI": 60418522.0,
-      "KISISAYISI": 671.0,
-      "PORTFOYBUYUKLUK": 70777684.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1345,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173704,
-      "TEDPAYSAYISI": 60735038.0,
-      "KISISAYISI": 675.0,
-      "PORTFOYBUYUKLUK": 71284975.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1355,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153347,
-      "TEDPAYSAYISI": 61873205.0,
-      "KISISAYISI": 695.0,
-      "PORTFOYBUYUKLUK": 71361280.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1365,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.153359,
-      "TEDPAYSAYISI": 61205307.0,
-      "KISISAYISI": 721.0,
-      "PORTFOYBUYUKLUK": 70591720.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1375,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174436,
-      "TEDPAYSAYISI": 60633809.0,
-      "KISISAYISI": 726.0,
-      "PORTFOYBUYUKLUK": 71210511.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1385,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170406,
-      "TEDPAYSAYISI": 60890478.0,
-      "KISISAYISI": 744.0,
-      "PORTFOYBUYUKLUK": 71266550.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1395,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178933,
-      "TEDPAYSAYISI": 61939853.0,
-      "KISISAYISI": 745.0,
-      "PORTFOYBUYUKLUK": 73022938.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1405,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202312,
-      "TEDPAYSAYISI": 61701560.0,
-      "KISISAYISI": 762.0,
-      "PORTFOYBUYUKLUK": 74184535.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1415,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200947,
-      "TEDPAYSAYISI": 61157262.0,
-      "KISISAYISI": 765.0,
-      "PORTFOYBUYUKLUK": 73446604.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1425,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.211945,
-      "TEDPAYSAYISI": 62246303.0,
-      "KISISAYISI": 782.0,
-      "PORTFOYBUYUKLUK": 75439112.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1435,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196079,
-      "TEDPAYSAYISI": 61358286.0,
-      "KISISAYISI": 819.0,
-      "PORTFOYBUYUKLUK": 73389371.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1445,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204935,
-      "TEDPAYSAYISI": 62019074.0,
-      "KISISAYISI": 825.0,
-      "PORTFOYBUYUKLUK": 74728975.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1455,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171834,
-      "TEDPAYSAYISI": 62943293.0,
-      "KISISAYISI": 837.0,
-      "PORTFOYBUYUKLUK": 73759076.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1465,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179806,
-      "TEDPAYSAYISI": 63613249.0,
-      "KISISAYISI": 841.0,
-      "PORTFOYBUYUKLUK": 75051277.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1475,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189887,
-      "TEDPAYSAYISI": 67679086.0,
-      "KISISAYISI": 838.0,
-      "PORTFOYBUYUKLUK": 80530494.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1485,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188803,
-      "TEDPAYSAYISI": 68222260.0,
-      "KISISAYISI": 849.0,
-      "PORTFOYBUYUKLUK": 81102830.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1495,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167969,
-      "TEDPAYSAYISI": 68450809.0,
-      "KISISAYISI": 849.0,
-      "PORTFOYBUYUKLUK": 79948433.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1505,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172658,
-      "TEDPAYSAYISI": 70235204.0,
-      "KISISAYISI": 844.0,
-      "PORTFOYBUYUKLUK": 82361855.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1515,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169812,
-      "TEDPAYSAYISI": 71384710.0,
-      "KISISAYISI": 850.0,
-      "PORTFOYBUYUKLUK": 83506700.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1525,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160504,
-      "TEDPAYSAYISI": 71974112.0,
-      "KISISAYISI": 840.0,
-      "PORTFOYBUYUKLUK": 83526221.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1535,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135428,
-      "TEDPAYSAYISI": 65819044.0,
-      "KISISAYISI": 830.0,
-      "PORTFOYBUYUKLUK": 74732772.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1545,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131779,
-      "TEDPAYSAYISI": 65412124.0,
-      "KISISAYISI": 793.0,
-      "PORTFOYBUYUKLUK": 74032076.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1555,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148429,
-      "TEDPAYSAYISI": 68597053.0,
-      "KISISAYISI": 791.0,
-      "PORTFOYBUYUKLUK": 78778865.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1565,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144467,
-      "TEDPAYSAYISI": 68243665.0,
-      "KISISAYISI": 782.0,
-      "PORTFOYBUYUKLUK": 78102620.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1575,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123038,
-      "TEDPAYSAYISI": 64713366.0,
-      "KISISAYISI": 780.0,
-      "PORTFOYBUYUKLUK": 72675580.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1585,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160337,
-      "TEDPAYSAYISI": 64320358.0,
-      "KISISAYISI": 773.0,
-      "PORTFOYBUYUKLUK": 74633270.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1595,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160896,
-      "TEDPAYSAYISI": 63845652.0,
-      "KISISAYISI": 763.0,
-      "PORTFOYBUYUKLUK": 74118168.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1605,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169771,
-      "TEDPAYSAYISI": 63881684.0,
-      "KISISAYISI": 760.0,
-      "PORTFOYBUYUKLUK": 74726964.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1615,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159852,
-      "TEDPAYSAYISI": 65433175.0,
-      "KISISAYISI": 762.0,
-      "PORTFOYBUYUKLUK": 75892786.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1625,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15789,
-      "TEDPAYSAYISI": 64479424.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 74660106.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1635,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17413,
-      "TEDPAYSAYISI": 64503873.0,
-      "KISISAYISI": 755.0,
-      "PORTFOYBUYUKLUK": 75735942.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1645,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16885,
-      "TEDPAYSAYISI": 64615320.0,
-      "KISISAYISI": 761.0,
-      "PORTFOYBUYUKLUK": 75525592.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1655,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162476,
-      "TEDPAYSAYISI": 62707616.0,
-      "KISISAYISI": 762.0,
-      "PORTFOYBUYUKLUK": 72896072.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1665,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165309,
-      "TEDPAYSAYISI": 62796999.0,
-      "KISISAYISI": 758.0,
-      "PORTFOYBUYUKLUK": 73177918.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1675,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151873,
-      "TEDPAYSAYISI": 61599297.0,
-      "KISISAYISI": 763.0,
-      "PORTFOYBUYUKLUK": 70954539.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1685,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15435,
-      "TEDPAYSAYISI": 61433356.0,
-      "KISISAYISI": 743.0,
-      "PORTFOYBUYUKLUK": 70915583.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1695,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137064,
-      "TEDPAYSAYISI": 61510915.0,
-      "KISISAYISI": 742.0,
-      "PORTFOYBUYUKLUK": 69941831.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1705,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133423,
-      "TEDPAYSAYISI": 61445828.0,
-      "KISISAYISI": 738.0,
-      "PORTFOYBUYUKLUK": 69644134.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1715,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128876,
-      "TEDPAYSAYISI": 61353588.0,
-      "KISISAYISI": 735.0,
-      "PORTFOYBUYUKLUK": 69260578.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1725,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14691,
-      "TEDPAYSAYISI": 61171420.0,
-      "KISISAYISI": 730.0,
-      "PORTFOYBUYUKLUK": 70158094.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1735,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158762,
-      "TEDPAYSAYISI": 61011621.0,
-      "KISISAYISI": 725.0,
-      "PORTFOYBUYUKLUK": 70697943.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1745,9 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.164333,
-      "TEDPAYSAYISI": 61147192.0,
-      "KISISAYISI": 722.0,
-      "PORTFOYBUYUKLUK": 71195713.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1755,139 @@
       "FONKODU": "KH1",
       "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.155557,
-      "TEDPAYSAYISI": 61237071.0,
-      "KISISAYISI": 726.0,
-      "PORTFOYBUYUKLUK": 70762904.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.175611,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.162991,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.200413,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.217225,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.237385,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.247636,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.252601,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.264528,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.25924,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.275554,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.265282,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.254502,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "KH1",
+      "FONUNVAN": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.256361,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

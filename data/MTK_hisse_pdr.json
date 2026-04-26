@@ -1,21 +1,119 @@
 {
   "kod": "MTK",
-  "guncelleme": "2026-04-08T18:25:42Z",
+  "guncelleme": "2026-04-26T18:26:54Z",
   "kaynak_tefas": true,
   "unvan": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mtk-mt-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.59
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.41
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.77
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.72
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 7.74
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 7.35
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 5.44
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.78
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.76
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.57
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "GRTHO",
+      "ad": "",
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.88
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 3.75
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.49
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.3
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.9
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 2.59
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.79
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 15:08:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4dec12d51a90"
 }

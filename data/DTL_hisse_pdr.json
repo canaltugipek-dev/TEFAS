@@ -1,29 +1,174 @@
 {
   "kod": "DTL",
-  "guncelleme": "2026-04-08T18:20:39Z",
+  "guncelleme": "2026-04-26T18:22:09Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dtl-deniz-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.65
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.35
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.53
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.47
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 5.56
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 4.31
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 3.12
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 2.81
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "DESA",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 2.45
+    },
+    {
+      "ticker": "MERCN",
+      "ad": "",
+      "agirlik": 2.42
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "VKGYO",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.27
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "31 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 14:36:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d530694f06a1f"
 }

@@ -1,26 +1,84 @@
 {
   "kod": "EC2",
-  "guncelleme": "2026-04-08T18:20:52Z",
+  "guncelleme": "2026-04-26T15:43:41Z",
   "kaynak_tefas": true,
   "unvan": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ec2-global-md-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 85.28
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 6.82
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 7.9
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 9.79
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 9.5
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 8.29
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 5.09
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 5.02
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 4.98
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.97
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.9
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.82
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 4.64
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 4.6
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "13 hisse satırı okundu.",
   "kap_rapor_tarihi": "07.04.2026 16:59:02",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d682aba963a22"
 }

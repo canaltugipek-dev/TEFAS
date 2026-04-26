@@ -1,29 +1,169 @@
 {
   "kod": "BIO",
-  "guncelleme": "2026-04-08T18:20:07Z",
+  "guncelleme": "2026-04-26T18:21:47Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bio-is-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.82
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.3
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 5.49
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.39
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 8.61
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 6.34
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 6.16
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 5.75
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.45
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.24
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 3.96
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 3.04
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 2.94
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 2.49
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.17
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 0.65
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "30 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 15:01:03",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d53286ae7546f"
 }

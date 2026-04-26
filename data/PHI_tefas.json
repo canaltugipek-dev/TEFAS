@@ -2,22 +2,292 @@
   "fon_kodu": "PHI",
   "fon_unvan": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 336,
-  "gun_kapsami": 487,
+  "kayit_sayisi": 376,
+  "gun_kapsami": 543,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1730073600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730246400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730332800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730419200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730678400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730764800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730851200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1730937600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731024000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731283200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731369600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731456000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731542400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731628800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731888000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1731974400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732060800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732147200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732233600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732492800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732579200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732665600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732752000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1732838400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733097600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733184000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1733270400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1733356800000",
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
-      "TEDPAYSAYISI": 0.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +295,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000901,
-      "TEDPAYSAYISI": 5000000.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 5004506.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +305,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007843,
-      "TEDPAYSAYISI": 15990000.0,
-      "KISISAYISI": 1.0,
-      "PORTFOYBUYUKLUK": 16115404.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +315,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028098,
-      "TEDPAYSAYISI": 15990000.0,
-      "KISISAYISI": 7.0,
-      "PORTFOYBUYUKLUK": 16439293.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +325,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019578,
-      "TEDPAYSAYISI": 15992140.0,
-      "KISISAYISI": 12.0,
-      "PORTFOYBUYUKLUK": 16305226.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +335,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016512,
-      "TEDPAYSAYISI": 19411162.0,
-      "KISISAYISI": 15.0,
-      "PORTFOYBUYUKLUK": 19731681.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +345,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023562,
-      "TEDPAYSAYISI": 19422012.0,
-      "KISISAYISI": 18.0,
-      "PORTFOYBUYUKLUK": 19879633.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +355,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037451,
-      "TEDPAYSAYISI": 20370222.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 21133104.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +365,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035729,
-      "TEDPAYSAYISI": 20392871.0,
-      "KISISAYISI": 27.0,
-      "PORTFOYBUYUKLUK": 21121495.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +375,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038111,
-      "TEDPAYSAYISI": 20494898.0,
-      "KISISAYISI": 32.0,
-      "PORTFOYBUYUKLUK": 21275971.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +385,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031092,
-      "TEDPAYSAYISI": 20828127.0,
-      "KISISAYISI": 36.0,
-      "PORTFOYBUYUKLUK": 21475720.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +395,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02083,
-      "TEDPAYSAYISI": 20850322.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 21284637.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +405,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016752,
-      "TEDPAYSAYISI": 20857242.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 21206640.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +415,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011432,
-      "TEDPAYSAYISI": 20857863.0,
-      "KISISAYISI": 37.0,
-      "PORTFOYBUYUKLUK": 21096302.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +425,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017171,
-      "TEDPAYSAYISI": 20904727.0,
-      "KISISAYISI": 38.0,
-      "PORTFOYBUYUKLUK": 21263674.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +435,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023917,
-      "TEDPAYSAYISI": 20907834.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 21407878.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +445,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026691,
-      "TEDPAYSAYISI": 20907946.0,
-      "KISISAYISI": 41.0,
-      "PORTFOYBUYUKLUK": 21465993.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +455,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.034012,
-      "TEDPAYSAYISI": 20914971.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 21626325.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +465,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022014,
-      "TEDPAYSAYISI": 20917689.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21378163.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +475,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015906,
-      "TEDPAYSAYISI": 20922977.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21255784.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +485,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016781,
-      "TEDPAYSAYISI": 23876312.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 24276989.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +495,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01825,
-      "TEDPAYSAYISI": 23876039.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 24311778.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +505,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016967,
-      "TEDPAYSAYISI": 24023451.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 24431052.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +515,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015607,
-      "TEDPAYSAYISI": 24318459.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 24697992.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +525,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00951,
-      "TEDPAYSAYISI": 21365469.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21568650.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +535,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019425,
-      "TEDPAYSAYISI": 21365755.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21780780.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +545,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017745,
-      "TEDPAYSAYISI": 21317547.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21695831.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +555,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009762,
-      "TEDPAYSAYISI": 21317572.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21525669.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +565,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010059,
-      "TEDPAYSAYISI": 21320943.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 21535408.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +575,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009313,
-      "TEDPAYSAYISI": 21311311.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 21509788.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +585,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018262,
-      "TEDPAYSAYISI": 21316570.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21705852.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +595,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024434,
-      "TEDPAYSAYISI": 21287217.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21807342.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +605,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024317,
-      "TEDPAYSAYISI": 21292104.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21809870.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +615,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020403,
-      "TEDPAYSAYISI": 21438691.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21876105.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +625,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031402,
-      "TEDPAYSAYISI": 21452328.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 22125968.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +635,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037108,
-      "TEDPAYSAYISI": 21452091.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 22248124.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +645,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045984,
-      "TEDPAYSAYISI": 21452094.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 22438536.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +655,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043396,
-      "TEDPAYSAYISI": 21441223.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 22371676.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +665,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047759,
-      "TEDPAYSAYISI": 21441499.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 22465526.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +675,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035902,
-      "TEDPAYSAYISI": 21561586.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 22335687.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +685,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031435,
-      "TEDPAYSAYISI": 21648265.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 22328778.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +695,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025579,
-      "TEDPAYSAYISI": 21648246.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 22201977.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +705,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009171,
-      "TEDPAYSAYISI": 21677510.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21876316.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +715,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009872,
-      "TEDPAYSAYISI": 21703406.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 21917669.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +725,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996343,
-      "TEDPAYSAYISI": 21703514.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 21624141.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +735,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014256,
-      "TEDPAYSAYISI": 21703150.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 22012541.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +745,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024811,
-      "TEDPAYSAYISI": 21700338.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 22238744.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +755,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021956,
-      "TEDPAYSAYISI": 21700347.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 22176792.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +765,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0252,
-      "TEDPAYSAYISI": 21604193.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 22148625.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +775,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015056,
-      "TEDPAYSAYISI": 21619098.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 21944584.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +785,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029285,
-      "TEDPAYSAYISI": 21606937.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 22239700.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +795,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028458,
-      "TEDPAYSAYISI": 21606557.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 22221429.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +805,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02599,
-      "TEDPAYSAYISI": 21595663.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 22156925.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +815,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033256,
-      "TEDPAYSAYISI": 21596865.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 22315085.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +825,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017106,
-      "TEDPAYSAYISI": 21597817.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 21967265.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +835,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02415,
-      "TEDPAYSAYISI": 21597615.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 22119194.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +845,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002136,
-      "TEDPAYSAYISI": 21597607.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 21643733.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +855,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999203,
-      "TEDPAYSAYISI": 21597579.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21580366.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +865,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.984581,
-      "TEDPAYSAYISI": 21600611.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 21267552.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +875,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989941,
-      "TEDPAYSAYISI": 21600638.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 21383366.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +885,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003531,
-      "TEDPAYSAYISI": 21586228.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21662451.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +895,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998934,
-      "TEDPAYSAYISI": 21586231.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21563212.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +905,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008623,
-      "TEDPAYSAYISI": 21586396.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21772529.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +915,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996981,
-      "TEDPAYSAYISI": 21586516.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 21521348.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +925,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010734,
-      "TEDPAYSAYISI": 21586028.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 21817733.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +935,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028953,
-      "TEDPAYSAYISI": 21587739.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 22212764.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +945,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043446,
-      "TEDPAYSAYISI": 21244470.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 22167459.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +955,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.04429,
-      "TEDPAYSAYISI": 21244470.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 22185394.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +965,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043839,
-      "TEDPAYSAYISI": 21245079.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 22176446.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +975,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.056913,
-      "TEDPAYSAYISI": 21213889.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 22421241.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +985,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.066598,
-      "TEDPAYSAYISI": 21204088.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 22616228.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +995,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079246,
-      "TEDPAYSAYISI": 21213364.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 22894427.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +1005,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081186,
-      "TEDPAYSAYISI": 21213261.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 22935477.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +1015,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080279,
-      "TEDPAYSAYISI": 21215110.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 22918243.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +1025,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002886,
-      "TEDPAYSAYISI": 21216040.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21277263.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +1035,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994804,
-      "TEDPAYSAYISI": 21217535.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21107279.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +1045,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.948626,
-      "TEDPAYSAYISI": 21214000.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 20124158.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +1055,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97327,
-      "TEDPAYSAYISI": 21217892.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 20650728.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +1065,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996284,
-      "TEDPAYSAYISI": 21217166.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21138324.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1075,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993198,
-      "TEDPAYSAYISI": 21217367.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21073054.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1085,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000538,
-      "TEDPAYSAYISI": 21217167.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21228579.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1095,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0042,
-      "TEDPAYSAYISI": 21216667.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21305787.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1105,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005693,
-      "TEDPAYSAYISI": 21338812.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21460296.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1115,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001008,
-      "TEDPAYSAYISI": 21339208.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 21360716.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1125,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991346,
-      "TEDPAYSAYISI": 21215802.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21032203.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1135,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999202,
-      "TEDPAYSAYISI": 21215802.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21198875.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1145,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013125,
-      "TEDPAYSAYISI": 21217985.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 21496480.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1155,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008239,
-      "TEDPAYSAYISI": 21217985.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 21392794.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1165,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008522,
-      "TEDPAYSAYISI": 21218098.0,
-      "KISISAYISI": 52.0,
-      "PORTFOYBUYUKLUK": 21398923.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1175,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010395,
-      "TEDPAYSAYISI": 21215815.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21436349.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1185,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012774,
-      "TEDPAYSAYISI": 21216308.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21487317.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1195,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007833,
-      "TEDPAYSAYISI": 21224145.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21390391.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1205,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993155,
-      "TEDPAYSAYISI": 21224046.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21078761.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1215,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004206,
-      "TEDPAYSAYISI": 21223947.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21313220.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1225,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996156,
-      "TEDPAYSAYISI": 21223947.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 21142359.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1235,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997467,
-      "TEDPAYSAYISI": 20983026.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 20929866.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1245,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000084,
-      "TEDPAYSAYISI": 20982990.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 20984748.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1255,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.017877,
-      "TEDPAYSAYISI": 20979477.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 21354532.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1265,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.015425,
-      "TEDPAYSAYISI": 20979477.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 21303089.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1275,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007788,
-      "TEDPAYSAYISI": 20979772.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21143155.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1285,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000252,
-      "TEDPAYSAYISI": 20979530.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 20984808.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1295,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996481,
-      "TEDPAYSAYISI": 20954539.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 20880805.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1305,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012168,
-      "TEDPAYSAYISI": 20954539.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21209523.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1315,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014822,
-      "TEDPAYSAYISI": 20954539.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21265126.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1325,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019168,
-      "TEDPAYSAYISI": 20954639.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21356292.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1335,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012178,
-      "TEDPAYSAYISI": 20954639.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21209816.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1345,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023742,
-      "TEDPAYSAYISI": 20954639.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21452153.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1355,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038517,
-      "TEDPAYSAYISI": 20954765.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21761871.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1365,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063613,
-      "TEDPAYSAYISI": 20954765.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 22287767.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1375,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047151,
-      "TEDPAYSAYISI": 20962032.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 21950412.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1385,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053652,
-      "TEDPAYSAYISI": 21057372.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 22187132.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1395,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.046558,
-      "TEDPAYSAYISI": 21057276.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 22037655.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1405,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052245,
-      "TEDPAYSAYISI": 21050225.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 22149995.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1415,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048195,
-      "TEDPAYSAYISI": 20954727.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 21964640.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1425,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033254,
-      "TEDPAYSAYISI": 20827124.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 21519701.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1435,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03276,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21498724.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1445,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026006,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21358126.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1455,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.019316,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21218868.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1465,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011116,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21048157.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1475,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004732,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20915269.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1485,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002089,
-      "TEDPAYSAYISI": 20816762.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20860249.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1495,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992457,
-      "TEDPAYSAYISI": 20816866.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 20659841.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1505,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.980422,
-      "TEDPAYSAYISI": 20817168.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 20409606.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1515,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006181,
-      "TEDPAYSAYISI": 20797782.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 20926340.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1525,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022964,
-      "TEDPAYSAYISI": 20867500.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21346691.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1535,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024637,
-      "TEDPAYSAYISI": 20867500.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21381614.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1545,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041712,
-      "TEDPAYSAYISI": 20867500.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21737923.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1555,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038092,
-      "TEDPAYSAYISI": 20867619.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21662511.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1565,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.024779,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 21384592.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1575,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003147,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20933184.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1585,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007249,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21018782.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1595,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006466,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21002442.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1605,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997594,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20817306.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1615,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.982006,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20492037.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1625,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988785,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20633489.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1635,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983542,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 20524085.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1645,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01456,
-      "TEDPAYSAYISI": 20867521.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21171358.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1655,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014518,
-      "TEDPAYSAYISI": 20867326.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 21170271.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1665,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010464,
-      "TEDPAYSAYISI": 20866597.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 21084951.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1675,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008727,
-      "TEDPAYSAYISI": 20866597.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 21048705.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1685,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.054222,
-      "TEDPAYSAYISI": 20866597.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 21998026.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1695,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06984,
-      "TEDPAYSAYISI": 20866597.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 22323923.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1705,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072712,
-      "TEDPAYSAYISI": 20866597.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 22383858.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1715,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.079703,
-      "TEDPAYSAYISI": 20922529.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 22590116.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1725,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.081722,
-      "TEDPAYSAYISI": 21015045.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 22732434.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1735,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065846,
-      "TEDPAYSAYISI": 21052023.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 22438205.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1745,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058545,
-      "TEDPAYSAYISI": 21052023.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 22284506.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1755,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.08382,
-      "TEDPAYSAYISI": 21052213.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 22816814.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1765,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.099161,
-      "TEDPAYSAYISI": 21052319.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 23139893.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1775,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098506,
-      "TEDPAYSAYISI": 21052409.0,
-      "KISISAYISI": 44.0,
-      "PORTFOYBUYUKLUK": 23126197.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1785,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097858,
-      "TEDPAYSAYISI": 21070615.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 23132543.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1795,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.098025,
-      "TEDPAYSAYISI": 21070615.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 23136059.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1805,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130318,
-      "TEDPAYSAYISI": 21071070.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 23817007.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1815,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133586,
-      "TEDPAYSAYISI": 21079929.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 23895917.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1825,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.154556,
-      "TEDPAYSAYISI": 21088774.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 24348177.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1835,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159505,
-      "TEDPAYSAYISI": 21108000.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 24474835.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1845,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156173,
-      "TEDPAYSAYISI": 21149166.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 24452089.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1855,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163157,
-      "TEDPAYSAYISI": 21150203.0,
-      "KISISAYISI": 53.0,
-      "PORTFOYBUYUKLUK": 24601007.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1865,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170263,
-      "TEDPAYSAYISI": 21152752.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 24754283.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1875,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172962,
-      "TEDPAYSAYISI": 21196440.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 24862624.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1885,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170307,
-      "TEDPAYSAYISI": 21198604.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 24808869.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1895,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.177103,
-      "TEDPAYSAYISI": 21241327.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 25003219.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1905,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19119,
-      "TEDPAYSAYISI": 21290851.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 25361442.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1915,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194629,
-      "TEDPAYSAYISI": 21318767.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 25468013.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1925,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205949,
-      "TEDPAYSAYISI": 21426894.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 25839745.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1935,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209662,
-      "TEDPAYSAYISI": 21725315.0,
-      "KISISAYISI": 70.0,
-      "PORTFOYBUYUKLUK": 26280297.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1945,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.201313,
-      "TEDPAYSAYISI": 22015674.0,
-      "KISISAYISI": 73.0,
-      "PORTFOYBUYUKLUK": 26447712.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1955,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216435,
-      "TEDPAYSAYISI": 22066443.0,
-      "KISISAYISI": 80.0,
-      "PORTFOYBUYUKLUK": 26842404.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1965,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.222034,
-      "TEDPAYSAYISI": 22117149.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 27027904.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1975,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235313,
-      "TEDPAYSAYISI": 22152707.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 27365526.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1985,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226402,
-      "TEDPAYSAYISI": 22271403.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 27313692.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1995,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.226741,
-      "TEDPAYSAYISI": 22554878.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 27668994.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +2005,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208942,
-      "TEDPAYSAYISI": 22511819.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 27215477.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +2015,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217341,
-      "TEDPAYSAYISI": 22502335.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 27393024.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +2025,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221267,
-      "TEDPAYSAYISI": 22527168.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 27511689.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +2035,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224085,
-      "TEDPAYSAYISI": 22507965.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 27551666.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +2045,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24354,
-      "TEDPAYSAYISI": 22668154.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 28188753.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +2055,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.259291,
-      "TEDPAYSAYISI": 22700857.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 28586976.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +2065,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256396,
-      "TEDPAYSAYISI": 22743913.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 28575364.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2075,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266851,
-      "TEDPAYSAYISI": 22826214.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 28917419.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2085,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269881,
-      "TEDPAYSAYISI": 22701140.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 28827746.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2095,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246295,
-      "TEDPAYSAYISI": 22723696.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 28320419.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2105,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239583,
-      "TEDPAYSAYISI": 22657777.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 28086194.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2115,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.223878,
-      "TEDPAYSAYISI": 22688002.0,
-      "KISISAYISI": 130.0,
-      "PORTFOYBUYUKLUK": 27767351.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2125,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231089,
-      "TEDPAYSAYISI": 22777617.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 28041266.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2135,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194401,
-      "TEDPAYSAYISI": 22731297.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 27150284.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2145,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17958,
-      "TEDPAYSAYISI": 22710921.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 26789337.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2155,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190584,
-      "TEDPAYSAYISI": 22696531.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 27022130.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2165,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178008,
-      "TEDPAYSAYISI": 22695429.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 26735399.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2175,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.158421,
-      "TEDPAYSAYISI": 22695429.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 26290866.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2185,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162614,
-      "TEDPAYSAYISI": 22679448.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 26367454.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2195,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166673,
-      "TEDPAYSAYISI": 22669163.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 26447494.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2205,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152774,
-      "TEDPAYSAYISI": 22665891.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 26128654.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2215,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151933,
-      "TEDPAYSAYISI": 22665891.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 26109584.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2225,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.20596,
-      "TEDPAYSAYISI": 22666542.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 27334943.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2235,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225386,
-      "TEDPAYSAYISI": 22664780.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 27773106.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2245,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229546,
-      "TEDPAYSAYISI": 22664780.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 27867391.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2255,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217984,
-      "TEDPAYSAYISI": 22664861.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 27605430.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2265,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.234857,
-      "TEDPAYSAYISI": 22657003.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 27978164.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2275,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.2555,
-      "TEDPAYSAYISI": 22654618.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 28442876.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2285,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.236566,
-      "TEDPAYSAYISI": 22647033.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 28004546.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2295,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243781,
-      "TEDPAYSAYISI": 22652194.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 28174368.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2305,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243041,
-      "TEDPAYSAYISI": 22653001.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 28158609.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2315,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.21553,
-      "TEDPAYSAYISI": 22629119.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 27506368.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2325,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.203695,
-      "TEDPAYSAYISI": 22634995.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 27245627.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2335,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196562,
-      "TEDPAYSAYISI": 22627179.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 27074825.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2345,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210964,
-      "TEDPAYSAYISI": 22627262.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 27400805.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2355,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198883,
-      "TEDPAYSAYISI": 22627901.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 27128209.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2365,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173953,
-      "TEDPAYSAYISI": 22628117.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 26564339.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2375,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160999,
-      "TEDPAYSAYISI": 22667289.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 26316692.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2385,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172244,
-      "TEDPAYSAYISI": 22666110.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 26570207.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2395,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169607,
-      "TEDPAYSAYISI": 22563810.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 26390784.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2405,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171486,
-      "TEDPAYSAYISI": 22589587.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 26463390.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2415,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172556,
-      "TEDPAYSAYISI": 22610699.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 26512300.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2425,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149028,
-      "TEDPAYSAYISI": 22609925.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 25979433.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2435,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133938,
-      "TEDPAYSAYISI": 22607383.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 25635371.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2445,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145688,
-      "TEDPAYSAYISI": 22580235.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 25869909.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2455,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.136233,
-      "TEDPAYSAYISI": 22502922.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 25568567.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2465,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12563,
-      "TEDPAYSAYISI": 22450905.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 25271401.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2475,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144375,
-      "TEDPAYSAYISI": 22450473.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 25691762.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2485,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.145136,
-      "TEDPAYSAYISI": 22451128.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 25709591.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2495,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.151638,
-      "TEDPAYSAYISI": 22394319.0,
-      "KISISAYISI": 100.0,
-      "PORTFOYBUYUKLUK": 25790144.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2505,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152192,
-      "TEDPAYSAYISI": 22327609.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 25725696.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2515,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.187685,
-      "TEDPAYSAYISI": 22326280.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 26516583.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2525,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181447,
-      "TEDPAYSAYISI": 22330489.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 26382287.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2535,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181008,
-      "TEDPAYSAYISI": 22327682.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 26369180.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2545,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189833,
-      "TEDPAYSAYISI": 22327682.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 26566223.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2555,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209413,
-      "TEDPAYSAYISI": 22392505.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 27081790.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2565,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.215224,
-      "TEDPAYSAYISI": 22373445.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 27188742.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2575,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199873,
-      "TEDPAYSAYISI": 22373609.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 26845481.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2585,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.20309,
-      "TEDPAYSAYISI": 22454290.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 27014536.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2595,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207611,
-      "TEDPAYSAYISI": 22448732.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 27109331.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2605,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.19777,
-      "TEDPAYSAYISI": 22448732.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 26888428.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2615,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.187467,
-      "TEDPAYSAYISI": 22447760.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 26655977.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2625,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167965,
-      "TEDPAYSAYISI": 22447760.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 26218206.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2635,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160645,
-      "TEDPAYSAYISI": 22473445.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 26083682.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2645,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157689,
-      "TEDPAYSAYISI": 22467865.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 26010803.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2655,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147519,
-      "TEDPAYSAYISI": 22467765.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 25782195.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2665,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168421,
-      "TEDPAYSAYISI": 22974404.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 26843775.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2675,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.166039,
-      "TEDPAYSAYISI": 22974404.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 26789046.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2685,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.183629,
-      "TEDPAYSAYISI": 22455583.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 26579068.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2695,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185962,
-      "TEDPAYSAYISI": 22418179.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 26587100.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2705,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178862,
-      "TEDPAYSAYISI": 22337483.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 26332813.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2715,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176008,
-      "TEDPAYSAYISI": 22337487.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 26269060.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2725,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176471,
-      "TEDPAYSAYISI": 22341656.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 26284315.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2735,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174434,
-      "TEDPAYSAYISI": 22341740.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26238889.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2745,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.175268,
-      "TEDPAYSAYISI": 22341740.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26257540.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2755,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167811,
-      "TEDPAYSAYISI": 22341740.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26090934.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2765,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191694,
-      "TEDPAYSAYISI": 22341740.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26624517.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2775,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195173,
-      "TEDPAYSAYISI": 22341544.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 26702020.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2785,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191281,
-      "TEDPAYSAYISI": 22341540.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26615055.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2795,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17948,
-      "TEDPAYSAYISI": 22341540.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 26351391.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2805,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191145,
-      "TEDPAYSAYISI": 22341540.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 26612011.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2815,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204831,
-      "TEDPAYSAYISI": 22340731.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 26916800.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2825,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.208921,
-      "TEDPAYSAYISI": 22340979.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 27008484.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2835,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205408,
-      "TEDPAYSAYISI": 22345114.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 26934978.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2845,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209428,
-      "TEDPAYSAYISI": 22353500.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 27034946.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2855,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218099,
-      "TEDPAYSAYISI": 22353500.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 27228771.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2595,9 +2865,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225651,
-      "TEDPAYSAYISI": 22312328.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 27347130.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2605,9 +2875,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.207975,
-      "TEDPAYSAYISI": 22300848.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 26938868.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2615,9 +2885,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205428,
-      "TEDPAYSAYISI": 22201274.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 26762037.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2625,9 +2895,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205617,
-      "TEDPAYSAYISI": 22201274.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 26766243.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2635,9 +2905,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204442,
-      "TEDPAYSAYISI": 22201274.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 26740154.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2645,9 +2915,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199228,
-      "TEDPAYSAYISI": 22201274.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 26624390.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2655,9 +2925,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190361,
-      "TEDPAYSAYISI": 22128976.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 26341479.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2665,9 +2935,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.190393,
-      "TEDPAYSAYISI": 22128563.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 26341680.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2675,9 +2945,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191352,
-      "TEDPAYSAYISI": 22129403.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 26363905.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2685,9 +2955,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.182681,
-      "TEDPAYSAYISI": 22123726.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 26165305.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2695,9 +2965,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174254,
-      "TEDPAYSAYISI": 22082968.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 25931015.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2705,9 +2975,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179311,
-      "TEDPAYSAYISI": 22082881.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 26042591.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2715,9 +2985,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180014,
-      "TEDPAYSAYISI": 22082794.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 26057996.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2725,9 +2995,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206009,
-      "TEDPAYSAYISI": 22082794.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 26632052.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2735,9 +3005,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221197,
-      "TEDPAYSAYISI": 22912844.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 27981095.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2745,9 +3015,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245718,
-      "TEDPAYSAYISI": 22912004.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 28541896.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2755,9 +3025,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239639,
-      "TEDPAYSAYISI": 22971407.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 28476248.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2765,9 +3035,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248978,
-      "TEDPAYSAYISI": 22666944.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 28310504.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2775,9 +3045,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.249275,
-      "TEDPAYSAYISI": 21825834.0,
-      "KISISAYISI": 84.0,
-      "PORTFOYBUYUKLUK": 27266470.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2785,9 +3055,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257479,
-      "TEDPAYSAYISI": 26790302.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 33688233.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2795,9 +3065,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.272688,
-      "TEDPAYSAYISI": 27750738.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 35318022.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2805,9 +3075,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.270762,
-      "TEDPAYSAYISI": 27698098.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 35197682.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2815,9 +3085,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.286914,
-      "TEDPAYSAYISI": 27858005.0,
-      "KISISAYISI": 87.0,
-      "PORTFOYBUYUKLUK": 35850867.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2825,9 +3095,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.309939,
-      "TEDPAYSAYISI": 27859732.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 36494541.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2835,9 +3105,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.312554,
-      "TEDPAYSAYISI": 27866448.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 36576208.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2845,9 +3115,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.30556,
-      "TEDPAYSAYISI": 27868504.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 36383992.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2855,9 +3125,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306222,
-      "TEDPAYSAYISI": 28202735.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 36839036.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2865,9 +3135,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.336283,
-      "TEDPAYSAYISI": 28279902.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 37789956.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2875,9 +3145,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.34575,
-      "TEDPAYSAYISI": 28288289.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 38068956.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2885,9 +3155,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.359675,
-      "TEDPAYSAYISI": 28512923.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 38768304.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2895,9 +3165,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.350181,
-      "TEDPAYSAYISI": 28513155.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 38497916.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2905,9 +3175,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.377849,
-      "TEDPAYSAYISI": 29403139.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 40513074.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2915,9 +3185,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.39337,
-      "TEDPAYSAYISI": 29411145.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 40980605.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2925,9 +3195,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.402024,
-      "TEDPAYSAYISI": 29410405.0,
-      "KISISAYISI": 98.0,
-      "PORTFOYBUYUKLUK": 41234087.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2935,9 +3205,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.393538,
-      "TEDPAYSAYISI": 72907966.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 101600054.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2945,9 +3215,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.40129,
-      "TEDPAYSAYISI": 90930685.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 127420287.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2955,9 +3225,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.401618,
-      "TEDPAYSAYISI": 90920396.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 127435673.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2965,9 +3235,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.393445,
-      "TEDPAYSAYISI": 92347546.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 128681220.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2975,9 +3245,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.405042,
-      "TEDPAYSAYISI": 92290290.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 129671734.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2985,9 +3255,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.431951,
-      "TEDPAYSAYISI": 92290503.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 132155509.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2995,9 +3265,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44334,
-      "TEDPAYSAYISI": 92294064.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 133211726.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3005,9 +3275,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44859,
-      "TEDPAYSAYISI": 92298853.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 133703170.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3015,9 +3285,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.48083,
-      "TEDPAYSAYISI": 44399672.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 65748383.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3025,9 +3295,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.481476,
-      "TEDPAYSAYISI": 44566037.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 66023521.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3035,9 +3305,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.497139,
-      "TEDPAYSAYISI": 44920510.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 67252262.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3045,9 +3315,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.488053,
-      "TEDPAYSAYISI": 44744159.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 66581694.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3055,9 +3325,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.472578,
-      "TEDPAYSAYISI": 44751944.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 65900745.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3065,9 +3335,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.430864,
-      "TEDPAYSAYISI": 70023843.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 100194580.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3075,9 +3345,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.450686,
-      "TEDPAYSAYISI": 69826875.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 101296894.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3085,9 +3355,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.465581,
-      "TEDPAYSAYISI": 110923482.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 162567358.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3095,9 +3365,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.460866,
-      "TEDPAYSAYISI": 110921488.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 162041406.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3105,9 +3375,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.446898,
-      "TEDPAYSAYISI": 110921861.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 160492622.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3115,9 +3385,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.448181,
-      "TEDPAYSAYISI": 110923759.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 160637698.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3125,9 +3395,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.439937,
-      "TEDPAYSAYISI": 110928040.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 159729390.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3135,9 +3405,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.405426,
-      "TEDPAYSAYISI": 110997464.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 155998753.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3145,9 +3415,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.368042,
-      "TEDPAYSAYISI": 110992114.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 151841872.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3155,9 +3425,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.366803,
-      "TEDPAYSAYISI": 110988645.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 151699603.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3165,9 +3435,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.379038,
-      "TEDPAYSAYISI": 110989064.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 153058110.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3175,9 +3445,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.364954,
-      "TEDPAYSAYISI": 110987389.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 151492724.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3185,9 +3455,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.370396,
-      "TEDPAYSAYISI": 110988162.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 152097749.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3195,9 +3465,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.407571,
-      "TEDPAYSAYISI": 108539579.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 152777126.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3205,9 +3475,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.399455,
-      "TEDPAYSAYISI": 108539694.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 151896459.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3215,9 +3485,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.398389,
-      "TEDPAYSAYISI": 108539197.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 151780064.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3225,9 +3495,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.379104,
-      "TEDPAYSAYISI": 108564368.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 149721508.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3235,9 +3505,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.372227,
-      "TEDPAYSAYISI": 108565461.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 148976430.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3245,9 +3515,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.394181,
-      "TEDPAYSAYISI": 108542072.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 151327312.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3255,9 +3525,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.379562,
-      "TEDPAYSAYISI": 108544446.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 149743835.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3265,9 +3535,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.36956,
-      "TEDPAYSAYISI": 108544446.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 148658152.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3275,9 +3545,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.37998,
-      "TEDPAYSAYISI": 108544771.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 149789595.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3285,9 +3555,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.355557,
-      "TEDPAYSAYISI": 108548719.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 147144012.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3295,9 +3565,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.357778,
-      "TEDPAYSAYISI": 108548774.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 147385155.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3305,9 +3575,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.337647,
-      "TEDPAYSAYISI": 108539686.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 145187782.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3315,9 +3585,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.324744,
-      "TEDPAYSAYISI": 108558753.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 143812578.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3325,9 +3595,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.320306,
-      "TEDPAYSAYISI": 108558753.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 143330737.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3335,9 +3605,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.331776,
-      "TEDPAYSAYISI": 108566244.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 144585913.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3345,9 +3615,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.347567,
-      "TEDPAYSAYISI": 108581887.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 146321411.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3355,9 +3625,9 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.356638,
-      "TEDPAYSAYISI": 108580504.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 147304414.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -3365,9 +3635,139 @@
       "FONKODU": "PHI",
       "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.348594,
-      "TEDPAYSAYISI": 108580655.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 146431182.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.365878,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.34771,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.396633,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.403975,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.4499,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.444576,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.459553,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.469331,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.470526,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.500437,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.508531,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.500078,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "PHI",
+      "FONUNVAN": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.497458,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

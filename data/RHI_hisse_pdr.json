@@ -1,21 +1,214 @@
 {
   "kod": "RHI",
-  "guncelleme": "2026-04-08T18:26:52Z",
+  "guncelleme": "2026-04-26T18:36:28Z",
   "kaynak_tefas": true,
   "unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhi-re-pie-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 86.56
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 13.44
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.65
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 6.8
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 5.44
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.39
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 5.06
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.01
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.9
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 4.9
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.37
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.05
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 2.49
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 2.11
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 1.23
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.03
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 0.88
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 0.71
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 0.7
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 0.58
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 0.38
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 0.35
+    },
+    {
+      "ticker": "KLRHO",
+      "ad": "",
+      "agirlik": 0.08
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 0.07
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 0.04
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "39 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 14:00:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9cc9d177019d48e095c172f8"
 }

@@ -1,25 +1,179 @@
 {
   "kod": "ZJV",
-  "guncelleme": "2026-04-08T18:29:31Z",
+  "guncelleme": "2026-04-26T19:03:46Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY BIST 30 DIŞI YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjv-ziraat-portfoy-bist-30-disi-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 81.05
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.01
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 18.94
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 6.6166
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 5.965
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 5.4856
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 5.2601
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 4.2751
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 4.1823
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 4.1604
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.057
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 3.396
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 3.3102
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.2192
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 3.1996
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 2.9278
+    },
+    {
+      "ticker": "HEKTS",
+      "ad": "",
+      "agirlik": 2.8371
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.6873
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 2.6019
+    },
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 2.4074
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 2.1876
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.1699
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 2.1172
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 2.0334
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 1.9967
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 1.9554
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 1.933
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.6223
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 1.4115
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.4004
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 1.2919
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 1.2202
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.206
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 1.0229
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 0.9872
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 09:35:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca547012fb"
 }

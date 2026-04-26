@@ -1,21 +1,104 @@
 {
   "kod": "NUH",
-  "guncelleme": "2026-04-08T18:26:11Z",
+  "guncelleme": "2026-04-26T18:27:12Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nuh-neo-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.45
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.55
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 11.19
+    },
+    {
+      "ticker": "KBORU",
+      "ad": "",
+      "agirlik": 10.47
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 10.14
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 9.61
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 9.4
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 5.34
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 5.01
+    },
+    {
+      "ticker": "BRKSN",
+      "ad": "",
+      "agirlik": 4.99
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.97
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "BNTAS",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "MAKIM",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "GENKM",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "BESLR",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 2.62
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "17 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 23:06:07",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d66b5e5e42de2"
 }

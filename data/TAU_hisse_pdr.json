@@ -1,30 +1,59 @@
 {
   "kod": "TAU",
-  "guncelleme": "2026-04-08T18:27:29Z",
+  "guncelleme": "2026-04-26T15:48:00Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tau-is-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.93
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.68
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 10.3
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.09
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 26.66
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 18.59
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 18.22
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 13.38
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 2.41
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.47
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "8 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 09:19:17",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5e11aa56671d"
 }

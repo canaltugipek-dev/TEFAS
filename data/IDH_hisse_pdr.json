@@ -1,29 +1,209 @@
 {
   "kod": "IDH",
-  "guncelleme": "2026-04-08T18:23:21Z",
+  "guncelleme": "2026-04-26T18:32:29Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idh-is-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.35
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.02
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 4.29
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.34
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 9.4
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 7.61
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 6.21
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 5.41
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 5.38
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 5.08
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 3.0
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 2.91
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 2.8
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 2.24
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "RYGYO",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "CUSAN",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.91
+    },
+    {
+      "ticker": "BIGEN",
+      "ad": "",
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 1.72
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "MOPAS",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 1.45
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 0.93
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 0.93
+    },
+    {
+      "ticker": "AKFIS",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "OFSYM",
+      "ad": "",
+      "agirlik": 0.82
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 0.12
+    },
+    {
+      "ticker": "ZGYO",
+      "ad": "",
+      "agirlik": 0.07
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 0.01
+    },
+    {
+      "ticker": "KOCMT",
+      "ad": "",
+      "agirlik": 0.01
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "38 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 14:58:25",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d52ebb26b388f"
 }

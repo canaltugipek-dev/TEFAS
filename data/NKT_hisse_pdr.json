@@ -1,29 +1,144 @@
 {
   "kod": "NKT",
-  "guncelleme": "2026-04-08T18:25:53Z",
+  "guncelleme": "2026-04-26T19:40:15Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkt-nurol-portfoy-birinci-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.15
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.0
-    },
-    {
-      "tip": "BİST Taahhütlü İşlem Pazarı Alım",
-      "oran": 6.14
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.71
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.42
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.5
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.23
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "CVKMD",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "KTLEV",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.0
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "KUTPO",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "TAPD",
+      "ad": "",
+      "agirlik": 2.4
+    },
+    {
+      "ticker": "PASEU",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "BORSK",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 1.91
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.82
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "KZBGY",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "SRVGY",
+      "ad": "",
+      "agirlik": 0.9
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 10:08:40",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805296b75"
 }

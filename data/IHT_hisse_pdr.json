@@ -1,25 +1,144 @@
 {
   "kod": "IHT",
-  "guncelleme": "2026-04-08T18:24:00Z",
+  "guncelleme": "2026-04-26T18:32:51Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iht-is-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 93.89
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 1.11
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 5.0
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 9.36
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 8.66
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 8.5
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 7.8
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 5.28
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.9
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 3.81
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 3.58
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 2.45
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.79
+    },
+    {
+      "ticker": "NUHCM",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 1.54
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 0.98
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 10:58:31",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66e5a3b17624"
 }

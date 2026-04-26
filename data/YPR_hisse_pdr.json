@@ -1,21 +1,129 @@
 {
   "kod": "YPR",
-  "guncelleme": "2026-04-08T18:29:20Z",
+  "guncelleme": "2026-04-26T18:31:37Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ypr-azimut-portfoy-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.38
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 7.62
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 8.54
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.62
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 6.25
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.86
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 5.21
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.98
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.86
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.48
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 3.12
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 2.62
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 2.53
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 1.94
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.93
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:15:48",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66acc3464a69"
 }

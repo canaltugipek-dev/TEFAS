@@ -1,30 +1,124 @@
 {
   "kod": "FYD",
-  "guncelleme": "2026-04-08T18:21:14Z",
+  "guncelleme": "2026-04-26T16:44:55Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fyd-qnb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 89.52
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.1
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 6.65
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 2.73
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.05
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 7.66
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.12
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 5.73
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 5.09
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.99
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.8
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 2.5
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 2.3
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 1.06
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 16:33:08",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6ceaeca73bde"
 }

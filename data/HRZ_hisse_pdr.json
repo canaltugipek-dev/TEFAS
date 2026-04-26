@@ -1,25 +1,189 @@
 {
   "kod": "HRZ",
-  "guncelleme": "2026-04-08T18:22:49Z",
+  "guncelleme": "2026-04-26T18:32:22Z",
   "kaynak_tefas": true,
   "unvan": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hrz-aktif-portfoy-bist-halka-arz-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.08
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.24
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 12.68
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ODINE",
+      "ad": "",
+      "agirlik": 9.99
+    },
+    {
+      "ticker": "DSTKF",
+      "ad": "",
+      "agirlik": 7.61
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 6.35
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 6.26
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "ALKLC",
+      "ad": "",
+      "agirlik": 4.25
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "OBAMS",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 3.51
+    },
+    {
+      "ticker": "VAKFA",
+      "ad": "",
+      "agirlik": 3.4
+    },
+    {
+      "ticker": "BULGS",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.27
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 3.04
+    },
+    {
+      "ticker": "HOROZ",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "ARMGD",
+      "ad": "",
+      "agirlik": 2.9
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 2.54
+    },
+    {
+      "ticker": "YIGIT",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "EFOR",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 1.16
+    },
+    {
+      "ticker": "FRMPL",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "EGEGY",
+      "ad": "",
+      "agirlik": 0.94
+    },
+    {
+      "ticker": "ZGYO",
+      "ad": "",
+      "agirlik": 0.65
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.52
+    },
+    {
+      "ticker": "ZERGY",
+      "ad": "",
+      "agirlik": 0.51
+    },
+    {
+      "ticker": "ECOGR",
+      "ad": "",
+      "agirlik": 0.43
+    },
+    {
+      "ticker": "UCAYM",
+      "ad": "",
+      "agirlik": 0.38
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.06
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 18:31:02",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4cf41b090805"
 }

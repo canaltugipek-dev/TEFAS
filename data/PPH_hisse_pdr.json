@@ -1,33 +1,164 @@
 {
   "kod": "PPH",
-  "guncelleme": "2026-04-08T18:26:44Z",
+  "guncelleme": "2026-04-26T18:33:08Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pph-pardus-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 85.67
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 1.1
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 6.43
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 2.39
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 4.41
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TMSN",
+      "ad": "",
+      "agirlik": 7.54
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 6.37
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 6.18
+    },
+    {
+      "ticker": "OFSYM",
+      "ad": "",
+      "agirlik": 5.57
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 5.18
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 4.23
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "RUBNS",
+      "ad": "",
+      "agirlik": 4.07
+    },
+    {
+      "ticker": "EYGYO",
+      "ad": "",
+      "agirlik": 3.48
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "ISSEN",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "CONSE",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "OSTIM",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "SANFM",
+      "ad": "",
+      "agirlik": 2.81
+    },
+    {
+      "ticker": "SEKUR",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "DARDL",
+      "ad": "",
+      "agirlik": 2.49
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 2.25
+    },
+    {
+      "ticker": "GATEG",
+      "ad": "",
+      "agirlik": 2.25
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.23
+    },
+    {
+      "ticker": "QUAGR",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "BORLS",
+      "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "ICUGS",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.91
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "LXGYO",
+      "ad": "",
+      "agirlik": 0.31
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.21
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.19
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e969a2d3313"
 }

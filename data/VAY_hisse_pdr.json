@@ -1,21 +1,184 @@
 {
   "kod": "VAY",
-  "guncelleme": "2026-04-08T18:28:31Z",
+  "guncelleme": "2026-04-26T18:31:25Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/vay-ak-portfoy-deger-odakli-100-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 97.57
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 2.43
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 6.94
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 6.87
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 6.86
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.61
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 6.08
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 5.45
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "EGPRO",
+      "ad": "",
+      "agirlik": 4.79
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.56
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.54
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 2.11
+    },
+    {
+      "ticker": "BNTAS",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 0.89
+    },
+    {
+      "ticker": "YKSLN",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 0.23
+    },
+    {
+      "ticker": "ASGYO",
+      "ad": "",
+      "agirlik": 0.12
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 0.02
+    },
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 0.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "33 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 15:25:15",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d532782e67480"
 }

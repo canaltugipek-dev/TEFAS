@@ -1,25 +1,159 @@
 {
   "kod": "YHK",
-  "guncelleme": "2026-04-08T18:28:51Z",
+  "guncelleme": "2026-04-26T18:31:29Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhk-yapi-kredi-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.17
-    },
-    {
-      "tip": "Özel Sektör Kira Sertifikaları",
-      "oran": 3.55
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 6.28
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.12
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 8.52
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.05
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 6.01
+    },
+    {
+      "ticker": "KTLEV",
+      "ad": "",
+      "agirlik": 4.91
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.79
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.55
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "EGGUB",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "EGPRO",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.88
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 1.72
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "ZERGY",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 1.53
+    },
+    {
+      "ticker": "KUTPO",
+      "ad": "",
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 0.71
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 0.31
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "28 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 13:41:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c4d642c36f1"
 }

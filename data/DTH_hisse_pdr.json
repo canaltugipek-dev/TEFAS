@@ -1,37 +1,179 @@
 {
   "kod": "DTH",
-  "guncelleme": "2026-04-08T18:20:36Z",
+  "guncelleme": "2026-04-26T19:38:49Z",
   "kaynak_tefas": true,
   "unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dth-emaa-blue-portfoy-donusum-teknolojileri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.32
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.0
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 5.07
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.01
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 3.55
-    },
-    {
-      "tip": "Özel Sektör Tahvili",
-      "oran": 1.05
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 9.12
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.78
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 8.44
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 3.88
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 2.31
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 2.03
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 1.34
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.82
+    },
+    {
+      "ticker": "UCAYM",
+      "ad": "",
+      "agirlik": 0.76
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 15:31:12",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61e21fad27bf"
 }

@@ -1,21 +1,129 @@
 {
   "kod": "IMB",
-  "guncelleme": "2026-04-08T18:24:18Z",
+  "guncelleme": "2026-04-26T19:03:12Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/imb-istanbul-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.2
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.8
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 7.92
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 6.59
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 5.68
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 5.39
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 4.02
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 3.08
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 2.91
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.32
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "22 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 15:48:14",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d360b01a8a"
 }

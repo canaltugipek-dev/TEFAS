@@ -1,25 +1,149 @@
 {
   "kod": "BDY",
-  "guncelleme": "2026-04-08T18:19:49Z",
+  "guncelleme": "2026-04-26T18:21:35Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bdy-ak-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.27
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 3.9
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 4.83
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 9.71
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 8.42
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 8.24
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 7.47
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 7.34
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.71
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "OFSYM",
+      "ad": "",
+      "agirlik": 4.23
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 3.82
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.76
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 2.83
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 2.62
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.51
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "PLTUR",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "YAPRK",
+      "ad": "",
+      "agirlik": 1.58
+    },
+    {
+      "ticker": "TBORG",
+      "ad": "",
+      "agirlik": 1.45
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 1.07
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.15
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 0.1
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.04.2026 18:35:39",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d537ab86d4da2"
 }

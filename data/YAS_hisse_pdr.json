@@ -1,38 +1,69 @@
 {
   "kod": "YAS",
-  "guncelleme": "2026-04-08T18:28:34Z",
+  "guncelleme": "2026-04-26T15:48:28Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yas-yapi-kredi-portfoy-koc-holding-istirak-ve-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 87.48
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.06
-    },
-    {
-      "tip": "Özel Sektör Tahvili",
-      "oran": 5.12
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 0.12
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.9
-    },
-    {
-      "tip": "Finansman Bonosu",
-      "oran": 2.32
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 10.05
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 9.66
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 9.6
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 9.57
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 9.53
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 9.47
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 9.28
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 9.23
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 8.69
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.51
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "10 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 13:39:50",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c36de7e3187"
 }

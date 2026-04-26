@@ -1,25 +1,169 @@
 {
   "kod": "ASJ",
-  "guncelleme": "2026-04-08T18:19:40Z",
+  "guncelleme": "2026-04-26T18:21:31Z",
   "kaynak_tefas": true,
   "unvan": "AKTİF PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/asj-aktif-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.09
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.05
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.86
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 7.81
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 7.7
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.16
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 5.74
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 5.46
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.5
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 2.83
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 2.33
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "VESTL",
+      "ad": "",
+      "agirlik": 1.22
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 0.73
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "30 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 18:31:01",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4cf416090783"
 }

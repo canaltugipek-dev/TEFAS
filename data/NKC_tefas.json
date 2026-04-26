@@ -2,22 +2,142 @@
   "fon_kodu": "NKC",
   "fon_unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 167,
-  "gun_kapsami": 237,
+  "kayit_sayisi": 192,
+  "gun_kapsami": 273,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1753401600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753660800000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753747200000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753833600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1753920000000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754006400000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754265600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754352000000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754438400000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754524800000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754611200000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1754870400000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1754956800000",
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001374,
-      "TEDPAYSAYISI": 126971128.0,
-      "KISISAYISI": 505.0,
-      "PORTFOYBUYUKLUK": 127145569.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +145,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996329,
-      "TEDPAYSAYISI": 148456105.0,
-      "KISISAYISI": 685.0,
-      "PORTFOYBUYUKLUK": 147911062.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +155,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995946,
-      "TEDPAYSAYISI": 156216895.0,
-      "KISISAYISI": 797.0,
-      "PORTFOYBUYUKLUK": 155583655.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +165,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986772,
-      "TEDPAYSAYISI": 179622117.0,
-      "KISISAYISI": 855.0,
-      "PORTFOYBUYUKLUK": 177246148.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +175,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990646,
-      "TEDPAYSAYISI": 183318140.0,
-      "KISISAYISI": 880.0,
-      "PORTFOYBUYUKLUK": 181603408.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +185,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.992268,
-      "TEDPAYSAYISI": 187564071.0,
-      "KISISAYISI": 898.0,
-      "PORTFOYBUYUKLUK": 186113801.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +195,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995284,
-      "TEDPAYSAYISI": 192008477.0,
-      "KISISAYISI": 935.0,
-      "PORTFOYBUYUKLUK": 191102973.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +205,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00447,
-      "TEDPAYSAYISI": 194528115.0,
-      "KISISAYISI": 948.0,
-      "PORTFOYBUYUKLUK": 195397752.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +215,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013578,
-      "TEDPAYSAYISI": 200177946.0,
-      "KISISAYISI": 965.0,
-      "PORTFOYBUYUKLUK": 202895946.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +225,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020666,
-      "TEDPAYSAYISI": 203107195.0,
-      "KISISAYISI": 979.0,
-      "PORTFOYBUYUKLUK": 207304547.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +235,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029756,
-      "TEDPAYSAYISI": 207754635.0,
-      "KISISAYISI": 1005.0,
-      "PORTFOYBUYUKLUK": 213936585.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +245,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023457,
-      "TEDPAYSAYISI": 213666590.0,
-      "KISISAYISI": 1036.0,
-      "PORTFOYBUYUKLUK": 218678559.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +255,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016163,
-      "TEDPAYSAYISI": 216077908.0,
-      "KISISAYISI": 1054.0,
-      "PORTFOYBUYUKLUK": 219570392.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +265,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018167,
-      "TEDPAYSAYISI": 219209874.0,
-      "KISISAYISI": 1073.0,
-      "PORTFOYBUYUKLUK": 223192180.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +275,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009371,
-      "TEDPAYSAYISI": 226273608.0,
-      "KISISAYISI": 1089.0,
-      "PORTFOYBUYUKLUK": 228393936.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +285,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018024,
-      "TEDPAYSAYISI": 242940797.0,
-      "KISISAYISI": 1100.0,
-      "PORTFOYBUYUKLUK": 247319538.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +295,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989256,
-      "TEDPAYSAYISI": 243450351.0,
-      "KISISAYISI": 1107.0,
-      "PORTFOYBUYUKLUK": 240834808.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +305,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97126,
-      "TEDPAYSAYISI": 245478869.0,
-      "KISISAYISI": 1105.0,
-      "PORTFOYBUYUKLUK": 238423771.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +315,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986285,
-      "TEDPAYSAYISI": 252776906.0,
-      "KISISAYISI": 1104.0,
-      "PORTFOYBUYUKLUK": 249310076.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +325,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978274,
-      "TEDPAYSAYISI": 255738190.0,
-      "KISISAYISI": 1103.0,
-      "PORTFOYBUYUKLUK": 250181971.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +335,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.956835,
-      "TEDPAYSAYISI": 257816442.0,
-      "KISISAYISI": 1109.0,
-      "PORTFOYBUYUKLUK": 246687681.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +345,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.962813,
-      "TEDPAYSAYISI": 255456561.0,
-      "KISISAYISI": 1116.0,
-      "PORTFOYBUYUKLUK": 245956819.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +355,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.968606,
-      "TEDPAYSAYISI": 255430786.0,
-      "KISISAYISI": 1106.0,
-      "PORTFOYBUYUKLUK": 247411710.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +365,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946479,
-      "TEDPAYSAYISI": 255775758.0,
-      "KISISAYISI": 1102.0,
-      "PORTFOYBUYUKLUK": 242086437.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +375,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944121,
-      "TEDPAYSAYISI": 259256019.0,
-      "KISISAYISI": 1107.0,
-      "PORTFOYBUYUKLUK": 244769161.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +385,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995523,
-      "TEDPAYSAYISI": 260240784.0,
-      "KISISAYISI": 1107.0,
-      "PORTFOYBUYUKLUK": 259075746.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +395,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014675,
-      "TEDPAYSAYISI": 261489043.0,
-      "KISISAYISI": 1112.0,
-      "PORTFOYBUYUKLUK": 265326306.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +405,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004929,
-      "TEDPAYSAYISI": 268294852.0,
-      "KISISAYISI": 1117.0,
-      "PORTFOYBUYUKLUK": 269617202.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +415,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.991561,
-      "TEDPAYSAYISI": 268577157.0,
-      "KISISAYISI": 1120.0,
-      "PORTFOYBUYUKLUK": 266310740.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +425,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004473,
-      "TEDPAYSAYISI": 267928004.0,
-      "KISISAYISI": 1110.0,
-      "PORTFOYBUYUKLUK": 269126533.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +435,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016026,
-      "TEDPAYSAYISI": 267755648.0,
-      "KISISAYISI": 1107.0,
-      "PORTFOYBUYUKLUK": 272046721.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +445,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.003363,
-      "TEDPAYSAYISI": 267936783.0,
-      "KISISAYISI": 1105.0,
-      "PORTFOYBUYUKLUK": 268837954.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +455,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.007559,
-      "TEDPAYSAYISI": 266676685.0,
-      "KISISAYISI": 1099.0,
-      "PORTFOYBUYUKLUK": 268692480.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +465,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009291,
-      "TEDPAYSAYISI": 269548404.0,
-      "KISISAYISI": 1088.0,
-      "PORTFOYBUYUKLUK": 272052831.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +475,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99946,
-      "TEDPAYSAYISI": 269038122.0,
-      "KISISAYISI": 1087.0,
-      "PORTFOYBUYUKLUK": 268892867.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +485,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986615,
-      "TEDPAYSAYISI": 269978929.0,
-      "KISISAYISI": 1084.0,
-      "PORTFOYBUYUKLUK": 266365203.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +495,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986798,
-      "TEDPAYSAYISI": 270551687.0,
-      "KISISAYISI": 1086.0,
-      "PORTFOYBUYUKLUK": 266979774.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +505,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004752,
-      "TEDPAYSAYISI": 270233581.0,
-      "KISISAYISI": 1079.0,
-      "PORTFOYBUYUKLUK": 271517724.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +515,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998684,
-      "TEDPAYSAYISI": 270187878.0,
-      "KISISAYISI": 1077.0,
-      "PORTFOYBUYUKLUK": 269832311.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +525,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987422,
-      "TEDPAYSAYISI": 272026484.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 268604800.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +535,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976283,
-      "TEDPAYSAYISI": 271822880.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 265376045.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +545,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999977,
-      "TEDPAYSAYISI": 271096449.0,
-      "KISISAYISI": 1078.0,
-      "PORTFOYBUYUKLUK": 271090094.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +555,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.990533,
-      "TEDPAYSAYISI": 271067633.0,
-      "KISISAYISI": 1075.0,
-      "PORTFOYBUYUKLUK": 268501480.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +565,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.993525,
-      "TEDPAYSAYISI": 270828480.0,
-      "KISISAYISI": 1070.0,
-      "PORTFOYBUYUKLUK": 269074847.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +575,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0023,
-      "TEDPAYSAYISI": 271077745.0,
-      "KISISAYISI": 1066.0,
-      "PORTFOYBUYUKLUK": 271701276.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +585,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986313,
-      "TEDPAYSAYISI": 271916923.0,
-      "KISISAYISI": 1070.0,
-      "PORTFOYBUYUKLUK": 268195067.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +595,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.964822,
-      "TEDPAYSAYISI": 272189508.0,
-      "KISISAYISI": 1072.0,
-      "PORTFOYBUYUKLUK": 262614407.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +605,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.978457,
-      "TEDPAYSAYISI": 269338190.0,
-      "KISISAYISI": 1073.0,
-      "PORTFOYBUYUKLUK": 263535715.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +615,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972155,
-      "TEDPAYSAYISI": 269572510.0,
-      "KISISAYISI": 1070.0,
-      "PORTFOYBUYUKLUK": 262066280.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +625,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.958028,
-      "TEDPAYSAYISI": 269770561.0,
-      "KISISAYISI": 1069.0,
-      "PORTFOYBUYUKLUK": 258447885.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +635,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976885,
-      "TEDPAYSAYISI": 270880358.0,
-      "KISISAYISI": 1073.0,
-      "PORTFOYBUYUKLUK": 264619037.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +645,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988836,
-      "TEDPAYSAYISI": 271525189.0,
-      "KISISAYISI": 1071.0,
-      "PORTFOYBUYUKLUK": 268493845.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +655,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005216,
-      "TEDPAYSAYISI": 271621005.0,
-      "KISISAYISI": 1071.0,
-      "PORTFOYBUYUKLUK": 273037657.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +665,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010755,
-      "TEDPAYSAYISI": 272231930.0,
-      "KISISAYISI": 1072.0,
-      "PORTFOYBUYUKLUK": 275159802.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +675,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038969,
-      "TEDPAYSAYISI": 272339401.0,
-      "KISISAYISI": 1072.0,
-      "PORTFOYBUYUKLUK": 282952219.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +685,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.032396,
-      "TEDPAYSAYISI": 267560196.0,
-      "KISISAYISI": 1075.0,
-      "PORTFOYBUYUKLUK": 276228015.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +695,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029481,
-      "TEDPAYSAYISI": 266952475.0,
-      "KISISAYISI": 1075.0,
-      "PORTFOYBUYUKLUK": 274822599.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +705,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038859,
-      "TEDPAYSAYISI": 263223992.0,
-      "KISISAYISI": 1081.0,
-      "PORTFOYBUYUKLUK": 273452731.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +715,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05675,
-      "TEDPAYSAYISI": 263728831.0,
-      "KISISAYISI": 1082.0,
-      "PORTFOYBUYUKLUK": 278695549.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +725,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068853,
-      "TEDPAYSAYISI": 264584490.0,
-      "KISISAYISI": 1092.0,
-      "PORTFOYBUYUKLUK": 282801850.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +735,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053862,
-      "TEDPAYSAYISI": 267386940.0,
-      "KISISAYISI": 1110.0,
-      "PORTFOYBUYUKLUK": 281789041.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +745,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057504,
-      "TEDPAYSAYISI": 270602475.0,
-      "KISISAYISI": 1130.0,
-      "PORTFOYBUYUKLUK": 286163284.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +755,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063414,
-      "TEDPAYSAYISI": 272221538.0,
-      "KISISAYISI": 1139.0,
-      "PORTFOYBUYUKLUK": 289484230.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +765,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043364,
-      "TEDPAYSAYISI": 273789767.0,
-      "KISISAYISI": 1149.0,
-      "PORTFOYBUYUKLUK": 285662520.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +775,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03249,
-      "TEDPAYSAYISI": 276480232.0,
-      "KISISAYISI": 1158.0,
-      "PORTFOYBUYUKLUK": 285463053.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +785,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010112,
-      "TEDPAYSAYISI": 279118794.0,
-      "KISISAYISI": 1165.0,
-      "PORTFOYBUYUKLUK": 281941305.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +795,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012102,
-      "TEDPAYSAYISI": 282084456.0,
-      "KISISAYISI": 1165.0,
-      "PORTFOYBUYUKLUK": 285498337.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +805,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01334,
-      "TEDPAYSAYISI": 282684728.0,
-      "KISISAYISI": 1168.0,
-      "PORTFOYBUYUKLUK": 286455802.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +815,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009998,
-      "TEDPAYSAYISI": 282988645.0,
-      "KISISAYISI": 1165.0,
-      "PORTFOYBUYUKLUK": 285817886.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +825,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021629,
-      "TEDPAYSAYISI": 283877445.0,
-      "KISISAYISI": 1161.0,
-      "PORTFOYBUYUKLUK": 290017354.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +835,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018915,
-      "TEDPAYSAYISI": 284177536.0,
-      "KISISAYISI": 1164.0,
-      "PORTFOYBUYUKLUK": 289552797.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +845,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.035905,
-      "TEDPAYSAYISI": 283780462.0,
-      "KISISAYISI": 1168.0,
-      "PORTFOYBUYUKLUK": 293969461.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +855,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036415,
-      "TEDPAYSAYISI": 286586155.0,
-      "KISISAYISI": 1172.0,
-      "PORTFOYBUYUKLUK": 297022171.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +865,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.033297,
-      "TEDPAYSAYISI": 288789226.0,
-      "KISISAYISI": 1181.0,
-      "PORTFOYBUYUKLUK": 298405157.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +875,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.03204,
-      "TEDPAYSAYISI": 283816833.0,
-      "KISISAYISI": 1183.0,
-      "PORTFOYBUYUKLUK": 292910186.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +885,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.023623,
-      "TEDPAYSAYISI": 286655067.0,
-      "KISISAYISI": 1184.0,
-      "PORTFOYBUYUKLUK": 293426795.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +895,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025147,
-      "TEDPAYSAYISI": 285388038.0,
-      "KISISAYISI": 1184.0,
-      "PORTFOYBUYUKLUK": 292564612.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +905,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028422,
-      "TEDPAYSAYISI": 285402093.0,
-      "KISISAYISI": 1178.0,
-      "PORTFOYBUYUKLUK": 293513713.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +915,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022309,
-      "TEDPAYSAYISI": 285220969.0,
-      "KISISAYISI": 1180.0,
-      "PORTFOYBUYUKLUK": 291584097.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +925,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.043475,
-      "TEDPAYSAYISI": 285317903.0,
-      "KISISAYISI": 1176.0,
-      "PORTFOYBUYUKLUK": 297722021.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +935,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.042716,
-      "TEDPAYSAYISI": 285505012.0,
-      "KISISAYISI": 1175.0,
-      "PORTFOYBUYUKLUK": 297700517.87,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +945,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041131,
-      "TEDPAYSAYISI": 285358745.0,
-      "KISISAYISI": 1170.0,
-      "PORTFOYBUYUKLUK": 297095872.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +955,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.031468,
-      "TEDPAYSAYISI": 283607460.0,
-      "KISISAYISI": 1166.0,
-      "PORTFOYBUYUKLUK": 292532016.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +965,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038383,
-      "TEDPAYSAYISI": 292240694.0,
-      "KISISAYISI": 1167.0,
-      "PORTFOYBUYUKLUK": 303457624.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +975,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048786,
-      "TEDPAYSAYISI": 292388868.0,
-      "KISISAYISI": 1160.0,
-      "PORTFOYBUYUKLUK": 306653416.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +985,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051095,
-      "TEDPAYSAYISI": 293063999.0,
-      "KISISAYISI": 1168.0,
-      "PORTFOYBUYUKLUK": 308038146.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +995,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044461,
-      "TEDPAYSAYISI": 293198264.0,
-      "KISISAYISI": 1172.0,
-      "PORTFOYBUYUKLUK": 306234293.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1005,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.044581,
-      "TEDPAYSAYISI": 291525011.0,
-      "KISISAYISI": 1169.0,
-      "PORTFOYBUYUKLUK": 304521560.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1015,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051839,
-      "TEDPAYSAYISI": 291301775.0,
-      "KISISAYISI": 1163.0,
-      "PORTFOYBUYUKLUK": 306402557.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1025,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065024,
-      "TEDPAYSAYISI": 290547428.0,
-      "KISISAYISI": 1160.0,
-      "PORTFOYBUYUKLUK": 309440120.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1035,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0571,
-      "TEDPAYSAYISI": 291034942.0,
-      "KISISAYISI": 1159.0,
-      "PORTFOYBUYUKLUK": 307652954.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1045,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053773,
-      "TEDPAYSAYISI": 292900476.0,
-      "KISISAYISI": 1162.0,
-      "PORTFOYBUYUKLUK": 308650470.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1055,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055583,
-      "TEDPAYSAYISI": 292876353.0,
-      "KISISAYISI": 1158.0,
-      "PORTFOYBUYUKLUK": 309155353.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1065,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055701,
-      "TEDPAYSAYISI": 292372682.0,
-      "KISISAYISI": 1157.0,
-      "PORTFOYBUYUKLUK": 308658250.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1075,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052376,
-      "TEDPAYSAYISI": 297498448.0,
-      "KISISAYISI": 1156.0,
-      "PORTFOYBUYUKLUK": 313080306.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1085,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048888,
-      "TEDPAYSAYISI": 297372848.0,
-      "KISISAYISI": 1154.0,
-      "PORTFOYBUYUKLUK": 311910906.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1095,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0559,
-      "TEDPAYSAYISI": 297711328.0,
-      "KISISAYISI": 1149.0,
-      "PORTFOYBUYUKLUK": 314353458.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1105,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.058027,
-      "TEDPAYSAYISI": 297679861.0,
-      "KISISAYISI": 1144.0,
-      "PORTFOYBUYUKLUK": 314953290.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1115,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057477,
-      "TEDPAYSAYISI": 297364745.0,
-      "KISISAYISI": 1138.0,
-      "PORTFOYBUYUKLUK": 314456457.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1125,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045761,
-      "TEDPAYSAYISI": 297019177.0,
-      "KISISAYISI": 1141.0,
-      "PORTFOYBUYUKLUK": 310610929.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1135,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051421,
-      "TEDPAYSAYISI": 298861399.0,
-      "KISISAYISI": 1141.0,
-      "PORTFOYBUYUKLUK": 314229286.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1145,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.05973,
-      "TEDPAYSAYISI": 298966042.0,
-      "KISISAYISI": 1136.0,
-      "PORTFOYBUYUKLUK": 316823191.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1155,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073116,
-      "TEDPAYSAYISI": 299404384.0,
-      "KISISAYISI": 1138.0,
-      "PORTFOYBUYUKLUK": 321295491.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1165,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.078386,
-      "TEDPAYSAYISI": 299448840.0,
-      "KISISAYISI": 1142.0,
-      "PORTFOYBUYUKLUK": 322921325.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1175,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.095513,
-      "TEDPAYSAYISI": 301300126.0,
-      "KISISAYISI": 1146.0,
-      "PORTFOYBUYUKLUK": 330078301.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1185,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09369,
-      "TEDPAYSAYISI": 300468250.0,
-      "KISISAYISI": 1145.0,
-      "PORTFOYBUYUKLUK": 328619117.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1195,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.101176,
-      "TEDPAYSAYISI": 323903069.0,
-      "KISISAYISI": 1156.0,
-      "PORTFOYBUYUKLUK": 356674265.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1205,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11231,
-      "TEDPAYSAYISI": 325397457.0,
-      "KISISAYISI": 1167.0,
-      "PORTFOYBUYUKLUK": 361942684.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1215,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120283,
-      "TEDPAYSAYISI": 335323513.0,
-      "KISISAYISI": 1171.0,
-      "PORTFOYBUYUKLUK": 375657273.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1225,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122536,
-      "TEDPAYSAYISI": 336381718.0,
-      "KISISAYISI": 1175.0,
-      "PORTFOYBUYUKLUK": 377600691.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1235,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115996,
-      "TEDPAYSAYISI": 338201413.0,
-      "KISISAYISI": 1179.0,
-      "PORTFOYBUYUKLUK": 377431262.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1245,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.135741,
-      "TEDPAYSAYISI": 336342911.0,
-      "KISISAYISI": 1183.0,
-      "PORTFOYBUYUKLUK": 381998295.84,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1255,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147291,
-      "TEDPAYSAYISI": 331988403.0,
-      "KISISAYISI": 1190.0,
-      "PORTFOYBUYUKLUK": 380887174.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1265,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148622,
-      "TEDPAYSAYISI": 333048465.0,
-      "KISISAYISI": 1199.0,
-      "PORTFOYBUYUKLUK": 382546852.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1275,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149105,
-      "TEDPAYSAYISI": 332442941.0,
-      "KISISAYISI": 1218.0,
-      "PORTFOYBUYUKLUK": 382011841.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1285,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152031,
-      "TEDPAYSAYISI": 335340227.0,
-      "KISISAYISI": 1229.0,
-      "PORTFOYBUYUKLUK": 386322414.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1295,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169623,
-      "TEDPAYSAYISI": 332604907.0,
-      "KISISAYISI": 1242.0,
-      "PORTFOYBUYUKLUK": 389022340.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1305,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188925,
-      "TEDPAYSAYISI": 332023586.0,
-      "KISISAYISI": 1246.0,
-      "PORTFOYBUYUKLUK": 394751301.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1315,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.193179,
-      "TEDPAYSAYISI": 334242378.0,
-      "KISISAYISI": 1261.0,
-      "PORTFOYBUYUKLUK": 398810840.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1325,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192948,
-      "TEDPAYSAYISI": 336174292.0,
-      "KISISAYISI": 1281.0,
-      "PORTFOYBUYUKLUK": 401038370.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1335,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204482,
-      "TEDPAYSAYISI": 339896459.0,
-      "KISISAYISI": 1292.0,
-      "PORTFOYBUYUKLUK": 409399006.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1345,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224278,
-      "TEDPAYSAYISI": 343437390.0,
-      "KISISAYISI": 1305.0,
-      "PORTFOYBUYUKLUK": 420463011.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1355,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.247104,
-      "TEDPAYSAYISI": 342749059.0,
-      "KISISAYISI": 1313.0,
-      "PORTFOYBUYUKLUK": 427443555.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1365,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235316,
-      "TEDPAYSAYISI": 343676605.0,
-      "KISISAYISI": 1310.0,
-      "PORTFOYBUYUKLUK": 424549249.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1375,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251141,
-      "TEDPAYSAYISI": 347346821.0,
-      "KISISAYISI": 1326.0,
-      "PORTFOYBUYUKLUK": 434579746.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1385,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243663,
-      "TEDPAYSAYISI": 349476704.0,
-      "KISISAYISI": 1339.0,
-      "PORTFOYBUYUKLUK": 434631311.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1395,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22766,
-      "TEDPAYSAYISI": 352243743.0,
-      "KISISAYISI": 1349.0,
-      "PORTFOYBUYUKLUK": 432435402.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1405,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.21739,
-      "TEDPAYSAYISI": 359559483.0,
-      "KISISAYISI": 1358.0,
-      "PORTFOYBUYUKLUK": 437724239.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1415,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241189,
-      "TEDPAYSAYISI": 366186224.0,
-      "KISISAYISI": 1360.0,
-      "PORTFOYBUYUKLUK": 454506423.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1425,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242597,
-      "TEDPAYSAYISI": 371348538.0,
-      "KISISAYISI": 1364.0,
-      "PORTFOYBUYUKLUK": 461436730.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1435,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240512,
-      "TEDPAYSAYISI": 376869895.0,
-      "KISISAYISI": 1357.0,
-      "PORTFOYBUYUKLUK": 467511714.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1445,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.2707,
-      "TEDPAYSAYISI": 381504543.0,
-      "KISISAYISI": 1363.0,
-      "PORTFOYBUYUKLUK": 484777676.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1455,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278163,
-      "TEDPAYSAYISI": 386266686.0,
-      "KISISAYISI": 1365.0,
-      "PORTFOYBUYUKLUK": 493711874.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1465,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.296061,
-      "TEDPAYSAYISI": 398736473.0,
-      "KISISAYISI": 1373.0,
-      "PORTFOYBUYUKLUK": 516786794.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1475,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.295499,
-      "TEDPAYSAYISI": 404307152.0,
-      "KISISAYISI": 1381.0,
-      "PORTFOYBUYUKLUK": 523779379.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1485,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283532,
-      "TEDPAYSAYISI": 416429844.0,
-      "KISISAYISI": 1388.0,
-      "PORTFOYBUYUKLUK": 534500873.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1495,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243401,
-      "TEDPAYSAYISI": 417811284.0,
-      "KISISAYISI": 1392.0,
-      "PORTFOYBUYUKLUK": 519507155.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1505,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.252965,
-      "TEDPAYSAYISI": 411849100.0,
-      "KISISAYISI": 1394.0,
-      "PORTFOYBUYUKLUK": 516032423.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1515,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26649,
-      "TEDPAYSAYISI": 413906353.0,
-      "KISISAYISI": 1394.0,
-      "PORTFOYBUYUKLUK": 524208119.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1525,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260568,
-      "TEDPAYSAYISI": 415869292.0,
-      "KISISAYISI": 1405.0,
-      "PORTFOYBUYUKLUK": 524231729.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1535,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242047,
-      "TEDPAYSAYISI": 415403958.0,
-      "KISISAYISI": 1402.0,
-      "PORTFOYBUYUKLUK": 515951083.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1545,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.238826,
-      "TEDPAYSAYISI": 413664788.0,
-      "KISISAYISI": 1402.0,
-      "PORTFOYBUYUKLUK": 512458900.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1555,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218019,
-      "TEDPAYSAYISI": 414396539.0,
-      "KISISAYISI": 1402.0,
-      "PORTFOYBUYUKLUK": 504742987.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1565,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192279,
-      "TEDPAYSAYISI": 416151723.0,
-      "KISISAYISI": 1398.0,
-      "PORTFOYBUYUKLUK": 496168762.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1575,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171487,
-      "TEDPAYSAYISI": 416519872.0,
-      "KISISAYISI": 1397.0,
-      "PORTFOYBUYUKLUK": 487947453.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1585,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176137,
-      "TEDPAYSAYISI": 420201184.0,
-      "KISISAYISI": 1391.0,
-      "PORTFOYBUYUKLUK": 494214090.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1595,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.187014,
-      "TEDPAYSAYISI": 420118064.0,
-      "KISISAYISI": 1389.0,
-      "PORTFOYBUYUKLUK": 498686159.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1605,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.15656,
-      "TEDPAYSAYISI": 419219703.0,
-      "KISISAYISI": 1388.0,
-      "PORTFOYBUYUKLUK": 484852915.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1615,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157357,
-      "TEDPAYSAYISI": 423776277.0,
-      "KISISAYISI": 1379.0,
-      "PORTFOYBUYUKLUK": 490460599.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1625,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198149,
-      "TEDPAYSAYISI": 422907981.0,
-      "KISISAYISI": 1379.0,
-      "PORTFOYBUYUKLUK": 506706914.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1635,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199635,
-      "TEDPAYSAYISI": 421274821.0,
-      "KISISAYISI": 1375.0,
-      "PORTFOYBUYUKLUK": 505376196.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1645,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197904,
-      "TEDPAYSAYISI": 419970520.0,
-      "KISISAYISI": 1373.0,
-      "PORTFOYBUYUKLUK": 503084171.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1655,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.189974,
-      "TEDPAYSAYISI": 419203040.0,
-      "KISISAYISI": 1365.0,
-      "PORTFOYBUYUKLUK": 498840903.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1665,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181603,
-      "TEDPAYSAYISI": 421735751.0,
-      "KISISAYISI": 1361.0,
-      "PORTFOYBUYUKLUK": 498324089.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1675,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205987,
-      "TEDPAYSAYISI": 421703468.0,
-      "KISISAYISI": 1358.0,
-      "PORTFOYBUYUKLUK": 508569070.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1685,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196138,
-      "TEDPAYSAYISI": 420821791.0,
-      "KISISAYISI": 1354.0,
-      "PORTFOYBUYUKLUK": 503360862.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1695,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197461,
-      "TEDPAYSAYISI": 420723510.0,
-      "KISISAYISI": 1354.0,
-      "PORTFOYBUYUKLUK": 503799820.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1705,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205868,
-      "TEDPAYSAYISI": 420451374.0,
-      "KISISAYISI": 1351.0,
-      "PORTFOYBUYUKLUK": 507008820.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1715,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185967,
-      "TEDPAYSAYISI": 419111748.0,
-      "KISISAYISI": 1349.0,
-      "PORTFOYBUYUKLUK": 497052599.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1725,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.196861,
-      "TEDPAYSAYISI": 418998929.0,
-      "KISISAYISI": 1342.0,
-      "PORTFOYBUYUKLUK": 501483415.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1735,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.181368,
-      "TEDPAYSAYISI": 419205404.0,
-      "KISISAYISI": 1341.0,
-      "PORTFOYBUYUKLUK": 495235973.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1745,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172243,
-      "TEDPAYSAYISI": 419452455.0,
-      "KISISAYISI": 1341.0,
-      "PORTFOYBUYUKLUK": 491700044.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1755,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176787,
-      "TEDPAYSAYISI": 417927140.0,
-      "KISISAYISI": 1342.0,
-      "PORTFOYBUYUKLUK": 491811021.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1765,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194513,
-      "TEDPAYSAYISI": 416547076.0,
-      "KISISAYISI": 1336.0,
-      "PORTFOYBUYUKLUK": 497570950.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1775,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217109,
-      "TEDPAYSAYISI": 416198795.0,
-      "KISISAYISI": 1322.0,
-      "PORTFOYBUYUKLUK": 506559360.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1785,9 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221513,
-      "TEDPAYSAYISI": 417185896.0,
-      "KISISAYISI": 1317.0,
-      "PORTFOYBUYUKLUK": 509598013.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1795,139 @@
       "FONKODU": "NKC",
       "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216455,
-      "TEDPAYSAYISI": 417198219.0,
-      "KISISAYISI": 1313.0,
-      "PORTFOYBUYUKLUK": 507502968.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.22097,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.19657,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.240341,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.237848,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.261506,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.248798,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.261375,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260332,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.248434,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.277212,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.27117,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.26314,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "NKC",
+      "FONUNVAN": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.260167,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

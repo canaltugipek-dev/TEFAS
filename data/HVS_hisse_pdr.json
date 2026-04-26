@@ -1,26 +1,159 @@
 {
   "kod": "HVS",
-  "guncelleme": "2026-04-08T18:22:55Z",
+  "guncelleme": "2026-04-26T16:45:48Z",
   "kaynak_tefas": true,
   "unvan": "HSBC PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvs-hsbc-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 90.01
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 3.4
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 6.59
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 10.0
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.69
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.5
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.52
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.19
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.02
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.62
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 2.34
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 2.24
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 1.98
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 1.45
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 0.88
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 0.64
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 0.56
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 0.31
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "28 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 11:15:26",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c136be9717b"
 }

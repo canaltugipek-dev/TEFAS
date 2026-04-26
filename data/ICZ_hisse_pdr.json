@@ -1,21 +1,164 @@
 {
   "kod": "ICZ",
-  "guncelleme": "2026-04-08T18:23:12Z",
+  "guncelleme": "2026-04-26T18:32:27Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icz-ak-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.34
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.66
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 18.53
+    },
+    {
+      "ticker": "ODINE",
+      "ad": "",
+      "agirlik": 8.76
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 7.92
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 6.59
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 5.73
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 3.74
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 3.61
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "ARENA",
+      "ad": "",
+      "agirlik": 2.86
+    },
+    {
+      "ticker": "PATEK",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 2.54
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 2.42
+    },
+    {
+      "ticker": "KRONT",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "REEDR",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 0.37
+    },
+    {
+      "ticker": "MOBTL",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.02
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 0.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.04.2026 15:25:15",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d53277c5273d6"
 }

@@ -1,30 +1,184 @@
 {
   "kod": "YHS",
-  "guncelleme": "2026-04-08T18:28:58Z",
+  "guncelleme": "2026-04-26T15:49:00Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhs-yapi-kredi-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 94.09
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 1.88
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 2.06
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.97
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.07
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.8
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.89
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.96
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.23
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.99
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.62
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.92
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.12
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.72
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.95
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 1.82
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "BOBET",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.71
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 1.7
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 1.26
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.8
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 0.7
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 0.62
+    },
+    {
+      "ticker": "SVGYO",
+      "ad": "",
+      "agirlik": 0.44
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 0.05
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "33 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 13:39:50",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c36de15317d"
 }

@@ -1,25 +1,104 @@
 {
   "kod": "PGS",
-  "guncelleme": "2026-04-08T18:26:29Z",
+  "guncelleme": "2026-04-26T18:27:32Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pgs-azimut-portfoy-pay-geri-alimi-yapan-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 88.29
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 5.58
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 6.13
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 10.37
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 9.43
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 9.35
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 9.33
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 5.77
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.22
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.2
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 5.02
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 4.94
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.31
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 2.87
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.32
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.31
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "17 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.04.2026 18:16:54",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a9cb7948c7"
 }

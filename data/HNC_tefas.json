@@ -2,22 +2,242 @@
   "fon_kodu": "HNC",
   "fon_unvan": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 258,
-  "gun_kapsami": 376,
+  "kayit_sayisi": 293,
+  "gun_kapsami": 424,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1740355200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740441600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740528000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740614400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740700800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1740960000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741046400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741132800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741219200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741305600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741564800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741651200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741737600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741824000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1741910400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742169600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742256000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742342400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742428800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742515200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742774400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742860800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1742947200000",
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999615,
-      "TEDPAYSAYISI": 3000325.0,
-      "KISISAYISI": 3.0,
-      "PORTFOYBUYUKLUK": 2999170.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +245,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001141,
-      "TEDPAYSAYISI": 3012328.0,
-      "KISISAYISI": 5.0,
-      "PORTFOYBUYUKLUK": 3015764.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +255,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00335,
-      "TEDPAYSAYISI": 3192375.0,
-      "KISISAYISI": 9.0,
-      "PORTFOYBUYUKLUK": 3203069.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +265,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.010299,
-      "TEDPAYSAYISI": 3199151.0,
-      "KISISAYISI": 14.0,
-      "PORTFOYBUYUKLUK": 3232098.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +275,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.016833,
-      "TEDPAYSAYISI": 3199249.0,
-      "KISISAYISI": 14.0,
-      "PORTFOYBUYUKLUK": 3253101.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +285,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021136,
-      "TEDPAYSAYISI": 3573508.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 3649036.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +295,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0113,
-      "TEDPAYSAYISI": 3635594.0,
-      "KISISAYISI": 27.0,
-      "PORTFOYBUYUKLUK": 3676676.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +305,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012544,
-      "TEDPAYSAYISI": 3674684.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 3720780.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +315,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.020261,
-      "TEDPAYSAYISI": 3842000.0,
-      "KISISAYISI": 35.0,
-      "PORTFOYBUYUKLUK": 3919842.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +325,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006269,
-      "TEDPAYSAYISI": 4385714.0,
-      "KISISAYISI": 39.0,
-      "PORTFOYBUYUKLUK": 4413208.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +335,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012738,
-      "TEDPAYSAYISI": 4342536.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 4397851.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +345,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013379,
-      "TEDPAYSAYISI": 5101880.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 5170138.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +355,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.021292,
-      "TEDPAYSAYISI": 5132181.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 5241457.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +365,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.018952,
-      "TEDPAYSAYISI": 6202269.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 6319811.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +375,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997592,
-      "TEDPAYSAYISI": 7972785.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 7953587.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +385,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.014483,
-      "TEDPAYSAYISI": 7924321.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 8039088.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +395,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.005083,
-      "TEDPAYSAYISI": 7956439.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 7996878.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +405,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001534,
-      "TEDPAYSAYISI": 7956836.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 7969039.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +415,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988138,
-      "TEDPAYSAYISI": 7986094.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 7891360.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +425,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004815,
-      "TEDPAYSAYISI": 7985797.0,
-      "KISISAYISI": 51.0,
-      "PORTFOYBUYUKLUK": 8024251.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +435,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008115,
-      "TEDPAYSAYISI": 7957890.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 8022466.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +445,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988164,
-      "TEDPAYSAYISI": 7954068.0,
-      "KISISAYISI": 48.0,
-      "PORTFOYBUYUKLUK": 7859920.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +455,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.97614,
-      "TEDPAYSAYISI": 7969264.0,
-      "KISISAYISI": 46.0,
-      "PORTFOYBUYUKLUK": 7779114.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +465,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.960064,
-      "TEDPAYSAYISI": 7969367.0,
-      "KISISAYISI": 45.0,
-      "PORTFOYBUYUKLUK": 7651103.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +475,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.971392,
-      "TEDPAYSAYISI": 7991470.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 7762848.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +485,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961986,
-      "TEDPAYSAYISI": 7993631.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 7689764.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +495,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.967474,
-      "TEDPAYSAYISI": 7997996.0,
-      "KISISAYISI": 49.0,
-      "PORTFOYBUYUKLUK": 7737854.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +505,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.955661,
-      "TEDPAYSAYISI": 7996072.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 7641538.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +515,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.972137,
-      "TEDPAYSAYISI": 7996154.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 7773353.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +525,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.975083,
-      "TEDPAYSAYISI": 8006751.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 7807245.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +535,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.009095,
-      "TEDPAYSAYISI": 7985496.0,
-      "KISISAYISI": 50.0,
-      "PORTFOYBUYUKLUK": 8058128.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +545,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013219,
-      "TEDPAYSAYISI": 8208892.0,
-      "KISISAYISI": 54.0,
-      "PORTFOYBUYUKLUK": 8317406.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +555,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.013467,
-      "TEDPAYSAYISI": 8231791.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 8342651.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +565,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001555,
-      "TEDPAYSAYISI": 8256458.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 8269300.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +575,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.011044,
-      "TEDPAYSAYISI": 8291072.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 8382639.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +585,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002532,
-      "TEDPAYSAYISI": 8291072.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 8312065.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +595,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985498,
-      "TEDPAYSAYISI": 5393355.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 5315142.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +605,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988296,
-      "TEDPAYSAYISI": 5393456.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5330331.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +615,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.976037,
-      "TEDPAYSAYISI": 5444499.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5314032.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +625,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.970497,
-      "TEDPAYSAYISI": 5411354.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5251702.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +635,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.957254,
-      "TEDPAYSAYISI": 5416608.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 5185071.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +645,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950421,
-      "TEDPAYSAYISI": 5416712.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 5148159.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +655,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.950421,
-      "TEDPAYSAYISI": 5416817.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 5148257.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +665,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.93616,
-      "TEDPAYSAYISI": 5417343.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5071499.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +675,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.923171,
-      "TEDPAYSAYISI": 5419691.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 5003301.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +685,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.940904,
-      "TEDPAYSAYISI": 5419137.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 5098890.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +695,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.95762,
-      "TEDPAYSAYISI": 5339441.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5113157.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +705,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961051,
-      "TEDPAYSAYISI": 5339441.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5131474.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +715,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.98328,
-      "TEDPAYSAYISI": 5374283.0,
-      "KISISAYISI": 56.0,
-      "PORTFOYBUYUKLUK": 5284426.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +725,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.986828,
-      "TEDPAYSAYISI": 5376877.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 5306054.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +735,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.961218,
-      "TEDPAYSAYISI": 5352166.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 5144598.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +745,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.940148,
-      "TEDPAYSAYISI": 5355448.0,
-      "KISISAYISI": 55.0,
-      "PORTFOYBUYUKLUK": 5034916.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +755,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.946132,
-      "TEDPAYSAYISI": 5357015.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 5068444.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +765,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.934664,
-      "TEDPAYSAYISI": 5399707.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 5046912.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +775,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.918943,
-      "TEDPAYSAYISI": 5422736.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 4983185.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +785,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.907395,
-      "TEDPAYSAYISI": 5426114.0,
-      "KISISAYISI": 57.0,
-      "PORTFOYBUYUKLUK": 4923626.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +795,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.921202,
-      "TEDPAYSAYISI": 5426559.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 4998954.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +805,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.910029,
-      "TEDPAYSAYISI": 5426672.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 4938426.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +815,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.944571,
-      "TEDPAYSAYISI": 5437775.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 5136362.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +825,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949392,
-      "TEDPAYSAYISI": 5439796.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 5164501.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +835,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.943128,
-      "TEDPAYSAYISI": 5437827.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 5128568.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +845,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.952689,
-      "TEDPAYSAYISI": 5426736.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 5169993.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +855,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006527,
-      "TEDPAYSAYISI": 5426846.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 5462266.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +865,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.029785,
-      "TEDPAYSAYISI": 5428810.0,
-      "KISISAYISI": 58.0,
-      "PORTFOYBUYUKLUK": 5590507.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +875,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.041516,
-      "TEDPAYSAYISI": 5621605.0,
-      "KISISAYISI": 59.0,
-      "PORTFOYBUYUKLUK": 5854994.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +885,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.049433,
-      "TEDPAYSAYISI": 5697464.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 5979108.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +895,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.052551,
-      "TEDPAYSAYISI": 5794107.0,
-      "KISISAYISI": 60.0,
-      "PORTFOYBUYUKLUK": 6098593.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +905,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038611,
-      "TEDPAYSAYISI": 5697188.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 5917160.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +915,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.02902,
-      "TEDPAYSAYISI": 6654740.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 6847858.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +925,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.045167,
-      "TEDPAYSAYISI": 6656972.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 6957648.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +935,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057694,
-      "TEDPAYSAYISI": 6666437.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 7051053.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +945,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065791,
-      "TEDPAYSAYISI": 6666437.0,
-      "KISISAYISI": 62.0,
-      "PORTFOYBUYUKLUK": 7105030.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +955,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064132,
-      "TEDPAYSAYISI": 6668940.0,
-      "KISISAYISI": 63.0,
-      "PORTFOYBUYUKLUK": 7096633.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +965,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051167,
-      "TEDPAYSAYISI": 6676455.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 7018066.94,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +975,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072575,
-      "TEDPAYSAYISI": 6676782.0,
-      "KISISAYISI": 64.0,
-      "PORTFOYBUYUKLUK": 7161350.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +985,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.082012,
-      "TEDPAYSAYISI": 6657496.0,
-      "KISISAYISI": 66.0,
-      "PORTFOYBUYUKLUK": 7203493.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +995,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09656,
-      "TEDPAYSAYISI": 6665495.0,
-      "KISISAYISI": 68.0,
-      "PORTFOYBUYUKLUK": 7309112.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +1005,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.092874,
-      "TEDPAYSAYISI": 7858941.0,
-      "KISISAYISI": 77.0,
-      "PORTFOYBUYUKLUK": 8588833.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +1015,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089807,
-      "TEDPAYSAYISI": 7950933.0,
-      "KISISAYISI": 78.0,
-      "PORTFOYBUYUKLUK": 8664981.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +1025,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097985,
-      "TEDPAYSAYISI": 7902514.0,
-      "KISISAYISI": 83.0,
-      "PORTFOYBUYUKLUK": 8676839.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +1035,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091674,
-      "TEDPAYSAYISI": 7848668.0,
-      "KISISAYISI": 85.0,
-      "PORTFOYBUYUKLUK": 8568184.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +1045,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.084107,
-      "TEDPAYSAYISI": 8037821.0,
-      "KISISAYISI": 86.0,
-      "PORTFOYBUYUKLUK": 8713854.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +1055,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.086854,
-      "TEDPAYSAYISI": 8056184.0,
-      "KISISAYISI": 86.0,
-      "PORTFOYBUYUKLUK": 8755894.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +1065,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09724,
-      "TEDPAYSAYISI": 8081616.0,
-      "KISISAYISI": 88.0,
-      "PORTFOYBUYUKLUK": 8867473.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +1075,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104805,
-      "TEDPAYSAYISI": 8086624.0,
-      "KISISAYISI": 89.0,
-      "PORTFOYBUYUKLUK": 8934138.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1085,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.109984,
-      "TEDPAYSAYISI": 8268939.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 9178387.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1095,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121746,
-      "TEDPAYSAYISI": 8284684.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 9293310.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1105,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126044,
-      "TEDPAYSAYISI": 8329736.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 9379652.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1115,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125498,
-      "TEDPAYSAYISI": 8335148.0,
-      "KISISAYISI": 91.0,
-      "PORTFOYBUYUKLUK": 9381193.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1125,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13375,
-      "TEDPAYSAYISI": 8502063.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 9639215.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1135,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130226,
-      "TEDPAYSAYISI": 8502317.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 9609537.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1145,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138103,
-      "TEDPAYSAYISI": 8603074.0,
-      "KISISAYISI": 97.0,
-      "PORTFOYBUYUKLUK": 9791183.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1155,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.129334,
-      "TEDPAYSAYISI": 9043314.0,
-      "KISISAYISI": 99.0,
-      "PORTFOYBUYUKLUK": 10212921.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1165,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12958,
-      "TEDPAYSAYISI": 10079054.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 11385095.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1175,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120337,
-      "TEDPAYSAYISI": 10081617.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 11294812.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1185,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126646,
-      "TEDPAYSAYISI": 10353377.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 11664590.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1195,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123083,
-      "TEDPAYSAYISI": 10351843.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 11625976.51,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1205,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130635,
-      "TEDPAYSAYISI": 10342103.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 11693142.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1215,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149727,
-      "TEDPAYSAYISI": 10358841.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 11909837.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1225,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.162597,
-      "TEDPAYSAYISI": 10363070.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 12048077.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1235,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.164109,
-      "TEDPAYSAYISI": 10376473.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 12079348.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1245,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.170162,
-      "TEDPAYSAYISI": 10403546.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 12173832.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1255,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.176038,
-      "TEDPAYSAYISI": 10460111.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 12301485.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1265,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160974,
-      "TEDPAYSAYISI": 10506525.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 12197801.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1275,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159202,
-      "TEDPAYSAYISI": 10539205.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 12217064.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1285,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.147817,
-      "TEDPAYSAYISI": 10697153.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 12278373.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1295,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1522,
-      "TEDPAYSAYISI": 10783793.0,
-      "KISISAYISI": 132.0,
-      "PORTFOYBUYUKLUK": 12425085.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1305,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122159,
-      "TEDPAYSAYISI": 10784159.0,
-      "KISISAYISI": 133.0,
-      "PORTFOYBUYUKLUK": 12101541.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1315,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108073,
-      "TEDPAYSAYISI": 10785923.0,
-      "KISISAYISI": 132.0,
-      "PORTFOYBUYUKLUK": 11951593.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1325,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118978,
-      "TEDPAYSAYISI": 10780558.0,
-      "KISISAYISI": 133.0,
-      "PORTFOYBUYUKLUK": 12063209.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1335,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107557,
-      "TEDPAYSAYISI": 10913739.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 12087591.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1345,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.085155,
-      "TEDPAYSAYISI": 10950136.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 11882594.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1355,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.089624,
-      "TEDPAYSAYISI": 10848309.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 11820579.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1365,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.091268,
-      "TEDPAYSAYISI": 10850130.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 11840394.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1375,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.068787,
-      "TEDPAYSAYISI": 9963721.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 10649095.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1385,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.062934,
-      "TEDPAYSAYISI": 10150941.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 10789775.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1395,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.120604,
-      "TEDPAYSAYISI": 10150941.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 11375180.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1405,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140781,
-      "TEDPAYSAYISI": 9967194.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 11370381.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1415,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128984,
-      "TEDPAYSAYISI": 9981752.0,
-      "KISISAYISI": 126.0,
-      "PORTFOYBUYUKLUK": 11269235.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1425,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114066,
-      "TEDPAYSAYISI": 9988016.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 11127308.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1435,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126663,
-      "TEDPAYSAYISI": 9987362.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 11252386.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1445,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.142394,
-      "TEDPAYSAYISI": 9986771.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 11408829.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1455,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124881,
-      "TEDPAYSAYISI": 10021570.0,
-      "KISISAYISI": 127.0,
-      "PORTFOYBUYUKLUK": 11273077.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1465,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123727,
-      "TEDPAYSAYISI": 10153053.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 11409259.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1475,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.126994,
-      "TEDPAYSAYISI": 9729386.0,
-      "KISISAYISI": 125.0,
-      "PORTFOYBUYUKLUK": 10964956.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1485,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.104863,
-      "TEDPAYSAYISI": 9728746.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 10748930.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1495,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09116,
-      "TEDPAYSAYISI": 9732199.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 10619383.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1505,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088656,
-      "TEDPAYSAYISI": 9576414.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 10425420.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1515,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103698,
-      "TEDPAYSAYISI": 9576922.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 10570034.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1525,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.088188,
-      "TEDPAYSAYISI": 9435392.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 10267483.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1535,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.063762,
-      "TEDPAYSAYISI": 9445313.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 10047560.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1545,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053328,
-      "TEDPAYSAYISI": 9445313.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9949010.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1555,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.072487,
-      "TEDPAYSAYISI": 9499424.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 10188004.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1565,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.066053,
-      "TEDPAYSAYISI": 9500664.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 10128208.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1575,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.065009,
-      "TEDPAYSAYISI": 9506178.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 10124166.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1585,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074827,
-      "TEDPAYSAYISI": 9507039.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 10218426.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1595,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057728,
-      "TEDPAYSAYISI": 9025102.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 9546106.03,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1605,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039564,
-      "TEDPAYSAYISI": 9025323.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9382398.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1615,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057783,
-      "TEDPAYSAYISI": 9025230.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9546737.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1625,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.051164,
-      "TEDPAYSAYISI": 9015231.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 9476485.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1635,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038133,
-      "TEDPAYSAYISI": 9026186.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9370382.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1645,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055371,
-      "TEDPAYSAYISI": 9081870.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9584741.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1655,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.060244,
-      "TEDPAYSAYISI": 9073480.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9620098.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1665,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064165,
-      "TEDPAYSAYISI": 9067849.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 9649690.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1675,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.064613,
-      "TEDPAYSAYISI": 9068411.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9654347.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1685,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097255,
-      "TEDPAYSAYISI": 9068411.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9950359.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1695,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093449,
-      "TEDPAYSAYISI": 9068593.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9916042.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1705,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.093166,
-      "TEDPAYSAYISI": 9068079.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 9912916.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1715,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097295,
-      "TEDPAYSAYISI": 9097195.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 9982308.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1725,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124341,
-      "TEDPAYSAYISI": 9098097.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 10229360.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1735,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.133834,
-      "TEDPAYSAYISI": 8995787.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 10199726.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1745,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121733,
-      "TEDPAYSAYISI": 9023594.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 10122059.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1755,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130604,
-      "TEDPAYSAYISI": 9035102.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 10215126.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1765,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.131663,
-      "TEDPAYSAYISI": 9073767.0,
-      "KISISAYISI": 118.0,
-      "PORTFOYBUYUKLUK": 10268446.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1775,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115593,
-      "TEDPAYSAYISI": 9073767.0,
-      "KISISAYISI": 117.0,
-      "PORTFOYBUYUKLUK": 10122630.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1785,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106681,
-      "TEDPAYSAYISI": 9058814.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 10025214.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1795,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100581,
-      "TEDPAYSAYISI": 9060380.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9971681.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1805,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.097876,
-      "TEDPAYSAYISI": 8660380.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9508024.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1815,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.096231,
-      "TEDPAYSAYISI": 8813685.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 9661834.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1825,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0865,
-      "TEDPAYSAYISI": 8780653.0,
-      "KISISAYISI": 119.0,
-      "PORTFOYBUYUKLUK": 9540178.26,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1835,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.1064,
-      "TEDPAYSAYISI": 8781665.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 9716035.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1845,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.100283,
-      "TEDPAYSAYISI": 8772546.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 9652282.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1855,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.111713,
-      "TEDPAYSAYISI": 8772546.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 9752552.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1865,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.11708,
-      "TEDPAYSAYISI": 8773118.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 9800275.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1875,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.10822,
-      "TEDPAYSAYISI": 8772455.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 9721812.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1885,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108109,
-      "TEDPAYSAYISI": 8772455.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 9720840.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1895,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103044,
-      "TEDPAYSAYISI": 9104112.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 10042233.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1905,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.109264,
-      "TEDPAYSAYISI": 8669138.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 9616361.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1915,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.110146,
-      "TEDPAYSAYISI": 8339666.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 9258245.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1925,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.108133,
-      "TEDPAYSAYISI": 8340702.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 9242607.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1935,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.121785,
-      "TEDPAYSAYISI": 8345214.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 9361537.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1945,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117872,
-      "TEDPAYSAYISI": 8347906.0,
-      "KISISAYISI": 116.0,
-      "PORTFOYBUYUKLUK": 9331891.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1955,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113759,
-      "TEDPAYSAYISI": 7597677.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 8461982.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1965,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.103776,
-      "TEDPAYSAYISI": 7597677.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 8386134.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1975,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.106001,
-      "TEDPAYSAYISI": 7599702.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 8405274.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1985,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.123515,
-      "TEDPAYSAYISI": 7663976.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8610594.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1995,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122292,
-      "TEDPAYSAYISI": 7662713.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8599797.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +2005,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118312,
-      "TEDPAYSAYISI": 7671623.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8579265.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +2015,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124163,
-      "TEDPAYSAYISI": 7670706.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8623123.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +2025,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.137856,
-      "TEDPAYSAYISI": 7670818.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8728289.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +2035,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152451,
-      "TEDPAYSAYISI": 7669182.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8838353.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +2045,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.149503,
-      "TEDPAYSAYISI": 7508814.0,
-      "KISISAYISI": 114.0,
-      "PORTFOYBUYUKLUK": 8631404.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +2055,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146442,
-      "TEDPAYSAYISI": 7460741.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 8553305.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +2065,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.148754,
-      "TEDPAYSAYISI": 7460959.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8570803.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +2075,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.146051,
-      "TEDPAYSAYISI": 7460959.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8550641.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2085,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138711,
-      "TEDPAYSAYISI": 7468003.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8503897.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2095,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13043,
-      "TEDPAYSAYISI": 7441417.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8411999.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2105,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130572,
-      "TEDPAYSAYISI": 7447321.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8419734.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2115,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.13549,
-      "TEDPAYSAYISI": 7447497.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 8456558.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2125,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.132023,
-      "TEDPAYSAYISI": 7448653.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8432049.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2135,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.114059,
-      "TEDPAYSAYISI": 7448653.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8298241.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2145,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.118535,
-      "TEDPAYSAYISI": 7406505.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8284431.65,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2155,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124423,
-      "TEDPAYSAYISI": 7407901.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8329617.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2165,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.139061,
-      "TEDPAYSAYISI": 7407901.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8438048.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2175,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150525,
-      "TEDPAYSAYISI": 9177779.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 10559261.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2185,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.167817,
-      "TEDPAYSAYISI": 9188529.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 10730523.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2195,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.165068,
-      "TEDPAYSAYISI": 9222340.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 10744653.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2205,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.168265,
-      "TEDPAYSAYISI": 9222340.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 10774134.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2215,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172514,
-      "TEDPAYSAYISI": 7420929.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8701142.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2225,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180181,
-      "TEDPAYSAYISI": 7425451.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 8763373.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2235,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197468,
-      "TEDPAYSAYISI": 7508505.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8991194.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2245,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.203965,
-      "TEDPAYSAYISI": 9134359.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 10997448.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2255,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.21142,
-      "TEDPAYSAYISI": 9267452.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 11226775.29,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2265,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.23107,
-      "TEDPAYSAYISI": 9292568.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 11439805.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2275,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225518,
-      "TEDPAYSAYISI": 9292568.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 11388212.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2285,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217387,
-      "TEDPAYSAYISI": 8343230.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 10156943.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2295,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216516,
-      "TEDPAYSAYISI": 8404816.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 10224595.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2305,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235919,
-      "TEDPAYSAYISI": 7995713.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 9882051.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2315,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24781,
-      "TEDPAYSAYISI": 7995713.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 9977129.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2325,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262253,
-      "TEDPAYSAYISI": 7999719.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 10097670.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2335,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.257826,
-      "TEDPAYSAYISI": 7965338.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 10019006.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2345,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267902,
-      "TEDPAYSAYISI": 7975452.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 10112095.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2355,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.282097,
-      "TEDPAYSAYISI": 7952890.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 10196378.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2365,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271054,
-      "TEDPAYSAYISI": 7355055.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 9348671.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2375,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253726,
-      "TEDPAYSAYISI": 7355055.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 9221225.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2385,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.273392,
-      "TEDPAYSAYISI": 7347924.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 9356790.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2395,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267102,
-      "TEDPAYSAYISI": 7343404.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 9304839.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2405,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242431,
-      "TEDPAYSAYISI": 7382864.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 9172695.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2415,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240401,
-      "TEDPAYSAYISI": 7383536.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 9158543.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2425,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261642,
-      "TEDPAYSAYISI": 6733691.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 8495504.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2435,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271674,
-      "TEDPAYSAYISI": 6693598.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8512076.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2445,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.277544,
-      "TEDPAYSAYISI": 6693998.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8551879.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2455,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.299193,
-      "TEDPAYSAYISI": 6381820.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 8291213.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2465,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.306663,
-      "TEDPAYSAYISI": 6381820.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 8338889.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2475,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.319892,
-      "TEDPAYSAYISI": 6415908.0,
-      "KISISAYISI": 107.0,
-      "PORTFOYBUYUKLUK": 8468304.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2485,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.313748,
-      "TEDPAYSAYISI": 6428982.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8446059.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2495,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.305286,
-      "TEDPAYSAYISI": 6505163.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8491098.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2505,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.256229,
-      "TEDPAYSAYISI": 6138859.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 7711813.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2515,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.268198,
-      "TEDPAYSAYISI": 6536875.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 8290050.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2525,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.288014,
-      "TEDPAYSAYISI": 6537267.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 8420089.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2535,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.283483,
-      "TEDPAYSAYISI": 6555036.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 8413278.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2545,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.269506,
-      "TEDPAYSAYISI": 6557848.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 8325226.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2555,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.275827,
-      "TEDPAYSAYISI": 6555294.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 8363418.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2565,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.260523,
-      "TEDPAYSAYISI": 6493940.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 8185759.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2575,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.231359,
-      "TEDPAYSAYISI": 6476404.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 7974779.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2585,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.20544,
-      "TEDPAYSAYISI": 4881810.0,
-      "KISISAYISI": 108.0,
-      "PORTFOYBUYUKLUK": 5884726.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2595,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200293,
-      "TEDPAYSAYISI": 4881094.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 5858742.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2605,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217568,
-      "TEDPAYSAYISI": 4880961.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 5942903.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2615,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204085,
-      "TEDPAYSAYISI": 4832840.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 5819151.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2625,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.209198,
-      "TEDPAYSAYISI": 5248674.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 6346684.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2635,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254707,
-      "TEDPAYSAYISI": 5240181.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 6574889.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2645,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.252847,
-      "TEDPAYSAYISI": 5962965.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 7470683.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2655,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.26814,
-      "TEDPAYSAYISI": 5963044.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 7561975.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2665,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.262343,
-      "TEDPAYSAYISI": 6121527.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 7727463.93,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2675,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.25157,
-      "TEDPAYSAYISI": 6121606.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 7661617.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2685,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.270727,
-      "TEDPAYSAYISI": 4249036.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 5399363.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2695,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.261812,
-      "TEDPAYSAYISI": 4248034.0,
-      "KISISAYISI": 100.0,
-      "PORTFOYBUYUKLUK": 5360219.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2705,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.263079,
-      "TEDPAYSAYISI": 4248034.0,
-      "KISISAYISI": 100.0,
-      "PORTFOYBUYUKLUK": 5365604.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2715,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.274822,
-      "TEDPAYSAYISI": 4249933.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 5417909.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2725,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.251964,
-      "TEDPAYSAYISI": 4249208.0,
-      "KISISAYISI": 102.0,
-      "PORTFOYBUYUKLUK": 5319853.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2515,9 +2735,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.266578,
-      "TEDPAYSAYISI": 4289144.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 5432535.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2525,9 +2745,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248603,
-      "TEDPAYSAYISI": 4332177.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 5409169.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2535,9 +2755,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.248753,
-      "TEDPAYSAYISI": 4532400.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 5659849.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2545,9 +2765,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.247274,
-      "TEDPAYSAYISI": 4532400.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 5653145.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2555,9 +2775,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.267639,
-      "TEDPAYSAYISI": 4532400.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 5745446.97,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2565,9 +2785,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278451,
-      "TEDPAYSAYISI": 4926834.0,
-      "KISISAYISI": 104.0,
-      "PORTFOYBUYUKLUK": 6298713.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2575,9 +2795,9 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.2914,
-      "TEDPAYSAYISI": 4915322.0,
-      "KISISAYISI": 105.0,
-      "PORTFOYBUYUKLUK": 6347646.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2585,9 +2805,139 @@
       "FONKODU": "HNC",
       "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.280304,
-      "TEDPAYSAYISI": 4923082.0,
-      "KISISAYISI": 103.0,
-      "PORTFOYBUYUKLUK": 6303043.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.294334,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.292731,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.32781,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.348739,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.354144,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.333635,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.343729,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.349372,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.352813,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.368871,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.375223,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.369706,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "HNC",
+      "FONUNVAN": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.356567,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]

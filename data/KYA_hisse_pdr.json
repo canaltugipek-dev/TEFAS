@@ -1,26 +1,119 @@
 {
   "kod": "KYA",
-  "guncelleme": "2026-04-08T18:25:18Z",
+  "guncelleme": "2026-04-26T16:48:37Z",
   "kaynak_tefas": true,
   "unvan": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kya-kare-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 83.72
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 7.78
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 8.5
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
+  "hisseler": [
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 6.06
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 5.56
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 5.18
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 5.17
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.63
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.25
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "BRYAT",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 3.8
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.56
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.14
+    },
+    {
+      "ticker": "TUREX",
+      "ad": "",
+      "agirlik": 2.79
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 20:43:20",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6e1f60116cbe"
 }

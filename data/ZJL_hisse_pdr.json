@@ -1,29 +1,189 @@
 {
   "kod": "ZJL",
-  "guncelleme": "2026-04-08T18:29:29Z",
+  "guncelleme": "2026-04-26T19:03:44Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjl-ziraat-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.07
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.01
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 6.56
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 2.36
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 8.7534
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 7.5796
+    },
+    {
+      "ticker": "SUNTK",
+      "ad": "",
+      "agirlik": 4.5658
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.3465
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 3.8687
+    },
+    {
+      "ticker": "EGEGY",
+      "ad": "",
+      "agirlik": 3.8079
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 3.7702
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 3.7513
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 3.7244
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.5492
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 3.195
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.9672
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.7388
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 2.481
+    },
+    {
+      "ticker": "INFO",
+      "ad": "",
+      "agirlik": 2.3173
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.294
+    },
+    {
+      "ticker": "VAKKO",
+      "ad": "",
+      "agirlik": 2.2718
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 2.2292
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 2.2291
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 2.2029
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 2.1483
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.9197
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 1.6785
+    },
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 1.6388
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 1.6225
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 1.4512
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 1.394
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 1.3933
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 1.378
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 1.3342
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 1.3284
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 1.1146
+    },
+    {
+      "ticker": "KBORU",
+      "ad": "",
+      "agirlik": 0.935
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.8184
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 09:35:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca541a12f1"
 }

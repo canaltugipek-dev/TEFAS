@@ -1,28 +1,139 @@
 {
   "kod": "MAC",
-  "guncelleme": "2026-04-08T18:25:23Z",
+  "guncelleme": "2026-04-26T16:48:40Z",
   "kaynak_tefas": true,
   "unvan": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mac-marmara-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 96.57
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 3.43
+      "oran": 80.0
     }
   ],
   "hisseler": [
     {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 9.58
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 9.0
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 7.59
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 6.36
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 5.43
+    },
+    {
+      "ticker": "GOLTS",
+      "ad": "",
+      "agirlik": 5.06
+    },
+    {
+      "ticker": "ALGYO",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.56
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "ASUZU",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 4.2
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "ATAKP",
+      "ad": "",
+      "agirlik": 3.93
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 3.81
+    },
+    {
       "ticker": "TBPP",
       "ad": "",
-      "agirlik": 1.85
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 2.51
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.36
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 1.21
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 0.17
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
+  "hisse_mesaj": "24 hisse satırı okundu.",
   "kap_rapor_tarihi": "08.04.2026 16:29:49",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6d47a555541f"
 }

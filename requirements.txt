@@ -1,7 +1,16 @@
 # TEFAS: venv icinde: python -m pip install -r requirements.txt
+# Ek olarak Chromium tarayicisi gerekli:
+#   .venv/Scripts/python -m playwright install chromium
 requests>=2.31.0
 urllib3>=2.0.0
 numpy>=1.26.0
 pandas>=2.0.0
 yfinance>=0.2.0
 PyMuPDF>=1.24.0
+playwright>=1.45.0
+tf-playwright-stealth>=1.1.0
+# OCR (image-only PDR PDF'lerinde Tesseract'a alternatif)
+rapidocr-onnxruntime>=1.2.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+onnxruntime>=1.16.0

@@ -1,25 +1,179 @@
 {
   "kod": "GRT",
-  "guncelleme": "2026-04-08T18:22:11Z",
+  "guncelleme": "2026-04-26T18:22:37Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/grt-garanti-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 98.52
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.25
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 1.23
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 17.29
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 8.19
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 6.23
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 5.72
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.51
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 2.24
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.94
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "ODINE",
+      "ad": "",
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.62
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 1.5
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 1.43
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
+      "ticker": "NETAS",
+      "ad": "",
+      "agirlik": 0.78
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.55
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 0.23
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.21
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 19:55:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde132056b"
 }

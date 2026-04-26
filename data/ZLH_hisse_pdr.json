@@ -1,25 +1,174 @@
 {
   "kod": "ZLH",
-  "guncelleme": "2026-04-08T18:29:42Z",
+  "guncelleme": "2026-04-26T19:03:48Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zlh-ziraat-portfoy-bist-100-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 95.39
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.01
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 4.6
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 7.7243
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 7.3888
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 6.779
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 5.3251
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.6408
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 4.5323
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.3619
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 4.1158
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 4.0335
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.9765
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 3.4364
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 3.4149
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 3.4105
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.3995
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 2.9129
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 2.5413
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.5035
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.3991
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 2.3189
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 2.1488
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 2.0593
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 2.0331
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.8787
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.8457
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 1.822
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.8048
+    },
+    {
+      "ticker": "VESTL",
+      "ad": "",
+      "agirlik": 1.6494
+    },
+    {
+      "ticker": "ZRGYO",
+      "ad": "",
+      "agirlik": 1.4587
+    },
+    {
+      "ticker": "GENIL",
+      "ad": "",
+      "agirlik": 1.3896
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 1.2439
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 0.9979
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "31 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 09:35:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca54c61305"
 }

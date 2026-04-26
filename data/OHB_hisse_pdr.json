@@ -1,37 +1,184 @@
 {
   "kod": "OHB",
-  "guncelleme": "2026-04-08T18:26:15Z",
+  "guncelleme": "2026-04-26T18:27:15Z",
   "kaynak_tefas": true,
   "unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohb-oyak-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 92.71
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.01
-    },
-    {
-      "tip": "Ters-Repo",
-      "oran": 3.88
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.05
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 2.01
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 1.34
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.71
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 6.29
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.06
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.94
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 2.34
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 2.3
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.01
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.7
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.54
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 1.18
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "OYYAT",
+      "ad": "",
+      "agirlik": 0.78
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 0.75
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 0.69
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 0.4
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "33 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 22:06:45",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6e1c86e65dd8"
 }

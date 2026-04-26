@@ -1,25 +1,179 @@
 {
   "kod": "HGM",
-  "guncelleme": "2026-04-08T18:22:34Z",
+  "guncelleme": "2026-04-26T18:22:49Z",
   "kaynak_tefas": true,
   "unvan": "HEDEF PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hgm-hedef-portfoy-ikinci-hisse-senedi-tl-fon-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 86.21
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 4.19
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 9.6
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.98
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 7.27
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 6.74
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 6.43
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 5.12
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "TRENJ",
+      "ad": "",
+      "agirlik": 3.4
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.15
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 3.14
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.12
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.88
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.38
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 1.88
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.43
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 1.43
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 0.59
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "32 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.04.2026 11:38:33",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5325ece65364"
 }

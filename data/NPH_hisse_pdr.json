@@ -1,33 +1,109 @@
 {
   "kod": "NPH",
-  "guncelleme": "2026-04-08T18:26:05Z",
+  "guncelleme": "2026-04-26T19:42:23Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nph-nurol-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 91.75
-    },
-    {
-      "tip": "Diğer",
-      "oran": 0.0
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 7.78
-    },
-    {
-      "tip": "Yatırım Fonları Katılma Payları",
-      "oran": 0.14
-    },
-    {
-      "tip": "Borsa Yatırım Fonları Katılma Payları",
-      "oran": 0.33
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 9.2
+    },
+    {
+      "ticker": "CVKMD",
+      "ad": "",
+      "agirlik": 8.87
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 8.86
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 8.5
+    },
+    {
+      "ticker": "ARSAN",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "TKFEN",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "NUHCM",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "TLMAN",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "HEKTS",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 1.69
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.04.2026 10:09:12",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618c6a0c6d26"
 }

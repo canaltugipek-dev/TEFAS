@@ -1,29 +1,114 @@
 {
   "kod": "PTO",
-  "guncelleme": "2026-04-08T18:26:47Z",
+  "guncelleme": "2026-04-26T18:33:10Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
-      "oran": 82.1
-    },
-    {
-      "tip": "Mevduat (TL)",
-      "oran": 0.16
-    },
-    {
-      "tip": "Vadeli İşlemler Nakit Teminatları",
-      "oran": 17.37
-    },
-    {
-      "tip": "Takasbank Para Piyasası",
-      "oran": 0.37
+      "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP portföy dağılım raporu bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 8.84
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.28
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.23
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.23
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 3.75
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 3.71
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 3.68
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.5
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 3.39
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 3.28
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.04.2026 18:47:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e969a96331d"
 }

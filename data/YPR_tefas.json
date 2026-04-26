@@ -2,22 +2,162 @@
   "fon_kodu": "YPR",
   "fon_unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-04-07",
-  "bitis": "2026-04-06",
+  "baslangic": "2021-04-27",
+  "bitis": "2026-04-26",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 250,
-  "gun_kapsami": 362,
+  "kayit_sayisi": 277,
+  "gun_kapsami": 402,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
+    {
+      "TARIH": "1742256000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742342400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742428800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742515200000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742774400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742860800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1742947200000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743033600000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743120000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743552000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743638400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743724800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1743984000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1744070400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
     {
       "TARIH": "1744156800000",
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998694,
-      "TEDPAYSAYISI": 10008972.0,
-      "KISISAYISI": 10.0,
-      "PORTFOYBUYUKLUK": 9995895.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -25,9 +165,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.987492,
-      "TEDPAYSAYISI": 10064892.0,
-      "KISISAYISI": 18.0,
-      "PORTFOYBUYUKLUK": 9939000.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -35,9 +175,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.989273,
-      "TEDPAYSAYISI": 10068017.0,
-      "KISISAYISI": 21.0,
-      "PORTFOYBUYUKLUK": 9960013.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -45,9 +185,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995572,
-      "TEDPAYSAYISI": 10069623.0,
-      "KISISAYISI": 24.0,
-      "PORTFOYBUYUKLUK": 10025034.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -55,9 +195,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.000118,
-      "TEDPAYSAYISI": 10069725.0,
-      "KISISAYISI": 25.0,
-      "PORTFOYBUYUKLUK": 10070908.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -65,9 +205,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.997043,
-      "TEDPAYSAYISI": 10070724.0,
-      "KISISAYISI": 25.0,
-      "PORTFOYBUYUKLUK": 10040942.95,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -75,9 +215,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.983625,
-      "TEDPAYSAYISI": 10071084.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 9906172.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -85,9 +225,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001102,
-      "TEDPAYSAYISI": 10072100.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 10083196.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -95,9 +235,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99555,
-      "TEDPAYSAYISI": 10075893.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 10031058.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -105,9 +245,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.001049,
-      "TEDPAYSAYISI": 10078906.0,
-      "KISISAYISI": 27.0,
-      "PORTFOYBUYUKLUK": 10089481.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -115,9 +255,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.988024,
-      "TEDPAYSAYISI": 10078404.0,
-      "KISISAYISI": 27.0,
-      "PORTFOYBUYUKLUK": 9957708.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -125,9 +265,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.00715,
-      "TEDPAYSAYISI": 10083464.0,
-      "KISISAYISI": 26.0,
-      "PORTFOYBUYUKLUK": 10155555.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -135,9 +275,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004466,
-      "TEDPAYSAYISI": 10087244.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 10132294.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -145,9 +285,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.002289,
-      "TEDPAYSAYISI": 10087244.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 10110333.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -155,9 +295,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994143,
-      "TEDPAYSAYISI": 10084224.0,
-      "KISISAYISI": 30.0,
-      "PORTFOYBUYUKLUK": 10025159.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -165,9 +305,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.985531,
-      "TEDPAYSAYISI": 10087528.0,
-      "KISISAYISI": 33.0,
-      "PORTFOYBUYUKLUK": 9941572.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -175,9 +315,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.995633,
-      "TEDPAYSAYISI": 10192243.0,
-      "KISISAYISI": 34.0,
-      "PORTFOYBUYUKLUK": 10147732.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -185,9 +325,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.994899,
-      "TEDPAYSAYISI": 10373434.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 10320517.54,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -195,9 +335,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.998191,
-      "TEDPAYSAYISI": 10272879.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 10254297.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -205,9 +345,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.996015,
-      "TEDPAYSAYISI": 10273082.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 10232141.01,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -215,9 +355,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.012124,
-      "TEDPAYSAYISI": 10273185.0,
-      "KISISAYISI": 40.0,
-      "PORTFOYBUYUKLUK": 10397734.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -225,9 +365,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.025285,
-      "TEDPAYSAYISI": 10275765.0,
-      "KISISAYISI": 43.0,
-      "PORTFOYBUYUKLUK": 10535583.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -235,9 +375,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070084,
-      "TEDPAYSAYISI": 10230327.0,
-      "KISISAYISI": 42.0,
-      "PORTFOYBUYUKLUK": 10947312.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -245,9 +385,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.070265,
-      "TEDPAYSAYISI": 10316900.0,
-      "KISISAYISI": 47.0,
-      "PORTFOYBUYUKLUK": 11041814.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -255,9 +395,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.073255,
-      "TEDPAYSAYISI": 11092055.0,
-      "KISISAYISI": 61.0,
-      "PORTFOYBUYUKLUK": 11904600.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -265,9 +405,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.057933,
-      "TEDPAYSAYISI": 11416386.0,
-      "KISISAYISI": 66.0,
-      "PORTFOYBUYUKLUK": 12077776.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -275,9 +415,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.074984,
-      "TEDPAYSAYISI": 11913989.0,
-      "KISISAYISI": 70.0,
-      "PORTFOYBUYUKLUK": 12807344.24,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -285,9 +425,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.06371,
-      "TEDPAYSAYISI": 11990414.0,
-      "KISISAYISI": 73.0,
-      "PORTFOYBUYUKLUK": 12754328.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -295,9 +435,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.048008,
-      "TEDPAYSAYISI": 13139041.0,
-      "KISISAYISI": 78.0,
-      "PORTFOYBUYUKLUK": 13769814.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -305,9 +445,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.055349,
-      "TEDPAYSAYISI": 13612622.0,
-      "KISISAYISI": 80.0,
-      "PORTFOYBUYUKLUK": 14366072.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -315,9 +455,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.037289,
-      "TEDPAYSAYISI": 16738814.0,
-      "KISISAYISI": 90.0,
-      "PORTFOYBUYUKLUK": 17362995.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -325,9 +465,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.040037,
-      "TEDPAYSAYISI": 17127114.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 17812832.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -335,9 +475,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.0272,
-      "TEDPAYSAYISI": 17185545.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 17652997.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -345,9 +485,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022525,
-      "TEDPAYSAYISI": 17188102.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 17575270.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -355,9 +495,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.022227,
-      "TEDPAYSAYISI": 17229229.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 17612183.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -365,9 +505,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.004963,
-      "TEDPAYSAYISI": 17205527.0,
-      "KISISAYISI": 92.0,
-      "PORTFOYBUYUKLUK": 17290916.27,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -375,9 +515,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.006114,
-      "TEDPAYSAYISI": 17215576.0,
-      "KISISAYISI": 93.0,
-      "PORTFOYBUYUKLUK": 17320837.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -385,9 +525,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.038663,
-      "TEDPAYSAYISI": 17215774.0,
-      "KISISAYISI": 94.0,
-      "PORTFOYBUYUKLUK": 17881384.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -395,9 +535,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053353,
-      "TEDPAYSAYISI": 17240035.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 18159835.23,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -405,9 +545,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.053192,
-      "TEDPAYSAYISI": 17239932.0,
-      "KISISAYISI": 95.0,
-      "PORTFOYBUYUKLUK": 18156950.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -415,9 +555,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.076077,
-      "TEDPAYSAYISI": 20106361.0,
-      "KISISAYISI": 96.0,
-      "PORTFOYBUYUKLUK": 21635990.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -425,9 +565,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.080452,
-      "TEDPAYSAYISI": 20874891.0,
-      "KISISAYISI": 101.0,
-      "PORTFOYBUYUKLUK": 22554323.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -435,9 +575,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.047094,
-      "TEDPAYSAYISI": 13733204.0,
-      "KISISAYISI": 106.0,
-      "PORTFOYBUYUKLUK": 14379959.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -445,9 +585,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026694,
-      "TEDPAYSAYISI": 28210879.0,
-      "KISISAYISI": 109.0,
-      "PORTFOYBUYUKLUK": 28963942.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -455,9 +595,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036608,
-      "TEDPAYSAYISI": 28951086.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 30010926.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -465,9 +605,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.026597,
-      "TEDPAYSAYISI": 31749456.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 32593885.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -475,9 +615,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.01166,
-      "TEDPAYSAYISI": 31528662.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 31896277.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -485,9 +625,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.999795,
-      "TEDPAYSAYISI": 31671146.0,
-      "KISISAYISI": 111.0,
-      "PORTFOYBUYUKLUK": 31664668.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -495,9 +635,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.008655,
-      "TEDPAYSAYISI": 31651666.0,
-      "KISISAYISI": 110.0,
-      "PORTFOYBUYUKLUK": 31925597.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -505,9 +645,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.99968,
-      "TEDPAYSAYISI": 31983730.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 31973489.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -515,9 +655,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.039218,
-      "TEDPAYSAYISI": 32006737.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 33261973.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -525,9 +665,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036114,
-      "TEDPAYSAYISI": 31764585.0,
-      "KISISAYISI": 113.0,
-      "PORTFOYBUYUKLUK": 32911723.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -535,9 +675,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.028431,
-      "TEDPAYSAYISI": 31855428.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 32761095.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -545,9 +685,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.036864,
-      "TEDPAYSAYISI": 32099960.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 33283282.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -555,9 +695,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.09898,
-      "TEDPAYSAYISI": 32100465.0,
-      "KISISAYISI": 112.0,
-      "PORTFOYBUYUKLUK": 35277765.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -565,9 +705,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.117105,
-      "TEDPAYSAYISI": 32100846.0,
-      "KISISAYISI": 115.0,
-      "PORTFOYBUYUKLUK": 35860015.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -575,9 +715,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.125948,
-      "TEDPAYSAYISI": 34505185.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 38851031.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -585,9 +725,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127182,
-      "TEDPAYSAYISI": 34363137.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 38733520.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -595,9 +735,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.130843,
-      "TEDPAYSAYISI": 34349468.0,
-      "KISISAYISI": 120.0,
-      "PORTFOYBUYUKLUK": 38843849.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -605,9 +745,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.113662,
-      "TEDPAYSAYISI": 34346220.0,
-      "KISISAYISI": 121.0,
-      "PORTFOYBUYUKLUK": 38250079.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -615,9 +755,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.107769,
-      "TEDPAYSAYISI": 30555872.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 33848850.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -625,9 +765,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127909,
-      "TEDPAYSAYISI": 30651338.0,
-      "KISISAYISI": 122.0,
-      "PORTFOYBUYUKLUK": 34571933.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -635,9 +775,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.144091,
-      "TEDPAYSAYISI": 30362493.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 34737448.82,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -645,9 +785,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.14101,
-      "TEDPAYSAYISI": 29568556.0,
-      "KISISAYISI": 123.0,
-      "PORTFOYBUYUKLUK": 33738013.73,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -655,9 +795,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.127443,
-      "TEDPAYSAYISI": 29602736.0,
-      "KISISAYISI": 124.0,
-      "PORTFOYBUYUKLUK": 33375407.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -665,9 +805,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.115535,
-      "TEDPAYSAYISI": 37094770.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 41380519.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -675,9 +815,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141157,
-      "TEDPAYSAYISI": 37130639.0,
-      "KISISAYISI": 128.0,
-      "PORTFOYBUYUKLUK": 42371871.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -685,9 +825,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140892,
-      "TEDPAYSAYISI": 37175679.0,
-      "KISISAYISI": 129.0,
-      "PORTFOYBUYUKLUK": 42413418.66,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -695,9 +835,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.160426,
-      "TEDPAYSAYISI": 37159641.0,
-      "KISISAYISI": 131.0,
-      "PORTFOYBUYUKLUK": 43121001.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -705,9 +845,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163942,
-      "TEDPAYSAYISI": 37377637.0,
-      "KISISAYISI": 134.0,
-      "PORTFOYBUYUKLUK": 43505415.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -715,9 +855,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157016,
-      "TEDPAYSAYISI": 37782963.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 43715485.28,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -725,9 +865,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169906,
-      "TEDPAYSAYISI": 38017859.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 44477326.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -735,9 +875,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.169089,
-      "TEDPAYSAYISI": 37819348.0,
-      "KISISAYISI": 138.0,
-      "PORTFOYBUYUKLUK": 44214182.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -745,9 +885,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161155,
-      "TEDPAYSAYISI": 41379379.0,
-      "KISISAYISI": 145.0,
-      "PORTFOYBUYUKLUK": 48047887.99,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -755,9 +895,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.156913,
-      "TEDPAYSAYISI": 42406692.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 49060868.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -765,9 +905,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173842,
-      "TEDPAYSAYISI": 42328920.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 49687464.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -775,9 +915,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185978,
-      "TEDPAYSAYISI": 42480557.0,
-      "KISISAYISI": 152.0,
-      "PORTFOYBUYUKLUK": 50381011.21,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -785,9 +925,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.188323,
-      "TEDPAYSAYISI": 42423086.0,
-      "KISISAYISI": 151.0,
-      "PORTFOYBUYUKLUK": 50412347.31,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -795,9 +935,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198681,
-      "TEDPAYSAYISI": 40498911.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 48545281.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -805,9 +945,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199411,
-      "TEDPAYSAYISI": 38631358.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 46334871.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -815,9 +955,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202624,
-      "TEDPAYSAYISI": 38244666.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 45993969.2,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -825,9 +965,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.211717,
-      "TEDPAYSAYISI": 38261067.0,
-      "KISISAYISI": 147.0,
-      "PORTFOYBUYUKLUK": 46361566.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -835,9 +975,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206421,
-      "TEDPAYSAYISI": 39036823.0,
-      "KISISAYISI": 150.0,
-      "PORTFOYBUYUKLUK": 47094851.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -845,9 +985,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214969,
-      "TEDPAYSAYISI": 35776277.0,
-      "KISISAYISI": 154.0,
-      "PORTFOYBUYUKLUK": 43467077.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -855,9 +995,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.212242,
-      "TEDPAYSAYISI": 35933138.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 43559645.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -865,9 +1005,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.202155,
-      "TEDPAYSAYISI": 33875223.0,
-      "KISISAYISI": 158.0,
-      "PORTFOYBUYUKLUK": 40723269.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -875,9 +1015,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191124,
-      "TEDPAYSAYISI": 38104279.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 45386921.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -885,9 +1025,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.195369,
-      "TEDPAYSAYISI": 37963649.0,
-      "KISISAYISI": 161.0,
-      "PORTFOYBUYUKLUK": 45380570.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -895,9 +1035,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206069,
-      "TEDPAYSAYISI": 35839763.0,
-      "KISISAYISI": 160.0,
-      "PORTFOYBUYUKLUK": 43225239.46,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -905,9 +1045,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.205157,
-      "TEDPAYSAYISI": 36322042.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 43773749.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -915,9 +1055,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.220785,
-      "TEDPAYSAYISI": 36492177.0,
-      "KISISAYISI": 166.0,
-      "PORTFOYBUYUKLUK": 44549113.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -925,9 +1065,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235538,
-      "TEDPAYSAYISI": 36260066.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 44800700.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -935,9 +1075,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.235441,
-      "TEDPAYSAYISI": 36277750.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 44819010.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -945,9 +1085,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.242094,
-      "TEDPAYSAYISI": 29350227.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 36455755.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -955,9 +1095,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243208,
-      "TEDPAYSAYISI": 29550116.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 36736941.62,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -965,9 +1105,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224758,
-      "TEDPAYSAYISI": 27904765.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 34176580.35,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -975,9 +1115,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.224723,
-      "TEDPAYSAYISI": 27837108.0,
-      "KISISAYISI": 173.0,
-      "PORTFOYBUYUKLUK": 34092734.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -985,9 +1125,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.215675,
-      "TEDPAYSAYISI": 28030831.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 34076390.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -995,9 +1135,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.213985,
-      "TEDPAYSAYISI": 26540580.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 32219869.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1005,9 +1145,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.163889,
-      "TEDPAYSAYISI": 26553536.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 30905374.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1015,9 +1155,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.150655,
-      "TEDPAYSAYISI": 26540099.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 30538487.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1025,9 +1165,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157724,
-      "TEDPAYSAYISI": 26388527.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 30550633.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1035,9 +1175,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152268,
-      "TEDPAYSAYISI": 27298347.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 31455017.53,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1045,9 +1185,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.124981,
-      "TEDPAYSAYISI": 26832238.0,
-      "KISISAYISI": 173.0,
-      "PORTFOYBUYUKLUK": 30185760.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1055,9 +1195,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.128089,
-      "TEDPAYSAYISI": 26817483.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 30252501.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1065,9 +1205,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.138496,
-      "TEDPAYSAYISI": 27047668.0,
-      "KISISAYISI": 165.0,
-      "PORTFOYBUYUKLUK": 30793651.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1075,9 +1215,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.122671,
-      "TEDPAYSAYISI": 27005313.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 30318069.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1085,9 +1225,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.12483,
-      "TEDPAYSAYISI": 26797863.0,
-      "KISISAYISI": 164.0,
-      "PORTFOYBUYUKLUK": 30143028.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1095,9 +1235,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.185176,
-      "TEDPAYSAYISI": 26797951.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 31760286.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1105,9 +1245,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.198915,
-      "TEDPAYSAYISI": 26795951.0,
-      "KISISAYISI": 163.0,
-      "PORTFOYBUYUKLUK": 32126067.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1115,9 +1255,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.192797,
-      "TEDPAYSAYISI": 27919547.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 33302349.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1125,9 +1265,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.179824,
-      "TEDPAYSAYISI": 26801739.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 31621343.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1135,9 +1275,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197467,
-      "TEDPAYSAYISI": 26858023.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 32161608.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1145,9 +1285,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214911,
-      "TEDPAYSAYISI": 26975145.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 32772393.04,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1155,9 +1295,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199695,
-      "TEDPAYSAYISI": 27001161.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 32393144.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1165,9 +1305,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.200042,
-      "TEDPAYSAYISI": 25973286.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 31169043.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1175,9 +1315,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.197519,
-      "TEDPAYSAYISI": 25973226.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 31103430.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1185,9 +1325,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.18579,
-      "TEDPAYSAYISI": 25971343.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 30796564.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1195,9 +1335,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172289,
-      "TEDPAYSAYISI": 25990083.0,
-      "KISISAYISI": 167.0,
-      "PORTFOYBUYUKLUK": 30467899.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1205,9 +1345,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.180267,
-      "TEDPAYSAYISI": 26060039.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 30757803.68,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1215,9 +1355,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.194683,
-      "TEDPAYSAYISI": 26001146.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 31063115.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1225,9 +1365,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.184826,
-      "TEDPAYSAYISI": 26039650.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 30852443.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1235,9 +1375,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.173808,
-      "TEDPAYSAYISI": 26039376.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 30565232.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1245,9 +1385,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.159136,
-      "TEDPAYSAYISI": 26040695.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 30184719.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1255,9 +1395,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178646,
-      "TEDPAYSAYISI": 26019396.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 30667652.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1265,9 +1405,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.17271,
-      "TEDPAYSAYISI": 26021398.0,
-      "KISISAYISI": 173.0,
-      "PORTFOYBUYUKLUK": 30515563.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1275,9 +1415,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.172497,
-      "TEDPAYSAYISI": 24943354.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 29246009.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1285,9 +1425,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.174019,
-      "TEDPAYSAYISI": 24943950.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 29284663.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1295,9 +1435,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.161545,
-      "TEDPAYSAYISI": 25050336.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 29097096.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1305,9 +1445,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.141677,
-      "TEDPAYSAYISI": 25057050.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 28607062.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1315,9 +1455,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.157848,
-      "TEDPAYSAYISI": 25141352.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 29109852.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1325,9 +1465,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.152689,
-      "TEDPAYSAYISI": 25148923.0,
-      "KISISAYISI": 168.0,
-      "PORTFOYBUYUKLUK": 28988881.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1335,9 +1475,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.140843,
-      "TEDPAYSAYISI": 26254735.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 29952534.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1345,9 +1485,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.171217,
-      "TEDPAYSAYISI": 26219706.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 30708962.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1355,9 +1495,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.16808,
-      "TEDPAYSAYISI": 26220507.0,
-      "KISISAYISI": 169.0,
-      "PORTFOYBUYUKLUK": 30627657.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1365,9 +1505,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.178835,
-      "TEDPAYSAYISI": 26423135.0,
-      "KISISAYISI": 170.0,
-      "PORTFOYBUYUKLUK": 31148507.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1375,9 +1515,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.191451,
-      "TEDPAYSAYISI": 26722536.0,
-      "KISISAYISI": 171.0,
-      "PORTFOYBUYUKLUK": 31838592.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1385,9 +1525,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.22148,
-      "TEDPAYSAYISI": 26791773.0,
-      "KISISAYISI": 173.0,
-      "PORTFOYBUYUKLUK": 32725610.17,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1395,9 +1535,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210378,
-      "TEDPAYSAYISI": 26746603.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 32373497.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1405,9 +1545,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.204894,
-      "TEDPAYSAYISI": 26524603.0,
-      "KISISAYISI": 172.0,
-      "PORTFOYBUYUKLUK": 31959322.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1415,9 +1555,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.206406,
-      "TEDPAYSAYISI": 26604292.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 32095566.36,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1425,9 +1565,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.223831,
-      "TEDPAYSAYISI": 26604604.0,
-      "KISISAYISI": 176.0,
-      "PORTFOYBUYUKLUK": 32559543.96,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1435,9 +1575,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.229636,
-      "TEDPAYSAYISI": 26493391.0,
-      "KISISAYISI": 176.0,
-      "PORTFOYBUYUKLUK": 32577228.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1445,9 +1585,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.217576,
-      "TEDPAYSAYISI": 26732301.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 32548606.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1455,9 +1595,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.225966,
-      "TEDPAYSAYISI": 26816194.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 32875746.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1465,9 +1605,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239868,
-      "TEDPAYSAYISI": 26937638.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 33399108.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1475,9 +1615,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.233667,
-      "TEDPAYSAYISI": 26983772.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 33288985.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1485,9 +1625,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.221062,
-      "TEDPAYSAYISI": 27066857.0,
-      "KISISAYISI": 179.0,
-      "PORTFOYBUYUKLUK": 33050310.71,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1495,9 +1635,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.199249,
-      "TEDPAYSAYISI": 27066972.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 32460026.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1505,9 +1645,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.214588,
-      "TEDPAYSAYISI": 27367370.0,
-      "KISISAYISI": 182.0,
-      "PORTFOYBUYUKLUK": 33240067.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1515,9 +1655,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.216394,
-      "TEDPAYSAYISI": 27192416.0,
-      "KISISAYISI": 181.0,
-      "PORTFOYBUYUKLUK": 33076701.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1525,9 +1665,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.210835,
-      "TEDPAYSAYISI": 27192539.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 32925687.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1535,9 +1675,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.218145,
-      "TEDPAYSAYISI": 26081454.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 31770999.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1545,9 +1685,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.219112,
-      "TEDPAYSAYISI": 26075146.0,
-      "KISISAYISI": 178.0,
-      "PORTFOYBUYUKLUK": 31788530.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1555,9 +1695,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.240143,
-      "TEDPAYSAYISI": 26072265.0,
-      "KISISAYISI": 177.0,
-      "PORTFOYBUYUKLUK": 32333334.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1565,9 +1705,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.246141,
-      "TEDPAYSAYISI": 25954038.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32342381.85,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1575,9 +1715,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.241624,
-      "TEDPAYSAYISI": 25974943.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32251101.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1585,9 +1725,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.239387,
-      "TEDPAYSAYISI": 25985204.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32205731.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1595,9 +1735,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.237205,
-      "TEDPAYSAYISI": 25984478.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32148120.75,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1605,9 +1745,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.24673,
-      "TEDPAYSAYISI": 26016607.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32435692.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1615,9 +1755,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.253118,
-      "TEDPAYSAYISI": 26015673.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32600696.47,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1625,9 +1765,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.245188,
-      "TEDPAYSAYISI": 26493266.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32989095.58,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1635,9 +1775,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264707,
-      "TEDPAYSAYISI": 26630678.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 33680010.11,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1645,9 +1785,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.264624,
-      "TEDPAYSAYISI": 25879174.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32727424.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1655,9 +1795,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.254905,
-      "TEDPAYSAYISI": 25999603.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32627026.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1665,9 +1805,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.243988,
-      "TEDPAYSAYISI": 26043330.0,
-      "KISISAYISI": 174.0,
-      "PORTFOYBUYUKLUK": 32397601.74,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1675,9 +1815,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.250526,
-      "TEDPAYSAYISI": 26125482.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 32670587.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1685,9 +1825,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.271569,
-      "TEDPAYSAYISI": 26241833.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 33368303.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1695,9 +1835,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.278444,
-      "TEDPAYSAYISI": 25888154.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 33096560.72,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1705,9 +1845,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.276496,
-      "TEDPAYSAYISI": 25892766.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 33052006.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1715,9 +1855,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.287781,
-      "TEDPAYSAYISI": 26308361.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 33879397.86,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1725,9 +1865,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.301844,
-      "TEDPAYSAYISI": 27933039.0,
-      "KISISAYISI": 175.0,
-      "PORTFOYBUYUKLUK": 36364461.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1735,9 +1875,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.31972,
-      "TEDPAYSAYISI": 37315361.0,
-      "KISISAYISI": 180.0,
-      "PORTFOYBUYUKLUK": 49245843.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1745,9 +1885,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.312451,
-      "TEDPAYSAYISI": 42685830.0,
-      "KISISAYISI": 185.0,
-      "PORTFOYBUYUKLUK": 56023041.05,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1755,9 +1895,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.308912,
-      "TEDPAYSAYISI": 43969698.0,
-      "KISISAYISI": 196.0,
-      "PORTFOYBUYUKLUK": 57552476.34,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1765,9 +1905,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.312051,
-      "TEDPAYSAYISI": 44336050.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 58171144.18,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1775,9 +1915,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.311724,
-      "TEDPAYSAYISI": 44335390.0,
-      "KISISAYISI": 198.0,
-      "PORTFOYBUYUKLUK": 58155790.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1785,9 +1925,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.304204,
-      "TEDPAYSAYISI": 44573668.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 58133150.64,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1795,9 +1935,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.298921,
-      "TEDPAYSAYISI": 43562273.0,
-      "KISISAYISI": 200.0,
-      "PORTFOYBUYUKLUK": 56583962.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1805,9 +1945,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.304222,
-      "TEDPAYSAYISI": 43635108.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 56909866.16,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1815,9 +1955,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.303231,
-      "TEDPAYSAYISI": 43657286.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 56895512.13,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1825,9 +1965,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.297295,
-      "TEDPAYSAYISI": 43803116.0,
-      "KISISAYISI": 195.0,
-      "PORTFOYBUYUKLUK": 56825559.44,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1835,9 +1975,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.284869,
-      "TEDPAYSAYISI": 43804720.0,
-      "KISISAYISI": 195.0,
-      "PORTFOYBUYUKLUK": 56283332.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1845,9 +1985,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.290948,
-      "TEDPAYSAYISI": 43731274.0,
-      "KISISAYISI": 192.0,
-      "PORTFOYBUYUKLUK": 56454780.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1855,9 +1995,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.29782,
-      "TEDPAYSAYISI": 43782203.0,
-      "KISISAYISI": 190.0,
-      "PORTFOYBUYUKLUK": 56821401.22,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1865,9 +2005,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.316975,
-      "TEDPAYSAYISI": 43846515.0,
-      "KISISAYISI": 187.0,
-      "PORTFOYBUYUKLUK": 57744783.25,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1875,9 +2015,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.332172,
-      "TEDPAYSAYISI": 45899521.0,
-      "KISISAYISI": 188.0,
-      "PORTFOYBUYUKLUK": 61146046.42,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1885,9 +2025,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.362498,
-      "TEDPAYSAYISI": 49670545.0,
-      "KISISAYISI": 193.0,
-      "PORTFOYBUYUKLUK": 67676020.56,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1895,9 +2035,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.35641,
-      "TEDPAYSAYISI": 60341712.0,
-      "KISISAYISI": 197.0,
-      "PORTFOYBUYUKLUK": 81848071.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1905,9 +2045,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.365892,
-      "TEDPAYSAYISI": 69470877.0,
-      "KISISAYISI": 204.0,
-      "PORTFOYBUYUKLUK": 94889712.33,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1915,9 +2055,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.370061,
-      "TEDPAYSAYISI": 78032979.0,
-      "KISISAYISI": 205.0,
-      "PORTFOYBUYUKLUK": 106909966.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1925,9 +2065,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.375765,
-      "TEDPAYSAYISI": 82416523.0,
-      "KISISAYISI": 208.0,
-      "PORTFOYBUYUKLUK": 113385749.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1935,9 +2075,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.390796,
-      "TEDPAYSAYISI": 108539853.0,
-      "KISISAYISI": 233.0,
-      "PORTFOYBUYUKLUK": 150956768.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1945,9 +2085,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.392681,
-      "TEDPAYSAYISI": 110313692.0,
-      "KISISAYISI": 235.0,
-      "PORTFOYBUYUKLUK": 153631821.32,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1955,9 +2095,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.402496,
-      "TEDPAYSAYISI": 109817878.0,
-      "KISISAYISI": 240.0,
-      "PORTFOYBUYUKLUK": 154019169.78,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1965,9 +2105,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.438057,
-      "TEDPAYSAYISI": 113218890.0,
-      "KISISAYISI": 245.0,
-      "PORTFOYBUYUKLUK": 162815236.83,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1975,9 +2115,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.435993,
-      "TEDPAYSAYISI": 114064751.0,
-      "KISISAYISI": 248.0,
-      "PORTFOYBUYUKLUK": 163796217.7,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1985,9 +2125,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.428464,
-      "TEDPAYSAYISI": 114558128.0,
-      "KISISAYISI": 258.0,
-      "PORTFOYBUYUKLUK": 163642204.43,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -1995,9 +2135,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.432858,
-      "TEDPAYSAYISI": 115217457.0,
-      "KISISAYISI": 256.0,
-      "PORTFOYBUYUKLUK": 165090204.63,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2005,9 +2145,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.44616,
-      "TEDPAYSAYISI": 115239859.0,
-      "KISISAYISI": 257.0,
-      "PORTFOYBUYUKLUK": 166655288.79,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2015,9 +2155,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.461684,
-      "TEDPAYSAYISI": 118851414.0,
-      "KISISAYISI": 260.0,
-      "PORTFOYBUYUKLUK": 173723215.15,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2025,9 +2165,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.475102,
-      "TEDPAYSAYISI": 120262788.0,
-      "KISISAYISI": 268.0,
-      "PORTFOYBUYUKLUK": 177399823.55,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2035,9 +2175,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.476127,
-      "TEDPAYSAYISI": 117916762.0,
-      "KISISAYISI": 271.0,
-      "PORTFOYBUYUKLUK": 174060174.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2045,9 +2185,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.506013,
-      "TEDPAYSAYISI": 118006412.0,
-      "KISISAYISI": 278.0,
-      "PORTFOYBUYUKLUK": 177719164.69,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2055,9 +2195,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.524718,
-      "TEDPAYSAYISI": 128909276.0,
-      "KISISAYISI": 284.0,
-      "PORTFOYBUYUKLUK": 196550346.67,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2065,9 +2205,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.532448,
-      "TEDPAYSAYISI": 133537841.0,
-      "KISISAYISI": 289.0,
-      "PORTFOYBUYUKLUK": 204639845.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2075,9 +2215,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.519309,
-      "TEDPAYSAYISI": 133781356.0,
-      "KISISAYISI": 291.0,
-      "PORTFOYBUYUKLUK": 203255231.37,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2085,9 +2225,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.541116,
-      "TEDPAYSAYISI": 130199307.0,
-      "KISISAYISI": 298.0,
-      "PORTFOYBUYUKLUK": 200652298.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2095,9 +2235,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.535145,
-      "TEDPAYSAYISI": 136241427.0,
-      "KISISAYISI": 294.0,
-      "PORTFOYBUYUKLUK": 209150369.38,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2105,9 +2245,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.516305,
-      "TEDPAYSAYISI": 138948063.0,
-      "KISISAYISI": 298.0,
-      "PORTFOYBUYUKLUK": 210687594.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2115,9 +2255,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.511435,
-      "TEDPAYSAYISI": 139309106.0,
-      "KISISAYISI": 296.0,
-      "PORTFOYBUYUKLUK": 210556655.1,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2125,9 +2265,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.544909,
-      "TEDPAYSAYISI": 139540604.0,
-      "KISISAYISI": 297.0,
-      "PORTFOYBUYUKLUK": 215577519.92,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2135,9 +2275,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.540993,
-      "TEDPAYSAYISI": 141719449.0,
-      "KISISAYISI": 305.0,
-      "PORTFOYBUYUKLUK": 218388639.88,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2145,9 +2285,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.55058,
-      "TEDPAYSAYISI": 141730571.0,
-      "KISISAYISI": 305.0,
-      "PORTFOYBUYUKLUK": 219764638.6,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2155,9 +2295,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.592019,
-      "TEDPAYSAYISI": 141468036.0,
-      "KISISAYISI": 307.0,
-      "PORTFOYBUYUKLUK": 225219744.77,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2165,9 +2305,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.606657,
-      "TEDPAYSAYISI": 141638185.0,
-      "KISISAYISI": 307.0,
-      "PORTFOYBUYUKLUK": 227563934.39,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2175,9 +2315,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.626273,
-      "TEDPAYSAYISI": 168286124.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 273679127.59,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2185,9 +2325,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.606519,
-      "TEDPAYSAYISI": 175030600.0,
-      "KISISAYISI": 324.0,
-      "PORTFOYBUYUKLUK": 281190031.81,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2195,9 +2335,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.59196,
-      "TEDPAYSAYISI": 175784626.0,
-      "KISISAYISI": 330.0,
-      "PORTFOYBUYUKLUK": 279842094.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2205,9 +2345,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.551895,
-      "TEDPAYSAYISI": 174827959.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 271314566.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2215,9 +2355,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.563954,
-      "TEDPAYSAYISI": 176588979.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 276177089.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2225,9 +2365,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.574088,
-      "TEDPAYSAYISI": 176662409.0,
-      "KISISAYISI": 335.0,
-      "PORTFOYBUYUKLUK": 278082107.61,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2235,9 +2375,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.566063,
-      "TEDPAYSAYISI": 177190472.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 277491400.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2245,9 +2385,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.547965,
-      "TEDPAYSAYISI": 177024644.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 274027910.12,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2255,9 +2395,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.547647,
-      "TEDPAYSAYISI": 175046657.0,
-      "KISISAYISI": 338.0,
-      "PORTFOYBUYUKLUK": 270910424.48,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2265,9 +2405,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.522194,
-      "TEDPAYSAYISI": 174633058.0,
-      "KISISAYISI": 336.0,
-      "PORTFOYBUYUKLUK": 265825385.5,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2275,9 +2415,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.495537,
-      "TEDPAYSAYISI": 174746869.0,
-      "KISISAYISI": 337.0,
-      "PORTFOYBUYUKLUK": 261340325.02,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2285,9 +2425,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.459599,
-      "TEDPAYSAYISI": 173302556.0,
-      "KISISAYISI": 334.0,
-      "PORTFOYBUYUKLUK": 252952238.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2295,9 +2435,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.453547,
-      "TEDPAYSAYISI": 170832382.0,
-      "KISISAYISI": 332.0,
-      "PORTFOYBUYUKLUK": 248312817.07,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2305,9 +2445,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.465291,
-      "TEDPAYSAYISI": 166179921.0,
-      "KISISAYISI": 322.0,
-      "PORTFOYBUYUKLUK": 243501926.9,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2315,9 +2455,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.434627,
-      "TEDPAYSAYISI": 166148333.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 238360912.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2325,9 +2465,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.429509,
-      "TEDPAYSAYISI": 166031725.0,
-      "KISISAYISI": 311.0,
-      "PORTFOYBUYUKLUK": 237343920.91,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2335,9 +2475,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.468838,
-      "TEDPAYSAYISI": 165982305.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 243801127.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2345,9 +2485,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.477241,
-      "TEDPAYSAYISI": 165983904.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 245198307.09,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2355,9 +2495,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.493542,
-      "TEDPAYSAYISI": 166643203.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 248888632.76,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2365,9 +2505,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.489395,
-      "TEDPAYSAYISI": 167546811.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 249543362.14,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2375,9 +2515,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.478253,
-      "TEDPAYSAYISI": 167527996.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 247648736.89,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2385,9 +2525,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.498317,
-      "TEDPAYSAYISI": 167546778.0,
-      "KISISAYISI": 315.0,
-      "PORTFOYBUYUKLUK": 251038141.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2395,9 +2535,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.479453,
-      "TEDPAYSAYISI": 166499153.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 246327749.57,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2405,9 +2545,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.480773,
-      "TEDPAYSAYISI": 149499153.0,
-      "KISISAYISI": 314.0,
-      "PORTFOYBUYUKLUK": 221374295.49,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2415,9 +2555,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.492042,
-      "TEDPAYSAYISI": 149505578.0,
-      "KISISAYISI": 312.0,
-      "PORTFOYBUYUKLUK": 223068641.8,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2425,9 +2565,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.466119,
-      "TEDPAYSAYISI": 149294393.0,
-      "KISISAYISI": 313.0,
-      "PORTFOYBUYUKLUK": 218883386.06,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2435,9 +2575,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.47188,
-      "TEDPAYSAYISI": 148971117.0,
-      "KISISAYISI": 310.0,
-      "PORTFOYBUYUKLUK": 219267537.19,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2445,9 +2585,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.457546,
-      "TEDPAYSAYISI": 148875872.0,
-      "KISISAYISI": 307.0,
-      "PORTFOYBUYUKLUK": 216993479.52,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2455,9 +2595,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.461175,
-      "TEDPAYSAYISI": 148875666.0,
-      "KISISAYISI": 301.0,
-      "PORTFOYBUYUKLUK": 217533332.45,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2465,9 +2605,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.456689,
-      "TEDPAYSAYISI": 148746641.0,
-      "KISISAYISI": 302.0,
-      "PORTFOYBUYUKLUK": 216677639.3,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2475,9 +2615,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.473811,
-      "TEDPAYSAYISI": 148367228.0,
-      "KISISAYISI": 301.0,
-      "PORTFOYBUYUKLUK": 218665296.4,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2485,9 +2625,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.486279,
-      "TEDPAYSAYISI": 143178504.0,
-      "KISISAYISI": 301.0,
-      "PORTFOYBUYUKLUK": 212803148.41,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2495,9 +2635,9 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.495484,
-      "TEDPAYSAYISI": 142690605.0,
-      "KISISAYISI": 294.0,
-      "PORTFOYBUYUKLUK": 213391517.08,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     },
     {
@@ -2505,9 +2645,139 @@
       "FONKODU": "YPR",
       "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.48421,
-      "TEDPAYSAYISI": 129025897.0,
-      "KISISAYISI": 293.0,
-      "PORTFOYBUYUKLUK": 191501513.98,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775520000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.497607,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775606400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.478032,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775692800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.536779,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1775779200000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.563348,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776038400000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.597,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776124800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.599846,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776211200000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.621539,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776297600000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.63236,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776384000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.614878,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776643200000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.658428,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776729600000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.641536,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776816000000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.629895,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1776988800000",
+      "FONKODU": "YPR",
+      "FONUNVAN": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.622919,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
       "BilFiyat": "-"
     }
   ]
