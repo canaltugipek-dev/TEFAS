@@ -203,7 +203,7 @@
     if (!block) {
       if (bars) {
         bars.innerHTML =
-          '<div class="fhd-empty">Bu fon için kayıt yok. <code>fon_hisse_portfoy.json</code> veya <code>py fon_hisse_scraper.py ' +
+          '<div class="fhd-empty">Bu fon için kayıt yok. <code>fon_hisse_portfoy.json</code> veya <code>.venv/Scripts/python fon_hisse_scraper.py ' +
           escapeHtml(kod) +
           "</code> ile ekleyin.</div>";
       }
@@ -256,7 +256,7 @@
       const bars = document.getElementById("fhdBars");
       if (bars) {
         bars.innerHTML =
-          '<div class="fhd-empty">Henüz veri yok. Örnek: <code>py fon_hisse_scraper.py IDH AAV</code></div>';
+          '<div class="fhd-empty">Henüz veri yok. Örnek: <code>.venv/Scripts/python fon_hisse_scraper.py IDH AAV</code></div>';
       }
       return;
     }

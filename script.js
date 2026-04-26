@@ -441,7 +441,7 @@ async function selectFund(fundMeta) {
     }
     setChartArea(false);
     document.getElementById("chartPlaceholder").textContent =
-      "JSON yüklenemedi. Yerel sunucu kullanın (py -m http.server 8080).";
+      "JSON yüklenemedi. Yerel sunucu kullanın (.venv/Scripts/python -m http.server 8080).";
     document.getElementById("chartPlaceholder").classList.remove("hidden");
     setSummaryValue("summaryFundReturn", null);
     setSummaryValue("summaryUsdReturn", null);
@@ -792,8 +792,8 @@ function showManifestError() {
   if (list)
     list.innerHTML = `<li class="fund-list__error">
     <strong>manifest bulunamadı.</strong><br />
-    <code>py tefas_scraper.py</code> veya <code>py tefas_scraper.py --manifest-yenile</code><br />
-    Sunucu: <code>py -m http.server 8080</code>
+    <code>.venv/Scripts/python tefas_scraper.py</code> veya <code>.venv/Scripts/python tefas_scraper.py --manifest-yenile</code><br />
+    Sunucu: <code>.venv/Scripts/python -m http.server 8080</code>
   </li>`;
 }
 
