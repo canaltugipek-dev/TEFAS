@@ -12,6 +12,8 @@ Akış:
 
 Uydurma veri üretilmez; tablo okunamazsa hisse_mesaj = "Veri okunamadı".
 İstekler arası bekleme: --delay (varsayılan 2.0 sn, KAP yükünü azaltmak için).
+
+Kurulum: py -m venv .venv  →  .venv/Scripts/python -m pip install -r requirements.txt
 """
 
 from __future__ import annotations

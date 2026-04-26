@@ -9,12 +9,13 @@ TEFAS / FundTurkey — Hisse Senedi Yogun Fon (HSYF) kesfi ve tarihsel veri.
 - Cikti: data/<KOD>_tefas.json ve data/manifest.json
 
 Kullanim:
-  pip install requests yfinance pandas numpy
-  py tefas_scraper.py                  # tum HSYF, 5 yil, data/ + manifest(stats)
-  py tefas_scraper.py --liste          # sadece kod listesi
-  py tefas_scraper.py --manifest-yenile
-  py tefas_scraper.py MAC --gun 365    # tek fon
-  py tefas_scraper.py --istatistik-atlama   # benchmark yuklemeden
+  py -m venv .venv
+  .venv/Scripts/python -m pip install -r requirements.txt
+  .venv/Scripts/python tefas_scraper.py                  # tum HSYF, 5 yil, data/ + manifest(stats)
+  .venv/Scripts/python tefas_scraper.py --liste          # sadece kod listesi
+  .venv/Scripts/python tefas_scraper.py --manifest-yenile
+  .venv/Scripts/python tefas_scraper.py MAC --gun 365    # tek fon
+  .venv/Scripts/python tefas_scraper.py --istatistik-atlama   # benchmark yuklemeden
 """
 
 from __future__ import annotations
