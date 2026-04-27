@@ -31,6 +31,7 @@
         <button type="button" class="terminal-nav__link" data-route="karsilastirma">Fon Rasyoları</button>
         <button type="button" class="terminal-nav__link" data-route="fon-karsilastirma">Fon Karşılaştırma</button>
         <button type="button" class="terminal-nav__link" data-route="fon-hisse-detay">Fon Hisse Detay</button>
+        <button type="button" class="terminal-nav__link" data-route="yildiz-fonlar">Yıldız Fonlar</button>
       </div>
     </div>
   </nav>
@@ -63,6 +64,13 @@
           <span class="dash-card__icon" aria-hidden="true">◔</span>
           <span class="dash-card__label">Fon Hisse Detay</span>
           <span class="dash-card__desc">Portföy dağılımı: halka grafik ve hisse ağırlıkları (TEFAS + manuel veri).</span>
+          <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
+        </button>
+        <button type="button" class="dash-card dash-card--secondary dash-card--beta" data-route="yildiz-fonlar">
+          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
+          <span class="dash-card__icon" aria-hidden="true">★</span>
+          <span class="dash-card__label">Yıldız Fonlar</span>
+          <span class="dash-card__desc">3 ve 5 yıllık istikrar, alpha ve risk metriklerine göre seçilmiş fonlar.</span>
           <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
         </button>
       </div>
@@ -297,10 +305,36 @@
         </p>
       </div>
     </section>
+
+    <section id="view-yildiz-fonlar" class="view-section hidden">
+      <div class="table-panel yildiz-panel">
+        <div class="table-panel__head">
+          <h2 class="table-panel__title">Yıldız Fonlar</h2>
+          <p class="table-panel__meta">Uzun dönem istikrar ve BIST100 karşısında sürdürülebilir üstünlük odaklı seçim.</p>
+        </div>
+        <div class="yildiz-badges">
+          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
+          <span class="yildiz-warning">⚠️ Henüz geliştirme aşamasındadır.</span>
+        </div>
+        <div class="yildiz-kriter">
+          <strong>Temel kriterler:</strong> En az 3 yıl geçmiş, Türkiye’de bankaların yönettiği portföy şirketi fonlarını eleme (Ak/İş/Garanti/Yapı Kredi/Ziraat/Halk/Vakıf/QNB/Deniz/TEB vb.), alpha (BIST100 üstü), Sharpe/Sortino, max drawdown ve dönemler arası tutarlılık.
+        </div>
+        <div class="yildiz-columns">
+          <div class="yildiz-col">
+            <h3>Son 3 Yıl — Top 3</h3>
+            <div id="yildiz3yList" class="yildiz-list"></div>
+          </div>
+          <div class="yildiz-col">
+            <h3>Son 5 Yıl — Top 3</h3>
+            <div id="yildiz5yList" class="yildiz-list"></div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="script.js?v=20260426"></script>
+  <script src="script.js?v=20260427"></script>
   <script src="fon_hisse_detay.js?v=20260427"></script>
 </body>
 </html>

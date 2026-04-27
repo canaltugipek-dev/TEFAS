@@ -893,6 +893,105 @@ body {
   color: var(--text-muted);
 }
 
+.yildiz-panel .table-panel__head {
+  margin-bottom: 0.65rem;
+}
+
+.yildiz-badges {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-bottom: 0.7rem;
+}
+
+.yildiz-warning {
+  font-size: 0.75rem;
+  color: #a8b8c8;
+}
+
+.yildiz-kriter {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin-bottom: 1rem;
+}
+
+.yildiz-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+.yildiz-col h3 {
+  margin: 0 0 0.55rem;
+  font-size: 0.9rem;
+}
+
+.yildiz-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.yildiz-item {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.65rem 0.75rem;
+}
+
+.yildiz-item__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.yildiz-item__kod {
+  font-family: var(--mono);
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.yildiz-item__score {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.yildiz-item__ad {
+  font-size: 0.74rem;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+  line-height: 1.35;
+}
+
+.yildiz-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.yildiz-tag {
+  font-size: 0.64rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 0.12rem 0.34rem;
+  border-radius: 999px;
+  border: 1px solid rgba(62, 207, 142, 0.3);
+  background: rgba(62, 207, 142, 0.1);
+  color: #9de7bf;
+}
+
+.yildiz-empty {
+  padding: 0.7rem;
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  color: var(--text-muted);
+  font-size: 0.76rem;
+}
+
 /* ========== Terminal grid: Fon rasyoları + Fon karşılaştırma (div + CSS Grid) ========== */
 .terminal-grid {
   width: 100%;
@@ -1466,6 +1565,10 @@ body {
 
   .table-panel__foot {
     font-size: 0.68rem;
+  }
+
+  .yildiz-columns {
+    grid-template-columns: 1fr;
   }
 
   .table-scroll {

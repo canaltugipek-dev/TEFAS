@@ -17,6 +17,57 @@ const NEDEN_TR = {
   bes_yildan_kisa: "5 yıldan kısa geçmiş",
   cekim_basarisiz: "veri çekilemedi",
 };
+const BANK_MANAGER_PATTERNS = [
+  "AK PORTFOY",
+  "IS PORTFOY",
+  "TEB PORTFOY",
+  "QNB PORTFOY",
+  "DENIZ PORTFOY",
+  "GARANTI PORTFOY",
+  "YAPI KREDI PORTFOY",
+  "ZIRAAT PORTFOY",
+  "HALK PORTFOY",
+  "VAKIF PORTFOY",
+  "KUVEYT TURK PORTFOY",
+  "ALBARAKA PORTFOY",
+  "TURKIYE FINANS PORTFOY",
+  "ING PORTFOY",
+  "SEKER PORTFOY",
+  "FIBA PORTFOY",
+  "ODEA PORTFOY",
+  "HSBC PORTFOY",
+  "BURGAN PORTFOY",
+  "EMLAK PORTFOY",
+  "BANKA",
+  "BANK ",
+  "KATILIM",
+];
+
+function normalizeManagerText(s) {
+  const trMap = {
+    İ: "I",
+    I: "I",
+    ı: "I",
+    Ş: "S",
+    ş: "S",
+    Ğ: "G",
+    ğ: "G",
+    Ü: "U",
+    ü: "U",
+    Ö: "O",
+    ö: "O",
+    Ç: "C",
+    ç: "C",
+  };
+  return String(s || "")
+    .replace(/[İIışŞğĞüÜöÖçÇ]/g, (ch) => trMap[ch] || ch)
+    .toUpperCase();
+}
+
+function isBankManagedFund(name) {
+  const n = normalizeManagerText(name);
+  return BANK_MANAGER_PATTERNS.some((token) => n.includes(token));
+}
 
 let manifest = null;
 let selectedPeriod = "5Y";
@@ -845,6 +896,8 @@ function showView(route) {
   document.getElementById("view-fon-karsilastirma").classList.toggle("hidden", route !== "fon-karsilastirma");
   const vHisse = document.getElementById("view-fon-hisse-detay");
   if (vHisse) vHisse.classList.toggle("hidden", route !== "fon-hisse-detay");
+  const vYildiz = document.getElementById("view-yildiz-fonlar");
+  if (vYildiz) vYildiz.classList.toggle("hidden", route !== "yildiz-fonlar");
   if (route === "karsilastirma") {
     renderStatsTable();
   }
@@ -853,6 +906,9 @@ function showView(route) {
   }
   if (route === "fon-hisse-detay" && typeof window.FonHisseDetay !== "undefined" && window.FonHisseDetay.onRouteEnter) {
     window.FonHisseDetay.onRouteEnter();
+  }
+  if (route === "yildiz-fonlar") {
+    renderYildizFonlar();
   }
   if (route === "analiz" && activeFundMeta && fullSeriesCache) applyPeriodToChart();
 }
@@ -898,6 +954,105 @@ function formatMaxDdCell(v) {
   if (v == null || !Number.isFinite(v)) return { html: '<span class="cell-missing">—</span>', sort: null };
   const pct = (v * 100).toFixed(2);
   return { html: `<span class="alpha-neg">${pct}%</span>`, sort: v };
+}
+
+function pickStarTags(meta, period) {
+  const st = (meta.stats && meta.stats[period]) || {};
+  const tags = [];
+  const alpha = numOrNull(st.alpha);
+  const sharpe = numOrNull(st.sharpe);
+  const sortino = numOrNull(st.sortino);
+  const maxDd = numOrNull(st.max_drawdown);
+  if (alpha != null && alpha >= 0.2) tags.push("BIST100'e güçlü alpha");
+  else if (alpha != null && alpha > 0) tags.push("BIST100 üstü getiri");
+  if (sharpe != null && sharpe >= 0.9) tags.push("Yüksek Sharpe");
+  if (sortino != null && sortino >= 1.2) tags.push("Güçlü Sortino");
+  if (maxDd != null && maxDd >= -0.2) tags.push("Kontrollü max düşüş");
+  if (numOrNull(meta.gun_kapsami) != null && numOrNull(meta.gun_kapsami) >= 1760) tags.push("Uzun track record");
+  return tags.slice(0, 3);
+}
+
+function scoreStarFund(meta, period) {
+  const st = (meta.stats && meta.stats[period]) || {};
+  const alpha = numOrNull(st.alpha);
+  const sharpe = numOrNull(st.sharpe);
+  const sortino = numOrNull(st.sortino);
+  const maxDd = numOrNull(st.max_drawdown);
+  if (alpha == null || sharpe == null || sortino == null || maxDd == null) return null;
+  if (alpha <= 0 || sharpe <= 0) return null;
+
+  const consistencyPeriods = period === "5Y" ? ["1Y", "3Y", "5Y"] : ["1Y", "3Y"];
+  let consistency = 0;
+  let penalties = 0;
+  consistencyPeriods.forEach((p) => {
+    const s = (meta.stats && meta.stats[p]) || {};
+    const a = numOrNull(s.alpha);
+    const sh = numOrNull(s.sharpe);
+    if (a != null && a > 0) consistency += 1;
+    else penalties += 1;
+    if (sh != null && sh > 0) consistency += 0.6;
+    else penalties += 0.6;
+  });
+
+  const ddPenalty = Math.max(0, Math.abs(maxDd) - 0.2) * 120;
+  const score =
+    alpha * 230 +
+    sharpe * 38 +
+    sortino * 22 +
+    consistency * 18 -
+    penalties * 16 -
+    ddPenalty;
+  return Number(score.toFixed(2));
+}
+
+function buildStarTop(period, topN = 3) {
+  if (!manifest || !Array.isArray(manifest.fonlar)) return [];
+  const minDays = period === "5Y" ? 1760 : 1095;
+  const items = manifest.fonlar
+    .filter((f) => {
+      const days = numOrNull(f.gun_kapsami);
+      const hasStats = Boolean(f.stats && f.stats[period]);
+      const isBank = isBankManagedFund(f.ad || "");
+      return hasStats && !isBank && days != null && days >= minDays;
+    })
+    .map((f) => {
+      const score = scoreStarFund(f, period);
+      if (score == null) return null;
+      return { meta: f, score, tags: pickStarTags(f, period) };
+    })
+    .filter(Boolean)
+    .sort((a, b) => b.score - a.score);
+  return items.slice(0, topN);
+}
+
+function renderStarList(elId, period) {
+  const el = document.getElementById(elId);
+  if (!el) return;
+  const top = buildStarTop(period, 3);
+  if (!top.length) {
+    el.innerHTML = '<div class="yildiz-empty">Kriterleri geçen fon bulunamadı. Veri kapsamını kontrol edin.</div>';
+    return;
+  }
+  el.innerHTML = top
+    .map((row, idx) => {
+      const f = row.meta;
+      const title = String(f.ad || f.kod || "");
+      const tags = row.tags.length ? row.tags : ["Dönemsel istikrar", "Pozitif alpha"];
+      return `<article class="yildiz-item">
+        <div class="yildiz-item__head">
+          <span class="yildiz-item__kod">#${idx + 1} ${escapeHtml(f.kod)}</span>
+          <span class="yildiz-item__score">Skor: ${row.score.toFixed(1)}</span>
+        </div>
+        <div class="yildiz-item__ad">${escapeHtml(title)}</div>
+        <div class="yildiz-tags">${tags.map((t) => `<span class="yildiz-tag">${escapeHtml(t)}</span>`).join("")}</div>
+      </article>`;
+    })
+    .join("");
+}
+
+function renderYildizFonlar() {
+  renderStarList("yildiz3yList", "3Y");
+  renderStarList("yildiz5yList", "5Y");
 }
 
 /** Fon rasyoları tablosu: Sharpe/Sortino — 1.0 üzeri hafif vurgu. */
