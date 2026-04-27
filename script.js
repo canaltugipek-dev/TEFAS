@@ -42,6 +42,16 @@ const BANK_MANAGER_PATTERNS = [
   "BANK ",
   "KATILIM",
 ];
+const INDEX_FUND_PATTERNS = [
+  "ENDEKS",
+  "BIST ",
+  "BIST100",
+  "BIST 100",
+  "BIST30",
+  "BIST 30",
+  "BIST50",
+  "BIST 50",
+];
 
 function normalizeManagerText(s) {
   const trMap = {
@@ -67,6 +77,11 @@ function normalizeManagerText(s) {
 function isBankManagedFund(name) {
   const n = normalizeManagerText(name);
   return BANK_MANAGER_PATTERNS.some((token) => n.includes(token));
+}
+
+function isIndexEquityFund(name) {
+  const n = normalizeManagerText(name);
+  return INDEX_FUND_PATTERNS.some((token) => n.includes(token));
 }
 
 let manifest = null;
@@ -1005,7 +1020,7 @@ function scoreStarFund(meta, period) {
   return Number(score.toFixed(2));
 }
 
-function buildStarTop(period, topN = 3) {
+function buildStarTop(period, topN = 5) {
   if (!manifest || !Array.isArray(manifest.fonlar)) return [];
   const minDays = period === "5Y" ? 1760 : 1095;
   const items = manifest.fonlar
@@ -1013,7 +1028,8 @@ function buildStarTop(period, topN = 3) {
       const days = numOrNull(f.gun_kapsami);
       const hasStats = Boolean(f.stats && f.stats[period]);
       const isBank = isBankManagedFund(f.ad || "");
-      return hasStats && !isBank && days != null && days >= minDays;
+      const isIndex = isIndexEquityFund(f.ad || "");
+      return hasStats && !isBank && !isIndex && days != null && days >= minDays;
     })
     .map((f) => {
       const score = scoreStarFund(f, period);
@@ -1028,7 +1044,7 @@ function buildStarTop(period, topN = 3) {
 function renderStarList(elId, period) {
   const el = document.getElementById(elId);
   if (!el) return;
-  const top = buildStarTop(period, 3);
+  const top = buildStarTop(period, 5);
   if (!top.length) {
     el.innerHTML = '<div class="yildiz-empty">Kriterleri geçen fon bulunamadı. Veri kapsamını kontrol edin.</div>';
     return;
