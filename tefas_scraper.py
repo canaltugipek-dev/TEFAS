@@ -3,13 +3,16 @@
 """
 TEFAS — Hisse Senedi Yogun Fon (HSYF) kesfi ve tarihsel veri.
 
-NOT (2026-04): TEFAS yeni Next.js UI'a gecti, eski /api/DB/BindHistoryInfo ve
-BindComparisonFundReturns endpointleri 404 ("Method not found or disabled!").
-Ek olarak F5 BIG-IP TSPD anti-bot katmani aktif. Bu nedenle veri cekimi
-`tefas_browser_client.py` icindeki stealth Chromium oturumu uzerinden yeni
-JSON endpoint'i `POST /api/funds/fonFiyatBilgiGetir` ile yapilir. HSYF
-listesi mevcut data/manifest.json + data/<KOD>_tefas.json bundle'larindan
-fallback olarak okunur.
+NOT (2026-04): Eski /api/DB/BindHistoryInfo vb. 404. Tarihsel fiyat icin yeni
+`POST /api/funds/fonFiyatBilgiGetir` kullanilir.
+
+2026-04 guncelleme: Bu endpoint kalici oturum gerektirmeden dogrudan HTTPS POST
+ile calisiyor; scraper once `requests` ile dener (GitHub Actions dahil).
+Yalnizca bos/hata durumunda `tefas_browser_client` stealth Chromium ile
+fallback yapilir.
+
+HSYF listesi eski comparison API veya data/manifest.json + bundle'lardan
+fallback ile okunur.
 
 Kullanim:
   py -m venv .venv
@@ -26,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import ssl
 import sys
 import time
@@ -403,6 +407,42 @@ def resolve_history_base(session: requests.Session) -> Tuple[str, str]:
     return BASES_HISTORY[0]
 
 
+def fetch_price_history_requests(
+    session: requests.Session,
+    fonkod: str,
+    periyod: int,
+) -> List[Dict[str, Any]]:
+    """POST /api/funds/fonFiyatBilgiGetir — Playwright olmadan (CI uyumlu).
+
+    Donus: API resultList ogeleri (browser_rows_to_legacy ile uyumlu dict listesi).
+    """
+    url = f"{BASE_COMPARISON}/api/funds/fonFiyatBilgiGetir"
+    kod = fonkod.strip().upper()
+    headers = {
+        "User-Agent": HEADERS_BASE["User-Agent"],
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "Origin": BASE_COMPARISON,
+        "Referer": f"{BASE_COMPARISON}/tr/fund-detail/{kod}",
+    }
+    payload = {"fonKodu": kod, "dil": "TR", "periyod": periyod}
+    last_err: Optional[Exception] = None
+    for attempt in range(3):
+        try:
+            r = session.post(url, json=payload, headers=headers, timeout=120)
+            if r.status_code != 200:
+                last_err = RuntimeError(f"HTTP {r.status_code}")
+                time.sleep(min(2.0 + attempt * 1.5, 8.0))
+                continue
+            data = r.json()
+            return list(data.get("resultList") or [])
+        except (requests.RequestException, ValueError, TypeError) as exc:
+            last_err = exc
+            time.sleep(min(2.0 + attempt * 1.5, 8.0))
+    print(f"  ! HTTP fonFiyatBilgiGetir ({fonkod}): {last_err}", file=sys.stderr)
+    return []
+
+
 def fetch_fund_history(
     session: requests.Session,
     base_root: str,
@@ -413,13 +453,11 @@ def fetch_fund_history(
     fontip: str = "YAT",
     delay_sec: float = 0.32,
 ) -> List[Dict[str, Any]]:
-    """TEFAS yeni API'sinden (fonFiyatBilgiGetir) tarihsel fiyatlar.
+    """TEFAS fonFiyatBilgiGetir tarihsel fiyatlar.
 
-    Eski .aspx + /api/DB/* yolu 2026 Nisan itibariyla 404; stealth
-    Chromium uzerinden yeni JSON endpoint'ini cagiriyoruz. Donus formati
-    eski sema ile uyumlu (TARIH, FONKODU, FONUNVAN, FIYAT, ...).
-    `session`/`base_root`/`referer`/`fontip` argumanlari geriye donuk
-    uyumluluk icin korundu.
+    Oncelik: `requests` ile dogrudan POST (Playwright gerektirmez).
+    Fallback: stealth Chromium (`tefas_browser_client`).
+    Donus formati eski sema ile uyumlu (TARIH, FONKODU, FONUNVAN, FIYAT, ...).
     """
     from tefas_browser_client import (
         browser_rows_to_legacy,
@@ -429,19 +467,22 @@ def fetch_fund_history(
 
     days = max(1, (end - start).days)
     periyod = period_for_days(days)
-    client = get_browser_client()
-    last_err: Optional[Exception] = None
-    items: List[Dict[str, Any]] = []
-    for attempt in range(3):
-        try:
-            items = client.get_price_history(fonkod, periyod=periyod)
-            break
-        except Exception as exc:
-            last_err = exc
-            time.sleep(min(2.0 + attempt * 1.5, 6.0))
-    else:
-        print(f"  ! TEFAS api hata ({fonkod}): {last_err}", file=sys.stderr)
-        return []
+
+    items = fetch_price_history_requests(session, fonkod, periyod)
+    if not items:
+        print(f"  · HTTP bos/hata — Chromium fallback ({fonkod})", file=sys.stderr, flush=True)
+        client = get_browser_client()
+        last_err: Optional[Exception] = None
+        for attempt in range(3):
+            try:
+                items = client.get_price_history(fonkod, periyod=periyod)
+                break
+            except Exception as exc:
+                last_err = exc
+                time.sleep(min(2.0 + attempt * 1.5, 6.0))
+        else:
+            print(f"  ! TEFAS api hata ({fonkod}): {last_err}", file=sys.stderr)
+            return []
     rows = browser_rows_to_legacy(items)
     rows = _dedupe_by_date(rows)
     rows.sort(key=_row_date_sort_key)
@@ -916,6 +957,16 @@ def run_full_hsyf(
     tam = sum(1 for e in entries if e["durum"] == "tam")
     eksik = len(entries) - tam
     print(f"Bitti. tam={tam}, veri_eksik={eksik}, manifest=data/manifest.json")
+    # CI / WAF: Tum fonlar bos donerse yesil tik ile repoya zarar yazmayi engelle.
+    if tam == 0 and entries:
+        print(
+            "HATA: Hicbir fon icin tam veri yok (genelde TEFAS API/WAF veya oturum "
+            "GitHub Actions IP'sinde bloklandi). Bos commit'i engellemek icin cikis 1.",
+            file=sys.stderr,
+        )
+        allow = os.environ.get("TEFAS_ALLOW_EMPTY_SCRAPE", "").strip().lower()
+        if allow not in ("1", "true", "yes"):
+            return 1
     return 0
 
 

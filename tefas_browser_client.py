@@ -12,8 +12,9 @@
       POST /api/funds/fonGetiriBazliBilgiGetir
       POST /api/statistics/tefas/getFplFonList
 
-Bu modul tek bir Chromium oturumu acar (stealth + warmup), sayfa icinden
-fetch ile yeni API'yi cagirir. Boylece TSPD cookie'leri otomatik kullanilir.
+`tefas_scraper.py` tarihsel fiyat icin oncelikle dogrudan HTTPS POST kullanir;
+bu modul yalnizca bos/hata durumunda veya fon_hisse_detay HTML Parse icin devreye girer:
+tek bir Chromium oturumu (stealth + warmup), sayfa icinden fetch ile API.
 """
 from __future__ import annotations
 
