@@ -18,7 +18,9 @@ Kullanim:
   py -m venv .venv
   .venv/Scripts/python -m pip install -r requirements.txt
   .venv/Scripts/python -m playwright install chromium
-  .venv/Scripts/python tefas_scraper.py                  # tum HSYF, 5 yil, data/ + manifest(stats)
+  .venv/Scripts/python tefas_scraper.py                  # tum HSYF; risksiz bacak: tcmb.gov.tr repo tablosu (otomatik)
+  .venv/Scripts/python tefas_scraper.py --risk-free-model sabit   # yalnizca --risksiz-faiz sabiti
+  .venv/Scripts/python tefas_scraper.py --risk-free-model tcmb-policy  # repo tablosu zorunlu, yoksa hata
   .venv/Scripts/python tefas_scraper.py --liste          # sadece kod listesi
   .venv/Scripts/python tefas_scraper.py --manifest-yenile
   .venv/Scripts/python tefas_scraper.py MAC --gun 365    # tek fon
@@ -35,6 +37,7 @@ import sys
 import time
 import unicodedata
 from datetime import datetime, timedelta
+from io import StringIO
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -68,6 +71,12 @@ TICKER_BIST100 = "XU100.IS"
 TICKER_USDTRY = "TRY=X"
 TICKER_USDTRY_FALLBACK = "USDTRY=X"
 MIN_OBS_METRICS = 20
+
+# Anahtarsiz TCMB kamu HTML tablosu (1 hafta repo = politika); sayfa yapisi degisirse seri bos kalabilir.
+TCMB_REPO_POLICY_TABLE_URL = (
+    "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/"
+    "Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/1+Hafta+Repo"
+)
 
 # Manuel aylik TUFE degisimleri (ondalik, or: 0.032 -> %3.2)
 # Tarihler ay sonu olarak yorumlanir.
@@ -108,6 +117,50 @@ HEADERS_BASE = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
 }
+
+
+def fetch_tcmb_policy_pct_series_repo_table(min_ts: Any, max_ts: Any) -> Optional[Any]:
+    """
+    TCMB web sayfasindaki tarihsel 1-haftalik repo (politika) tablosundan yuzdelik oranlar.
+    HTML duzeni degismisse None doner.
+    """
+    if pd is None or np is None or requests is None:
+        return None
+    try:
+        r = requests.get(TCMB_REPO_POLICY_TABLE_URL, headers=HEADERS_BASE, timeout=90)
+        r.raise_for_status()
+        text = r.content.decode(r.encoding or "utf-8", errors="replace")
+        dfs = pd.read_html(StringIO(text))
+        if not dfs:
+            return None
+        raw = dfs[0]
+        c0 = str(raw.iloc[0, 0]).strip().lower()
+        if "tarih" in c0:
+            raw = raw.iloc[1:].reset_index(drop=True)
+        dt_idx = pd.to_datetime(raw.iloc[:, 0].astype(str), dayfirst=True, errors="coerce")
+        val_raw = raw.iloc[:, 2].astype(str).str.strip()
+        nums: List[float] = []
+        for cell in val_raw:
+            xs = cell.replace(",", ".").strip()
+            if xs in ("", "-", "nan"):
+                nums.append(float("nan"))
+            else:
+                try:
+                    nums.append(float(xs))
+                except ValueError:
+                    nums.append(float("nan"))
+        pct_vals_arr = np.array(nums, dtype=float)
+        ser = pd.Series(pct_vals_arr, index=pd.DatetimeIndex(dt_idx)).sort_index()
+        ser = ser[ser.notna()]
+        ser = ser[ser.index.notna()]
+        ser = ser[~ser.index.duplicated(keep="last")]
+        lo = pd.Timestamp(pd.Timestamp(min_ts).normalize())
+        hi = pd.Timestamp(pd.Timestamp(max_ts).normalize())
+        ser = ser.loc[(ser.index >= lo) & (ser.index <= hi)]
+        return ser if len(ser) >= 2 else None
+    except Exception as exc:
+        print(f"[TCMB-Web] politik faiz tablosu okunamadi: {exc}", file=sys.stderr)
+        return None
 
 
 class _LegacySSLAdapter(HTTPAdapter):
@@ -669,11 +722,79 @@ def _empty_stat_block() -> Dict[str, Optional[float]]:
     return {"sharpe": None, "sortino": None, "alpha": None, "max_drawdown": None}
 
 
+def _risk_free_daily_on_prices(
+    f: Any,
+    rf_constant_decimal: float,
+    policy_annual_pct_series: Optional[Any],
+) -> Any:
+    """Gunluk bilesik esdeger risksiz (ondalik/yil): (1+R)^(1/252)-1, R gun icin politik faiz ile degisir."""
+    assert np is not None and pd is not None
+    idx = pd.DatetimeIndex(f.index).sort_values()
+    const_d = float((1.0 + rf_constant_decimal) ** (1.0 / TRADING_DAYS) - 1.0)
+    if policy_annual_pct_series is None or len(policy_annual_pct_series) < 2:
+        return pd.Series(const_d, index=idx, dtype=float)
+
+    pct = pd.to_numeric(policy_annual_pct_series, errors="coerce").sort_index()
+    pct = pct[~pct.index.duplicated(keep="last")].dropna()
+    if pct.empty:
+        return pd.Series(const_d, index=idx, dtype=float)
+
+    annual_dec_aligned = (
+        pct.reindex(idx).ffill().bfill().astype(float).fillna(float(rf_constant_decimal) * 100.0) / 100.0
+    )
+    annual_dec_aligned = annual_dec_aligned.fillna(float(rf_constant_decimal))
+
+    rf_d = pd.Series(
+        np.power(1.0 + annual_dec_aligned.astype(float).to_numpy(dtype=np.float64), 1.0 / TRADING_DAYS) - 1.0,
+        index=idx,
+        dtype=float,
+    )
+    return rf_d
+
+
+def build_policy_pct_manifest_addons(
+    policy_pct_ser: Any,
+    lo_ts: Any,
+    hi_ts: Any,
+) -> Dict[str, Any]:
+    """
+    Arayuz: secilen donem kutuphaneleri icin politika (%%) tarih dizileri.
+    - degisimleri: TCMB kamu repo tablosu satirlari (sadece oran degisince)
+    - ay_sonu: gunluk ffill sonra ay sonu anlik oran (~aylik seri)
+    """
+    assert pd is not None and np is not None
+    sparse = pd.to_numeric(policy_pct_ser, errors="coerce").sort_index()
+    sparse = sparse[~sparse.index.duplicated(keep="last")].dropna()
+    if sparse.empty:
+        return {}
+    lo = pd.Timestamp(lo_ts).normalize()
+    hi = pd.Timestamp(hi_ts).normalize()
+    degisim = [{"t": str(ts.date()), "p": round(float(sparse.loc[ts]), 4)} for ts in sparse.index]
+
+    rng = pd.date_range(lo, hi, freq="D")
+    uni = rng.union(sparse.index).sort_values()
+    filled = sparse.reindex(uni).ffill().bfill()
+    daily = filled.reindex(rng).ffill().bfill()
+    me = daily.resample("ME").last().dropna()
+    ay_son = [
+        {"ay": pd.Timestamp(ix).strftime("%Y-%m"), "p": round(float(v), 4)} for ix, v in me.items()
+    ]
+
+    ref_start = str(lo.date())
+    ref_end = str(hi.date())
+    return {
+        "politika_faizi_degisimleri": degisim,
+        "politika_faizi_ay_sonu": ay_son,
+        "politika_faizi_seri_aralik": {"bas": ref_start, "bit": ref_end},
+    }
+
+
 def compute_period_stats(
     fund_close: Any,
     mkt_close: Any,
     period: str,
     rf_annual: float,
+    policy_annual_pct_series: Optional[Any] = None,
 ) -> Dict[str, Optional[float]]:
     assert np is not None and pd is not None
     out = _empty_stat_block()
@@ -691,7 +812,8 @@ def compute_period_stats(
     if len(f) < MIN_OBS_METRICS:
         return out
 
-    rf_d = (1.0 + rf_annual) ** (1.0 / TRADING_DAYS) - 1.0
+    rf_d_row = _risk_free_daily_on_prices(f, rf_annual, policy_annual_pct_series)
+    const_d = float((1.0 + rf_annual) ** (1.0 / TRADING_DAYS) - 1.0)
     ret_f = f.pct_change().dropna()
     ret_m = m.pct_change().dropna()
     ix = ret_f.index.intersection(ret_m.index)
@@ -700,18 +822,20 @@ def compute_period_stats(
     if len(ret_f) < MIN_OBS_METRICS:
         return out
 
-    excess = ret_f - rf_d
+    rf_at_ret = rf_d_row.reindex(ix).astype(float).fillna(const_d)
+
+    excess = ret_f - rf_at_ret
     std = float(excess.std(ddof=1))
     if std > 1e-12:
         out["sharpe"] = round(float(np.sqrt(TRADING_DAYS) * excess.mean() / std), 6)
 
-    neg_exc = np.minimum(0.0, (ret_f - rf_d).values)
+    neg_exc = np.minimum(0.0, (ret_f - rf_at_ret).values)
     ddev = float(np.sqrt(np.mean(neg_exc**2)))
     if ddev > 1e-12:
         out["sortino"] = round(float(np.sqrt(TRADING_DAYS) * excess.mean() / ddev), 6)
 
-    xm = (ret_m - rf_d).values
-    yv = (ret_f - rf_d).values
+    xm = (ret_m - rf_at_ret).values
+    yv = (ret_f - rf_at_ret).values
     mask = np.isfinite(xm) & np.isfinite(yv)
     if int(mask.sum()) >= MIN_OBS_METRICS:
         coef = np.polyfit(xm[mask], yv[mask], 1)
@@ -729,10 +853,13 @@ def build_fund_stats_map(
     fund_series: Any,
     xu_series: Any,
     rf_annual: float,
+    policy_annual_pct_series: Optional[Any] = None,
 ) -> Dict[str, Dict[str, Optional[float]]]:
     stats: Dict[str, Dict[str, Optional[float]]] = {}
     for p in STAT_PERIODS:
-        stats[p] = compute_period_stats(fund_series, xu_series, p, rf_annual)
+        stats[p] = compute_period_stats(
+            fund_series, xu_series, p, rf_annual, policy_annual_pct_series
+        )
     return stats
 
 
@@ -741,13 +868,15 @@ def enrich_manifest_entries_with_stats(
     data_dir: Path,
     rf_annual: float,
     skip: bool,
+    risk_free_model: str = "otomatik",
 ) -> Dict[str, Any]:
     """Her kaleme 'stats' ekler; benchmark ozetini dondurur."""
     meta: Dict[str, Any] = {
         "bist100_ticker": TICKER_BIST100,
         "usdtry_ticker": TICKER_USDTRY,
         "risksiz_faiz_yillik": rf_annual,
-        "aciklama": "Sharpe/Sortino: gunluk fazla getiri / risk; Alpha: CAPM (BIST100); MaxDD: fiyat serisi.",
+        "risksiz_faiz_modeli": risk_free_model,
+        "aciklama": "Sharpe/Sortino/CAPM risksiz bacak: tcmb.gov.tr 1 haftalik repo (politika) HTML tablosu; okunamazsa --risksiz-faiz sabiti.",
     }
     if skip or not _HAS_ANALYTICS:
         for e in entries:
@@ -812,13 +941,54 @@ def enrich_manifest_entries_with_stats(
     meta["benchmarks_dosya"] = "data/benchmarks.json"
     meta["durum"] = "tamam"
 
+    want_tcmb = risk_free_model in ("otomatik", "tcmb-policy")
+
+    policy_pct_ser: Optional[Any] = None
+    tcmb_series_kaynagi: Optional[str] = None
+
+    if want_tcmb:
+        repo_ser = fetch_tcmb_policy_pct_series_repo_table(min_ts, max_ts)
+        if repo_ser is not None and len(repo_ser):
+            policy_pct_ser = repo_ser
+            tcmb_series_kaynagi = "tcmb_repo_tablosu"
+            print(
+                "[risksiz] TCMB politik faizi tcmb.gov.tr 1-haftalik repo tablosundan",
+                file=sys.stderr,
+            )
+
+        if risk_free_model == "tcmb-policy" and (
+            policy_pct_ser is None or len(policy_pct_ser) == 0
+        ):
+            for e in entries:
+                e["stats"] = {p: _empty_stat_block() for p in STAT_PERIODS}
+            meta["durum"] = "tcmb_policy_veri_yok"
+            print("[risksiz] tcmb-policy: TCMB repo tablosu okunamadi.", file=sys.stderr)
+            return meta
+        if (policy_pct_ser is None or len(policy_pct_ser) == 0) and risk_free_model == "otomatik":
+            print(
+                "[risksiz] TCMB politik serisi yok (repo tablosu); sabit parametre kullanildi.",
+                file=sys.stderr,
+            )
+
+    if policy_pct_ser is not None and len(policy_pct_ser):
+        if tcmb_series_kaynagi == "tcmb_repo_tablosu":
+            meta["risksiz_kaynak"] = "tcmb_repo_tablosu"
+            meta["risksiz_tcmb_tablo_url"] = TCMB_REPO_POLICY_TABLE_URL
+        last_pct = float(policy_pct_ser.iloc[-1])
+        meta["risksiz_tcmb_oran_pct_son"] = last_pct
+        meta["risksiz_faiz_yillik"] = round(last_pct / 100.0, 6)
+        meta.update(build_policy_pct_manifest_addons(policy_pct_ser, min_ts, max_ts))
+    else:
+        meta["risksiz_kaynak"] = "sabit_parametre"
+        meta["risksiz_faiz_yillik"] = rf_annual
+
     for e in entries:
         kod = e.get("kod") or ""
         ser = fund_map.get(kod)
         if ser is None or len(ser) < MIN_OBS_METRICS:
             e["stats"] = {p: _empty_stat_block() for p in STAT_PERIODS}
             continue
-        e["stats"] = build_fund_stats_map(ser, xu, rf_annual)
+        e["stats"] = build_fund_stats_map(ser, xu, rf_annual, policy_pct_ser)
 
     return meta
 
@@ -827,6 +997,16 @@ def save_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
+
+
+def _tcmb_policy_failure_reason(bench: Optional[Dict[str, Any]]) -> Optional[str]:
+    """tcmb-policy zorunlu modda manifest yazilirken bunlar kritik."""
+    if not bench:
+        return None
+    st = bench.get("durum")
+    if isinstance(st, str) and st.startswith("tcmb_policy_"):
+        return st
+    return None
 
 
 def write_manifest(
@@ -864,7 +1044,8 @@ def refresh_manifest_from_disk(
     hedef_gun: int,
     rf_annual: float = RISKSIZ_YILLIK_DEFAULT,
     skip_stats: bool = False,
-) -> None:
+    risk_free_model: str = "otomatik",
+) -> bool:
     entries: List[Dict[str, Any]] = []
     for path in sorted(data_dir.glob("*_tefas.json")):
         if path.name == "manifest.json":
@@ -879,8 +1060,22 @@ def refresh_manifest_from_disk(
             rel = f"data/{path.name}"
         entries.append(manifest_entry_from_bundle(rel, bundle))
     entries.sort(key=lambda x: x["kod"])
-    bench = enrich_manifest_entries_with_stats(entries, data_dir, rf_annual, skip_stats)
+    bench = enrich_manifest_entries_with_stats(
+        entries,
+        data_dir,
+        rf_annual,
+        skip_stats,
+        risk_free_model=risk_free_model,
+    )
+    fail = _tcmb_policy_failure_reason(bench)
+    if fail:
+        print(
+            f"HATA: manifest yazilmadi (TCMB politik faizi gerekiyordu: {fail}).",
+            file=sys.stderr,
+        )
+        return False
     write_manifest(data_dir, entries, hedef_gun, bench)
+    return True
 
 
 def run_single_fund(
@@ -891,6 +1086,7 @@ def run_single_fund(
     delay: float = 0.32,
     rf_annual: float = RISKSIZ_YILLIK_DEFAULT,
     skip_stats: bool = False,
+    risk_free_model: str = "otomatik",
 ) -> int:
     session = _make_session()
     base, ref = resolve_history_base(session)
@@ -904,7 +1100,18 @@ def run_single_fund(
     bundle = build_bundle(fon, unvan, start, end, base, rows, fontip)
     out = data_dir / f"{fon.upper()}_tefas.json"
     save_json(out, bundle)
-    refresh_manifest_from_disk(data_dir, gun, rf_annual, skip_stats)
+    if not refresh_manifest_from_disk(
+        data_dir,
+        gun,
+        rf_annual,
+        skip_stats,
+        risk_free_model=risk_free_model,
+    ):
+        print(
+            "Manifest guncellenemedi (tcmb-policy: TCMB repo tablosu kontrol et veya --risk-free-model sabit).",
+            file=sys.stderr,
+        )
+        return 4
     print(f"OK {fon}: {len(rows)} kayit -> {out} ({bundle['durum_panel']})")
     return 0
 
@@ -917,6 +1124,7 @@ def run_full_hsyf(
     max_fon: Optional[int] = None,
     rf_annual: float = RISKSIZ_YILLIK_DEFAULT,
     skip_stats: bool = False,
+    risk_free_model: str = "otomatik",
 ) -> int:
     session = _make_session()
     funds = discover_hsyf_funds(session)
@@ -952,7 +1160,21 @@ def run_full_hsyf(
         save_json(out, bundle)
         entries.append(manifest_entry_from_bundle(f"data/{kod}_tefas.json", bundle))
 
-    bench = enrich_manifest_entries_with_stats(entries, data_dir, rf_annual, skip_stats)
+    bench = enrich_manifest_entries_with_stats(
+        entries,
+        data_dir,
+        rf_annual,
+        skip_stats,
+        risk_free_model=risk_free_model,
+    )
+    fail = _tcmb_policy_failure_reason(bench)
+    if fail:
+        print(
+            f"HATA: manifest yazilmadi ({fail}). Fon JSON'lari guncellenmis olabilir; "
+            "tcmb.gov.tr repo tablosu veya --risk-free-model sabit kullan.",
+            file=sys.stderr,
+        )
+        return 4
     write_manifest(data_dir, entries, gun, bench)
     tam = sum(1 for e in entries if e["durum"] == "tam")
     eksik = len(entries) - tam
@@ -1003,7 +1225,19 @@ def main() -> int:
         "--risksiz-faiz",
         type=float,
         default=RISKSIZ_YILLIK_DEFAULT,
-        help=f"Yillik risksiz oran (Sharpe/Sortino/CAPM icin, varsayilan {RISKSIZ_YILLIK_DEFAULT})",
+        help=(
+            "Sabit risksiz oran (ondalik/yil): risk-free-model sabit veya TCMB repo tablosu fallback. "
+            f"Varsayilan {RISKSIZ_YILLIK_DEFAULT}"
+        ),
+    )
+    p.add_argument(
+        "--risk-free-model",
+        choices=("sabit", "otomatik", "tcmb-policy"),
+        default="otomatik",
+        help=(
+            "sabit=yalnizca --risksiz-faiz; otomatik=tcmb.gov.tr 1-haftalik repo tablosu, "
+            "yoksa sabit; tcmb-policy=repo tablosu zorunlu, yoksa hata"
+        ),
     )
     p.add_argument(
         "--istatistik-atlama",
@@ -1016,12 +1250,14 @@ def main() -> int:
     data_dir.mkdir(parents=True, exist_ok=True)
 
     if args.manifest_yenile:
-        refresh_manifest_from_disk(
+        if not refresh_manifest_from_disk(
             data_dir,
             args.gun,
             args.risksiz_faiz,
             args.istatistik_atlama,
-        )
+            risk_free_model=args.risk_free_model,
+        ):
+            return 4
         print(f"manifest guncellendi: {data_dir / 'manifest.json'}")
         return 0
 
@@ -1042,6 +1278,7 @@ def main() -> int:
             delay=args.gecikme,
             rf_annual=args.risksiz_faiz,
             skip_stats=args.istatistik_atlama,
+            risk_free_model=args.risk_free_model,
         )
 
     return run_full_hsyf(
@@ -1052,6 +1289,7 @@ def main() -> int:
         max_fon=args.max_fon,
         rf_annual=args.risksiz_faiz,
         skip_stats=args.istatistik_atlama,
+        risk_free_model=args.risk_free_model,
     )
 
 

@@ -643,6 +643,14 @@ function computePeriodReturnAndVol(series, period) {
 
 const PREFERRED_COMPARE_DEFAULTS = ["AAV", "ACC", "IDH", "TCD", "TAU"];
 
+/** Fon karşılaştırma — Fon Rasyoları ile aynı gun_kapsami eşiği (seçilen döneme göre). */
+function sortedFundsEligibleForComparison() {
+  if (!manifest) return [];
+  return [...manifest.fonlar]
+    .filter((f) => fundHasEnoughHistoryForRatioPeriod(f, selectedPeriod, manifest))
+    .sort((a, b) => String(a.kod).localeCompare(String(b.kod)));
+}
+
 function pickCompareDefaultCodes(sortedFunds) {
   const kodSet = new Set(sortedFunds.map((f) => String(f.kod)));
   const out = [];
@@ -659,9 +667,14 @@ function pickCompareDefaultCodes(sortedFunds) {
 
 function populateCompareSelectors() {
   if (!manifest) return;
-  const sorted = [...manifest.fonlar].sort((a, b) => String(a.kod).localeCompare(String(b.kod)));
+  const sorted = sortedFundsEligibleForComparison();
   const selectIds = ["compareFund1", "compareFund2", "compareFund3", "compareFund4", "compareFund5"];
+  const kodSetElig = new Set(sorted.map((f) => String(f.kod)));
   const defaults = pickCompareDefaultCodes(sorted);
+  const priorSel = selectIds.map((id) => {
+    const sel = document.getElementById(id);
+    return sel ? String(sel.value || "") : "";
+  });
 
   selectIds.forEach((id, idx) => {
     const sel = document.getElementById(id);
@@ -679,12 +692,10 @@ function populateCompareSelectors() {
       sel.appendChild(opt);
     });
 
-    const kod = defaults[idx];
-    if (kod && sorted.some((f) => f.kod === kod)) {
-      sel.value = kod;
-    } else {
-      sel.value = "";
-    }
+    let kod = "";
+    if (priorSel[idx] && kodSetElig.has(priorSel[idx])) kod = priorSel[idx];
+    else if (defaults[idx] && kodSetElig.has(defaults[idx])) kod = defaults[idx];
+    sel.value = kod;
   });
 }
 
@@ -695,7 +706,10 @@ function getSelectedCompareRows() {
   return selectIds.map((id) => {
     const sel = document.getElementById(id);
     const kod = sel ? String(sel.value || "") : "";
-    return kod && byKod.has(kod) ? byKod.get(kod) : null;
+    const f = kod && byKod.has(kod) ? byKod.get(kod) : null;
+    if (!f) return null;
+    if (!fundHasEnoughHistoryForRatioPeriod(f, selectedPeriod, manifest)) return null;
+    return f;
   });
 }
 
@@ -917,6 +931,7 @@ function showView(route) {
     renderStatsTable();
   }
   if (route === "fon-karsilastirma") {
+    populateCompareSelectors();
     renderMultiCompareTable();
   }
   if (route === "fon-hisse-detay" && typeof window.FonHisseDetay !== "undefined" && window.FonHisseDetay.onRouteEnter) {
@@ -937,6 +952,7 @@ function syncPeriodButtons() {
 function setPeriod(p) {
   selectedPeriod = p;
   syncPeriodButtons();
+  populateCompareSelectors();
   if (currentView === "analiz") applyPeriodToChart();
   if (currentView === "karsilastirma") {
     renderStatsTable();
@@ -1098,22 +1114,178 @@ function formatAlphaBadgeHtml(v) {
   return `<span class="ratio-card__pill ${cls}">α${sign}${pct}%</span>`;
 }
 
+/** Seçilen dönem için anlamlı sıralama: fiyat serisi bu kadar güne kısa olan fonlar tabloda görünmez. */
+function minGunKapsamiForRatioPeriod(period, manifestSnapshot) {
+  const m = manifestSnapshot || {};
+  const hedef5 = numOrNull(m.hedef_gun);
+  const min5 = numOrNull(m.beklenen_min_gun);
+
+  if (period === "6M") return 182;
+  if (period === "YTD") {
+    const refStr = m.guncelleme;
+    const ref = refStr ? new Date(refStr) : new Date();
+    if (Number.isNaN(ref.getTime())) return 300;
+    const start = new Date(ref.getFullYear(), 0, 1);
+    const elapsed = Math.floor((ref - start) / 86400000);
+    return Math.max(1, elapsed + 1);
+  }
+  if (period === "1Y") return 350;
+  if (period === "3Y") return 365 * 3;
+  // Scraped seriler nadiren tam 365*5 güne çıkar (örn. manifest hedef_gun 1825 iken fon max 1823);
+  // dahil etmek için manifest'teki beklenen_min_gun kullanılır — hedef idealdir, minimum eşik değildir.
+  if (period === "5Y") {
+    if (min5 != null && min5 > 0) return Math.round(min5);
+    if (hedef5 != null && hedef5 > 0) return Math.round(hedef5);
+    return 1760;
+  }
+  return 0;
+}
+
+function fundHasEnoughHistoryForRatioPeriod(f, period, manifestSnapshot) {
+  const need = minGunKapsamiForRatioPeriod(period, manifestSnapshot);
+  if (need <= 0) return true;
+  const days = numOrNull(f.gun_kapsami);
+  if (days == null) return false;
+  return days >= need;
+}
+
+function benchmarkEndIsoYmd(bench, mf) {
+  const x = bench?.xu100_tarih;
+  if (x && /^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(String(x).slice(0, 10))) return String(x).slice(0, 10);
+  const g = mf?.guncelleme;
+  if (g && String(g).length >= 10) return String(g).slice(0, 10);
+  return "";
+}
+
+function parseIsoYmdToUtcMs(iso) {
+  const parts = String(iso)
+    .slice(0, 10)
+    .split("-")
+    .map((n) => parseInt(n, 10));
+  if (parts.length !== 3 || parts.some((p) => Number.isNaN(p))) return NaN;
+  return Date.UTC(parts[0], parts[1] - 1, parts[2]);
+}
+
+function isoYmdFromUtcMs(ms) {
+  const d = new Date(ms);
+  return `${String(d.getUTCFullYear()).padStart(4, "0")}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(
+    d.getUTCDate(),
+  ).padStart(2, "0")}`;
+}
+
+/** BIST son tarihine göre tab sekmesi penceresi başı — Python _period_start ile uyumlu. */
+function periodStartIsoFromEnd(endIso, period) {
+  const ms = parseIsoYmdToUtcMs(endIso);
+  if (!Number.isFinite(ms)) return "";
+  if (period === "YTD") {
+    const d = new Date(ms);
+    return `${d.getUTCFullYear()}-01-01`;
+  }
+  const q = new Date(ms);
+  if (period === "6M") q.setUTCMonth(q.getUTCMonth() - 6);
+  else if (period === "1Y") q.setUTCFullYear(q.getUTCFullYear() - 1);
+  else if (period === "3Y") q.setUTCFullYear(q.getUTCFullYear() - 3);
+  else if (period === "5Y") q.setUTCFullYear(q.getUTCFullYear() - 5);
+  else q.setUTCFullYear(q.getUTCFullYear() - 5);
+  return isoYmdFromUtcMs(q.getTime());
+}
+
+/**
+ * Tarih, manifest dizisinden onceyse güncel oran yerine ilk bilinen politikayi kullan
+ * (5Y penceresi 2021-04 gibi ay_son ilkay 2021-05 ise; yoksa hep %37 yanlis görünür).
+ */
+function politikOranTcmbBul(changesAsc, ayAylik, isoYmd, yedekPct) {
+  let v = policyPctAtOrBeforeAscending(changesAsc, isoYmd);
+  if (v == null && Array.isArray(ayAylik) && isoYmd) v = policyPctFromMonthlyAtOrBefore(ayAylik, isoYmd);
+  if (v == null && isoYmd) {
+    const y = isoYmd.slice(0, 7);
+    if (Array.isArray(ayAylik) && ayAylik.length) {
+      const firstAy = String(ayAylik[0].ay);
+      if (y.length === 7 && y < firstAy) {
+        const p0 = Number(ayAylik[0].p);
+        if (Number.isFinite(p0)) v = p0;
+      }
+    }
+    if (v == null && changesAsc?.length) {
+      const firstT = String(changesAsc[0].t).slice(0, 10);
+      if (isoYmd < firstT) {
+        const p0 = Number(changesAsc[0].p);
+        if (Number.isFinite(p0)) v = p0;
+      }
+    }
+  }
+  if (v == null && Number.isFinite(yedekPct)) v = yedekPct;
+  return v != null && Number.isFinite(Number(v)) ? Number(v) : null;
+}
+
+/** degisim tarihleri artan sirada bekleniyor — son tarih dahil politik oran */
+function policyPctAtOrBeforeAscending(changesAsc, isoYmdCut) {
+  if (!changesAsc || changesAsc.length === 0 || !isoYmdCut) return null;
+  let last = null;
+  for (let i = 0; i < changesAsc.length; i += 1) {
+    const t = String(changesAsc[i].t).slice(0, 10);
+    if (t <= isoYmdCut) last = Number(changesAsc[i].p);
+    else break;
+  }
+  return last != null && Number.isFinite(last) ? last : null;
+}
+
+/** politika_faizi_ay_sonu dizisi yyyy-mm ile artan siralı */
+function policyPctFromMonthlyAtOrBefore(monthAsc, isoYmd) {
+  if (!monthAsc || monthAsc.length === 0 || !isoYmd) return null;
+  const cut = isoYmd.slice(0, 7);
+  if (cut.length !== 7) return null;
+  let best = null;
+  for (let i = 0; i < monthAsc.length; i += 1) {
+    if (String(monthAsc[i].ay) <= cut) best = Number(monthAsc[i].p);
+  }
+  return best != null && Number.isFinite(best) ? best : null;
+}
+
+function formatRisksizBenchHint(bench, selectedPeriodHint, mf) {
+  const periodKey = selectedPeriodHint || "5Y";
+  if (!bench || bench.risksiz_faiz_yillik == null) return "";
+  const yPct = Number(bench.risksiz_faiz_yillik) * 100;
+  const lbl = PERIOD_LABELS[periodKey] || periodKey;
+  const endIso = benchmarkEndIsoYmd(bench, mf);
+  const ch = bench.politika_faizi_degisimleri;
+  const ay = bench.politika_faizi_ay_sonu;
+
+  if (bench.risksiz_kaynak === "tcmb_repo_tablosu" || bench.risksiz_kaynak === "tcmb_evds_policy") {
+    const basIso = periodStartIsoFromEnd(endIso, periodKey);
+    const sonPct = politikOranTcmbBul(ch, ay, endIso, yPct);
+    const basPct = basIso ? politikOranTcmbBul(ch, ay, basIso, yPct) : null;
+    if (sonPct == null) return `Risksiz (TCMB, ${lbl}): —`;
+    const sonStr = sonPct.toFixed(1);
+    if (basPct == null || basIso === "" || Math.abs(basPct - sonPct) < 0.12) {
+      return `Risksiz (TCMB, ${lbl}): ~%${sonStr}/yıl`;
+    }
+    return `Risksiz (TCMB, ${lbl}): baş ~%${basPct.toFixed(1)} · son ~%${sonStr}/yıl`;
+  }
+  if (!bench.risksiz_kaynak) {
+    return `Risksiz: manifest eski — tefas_scraper.py --manifest-yenile`;
+  }
+  return `Risksiz (sabit): %${yPct.toFixed(0)}/yıl`;
+}
+
 function renderStatsTable() {
   const tbody = document.getElementById("statsTableBody");
   const hint = document.getElementById("tableBenchmarkHint");
   if (!tbody || !manifest) return;
 
   const b = manifest.benchmarks || {};
-  const rf = b.risksiz_faiz_yillik != null ? `Risksiz (yıllık): %${(Number(b.risksiz_faiz_yillik) * 100).toFixed(0)}` : "";
+  const rf = formatRisksizBenchHint(b, selectedPeriod, manifest);
   const xu = b.xu100_son != null ? ` · ${b.bist100_ticker || "XU100"} son: ${Number(b.xu100_son).toFixed(2)}` : "";
   const us = b.usdtry_son != null ? ` · USD/TRY: ${Number(b.usdtry_son).toFixed(4)}` : "";
-  if (hint) hint.textContent = `${rf}${xu}${us}`.trim() || (b.aciklama || "");
+  if (hint) {
+    hint.textContent = `${rf}${xu}${us}`.trim() || (b.aciklama || "");
+  }
 
   document.querySelectorAll("#statsTableGrid .terminal-grid__cell--sortable").forEach((cell) => {
     cell.classList.toggle("is-sorted", cell.dataset.sort === tableSortKey);
   });
 
-  const rows = manifest.fonlar.map((f) => {
+  const rows = manifest.fonlar.filter((f) => fundHasEnoughHistoryForRatioPeriod(f, selectedPeriod, manifest)).map((f) => {
     const st = (f.stats && f.stats[selectedPeriod]) || {};
     return {
       kod: f.kod,

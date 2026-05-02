@@ -74,7 +74,7 @@
           <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
         </button>
       </div>
-      <p class="dashboard-hint">Veri: <code>.venv/Scripts/python tefas_scraper.py</code> · Sunucu: <code>.venv/Scripts/python -m http.server 8080</code> → <code>http://localhost:8080</code></p>
+      <p class="dashboard-hint">Veri: <code>.venv/Scripts/python tefas_scraper.py</code> (varsayılan risksiz: TCMB’nin kamuya açık 1 haftalık repo tablosu; <code>--manifest-yenile</code> ile JSON’dan manifest). Sunucu: <code>.venv/Scripts/python -m http.server 8080</code> → <code>http://localhost:8080</code></p>
     </section>
 
     <section id="view-analiz" class="view-section hidden">
@@ -198,7 +198,7 @@
             <div class="terminal-grid__body" id="statsTableBody" role="rowgroup"></div>
           </div>
         </div>
-        <p class="table-panel__foot">Sütun başlığına tıklayarak büyükten küçüğe sıralayın. Boş hücre: yetersiz veri veya istatistik üretilmedi.</p>
+        <p class="table-panel__foot">Seçili döneme göre veri kapsamı (<code>gun_kapsami</code>) yetersiz olan fonlar gösterilmez (ör. 5Y seçiliyken henüz beş yılı doldurmamış fonlar). Sütun başlığına tıklayarak büyükten küçüğe sıralayın.</p>
       </div>
     </section>
 
