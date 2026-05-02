@@ -1518,7 +1518,6 @@ def run_incremental(
         if bl_copy.get("hisse_durumu") == "ok":
             _stamp_kap_incremental_skip(bl_copy)
         birlesik["fonlar"][kod] = bl_copy
-        _write_per_fund_json(kod, bl_copy)
 
     if not refresh:
         print(
@@ -1526,6 +1525,8 @@ def run_incremental(
             "TEFAS/Playwright yok — kontrol damgası birleşik dosyaya işlendi.",
             flush=True,
         )
+        for _kod, blk in birlesik["fonlar"].items():
+            _write_per_fund_json(_kod, blk)
         ozet_kal = [_ozet_satir(k, birlesik["fonlar"][k]) for k in codes if k in birlesik["fonlar"]]
         return birlesik, ozet_kal
 
@@ -1547,12 +1548,14 @@ def run_incremental(
             hisse_result = fetch_real_hisse_rows(sess, kod, tefas, log=True)
             block = merge_one(kod, tefas, hisse_result)
             birlesik["fonlar"][kod] = block
-            _write_per_fund_json(kod, block)
     finally:
         try:
             close_browser_client()
         except Exception:
             pass
+
+    for _kod, blk in birlesik["fonlar"].items():
+        _write_per_fund_json(_kod, blk)
 
     ozet = [_ozet_satir(k, birlesik["fonlar"][k]) for k in codes if k in birlesik["fonlar"]]
     return birlesik, ozet
