@@ -1,6 +1,6 @@
 {
   "kod": "IFN",
-  "guncelleme": "2026-04-26T18:36:13Z",
+  "guncelleme": "2026-05-02T20:17:29Z",
   "kaynak_tefas": true,
   "unvan": "ICBC TURKEY PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ifn-icbc-turkey-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -295,5 +295,7 @@
   "hisse_durumu": "ok",
   "hisse_mesaj": "56 hisse satırı okundu.",
   "kap_rapor_tarihi": "01.04.2026 19:53:31",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49f55e4a47ef"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49f55e4a47ef",
+  "kap_son_kontrol_iso": "2026-05-02T20:17:29Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

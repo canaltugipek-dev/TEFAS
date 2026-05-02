@@ -1,6 +1,6 @@
 {
   "kod": "IIH",
-  "guncelleme": "2026-04-26T19:03:10Z",
+  "guncelleme": "2026-05-02T20:17:41Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iih-istanbul-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -155,5 +155,7 @@
   "hisse_durumu": "ok",
   "hisse_mesaj": "28 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 15:48:14",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d35fcf1a74"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d35fcf1a74",
+  "kap_son_kontrol_iso": "2026-05-02T20:17:41Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

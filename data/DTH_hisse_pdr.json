@@ -1,6 +1,6 @@
 {
   "kod": "DTH",
-  "guncelleme": "2026-04-26T19:38:49Z",
+  "guncelleme": "2026-04-26T20:46:27Z",
   "kaynak_tefas": true,
   "unvan": "EMAA BLUE PORTFÖY DÖNÜŞÜM TEKNOLOJİLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dth-emaa-blue-portfoy-donusum-teknolojileri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -117,7 +117,7 @@
       "agirlik": 1.56
     },
     {
-      "ticker": "TATEN",
+      "ticker": "TATL",
       "ad": "",
       "agirlik": 1.56
     },
@@ -175,5 +175,8 @@
   "hisse_durumu": "ok",
   "hisse_mesaj": "32 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 15:31:12",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61e21fad27bf"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61e21fad27bf",
+  "kaynak_pdr_ocr": true,
+  "kap_son_kontrol_iso": "2026-05-02T20:11:51Z",
+  "kap_son_kontrol_tip": "yeni_yok"
 }

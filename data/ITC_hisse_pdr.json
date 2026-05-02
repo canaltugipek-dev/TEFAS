@@ -1,6 +1,6 @@
 {
   "kod": "ITC",
-  "guncelleme": "2026-04-26T18:26:12Z",
+  "guncelleme": "2026-05-02T20:17:51Z",
   "kaynak_tefas": true,
   "unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/itc-inveo-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -135,5 +135,7 @@
   "hisse_durumu": "ok",
   "hisse_mesaj": "24 hisse satırı okundu.",
   "kap_rapor_tarihi": "07.04.2026 19:20:21",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68b69fe819c3"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d68b69fe819c3",
+  "kap_son_kontrol_iso": "2026-05-02T20:17:51Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

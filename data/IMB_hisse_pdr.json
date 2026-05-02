@@ -1,6 +1,6 @@
 {
   "kod": "IMB",
-  "guncelleme": "2026-04-26T19:03:12Z",
+  "guncelleme": "2026-05-02T20:17:45Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/imb-istanbul-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -125,5 +125,7 @@
   "hisse_durumu": "ok",
   "hisse_mesaj": "22 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 15:48:14",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d360b01a8a"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d62d360b01a8a",
+  "kap_son_kontrol_iso": "2026-05-02T20:17:45Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

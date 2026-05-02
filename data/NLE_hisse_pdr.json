@@ -1,6 +1,6 @@
 {
   "kod": "NLE",
-  "guncelleme": "2026-04-26T19:41:16Z",
+  "guncelleme": "2026-04-26T20:46:27Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24,7 +24,7 @@
     {
       "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 12.67
+      "agirlik": 13.09
     },
     {
       "ticker": "EKGYO",
@@ -62,12 +62,12 @@
       "agirlik": 3.9
     },
     {
-      "ticker": "ASGYO",
+      "ticker": "ASCE",
       "ad": "",
       "agirlik": 3.66
     },
     {
-      "ticker": "OZKGY",
+      "ticker": "OZAK",
       "ad": "",
       "agirlik": 2.91
     },
@@ -79,12 +79,22 @@
     {
       "ticker": "FZLGY",
       "ad": "",
-      "agirlik": 1.11
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "KZBGY",
+      "ad": "",
+      "agirlik": 1.08
     },
     {
       "ticker": "DAPGM",
       "ad": "",
       "agirlik": 1.02
+    },
+    {
+      "ticker": "SRGY",
+      "ad": "",
+      "agirlik": 0.95
     },
     {
       "ticker": "EDIP",
@@ -109,11 +119,14 @@
     {
       "ticker": "MRGYO",
       "ad": "",
-      "agirlik": 0.24
+      "agirlik": 0.25
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "20 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 10:08:40",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805fc6b7f"
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805fc6b7f",
+  "kaynak_pdr_ocr": true,
+  "kap_son_kontrol_iso": "2026-05-02T20:16:36Z",
+  "kap_son_kontrol_tip": "yeni_yok"
 }
