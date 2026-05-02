@@ -12,6 +12,9 @@ Akış (Nisan 2026 yeni TEFAS API'sine uyarlandı):
   4) PyMuPDF: satır bazlı kelime hizası ile Hisse Kodu + son sütun % oranı okunur.
   5) data/fon_hisse_birlesik.json + fon başına data/<KOD>_hisse_pdr.json güncellenir.
 
+İsteğe bağlı incremental: --tum-manifest --sadece-yeni-pdr → önce her fon için KAP bildirim
+tarihi (HTTP) ile kayıttaki kap_rapor_tarihi karşılaştırılır; yeni PDR yoksa tarayıcı/PDF yenilenmez.
+
 Uydurma veri üretilmez; tablo okunamazsa hisse_mesaj = "Veri okunamadı".
 İstekler arası bekleme: --delay (varsayılan 2.0 sn, KAP yükünü azaltmak için).
 
@@ -24,6 +27,7 @@ Kurulum:
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 import os
 import re
@@ -329,6 +333,64 @@ def _fetch_pdr_disclosures(sess: requests.Session, kap_obj_id: str) -> List[Dict
         return out
     except Exception:
         return []
+
+
+def _kap_newest_pdr_publish_raw(sess: requests.Session, kap_link: Optional[str]) -> Optional[str]:
+    """KAP filter sonucunun en ustteki bildirimin publishDate (ham string); yok None."""
+    if not kap_link or not str(kap_link).strip():
+        return None
+    oid = _extract_kap_obj_id(sess, str(kap_link).strip())
+    if not oid:
+        return None
+    discs = _fetch_pdr_disclosures(sess, oid)
+    if not discs:
+        return None
+    pd = discs[0].get("publish_date")
+    return str(pd).strip() if pd else None
+
+
+def _pdr_publish_date_cmp(a_raw: Optional[str], b_raw: Optional[str]) -> Optional[int]:
+    """Tarihi kiyasla: a > b -> 1; a == b -> 0; a < b -> -1; parse yoksa None."""
+    if not a_raw or not str(a_raw).strip():
+        return None
+    if not b_raw or not str(b_raw).strip():
+        return None
+    da = _parse_publish_date(str(a_raw))
+    db = _parse_publish_date(str(b_raw))
+    if da == datetime.min or db == datetime.min:
+        return None
+    ad = da.date()
+    bd = db.date()
+    if ad > bd:
+        return 1
+    if ad < bd:
+        return -1
+    return 0
+
+
+def _kap_pdr_requires_full_fetch(
+    sess: requests.Session,
+    cached_block: Optional[Dict[str, Any]],
+) -> bool:
+    """True: TEFAS+PDF tam adimi gerekli. False: mevcut JSON blogu yeterli."""
+    if not cached_block:
+        return True
+    dur = cached_block.get("hisse_durumu")
+    if dur == "uygun_degil":
+        return False
+    if dur != "ok":
+        return True
+    lk = str(cached_block.get("kap_link") or "").strip()
+    if not lk:
+        return True
+    latest = _kap_newest_pdr_publish_raw(sess, lk)
+    if latest is None:
+        return True
+    stored = cached_block.get("kap_rapor_tarihi")
+    cmp = _pdr_publish_date_cmp(latest, str(stored) if stored is not None else "")
+    if cmp is None:
+        return True
+    return cmp > 0
 
 
 def _fetch_file_id_from_disclosure_page(sess: requests.Session, disclosure_index: Any) -> Optional[str]:
@@ -1351,7 +1413,19 @@ def merge_one(
             if tip:
                 block["varlik_dagilimi"].append({"tip": tip, "oran": round(oran, 4)})
 
+    if block.get("hisse_durumu") == "ok":
+        block["kap_son_kontrol_iso"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        block["kap_son_kontrol_tip"] = "pdr_guncellendi"
+    else:
+        block.pop("kap_son_kontrol_iso", None)
+        block.pop("kap_son_kontrol_tip", None)
     return block
+
+
+def _stamp_kap_incremental_skip(block: Dict[str, Any]) -> None:
+    """GitHub Pazartesi kontrolunde yeni bildirim yok; Fon Hisse Detay icin kanit."""
+    block["kap_son_kontrol_iso"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    block["kap_son_kontrol_tip"] = "yeni_yok"
 
 
 def _write_per_fund_json(kod: str, block: Dict[str, Any]) -> None:
@@ -1391,6 +1465,97 @@ def _print_ozet_tablo(satirlar: List[Dict[str, Any]]) -> None:
         line = f"{s['kod']:<{col_kod}} {s['etiket']:<{col_et}} {s['hisse_adet']:>{col_n}}  {s['mesaj']:<{col_msg}}"
         print(line, flush=True)
     print("=" * 88, flush=True)
+
+
+def run_incremental(
+    codes_in: List[str],
+    *,
+    delay_s: float,
+    peek_delay_s: float,
+) -> Tuple[Dict[str, Any], List[Dict[str, Any]]]:
+    """KAP'ta bildirim tarihi yenilenmis fonlar icin tam PDR çekimi; digerleri atlanır.
+
+    Atlanan (yeni bildirim yok) fonlara kap_son_kontrol_* damgası eklenir; birlesik kayit hep yazilir.
+
+    Donus:
+      (birlesik_dict, ozet_satirlari)
+    """
+    codes: List[str] = []
+    seen: set[str] = set()
+    for c in codes_in:
+        k = str(c).strip().upper()
+        if k and k not in seen:
+            seen.add(k)
+            codes.append(k)
+
+    sess = _session()
+    old: Dict[str, Any] = {}
+    if OUT_PATH.is_file():
+        try:
+            old = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            old = {}
+    old_fonlar: Dict[str, Any] = old.get("fonlar") or {}
+
+    birlesik: Dict[str, Any] = {
+        "aciklama": old.get("aciklama")
+        or (
+            "TEFAS meta + KAP Portföy Dağılım Raporu PDF'inden okunan gerçek hisse ağırlıkları."
+        ),
+        "guncelleme": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "fonlar": {},
+    }
+
+    refresh: List[str] = []
+    for i, kod in enumerate(codes):
+        if i and peek_delay_s > 0:
+            time.sleep(peek_delay_s)
+        bl_old = old_fonlar.get(kod)
+        if _kap_pdr_requires_full_fetch(sess, bl_old):
+            refresh.append(kod)
+            continue
+        bl_copy = copy.deepcopy(bl_old)
+        if bl_copy.get("hisse_durumu") == "ok":
+            _stamp_kap_incremental_skip(bl_copy)
+        birlesik["fonlar"][kod] = bl_copy
+        _write_per_fund_json(kod, bl_copy)
+
+    if not refresh:
+        print(
+            "[incremental] KAP bildirimi: yeni PDR yok (veya uygun_degil/atlandı); "
+            "TEFAS/Playwright yok — kontrol damgası birleşik dosyaya işlendi.",
+            flush=True,
+        )
+        ozet_kal = [_ozet_satir(k, birlesik["fonlar"][k]) for k in codes if k in birlesik["fonlar"]]
+        return birlesik, ozet_kal
+
+    print(f"[incremental] {len(refresh)}/{len(codes)} fon icin tam PDR/TEFAS yenileniyor.", flush=True)
+
+    client = get_browser_client()
+    BROWSER_REFRESH_EVERY = 25
+    try:
+        for ri, kod in enumerate(refresh):
+            if ri and delay_s > 0:
+                time.sleep(delay_s)
+            if ri and ri % BROWSER_REFRESH_EVERY == 0:
+                try:
+                    print(f"[BROWSER] {ri} fondan sonra TEFAS oturumu yenileniyor...", flush=True)
+                    client.restart()
+                except Exception as e:
+                    print(f"[BROWSER] yenileme hatası: {e}", flush=True)
+            tefas = fetch_tefas_analyze(client, kod)
+            hisse_result = fetch_real_hisse_rows(sess, kod, tefas, log=True)
+            block = merge_one(kod, tefas, hisse_result)
+            birlesik["fonlar"][kod] = block
+            _write_per_fund_json(kod, block)
+    finally:
+        try:
+            close_browser_client()
+        except Exception:
+            pass
+
+    ozet = [_ozet_satir(k, birlesik["fonlar"][k]) for k in codes if k in birlesik["fonlar"]]
+    return birlesik, ozet
 
 
 def run(codes: List[str], delay_s: float = 2.0) -> Tuple[Dict[str, Any], List[Dict[str, Any]]]:
@@ -1448,6 +1613,20 @@ def main() -> int:
         default=2.0,
         help="Fonlar arası bekleme saniye (varsayılan 2, KAP için önerilir)",
     )
+    ap.add_argument(
+        "--sadece-yeni-pdr",
+        action="store_true",
+        help=(
+            "KAP portföy bildirimi en yeni publishDate ile fon_hisse_birlesik.json'daki kap_rapor_tarihi "
+            "aynı/eskiyse tam TEFAS+PDF atlanır. Yeni bildirim yoksa da kontrol tarihi yazılır (Fon Hisse Detay)."
+        ),
+    )
+    ap.add_argument(
+        "--peek-delay",
+        type=float,
+        default=0.35,
+        help="(--sadece-yeni-pdr) KAP istekleri arası saniye — rate limit uyumu (varsayılan 0.35)",
+    )
     args = ap.parse_args()
 
     if args.tum_manifest:
@@ -1463,6 +1642,18 @@ def main() -> int:
             return 1
 
     DATA.mkdir(parents=True, exist_ok=True)
+
+    if args.sadece_yeni_pdr:
+        merged_inc, ozet = run_incremental(
+            codes, delay_s=args.delay, peek_delay_s=args.peek_delay
+        )
+        with OUT_PATH.open("w", encoding="utf-8") as f:
+            json.dump(merged_inc, f, ensure_ascii=False, indent=2)
+        print(f"Yazıldı: {OUT_PATH} (incremental, {len(merged_inc.get('fonlar') or {})} fon)", flush=True)
+        print(f"Fon başı dosya: {DATA / '<KOD>_hisse_pdr.json'}", flush=True)
+        _print_ozet_tablo(ozet)
+        return 0
+
     birlesik, ozet = run(codes, delay_s=args.delay)
     with OUT_PATH.open("w", encoding="utf-8") as f:
         json.dump(birlesik, f, ensure_ascii=False, indent=2)

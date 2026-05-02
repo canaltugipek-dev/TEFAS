@@ -7,7 +7,8 @@ Hisse senedi yoğun fonlar için yerel bir “terminal” arayüzü: getiri eğr
 - **Arayüz:** `index.html` + `script.js` + `style.css`; fon bazlı hisse dağılımı `fon_hisse_detay.js`.
 - **TEFAS getiri / istatistik:** `tefas_scraper.py` → `data/<KOD>_tefas.json`, `data/manifest.json`, `data/benchmarks.json` (Playwright + stealth; TEFAS Next.js API). **Sharpe/Sortino risksiz bacak (`--risk-free-model otomatik`, varsayılan):** Anahtarsız **`tcmb.gov.tr` kamuya açık 1 haftalık repo HTML tablosu**; okunamazsa `--risksiz-faiz` sabiti (varsayılan 0.45). Arayüz yalnızca son `manifest.json`’u okur — `Ctrl+F5` scrape tetiklemez.
 - **KAP portföy dağılımı (PDR):** `fon_hisse_scraper.py` → `data/fon_hisse_birlesik.json` ve `data/<KOD>_hisse_pdr.json`. Metin içermeyen (taranmış) PDF’lerde **OCR** kullanılır; bu fonlar birleşik veride `kaynak_pdr_ocr: true` ile işaretlenir, **Fon Hisse Detay** sayfasında uyarı gösterilir.
-- **Otomasyon:** GitHub Actions **hafta içi** (Pzt–Cu) **TR saati ~12:00**’de tam tarama yapar (`data/` commit). Hafta sonu job yok — borsa kapalı olduğundan günlük NAV genelde güncellenmez. İsteğe bağlı **`workflow_dispatch`** ile `manifest-only` çalıştırılabilir (mevcut JSON + politik/benchmark ile manifest/rasyolar, TEFAS taraması yok). Ayrıntı: `.github/workflows/tefas-daily-scrape.yml`.
+- **PDR incremental:** `--tum-manifest --sadece-yeni-pdr` — **KAP bildirim tarihi** ile `kap_rapor_tarihi` karşılaştırılır; yeni bildirim yoksa **Playwright kullanılmaz**, yine de her fonda **`kap_son_kontrol_iso` / `kap_son_kontrol_tip`** güncellenir (Fon Hisse Detay’da kontrol bilgisi; haftalık job bu yüzden anlamlı commit üretir).
+- **Otomasyon:** **TEFAS / getiri:** GitHub Actions **hafta içi** (~12:00 TR) `tefas_scraper.py` (`data/` commit); `workflow_dispatch` + `manifest-only` opsiyonel. **KAP / hisse Detay:** Ayrı workflow **haftalık Pazartesi** incremental PDR kontrolü (`.github/workflows/kap-pdr-haftalik.yml`), `workflow_dispatch` ile elle çalıştırılabilir.
 
 ## Kurulum (yerel)
 
@@ -33,7 +34,8 @@ Adres: `http://127.0.0.1:8080/`
 | Tüm HSYF getiri + manifest | `.\.venv\Scripts\python tefas_scraper.py` |
 | Tek fon (örnek) | `.\.venv\Scripts\python tefas_scraper.py MAC --gun 365` |
 | KAP hisse çekimi (örnek) | `.\.venv\Scripts\python fon_hisse_scraper.py AAV` |
-| Tüm manifest fonları (KAP) | `.\.venv\Scripts\python fon_hisse_scraper.py --tum-manifest` |
+| Tüm manifest fonları (KAP; tam yenileme) | `.\.venv\Scripts\python fon_hisse_scraper.py --tum-manifest` |
+| Manifest — yalnız yeni KAP bildirimi | `.\.venv\Scripts\python fon_hisse_scraper.py --tum-manifest --sadece-yeni-pdr` |
 
 ## Senden beklenen (varsa)
 

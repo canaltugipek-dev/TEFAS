@@ -175,6 +175,40 @@
       .replace(/"/g, "&quot;");
   }
 
+  /** ISO UTC (...Z) -> güvenli Türkçe tarih (yerel tarih bileşeni) */
+  function fhdKapKontrolTarihiTr(iso) {
+    const s = String(iso || "").trim();
+    if (!s) return "";
+    let d = new Date(s);
+    if (Number.isNaN(d.getTime()) && /^[0-9]{4}-[0-9]{2}-[0-9]{2}/.test(s)) {
+      d = new Date(`${s.slice(0, 10)}T12:00:00Z`);
+    }
+    if (Number.isNaN(d.getTime())) return s;
+    return d.toLocaleDateString("tr-TR", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+      timeZone: "UTC",
+    });
+  }
+
+  function fhdKapKontrolMetni(block) {
+    const tip = String(block.kap_son_kontrol_tip || "").trim();
+    const iso = block.kap_son_kontrol_iso;
+    if (!tip || !iso) return "";
+    const tr = fhdKapKontrolTarihiTr(iso);
+    if (!tr) return "";
+    if (tip === "yeni_yok") {
+      return (
+        `KAP bildirimi ${tr} tarihinde kontrol edildi — güncellenmiş portföy dağılım raporu (PDR) yok.`
+      );
+    }
+    if (tip === "pdr_guncellendi") {
+      return `Son işlem ${tr}: KAP üzerinden güncellenmiş PDR işlendi.`;
+    }
+    return "";
+  }
+
   function fhdFillSelect(selectEl) {
     if (!selectEl) return;
     const opts = ['<option value="">Fon seçin…</option>'];
@@ -193,6 +227,7 @@
     const caption = document.getElementById("fhdChartCaption");
     const note = document.getElementById("fhdVarlikNote");
     const metaEl = document.getElementById("fhdFundMeta");
+    const kapKontrolEl = document.getElementById("fhdKapKontrol");
     const ocrBanner = document.getElementById("fhdOcrBanner");
 
     if (!fhdData || !fhdData.fonlar) {
@@ -200,6 +235,10 @@
       if (ocrBanner) {
         ocrBanner.hidden = true;
         ocrBanner.textContent = "";
+      }
+      if (kapKontrolEl) {
+        kapKontrolEl.hidden = true;
+        kapKontrolEl.textContent = "";
       }
       return;
     }
@@ -216,11 +255,26 @@
       if (caption) caption.textContent = "";
       if (note) note.textContent = "";
       if (metaEl) metaEl.textContent = "";
+      if (kapKontrolEl) {
+        kapKontrolEl.hidden = true;
+        kapKontrolEl.textContent = "";
+      }
       if (ocrBanner) {
         ocrBanner.hidden = true;
         ocrBanner.textContent = "";
       }
       return;
+    }
+
+    if (kapKontrolEl) {
+      const kt = fhdKapKontrolMetni(block);
+      if (kt) {
+        kapKontrolEl.hidden = false;
+        kapKontrolEl.textContent = kt;
+      } else {
+        kapKontrolEl.hidden = true;
+        kapKontrolEl.textContent = "";
+      }
     }
 
     if (ocrBanner) {
