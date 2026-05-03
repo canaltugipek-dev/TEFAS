@@ -289,47 +289,6 @@ body {
   line-height: 1.45;
 }
 
-.dash-card__badge {
-  position: absolute;
-  top: 0.7rem;
-  right: 0.7rem;
-  font-size: 0.62rem;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  padding: 0.18rem 0.48rem;
-  border-radius: 999px;
-  border: 1px solid transparent;
-  line-height: 1.1;
-}
-
-.dash-card__badge--beta {
-  color: #facc15;
-  background: rgba(250, 204, 21, 0.14);
-  border-color: rgba(251, 146, 60, 0.3);
-}
-
-.dash-card__desc--beta-note {
-  color: #a8b8c8;
-}
-
-@keyframes betaGlowPulse {
-  0% {
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 0 rgba(251, 146, 60, 0);
-  }
-  50% {
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 14px rgba(251, 146, 60, 0.16);
-  }
-  100% {
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 0 rgba(251, 146, 60, 0);
-  }
-}
-
-.dash-card--beta:hover {
-  border-color: rgba(251, 146, 60, 0.42);
-  animation: betaGlowPulse 1.45s ease-in-out infinite;
-}
-
 .dashboard-hint {
   font-size: 0.8rem;
   color: var(--text-muted);
@@ -369,6 +328,101 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
+}
+
+/* Fon getiri analizi: Spesifik tarihleri akış dışı — araç çubuğu yüksekliği zıplamasın */
+.period-toolbar--analiz {
+  align-items: flex-start;
+  overflow: visible;
+}
+
+.period-toolbar__analiz-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  z-index: 40;
+  overflow: visible;
+}
+
+.period-toolbar--analiz .period-toolbar__btns {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.period-toolbar__specific-popover {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 0.35rem);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.35rem 0.5rem;
+  padding: 0.55rem 0.7rem;
+  margin: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow:
+    0 10px 28px rgba(0, 0, 0, 0.38),
+    0 0 0 1px rgba(255, 255, 255, 0.04);
+  z-index: 50;
+}
+
+.period-toolbar__specific-popover[hidden] {
+  display: none !important;
+}
+
+.period-toolbar__date-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.period-toolbar__date-cap {
+  font-size: 0.62rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.period-toolbar__date {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  padding: 0.38rem 0.45rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  cursor: pointer;
+  min-height: 2rem;
+}
+
+.period-toolbar__date:focus {
+  outline: none;
+  border-color: rgba(62, 207, 142, 0.45);
+  box-shadow: 0 0 0 2px rgba(62, 207, 142, 0.12);
+}
+
+.period-toolbar__date-sep {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  padding-bottom: 0.35rem;
+  user-select: none;
+}
+
+/* Spesifik popover taşması: Fon rasyoları / karşılaştırma (sticky + overflow) */
+#view-karsilastirma .period-toolbar.period-toolbar--analiz,
+#view-fon-karsilastirma .period-toolbar.period-toolbar--analiz {
+  overflow: visible;
+}
+
+#view-karsilastirma .period-toolbar__analiz-wrap,
+#view-fon-karsilastirma .period-toolbar__analiz-wrap {
+  overflow: visible;
 }
 
 .period-btn {
@@ -897,18 +951,6 @@ body {
   margin-bottom: 0.65rem;
 }
 
-.yildiz-badges {
-  display: flex;
-  align-items: center;
-  gap: 0.55rem;
-  margin-bottom: 0.7rem;
-}
-
-.yildiz-warning {
-  font-size: 0.75rem;
-  color: #a8b8c8;
-}
-
 .yildiz-kriter {
   font-size: 0.8rem;
   color: var(--text-muted);
@@ -1406,6 +1448,24 @@ body {
     max-width: 100%;
     box-sizing: border-box;
     margin-bottom: 1rem;
+    overflow: visible;
+  }
+
+  #view-analiz .period-toolbar__analiz-wrap {
+    overflow: visible;
+  }
+
+  #view-karsilastirma .period-toolbar,
+  #view-fon-karsilastirma .period-toolbar {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: visible;
+  }
+
+  #view-karsilastirma .period-toolbar__analiz-wrap,
+  #view-fon-karsilastirma .period-toolbar__analiz-wrap {
+    overflow: visible;
   }
 
   .layout {

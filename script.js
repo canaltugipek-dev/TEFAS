@@ -4,6 +4,9 @@
  */
 
 const CHART_MAX_POINTS = 260;
+/** Python tefas_scraper.compute_period_stats ile uyumlu */
+const TRADING_DAYS_METRICS = 252;
+const MIN_OBS_METRICS = 20;
 
 const PERIOD_LABELS = {
   "6M": "6 ay",
@@ -11,6 +14,7 @@ const PERIOD_LABELS = {
   "1Y": "1 yıl",
   "3Y": "3 yıl",
   "5Y": "5 yıl",
+  SPECIFIC: "Spesifik aralık",
 };
 
 const NEDEN_TR = {
@@ -85,8 +89,9 @@ function isIndexEquityFund(name) {
 }
 
 let manifest = null;
-let selectedPeriod = "5Y";
+let selectedPeriod = "1Y";
 let currentView = "dashboard";
+let statsTableRenderToken = 0;
 let activeFundMeta = null;
 /** @type {{ t: number[], p: number[] } | null} */
 let fullSeriesCache = null;
@@ -231,6 +236,289 @@ function periodStartMs(lastMs, period) {
     return s.getTime();
   }
   return 0;
+}
+
+function ymdLocalFromDate(d) {
+  if (!d || Number.isNaN(d.getTime())) return "";
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+function parseDateInputLocalStartMs(isoYmd) {
+  const p = String(isoYmd)
+    .slice(0, 10)
+    .split("-")
+    .map((x) => parseInt(x, 10));
+  if (p.length !== 3 || p.some((x) => Number.isNaN(x))) return NaN;
+  const d = new Date(p[0], p[1] - 1, p[2], 0, 0, 0, 0);
+  return d.getTime();
+}
+
+function parseDateInputLocalEndInclusive(isoYmd) {
+  const p = String(isoYmd)
+    .slice(0, 10)
+    .split("-")
+    .map((x) => parseInt(x, 10));
+  if (p.length !== 3 || p.some((x) => Number.isNaN(x))) return NaN;
+  const d = new Date(p[0], p[1] - 1, p[2], 23, 59, 59, 999);
+  return d.getTime();
+}
+
+function readGlobalSpecificRangeFromInputs() {
+  const startEl = document.querySelector(".js-specific-start");
+  const endEl = document.querySelector(".js-specific-end");
+  if (!startEl || !endEl) return null;
+  const s = String(startEl.value || "").trim();
+  const e = String(endEl.value || "").trim();
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(s) || !/^\d{4}-\d{2}-\d{2}$/.test(e)) return null;
+  const startMs = parseDateInputLocalStartMs(s);
+  const endMs = parseDateInputLocalEndInclusive(e);
+  if (!Number.isFinite(startMs) || !Number.isFinite(endMs) || startMs > endMs) return null;
+  return { startMs, endMs, startIso: s, endIso: e };
+}
+
+function setAllSpecificDateInputs(startIso, endIso) {
+  document.querySelectorAll(".js-specific-start").forEach((el) => {
+    el.value = startIso;
+  });
+  document.querySelectorAll(".js-specific-end").forEach((el) => {
+    el.value = endIso;
+  });
+}
+
+function ensureGlobalSpecificDatesDefault() {
+  const starts = document.querySelectorAll(".js-specific-start");
+  const ends = document.querySelectorAll(".js-specific-end");
+  if (!starts.length || !ends.length) return;
+  if (starts[0].value && ends[0].value) return;
+  let endStr = "";
+  let startStr = "";
+  if (fullSeriesCache && fullSeriesCache.t.length) {
+    const lastMs = fullSeriesCache.t[fullSeriesCache.t.length - 1];
+    const lastD = new Date(lastMs);
+    endStr = ymdLocalFromDate(lastD);
+    const startD = new Date(lastMs);
+    startD.setFullYear(startD.getFullYear() - 1);
+    startStr = ymdLocalFromDate(startD);
+  } else if (manifest && manifest.guncelleme) {
+    const g = String(manifest.guncelleme).slice(0, 10);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(g)) {
+      endStr = g;
+      const d = new Date(parseInt(g.slice(0, 4), 10), parseInt(g.slice(5, 7), 10) - 1, parseInt(g.slice(8, 10), 10));
+      d.setFullYear(d.getFullYear() - 1);
+      startStr = ymdLocalFromDate(d);
+    }
+  }
+  if (endStr && startStr) setAllSpecificDateInputs(startStr, endStr);
+}
+
+function getPeriodHintText() {
+  if (selectedPeriod !== "SPECIFIC") return PERIOD_LABELS[selectedPeriod] || selectedPeriod;
+  const r = readGlobalSpecificRangeFromInputs();
+  if (!r) return PERIOD_LABELS.SPECIFIC || "Spesifik";
+  const ps = r.startIso.split("-").map((x) => parseInt(x, 10));
+  const pe = r.endIso.split("-").map((x) => parseInt(x, 10));
+  const sd = new Date(ps[0], ps[1] - 1, ps[2]);
+  const ed = new Date(pe[0], pe[1] - 1, pe[2]);
+  return `${formatLabelTr(sd)}–${formatLabelTr(ed)}`;
+}
+
+function isoYmdLocalFromMs(ms) {
+  const d = new Date(ms);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+function annualPolicyDecimalFromBench(bench, isoYmd) {
+  if (!bench || !isoYmd) return null;
+  const yPct = Number(bench.risksiz_faiz_yillik) * 100;
+  const pPct = politikOranTcmbBul(
+    bench.politika_faizi_degisimleri,
+    bench.politika_faizi_ay_sonu,
+    isoYmd,
+    yPct
+  );
+  if (pPct != null && Number.isFinite(pPct)) return pPct / 100;
+  const rf = Number(bench.risksiz_faiz_yillik);
+  return Number.isFinite(rf) ? rf : null;
+}
+
+function linearRegressionSlopeIntercept(xs, ys) {
+  const n = xs.length;
+  if (n < 2 || n !== ys.length) return { slope: 0, intercept: 0 };
+  let sx = 0;
+  let sy = 0;
+  let sxx = 0;
+  let sxy = 0;
+  for (let i = 0; i < n; i++) {
+    sx += xs[i];
+    sy += ys[i];
+    sxx += xs[i] * xs[i];
+    sxy += xs[i] * ys[i];
+  }
+  const denom = n * sxx - sx * sx;
+  if (Math.abs(denom) < 1e-18) return { slope: 0, intercept: 0 };
+  const slope = (n * sxy - sx * sy) / denom;
+  const intercept = (sy - slope * sx) / n;
+  return { slope, intercept };
+}
+
+/**
+ * Python compute_period_stats ile aynı mantık: fon + BIST100 günlük getiri, TCMB politika faizi
+ * (manifest) günlük bileşik risksiz, CAPM alpha (günlük intercept yıllandırılmış).
+ */
+function computeStatsForSpecificWindow(fundSeries, bench) {
+  const out = { sharpe: null, sortino: null, alpha: null, max_drawdown: null };
+  if (!fundSeries || !fundSeries.t || fundSeries.t.length < 2 || !bench) return out;
+  const r = readGlobalSpecificRangeFromInputs();
+  if (!r) return out;
+
+  const idx = [];
+  for (let i = 0; i < fundSeries.t.length; i++) {
+    if (fundSeries.t[i] >= r.startMs && fundSeries.t[i] <= r.endMs) idx.push(i);
+  }
+  if (idx.length < MIN_OBS_METRICS) return out;
+
+  const bs = getBenchmarkSeriesByKey("bist100");
+  if (!bs || !bs.t || bs.t.length < 2) return out;
+
+  const tRaw = idx.map((i) => fundSeries.t[i]);
+  const pRaw = idx.map((i) => fundSeries.p[i]);
+  const mRaw = tRaw.map((t) => benchmarkValueAsOf(bs, t));
+  let lastM = null;
+  for (let i = 0; i < mRaw.length; i++) {
+    if (mRaw[i] != null && Number.isFinite(mRaw[i]) && mRaw[i] > 0) lastM = mRaw[i];
+    else if (lastM != null) mRaw[i] = lastM;
+  }
+  let nextM = null;
+  for (let i = mRaw.length - 1; i >= 0; i--) {
+    if (mRaw[i] != null && Number.isFinite(mRaw[i]) && mRaw[i] > 0) nextM = mRaw[i];
+    else if (nextM != null) mRaw[i] = nextM;
+  }
+
+  const tArr = [];
+  const pArr = [];
+  const mArr = [];
+  for (let i = 0; i < pRaw.length; i++) {
+    const pv = pRaw[i];
+    const mv = mRaw[i];
+    if (pv > 0 && mv != null && Number.isFinite(mv) && mv > 0) {
+      tArr.push(tRaw[i]);
+      pArr.push(pv);
+      mArr.push(mv);
+    }
+  }
+  if (tArr.length < MIN_OBS_METRICS) return out;
+
+  const rfConst = Number(bench.risksiz_faiz_yillik);
+  const constD =
+    Number.isFinite(rfConst) && rfConst > 0 ? Math.pow(1 + rfConst, 1 / TRADING_DAYS_METRICS) - 1 : 0;
+
+  const retF = [];
+  const retM = [];
+  const rfAt = [];
+  for (let i = 1; i < pArr.length; i++) {
+    if (pArr[i - 1] <= 0 || pArr[i] <= 0) continue;
+    if (mArr[i - 1] <= 0 || mArr[i] <= 0) continue;
+    const isoEnd = isoYmdLocalFromMs(tArr[i]);
+    const annDec = annualPolicyDecimalFromBench(bench, isoEnd);
+    const dec = annDec != null && Number.isFinite(annDec) ? annDec : rfConst;
+    const rfD =
+      dec != null && Number.isFinite(dec) && dec > 0
+        ? Math.pow(1 + dec, 1 / TRADING_DAYS_METRICS) - 1
+        : constD;
+    retF.push(pArr[i] / pArr[i - 1] - 1);
+    retM.push(mArr[i] / mArr[i - 1] - 1);
+    rfAt.push(rfD);
+  }
+
+  if (retF.length < MIN_OBS_METRICS) return out;
+
+  const excess = retF.map((rv, j) => rv - rfAt[j]);
+  const mean = excess.reduce((a, b) => a + b, 0) / excess.length;
+  const variance = excess.reduce((a, e) => a + (e - mean) ** 2, 0) / Math.max(1, excess.length - 1);
+  const std = Math.sqrt(Math.max(variance, 0));
+  if (std > 1e-12) {
+    out.sharpe = Number(((Math.sqrt(TRADING_DAYS_METRICS) * mean) / std).toFixed(6));
+  }
+
+  const negExc = excess.map((e) => Math.min(0, e));
+  const ddev = Math.sqrt(negExc.reduce((a, e) => a + e * e, 0) / negExc.length);
+  if (ddev > 1e-12) {
+    out.sortino = Number(((Math.sqrt(TRADING_DAYS_METRICS) * mean) / ddev).toFixed(6));
+  }
+
+  const xm = retM.map((rm, j) => rm - rfAt[j]);
+  const yv = excess;
+  const xmF = [];
+  const yvF = [];
+  for (let j = 0; j < xm.length; j++) {
+    if (Number.isFinite(xm[j]) && Number.isFinite(yv[j])) {
+      xmF.push(xm[j]);
+      yvF.push(yv[j]);
+    }
+  }
+  const { intercept } = linearRegressionSlopeIntercept(xmF, yvF);
+  if (Number.isFinite(intercept) && xmF.length >= MIN_OBS_METRICS) {
+    out.alpha = Number((Math.pow(1 + intercept, TRADING_DAYS_METRICS) - 1).toFixed(6));
+  }
+
+  const p0 = pArr[0];
+  if (p0 > 0) {
+    let peak = 1;
+    let minDd = 0;
+    for (let i = 0; i < pArr.length; i++) {
+      const px = pArr[i] / p0;
+      if (px > peak) peak = px;
+      const dd = px / peak - 1;
+      if (dd < minDd) minDd = dd;
+    }
+    out.max_drawdown = Number(minDd.toFixed(6));
+  }
+
+  return out;
+}
+
+function sliceSeriesByCustomRange(full, startMs, endMs) {
+  if (!full || !full.t.length) return null;
+  if (!Number.isFinite(startMs) || !Number.isFinite(endMs) || startMs > endMs) return null;
+  const idx = [];
+  for (let i = 0; i < full.t.length; i++) {
+    if (full.t[i] >= startMs && full.t[i] <= endMs) idx.push(i);
+  }
+  if (idx.length < 2) return null;
+  const p0 = full.p[idx[0]];
+  if (!p0 || p0 <= 0) return null;
+  const labels = [];
+  const values = [];
+  for (const i of idx) {
+    labels.push(formatLabelTr(new Date(full.t[i])));
+    values.push(Number(((full.p[i] / p0) * 100).toFixed(4)));
+  }
+  const totalReturn = ((values[values.length - 1] - 100) / 100) * 100;
+  return { labels, values, totalReturn, t: idx.map((i) => full.t[i]) };
+}
+
+function sliceFundSeriesForSelectedPeriod(full) {
+  if (!full || !full.t.length) return null;
+  if (selectedPeriod === "SPECIFIC") {
+    ensureGlobalSpecificDatesDefault();
+    const r = readGlobalSpecificRangeFromInputs();
+    if (!r) return null;
+    return sliceSeriesByCustomRange(full, r.startMs, r.endMs);
+  }
+  return sliceSeriesByPeriod(full, selectedPeriod);
+}
+
+function seriesReturnForSelectedPeriodSlice(series) {
+  if (!series || !series.t || series.t.length < 2) return null;
+  if (selectedPeriod === "SPECIFIC") {
+    ensureGlobalSpecificDatesDefault();
+    const r = readGlobalSpecificRangeFromInputs();
+    if (!r) return null;
+    const s = sliceSeriesByCustomRange(series, r.startMs, r.endMs);
+    return s ? s.totalReturn : null;
+  }
+  const s = sliceSeriesByPeriod(series, selectedPeriod);
+  return s ? s.totalReturn : null;
 }
 
 function sliceSeriesByPeriod(full, period) {
@@ -387,11 +675,13 @@ function setSummaryValue(elId, pct) {
 
 function applyPeriodToChart() {
   const hint = document.getElementById("chartPeriodHint");
-  if (hint) hint.textContent = PERIOD_LABELS[selectedPeriod] || selectedPeriod;
+  if (fullSeriesCache && selectedPeriod === "SPECIFIC") ensureGlobalSpecificDatesDefault();
+  if (hint) hint.textContent = getPeriodHintText();
 
   if (!fullSeriesCache) return;
-  const sliced = sliceSeriesByPeriod(fullSeriesCache, selectedPeriod);
+  const sliced = sliceFundSeriesForSelectedPeriod(fullSeriesCache);
   const retEl = document.getElementById("mockReturn");
+  const periodHint = getPeriodHintText();
 
   if (!sliced) {
     setChartArea(false);
@@ -401,7 +691,10 @@ function applyPeriodToChart() {
     }
     const ph = document.getElementById("chartPlaceholder");
     if (ph) {
-      ph.textContent = "Seçilen dönem için yeterli veri yok.";
+      ph.textContent =
+        selectedPeriod === "SPECIFIC"
+          ? "Geçerli bir tarih aralığı seçin veya bu aralıkta yeterli işlem günü yok."
+          : "Seçilen dönem için yeterli veri yok.";
       ph.classList.remove("hidden");
     }
     if (retEl) {
@@ -418,7 +711,7 @@ function applyPeriodToChart() {
   const { labels: dl, values: dv } = downsampleSeries(sliced.labels, sliced.values, CHART_MAX_POINTS);
   const sign = sliced.totalReturn >= 0 ? "+" : "";
   if (retEl) {
-    retEl.textContent = `${sign}${sliced.totalReturn.toFixed(2)}% (${PERIOD_LABELS[selectedPeriod] || selectedPeriod}, baz 100)`;
+    retEl.textContent = `${sign}${sliced.totalReturn.toFixed(2)}% (${periodHint}, baz 100)`;
     retEl.classList.remove("positive", "negative");
     retEl.classList.add(sliced.totalReturn >= 0 ? "positive" : "negative");
   }
@@ -426,7 +719,7 @@ function applyPeriodToChart() {
   document.getElementById("chartPlaceholder").textContent = "";
   const datasets = [
     {
-      label: `Fon — ${PERIOD_LABELS[selectedPeriod] || selectedPeriod}`,
+      label: `Fon — ${periodHint}`,
       data: dv,
       borderColor: "#3ecf8e",
       backgroundColor: "rgba(62, 207, 142, 0.12)",
@@ -468,9 +761,9 @@ function applyPeriodToChart() {
   renderChart(dl, datasets);
 
   setSummaryValue("summaryFundReturn", sliced.totalReturn);
-  setSummaryValue("summaryUsdReturn", seriesReturnPct(getBenchmarkSeriesByKey("usd"), selectedPeriod));
-  setSummaryValue("summaryBistReturn", seriesReturnPct(getBenchmarkSeriesByKey("bist100"), selectedPeriod));
-  setSummaryValue("summaryTufeReturn", seriesReturnPct(getBenchmarkSeriesByKey("tufe"), selectedPeriod));
+  setSummaryValue("summaryUsdReturn", seriesReturnForSelectedPeriodSlice(getBenchmarkSeriesByKey("usd")));
+  setSummaryValue("summaryBistReturn", seriesReturnForSelectedPeriodSlice(getBenchmarkSeriesByKey("bist100")));
+  setSummaryValue("summaryTufeReturn", seriesReturnForSelectedPeriodSlice(getBenchmarkSeriesByKey("tufe")));
 }
 
 async function loadFundBundle(fundMeta) {
@@ -620,11 +913,19 @@ async function getFundSeriesByCode(kod) {
 
 function computePeriodReturnAndVol(series, period) {
   if (!series || !series.t || series.t.length < 2) return { periodReturn: null, volatility: null };
-  const last = series.t[series.t.length - 1];
-  const cut = periodStartMs(last, period);
   const prices = [];
-  for (let i = 0; i < series.t.length; i++) {
-    if (series.t[i] >= cut) prices.push(series.p[i]);
+  if (period === "SPECIFIC") {
+    const r = readGlobalSpecificRangeFromInputs();
+    if (!r) return { periodReturn: null, volatility: null };
+    for (let i = 0; i < series.t.length; i++) {
+      if (series.t[i] >= r.startMs && series.t[i] <= r.endMs) prices.push(series.p[i]);
+    }
+  } else {
+    const last = series.t[series.t.length - 1];
+    const cut = periodStartMs(last, period);
+    for (let i = 0; i < series.t.length; i++) {
+      if (series.t[i] >= cut) prices.push(series.p[i]);
+    }
   }
   if (prices.length < 2 || prices[0] <= 0) return { periodReturn: null, volatility: null };
 
@@ -745,6 +1046,7 @@ async function renderMultiCompareTable() {
   const tbody = document.getElementById("compareTableBody");
   if (!tbody || !manifest) return;
   const token = ++compareRenderToken;
+  if (selectedPeriod === "SPECIFIC") ensureGlobalSpecificDatesDefault();
   tbody.innerHTML = `<div class="compare-matrix-wrap"><div class="terminal-grid__row terminal-grid__row--loading" role="row"><div class="terminal-grid__cell terminal-grid__cell--span-full terminal-grid__cell--loading" role="status">Yükleniyor...</div></div></div><div class="compare-cards-wrap" role="list"></div>`;
   const selected = getSelectedCompareRows();
   const headIds = ["compareHead1", "compareHead2", "compareHead3", "compareHead4", "compareHead5"];
@@ -762,7 +1064,25 @@ async function renderMultiCompareTable() {
   );
   if (token !== compareRenderToken) return;
 
-  const statsFor = (f) => (f && f.stats && f.stats[selectedPeriod] ? f.stats[selectedPeriod] : {});
+  let specificStatsList = [];
+  if (selectedPeriod === "SPECIFIC" && readGlobalSpecificRangeFromInputs()) {
+    const bench = manifest.benchmarks || {};
+    specificStatsList = await Promise.all(
+      selected.map(async (f) => {
+        if (!f) return {};
+        const series = await getFundSeriesByCode(f.kod);
+        return computeStatsForSpecificWindow(series, bench);
+      })
+    );
+    if (token !== compareRenderToken) return;
+  }
+
+  const statsFor = (f, idx) => {
+    if (selectedPeriod === "SPECIFIC" && f && specificStatsList[idx]) {
+      return specificStatsList[idx];
+    }
+    return f && f.stats && f.stats[selectedPeriod] ? f.stats[selectedPeriod] : {};
+  };
   const rowDefs = [
     {
       label: "Dönem Getirisi",
@@ -794,7 +1114,7 @@ async function renderMultiCompareTable() {
     .map((rowDef) => {
       const cells = selected
         .map((f, idx) => {
-          const st = statsFor(f);
+          const st = statsFor(f, idx);
           return `<div class="terminal-grid__cell terminal-grid__cell--col-num">${rowDef.render(st, idx)}</div>`;
         })
         .join("");
@@ -817,7 +1137,7 @@ function wrapCompareRatioHtml(html) {
 /** Mobil: fon karşılaştırma list-kartı (Fon rasyoları ile aynı grid/hiyerarşi). */
 function buildCompareFundCard(f, idx, computed, statsFor) {
   if (!f) return "";
-  const st = statsFor(f);
+  const st = statsFor(f, idx);
   const pr = computed[idx];
   const periodReturnHtml = fmtPercent(numOrNull(pr.periodReturn));
   const volHtml = fmtVolatilityRisk(numOrNull(pr.volatility));
@@ -943,17 +1263,29 @@ function showView(route) {
   if (route === "analiz" && activeFundMeta && fullSeriesCache) applyPeriodToChart();
 }
 
-function syncPeriodButtons() {
-  document.querySelectorAll(".period-toolbar .period-btn").forEach((btn) => {
-    btn.classList.toggle("is-active", btn.dataset.period === selectedPeriod);
+function updateSpecificPopoversVisibility() {
+  document.querySelectorAll(".period-toolbar__specific-popover").forEach((el) => {
+    el.hidden = selectedPeriod !== "SPECIFIC";
   });
 }
 
+function syncPeriodButtons() {
+  document
+    .querySelectorAll(
+      "#periodToolbarAnaliz .period-btn, #periodToolbarKarsilastirma .period-btn, #periodToolbarFonKarsilastirma .period-btn"
+    )
+    .forEach((btn) => {
+      btn.classList.toggle("is-active", btn.dataset.period === selectedPeriod);
+    });
+}
+
 function setPeriod(p) {
-  selectedPeriod = p;
+  selectedPeriod = String(p || "").trim() || "1Y";
+  updateSpecificPopoversVisibility();
+  if (selectedPeriod === "SPECIFIC") ensureGlobalSpecificDatesDefault();
   syncPeriodButtons();
   populateCompareSelectors();
-  if (currentView === "analiz") applyPeriodToChart();
+  if (currentView === "analiz" && fullSeriesCache) applyPeriodToChart();
   if (currentView === "karsilastirma") {
     renderStatsTable();
   }
@@ -1138,6 +1470,12 @@ function minGunKapsamiForRatioPeriod(period, manifestSnapshot) {
     if (hedef5 != null && hedef5 > 0) return Math.round(hedef5);
     return 1760;
   }
+  if (period === "SPECIFIC") {
+    const r = readGlobalSpecificRangeFromInputs();
+    if (!r) return 999999;
+    const spanCal = Math.ceil((r.endMs - r.startMs) / 86400000) + 1;
+    return Math.max(MIN_OBS_METRICS, Math.min(spanCal * 2, 4000));
+  }
   return 0;
 }
 
@@ -1243,17 +1581,25 @@ function policyPctFromMonthlyAtOrBefore(monthAsc, isoYmd) {
 }
 
 function formatRisksizBenchHint(bench, selectedPeriodHint, mf) {
-  const periodKey = selectedPeriodHint || "5Y";
+  const periodKey = selectedPeriodHint || "1Y";
   if (!bench || bench.risksiz_faiz_yillik == null) return "";
   const yPct = Number(bench.risksiz_faiz_yillik) * 100;
-  const lbl = PERIOD_LABELS[periodKey] || periodKey;
+  const lbl = periodKey === "SPECIFIC" ? getPeriodHintText() : PERIOD_LABELS[periodKey] || periodKey;
   const endIso = benchmarkEndIsoYmd(bench, mf);
   const ch = bench.politika_faizi_degisimleri;
   const ay = bench.politika_faizi_ay_sonu;
 
   if (bench.risksiz_kaynak === "tcmb_repo_tablosu" || bench.risksiz_kaynak === "tcmb_evds_policy") {
-    const basIso = periodStartIsoFromEnd(endIso, periodKey);
-    const sonPct = politikOranTcmbBul(ch, ay, endIso, yPct);
+    let basIso = "";
+    if (periodKey === "SPECIFIC") {
+      const r = readGlobalSpecificRangeFromInputs();
+      basIso = r ? r.startIso : "";
+    } else {
+      basIso = periodStartIsoFromEnd(endIso, periodKey);
+    }
+    const endForSon =
+      periodKey === "SPECIFIC" ? (readGlobalSpecificRangeFromInputs()?.endIso || endIso) : endIso;
+    const sonPct = politikOranTcmbBul(ch, ay, endForSon, yPct);
     const basPct = basIso ? politikOranTcmbBul(ch, ay, basIso, yPct) : null;
     if (sonPct == null) return `Risksiz (TCMB, ${lbl}): —`;
     const sonStr = sonPct.toFixed(1);
@@ -1268,44 +1614,9 @@ function formatRisksizBenchHint(bench, selectedPeriodHint, mf) {
   return `Risksiz (sabit): %${yPct.toFixed(0)}/yıl`;
 }
 
-function renderStatsTable() {
+function renderStatsTableBodyFromRows(rows) {
   const tbody = document.getElementById("statsTableBody");
-  const hint = document.getElementById("tableBenchmarkHint");
-  if (!tbody || !manifest) return;
-
-  const b = manifest.benchmarks || {};
-  const rf = formatRisksizBenchHint(b, selectedPeriod, manifest);
-  const xu = b.xu100_son != null ? ` · ${b.bist100_ticker || "XU100"} son: ${Number(b.xu100_son).toFixed(2)}` : "";
-  const us = b.usdtry_son != null ? ` · USD/TRY: ${Number(b.usdtry_son).toFixed(4)}` : "";
-  if (hint) {
-    hint.textContent = `${rf}${xu}${us}`.trim() || (b.aciklama || "");
-  }
-
-  document.querySelectorAll("#statsTableGrid .terminal-grid__cell--sortable").forEach((cell) => {
-    cell.classList.toggle("is-sorted", cell.dataset.sort === tableSortKey);
-  });
-
-  const rows = manifest.fonlar.filter((f) => fundHasEnoughHistoryForRatioPeriod(f, selectedPeriod, manifest)).map((f) => {
-    const st = (f.stats && f.stats[selectedPeriod]) || {};
-    return {
-      kod: f.kod,
-      sharpe: numOrNull(st.sharpe),
-      sortino: numOrNull(st.sortino),
-      alpha: numOrNull(st.alpha),
-      max_drawdown: numOrNull(st.max_drawdown),
-    };
-  });
-
-  rows.sort((a, b) => {
-    if (tableSortKey === "kod") return String(b.kod).localeCompare(String(a.kod));
-    const va = a[tableSortKey];
-    const vb = b[tableSortKey];
-    if (va == null && vb == null) return 0;
-    if (va == null) return 1;
-    if (vb == null) return -1;
-    return vb - va;
-  });
-
+  if (!tbody) return;
   tbody.innerHTML = rows
     .map((r) => {
       const sh = formatSharpeSortinoCell(r.sharpe);
@@ -1341,10 +1652,101 @@ function renderStatsTable() {
     .join("");
 }
 
-function wirePeriodToolbars() {
-  document.querySelectorAll(".period-toolbar .period-btn").forEach((btn) => {
-    btn.addEventListener("click", () => setPeriod(btn.dataset.period));
+async function renderStatsTable() {
+  const tbody = document.getElementById("statsTableBody");
+  const hint = document.getElementById("tableBenchmarkHint");
+  if (!tbody || !manifest) return;
+  const token = ++statsTableRenderToken;
+
+  const b = manifest.benchmarks || {};
+  const rf = formatRisksizBenchHint(b, selectedPeriod, manifest);
+  const xu = b.xu100_son != null ? ` · ${b.bist100_ticker || "XU100"} son: ${Number(b.xu100_son).toFixed(2)}` : "";
+  const us = b.usdtry_son != null ? ` · USD/TRY: ${Number(b.usdtry_son).toFixed(4)}` : "";
+  if (hint) {
+    hint.textContent = `${rf}${xu}${us}`.trim() || (b.aciklama || "");
+  }
+
+  document.querySelectorAll("#statsTableGrid .terminal-grid__cell--sortable").forEach((cell) => {
+    cell.classList.toggle("is-sorted", cell.dataset.sort === tableSortKey);
   });
+
+  if (selectedPeriod !== "SPECIFIC") {
+    const rows = manifest.fonlar
+      .filter((f) => fundHasEnoughHistoryForRatioPeriod(f, selectedPeriod, manifest))
+      .map((f) => {
+        const st = (f.stats && f.stats[selectedPeriod]) || {};
+        return {
+          kod: f.kod,
+          sharpe: numOrNull(st.sharpe),
+          sortino: numOrNull(st.sortino),
+          alpha: numOrNull(st.alpha),
+          max_drawdown: numOrNull(st.max_drawdown),
+        };
+      });
+    rows.sort(statsTableSortFn);
+    if (token !== statsTableRenderToken) return;
+    renderStatsTableBodyFromRows(rows);
+    return;
+  }
+
+  ensureGlobalSpecificDatesDefault();
+  const range = readGlobalSpecificRangeFromInputs();
+  if (!range) {
+    tbody.innerHTML =
+      '<div class="ratio-card ratio-card--empty" role="status">Spesifik dönem için başlangıç ve bitiş tarihlerini seçin.</div>';
+    return;
+  }
+
+  tbody.innerHTML =
+    '<div class="ratio-card ratio-card--empty" role="status">Spesifik metrikler hesaplanıyor…</div>';
+
+  const bench = manifest.benchmarks || {};
+  const candidates = manifest.fonlar.filter((f) => fundHasEnoughHistoryForRatioPeriod(f, "SPECIFIC", manifest));
+  const rows = [];
+  for (const f of candidates) {
+    if (token !== statsTableRenderToken) return;
+    const series = await getFundSeriesByCode(f.kod);
+    const st = computeStatsForSpecificWindow(series, bench);
+    const hasAny =
+      st.sharpe != null || st.sortino != null || st.alpha != null || st.max_drawdown != null;
+    if (hasAny) {
+      rows.push({
+        kod: f.kod,
+        sharpe: numOrNull(st.sharpe),
+        sortino: numOrNull(st.sortino),
+        alpha: numOrNull(st.alpha),
+        max_drawdown: numOrNull(st.max_drawdown),
+      });
+    }
+  }
+  rows.sort(statsTableSortFn);
+  if (token !== statsTableRenderToken) return;
+  if (!rows.length) {
+    tbody.innerHTML =
+      '<div class="ratio-card ratio-card--empty" role="status">Bu aralıkta yeterli gözlem olan fon bulunamadı.</div>';
+    return;
+  }
+  renderStatsTableBodyFromRows(rows);
+}
+
+function statsTableSortFn(a, b) {
+  if (tableSortKey === "kod") return String(b.kod).localeCompare(String(a.kod));
+  const va = a[tableSortKey];
+  const vb = b[tableSortKey];
+  if (va == null && vb == null) return 0;
+  if (va == null) return 1;
+  if (vb == null) return -1;
+  return vb - va;
+}
+
+function wirePeriodToolbars() {
+  document
+    .querySelectorAll(
+      "#periodToolbarAnaliz .period-btn, #periodToolbarKarsilastirma .period-btn, #periodToolbarFonKarsilastirma .period-btn"
+    )
+    .forEach((btn) => {
+      btn.addEventListener("click", () => setPeriod(btn.dataset.period));
+    });
 }
 
 function wireNav() {
@@ -1369,6 +1771,7 @@ async function init() {
   wireNav();
   wirePeriodToolbars();
   wireTableSort();
+  updateSpecificPopoversVisibility();
   syncPeriodButtons();
   showView("dashboard");
 
@@ -1390,6 +1793,22 @@ async function init() {
       if (currentView === "analiz" && activeFundMeta && fullSeriesCache) applyPeriodToChart();
     });
   }
+  document.querySelectorAll(".js-specific-start, .js-specific-end").forEach((el) => {
+    el.addEventListener("change", () => {
+      const start = document.querySelector(".js-specific-start")?.value || "";
+      const end = document.querySelector(".js-specific-end")?.value || "";
+      document.querySelectorAll(".js-specific-start").forEach((x) => {
+        x.value = start;
+      });
+      document.querySelectorAll(".js-specific-end").forEach((x) => {
+        x.value = end;
+      });
+      if (selectedPeriod !== "SPECIFIC") return;
+      if (currentView === "analiz" && fullSeriesCache) applyPeriodToChart();
+      if (currentView === "karsilastirma") renderStatsTable();
+      if (currentView === "fon-karsilastirma") renderMultiCompareTable();
+    });
+  });
   populateCompareSelectors();
   const multiCompareRoot = document.getElementById("multiCompareRoot");
   if (multiCompareRoot) {

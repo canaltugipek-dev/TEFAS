@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css?v=20260426" />
+  <link rel="stylesheet" href="style.css?v=20260502stable" />
   <link rel="stylesheet" href="fon_hisse_detay.css?v=20260502b" />
 </head>
 <body>
@@ -59,33 +59,43 @@
           <span class="dash-card__label">Fon Karşılaştırma</span>
           <span class="dash-card__desc">5 farklı fon seçin, getiri/risk rasyolarını yan yana kıyaslayın.</span>
         </button>
-        <button type="button" class="dash-card dash-card--secondary dash-card--beta" data-route="fon-hisse-detay">
-          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
+        <button type="button" class="dash-card dash-card--secondary" data-route="fon-hisse-detay">
           <span class="dash-card__icon" aria-hidden="true">◔</span>
           <span class="dash-card__label">Fon Hisse Detay</span>
           <span class="dash-card__desc">Portföy dağılımı: halka grafik ve hisse ağırlıkları (TEFAS + manuel veri).</span>
-          <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
         </button>
-        <button type="button" class="dash-card dash-card--secondary dash-card--beta" data-route="yildiz-fonlar">
-          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
+        <button type="button" class="dash-card dash-card--secondary" data-route="yildiz-fonlar">
           <span class="dash-card__icon" aria-hidden="true">★</span>
           <span class="dash-card__label">Yıldız Fonlar</span>
           <span class="dash-card__desc">3 ve 5 yıllık istikrar, alpha ve risk metriklerine göre seçilmiş fonlar.</span>
-          <span class="dash-card__desc dash-card__desc--beta-note">⚠️ Henüz geliştirme aşamasındadır.</span>
         </button>
       </div>
       <p class="dashboard-hint">Veri: <code>.venv/Scripts/python tefas_scraper.py</code> (varsayılan risksiz: TCMB’nin kamuya açık 1 haftalık repo tablosu; <code>--manifest-yenile</code> ile JSON’dan manifest). Sunucu: <code>.venv/Scripts/python -m http.server 8080</code> → <code>http://localhost:8080</code></p>
     </section>
 
     <section id="view-analiz" class="view-section hidden">
-      <div class="period-toolbar" id="periodToolbarAnaliz" aria-label="Dönem seçimi">
+      <div class="period-toolbar period-toolbar--analiz" id="periodToolbarAnaliz" aria-label="Dönem seçimi">
         <span class="period-toolbar__label">Dönem</span>
-        <div class="period-toolbar__btns">
-          <button type="button" class="period-btn" data-period="6M">6A</button>
-          <button type="button" class="period-btn" data-period="YTD">YTD</button>
-          <button type="button" class="period-btn" data-period="1Y">1Y</button>
-          <button type="button" class="period-btn" data-period="3Y">3Y</button>
-          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        <div class="period-toolbar__analiz-wrap">
+          <div class="period-toolbar__btns">
+            <button type="button" class="period-btn" data-period="6M">6A</button>
+            <button type="button" class="period-btn" data-period="YTD">YTD</button>
+            <button type="button" class="period-btn is-active" data-period="1Y">1Y</button>
+            <button type="button" class="period-btn" data-period="3Y">3Y</button>
+            <button type="button" class="period-btn" data-period="5Y">5Y</button>
+            <button type="button" class="period-btn" data-period="SPECIFIC">Spesifik</button>
+          </div>
+          <div id="analizSpecificRange" class="period-toolbar__specific-popover" hidden>
+            <label class="period-toolbar__date-wrap" aria-label="Başlangıç tarihi">
+              <span class="period-toolbar__date-cap">Başlangıç</span>
+              <input type="date" class="period-toolbar__date js-specific-start" />
+            </label>
+            <span class="period-toolbar__date-sep" aria-hidden="true">—</span>
+            <label class="period-toolbar__date-wrap" aria-label="Bitiş tarihi">
+              <span class="period-toolbar__date-cap">Bitiş</span>
+              <input type="date" class="period-toolbar__date js-specific-end" />
+            </label>
+          </div>
         </div>
       </div>
       <div class="layout">
@@ -135,7 +145,7 @@
                     <option value="bist100">BIST100</option>
                     <option value="tufe">TÜFE</option>
                   </select>
-                  <span class="chart-card__period-hint" id="chartPeriodHint">5Y</span>
+                  <span class="chart-card__period-hint" id="chartPeriodHint">1Y</span>
                 </div>
               </div>
               <div class="chart-wrap">
@@ -171,14 +181,28 @@
     </section>
 
     <section id="view-karsilastirma" class="view-section hidden">
-      <div class="period-toolbar" id="periodToolbarKarsilastirma" aria-label="Dönem seçimi">
+      <div class="period-toolbar period-toolbar--analiz" id="periodToolbarKarsilastirma" aria-label="Dönem seçimi">
         <span class="period-toolbar__label">Dönem</span>
-        <div class="period-toolbar__btns">
-          <button type="button" class="period-btn" data-period="6M">6A</button>
-          <button type="button" class="period-btn" data-period="YTD">YTD</button>
-          <button type="button" class="period-btn" data-period="1Y">1Y</button>
-          <button type="button" class="period-btn" data-period="3Y">3Y</button>
-          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        <div class="period-toolbar__analiz-wrap">
+          <div class="period-toolbar__btns">
+            <button type="button" class="period-btn" data-period="6M">6A</button>
+            <button type="button" class="period-btn" data-period="YTD">YTD</button>
+            <button type="button" class="period-btn is-active" data-period="1Y">1Y</button>
+            <button type="button" class="period-btn" data-period="3Y">3Y</button>
+            <button type="button" class="period-btn" data-period="5Y">5Y</button>
+            <button type="button" class="period-btn" data-period="SPECIFIC">Spesifik</button>
+          </div>
+          <div id="statsSpecificRange" class="period-toolbar__specific-popover" hidden>
+            <label class="period-toolbar__date-wrap" aria-label="Başlangıç tarihi">
+              <span class="period-toolbar__date-cap">Başlangıç</span>
+              <input type="date" class="period-toolbar__date js-specific-start" />
+            </label>
+            <span class="period-toolbar__date-sep" aria-hidden="true">—</span>
+            <label class="period-toolbar__date-wrap" aria-label="Bitiş tarihi">
+              <span class="period-toolbar__date-cap">Bitiş</span>
+              <input type="date" class="period-toolbar__date js-specific-end" />
+            </label>
+          </div>
         </div>
       </div>
       <div class="table-panel">
@@ -198,25 +222,41 @@
             <div class="terminal-grid__body" id="statsTableBody" role="rowgroup"></div>
           </div>
         </div>
-        <p class="table-panel__foot">Seçili döneme göre veri kapsamı (<code>gun_kapsami</code>) yetersiz olan fonlar gösterilmez (ör. 5Y seçiliyken henüz beş yılı doldurmamış fonlar). Sütun başlığına tıklayarak büyükten küçüğe sıralayın.</p>
+        <p class="table-panel__foot">Sabit dönemlerde metrikler <code>manifest.json</code> içindeki <code>stats</code> alanından gelir. <strong>Spesifik</strong> seçildiğinde Sharpe/Sortino/Alpha/Max DD, seçilen tarihlerdeki TEFAS fiyat serisi + <code>benchmarks.json</code> BIST100 + manifest TCMB politika faizi ile (Python <code>compute_period_stats</code> ile aynı mantıkta) yeniden hesaplanır. <code>gun_kapsami</code> aralığa göre yetersiz olan fonlar elenir. Sütun başlığına tıklayarak büyükten küçüğe sıralayın.</p>
       </div>
     </section>
 
     <section id="view-fon-karsilastirma" class="view-section hidden">
-      <div class="period-toolbar" id="periodToolbarFonKarsilastirma" aria-label="Dönem seçimi">
+      <div class="period-toolbar period-toolbar--analiz" id="periodToolbarFonKarsilastirma" aria-label="Dönem seçimi">
         <span class="period-toolbar__label">Dönem</span>
-        <div class="period-toolbar__btns">
-          <button type="button" class="period-btn" data-period="6M">6A</button>
-          <button type="button" class="period-btn" data-period="YTD">YTD</button>
-          <button type="button" class="period-btn" data-period="1Y">1Y</button>
-          <button type="button" class="period-btn" data-period="3Y">3Y</button>
-          <button type="button" class="period-btn is-active" data-period="5Y">5Y</button>
+        <div class="period-toolbar__analiz-wrap">
+          <div class="period-toolbar__btns">
+            <button type="button" class="period-btn" data-period="6M">6A</button>
+            <button type="button" class="period-btn" data-period="YTD">YTD</button>
+            <button type="button" class="period-btn is-active" data-period="1Y">1Y</button>
+            <button type="button" class="period-btn" data-period="3Y">3Y</button>
+            <button type="button" class="period-btn" data-period="5Y">5Y</button>
+            <button type="button" class="period-btn" data-period="SPECIFIC">Spesifik</button>
+          </div>
+          <div id="compareSpecificRange" class="period-toolbar__specific-popover" hidden>
+            <label class="period-toolbar__date-wrap" aria-label="Başlangıç tarihi">
+              <span class="period-toolbar__date-cap">Başlangıç</span>
+              <input type="date" class="period-toolbar__date js-specific-start" />
+            </label>
+            <span class="period-toolbar__date-sep" aria-hidden="true">—</span>
+            <label class="period-toolbar__date-wrap" aria-label="Bitiş tarihi">
+              <span class="period-toolbar__date-cap">Bitiş</span>
+              <input type="date" class="period-toolbar__date js-specific-end" />
+            </label>
+          </div>
         </div>
       </div>
       <div class="table-panel">
         <div class="table-panel__head">
           <h2 class="table-panel__title">Fon karşılaştırma</h2>
-          <p class="table-panel__meta">5 fon seçerek kafa kafaya özel kıyas yapın.</p>
+          <p class="table-panel__meta">
+            5 fon seçerek kafa kafaya özel kıyas yapın. <strong>Spesifik</strong> dönemde getiri/volatilite ve rasyolar, Fon rasyoları ile aynı veri kaynaklarından (TEFAS + BIST100 + TCMB) hesaplanır.
+          </p>
         </div>
         <div class="multi-compare" id="multiCompareRoot">
           <div class="table-scroll compare-table-wrap compare-table-wrap--heads">
@@ -313,10 +353,6 @@
           <h2 class="table-panel__title">Yıldız Fonlar</h2>
           <p class="table-panel__meta">Uzun dönem istikrar ve BIST100 karşısında sürdürülebilir üstünlük odaklı seçim.</p>
         </div>
-        <div class="yildiz-badges">
-          <span class="dash-card__badge dash-card__badge--beta">YAKINDA</span>
-          <span class="yildiz-warning">⚠️ Henüz geliştirme aşamasındadır.</span>
-        </div>
         <div class="yildiz-kriter">
           <strong>Temel kriterler:</strong> En az 3 yıl geçmiş, Türkiye’de bankaların yönettiği portföy şirketi fonlarını ve endeks hisse fonlarını eleme, alpha (BIST100 üstü), Sharpe/Sortino, max drawdown ve dönemler arası tutarlılık.
         </div>
@@ -335,7 +371,7 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script src="script.js?v=20260427"></script>
+  <script src="script.js?v=20260502def1yfix"></script>
   <script src="fon_hisse_detay.js?v=20260502b"></script>
 </body>
 </html>
