@@ -36,8 +36,8 @@
   margin-bottom: 1rem !important;
   padding: 0.45rem 0.55rem;
   border-radius: 8px;
-  border: 1px solid rgba(62, 207, 142, 0.22);
-  background: rgba(62, 207, 142, 0.06);
+  border: 1px solid rgba(78, 196, 240, 0.28);
+  background: var(--accent-ui-dim);
   font-size: 0.78rem;
 }
 
@@ -81,7 +81,7 @@
 
 .fhd-select:focus {
   outline: none;
-  border-color: rgba(62, 207, 142, 0.45);
+  border-color: var(--accent-ui-border);
 }
 
 .fhd-actions {
@@ -170,8 +170,8 @@
 }
 
 .fhd-bar-row--top {
-  border-color: rgba(62, 207, 142, 0.28);
-  background: rgba(62, 207, 142, 0.06);
+  border-color: rgba(78, 196, 240, 0.32);
+  background: var(--accent-ui-dim);
 }
 
 .fhd-bar-row__label {
@@ -252,8 +252,8 @@
   letter-spacing: 0.04em;
   padding: 0.12rem 0.35rem;
   border-radius: 4px;
-  background: rgba(62, 207, 142, 0.15);
-  color: var(--accent);
+  background: var(--accent-ui-dim);
+  color: var(--accent-ui);
   vertical-align: middle;
 }
 

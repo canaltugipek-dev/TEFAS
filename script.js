@@ -575,7 +575,7 @@ function renderChart(labels, datasets) {
         tooltip: {
           backgroundColor: "#161d28",
           titleColor: "#e6edf3",
-          bodyColor: "#9ae6b4",
+          bodyColor: "#9dcae8",
           borderColor: "rgba(255,255,255,0.08)",
           borderWidth: 1,
           padding: 10,
@@ -1404,7 +1404,7 @@ function renderStarList(elId, period) {
       const tags = row.tags.length ? row.tags : ["Dönemsel istikrar", "Pozitif alpha"];
       return `<article class="yildiz-item">
         <div class="yildiz-item__head">
-          <span class="yildiz-item__kod">#${idx + 1} ${escapeHtml(f.kod)}</span>
+          <span class="yildiz-item__kod"><span class="yildiz-item__rank">#${idx + 1}</span> <span class="yildiz-item__code">${escapeHtml(f.kod)}</span></span>
           <span class="yildiz-item__score">Skor: ${row.score.toFixed(1)}</span>
         </div>
         <div class="yildiz-item__ad">${escapeHtml(title)}</div>
