@@ -1,6 +1,6 @@
 {
   "kod": "NLE",
-  "guncelleme": "2026-04-26T20:46:27Z",
+  "guncelleme": "2026-05-04T12:28:35Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24,7 +24,7 @@
     {
       "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 13.09
+      "agirlik": 12.67
     },
     {
       "ticker": "EKGYO",
@@ -44,7 +44,7 @@
     {
       "ticker": "SNGYO",
       "ad": "",
-      "agirlik": 6.35
+      "agirlik": 6.55
     },
     {
       "ticker": "HLGYO",
@@ -54,7 +54,7 @@
     {
       "ticker": "ISGYO",
       "ad": "",
-      "agirlik": 4.17
+      "agirlik": 4.3
     },
     {
       "ticker": "RYGYO",
@@ -62,14 +62,9 @@
       "agirlik": 3.9
     },
     {
-      "ticker": "ASCE",
+      "ticker": "ASGYO",
       "ad": "",
       "agirlik": 3.66
-    },
-    {
-      "ticker": "OZAK",
-      "ad": "",
-      "agirlik": 2.91
     },
     {
       "ticker": "PSGYO",
@@ -79,7 +74,7 @@
     {
       "ticker": "FZLGY",
       "ad": "",
-      "agirlik": 1.15
+      "agirlik": 1.11
     },
     {
       "ticker": "KZBGY",
@@ -92,7 +87,7 @@
       "agirlik": 1.02
     },
     {
-      "ticker": "SRGY",
+      "ticker": "SRVGY",
       "ad": "",
       "agirlik": 0.95
     },
@@ -112,6 +107,11 @@
       "agirlik": 0.42
     },
     {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
       "ticker": "PAGYO",
       "ad": "",
       "agirlik": 0.34
@@ -123,10 +123,10 @@
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "20 hisse satırı okundu.",
+  "hisse_mesaj": "22 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.04.2026 10:08:40",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805fc6b7f",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-05-02T20:16:36Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_son_kontrol_iso": "2026-05-04T12:28:35Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

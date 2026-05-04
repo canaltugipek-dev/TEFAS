@@ -1,6 +1,6 @@
 {
   "kod": "RBH",
-  "guncelleme": "2026-05-02T20:19:30Z",
+  "guncelleme": "2026-05-04T12:31:40Z",
   "kaynak_tefas": true,
   "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -70,6 +70,11 @@
       "ticker": "TUPRS",
       "ad": "",
       "agirlik": 8.56
+    },
+    {
+      "ticker": "ALBAR",
+      "ad": "",
+      "agirlik": 7.82
     },
     {
       "ticker": "ALBRK",
@@ -177,14 +182,14 @@
       "agirlik": 1.55
     },
     {
-      "ticker": "HATSN",
-      "ad": "",
-      "agirlik": 1.54
-    },
-    {
       "ticker": "PSGYO",
       "ad": "",
       "agirlik": 1.45
+    },
+    {
+      "ticker": "HATSN",
+      "ad": "",
+      "agirlik": 1.44
     },
     {
       "ticker": "PARSN",
@@ -219,7 +224,7 @@
     {
       "ticker": "ALTNY",
       "ad": "",
-      "agirlik": 0.52
+      "agirlik": 0.49
     },
     {
       "ticker": "HRKET",
@@ -253,10 +258,10 @@
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "48 hisse satırı okundu.",
+  "hisse_mesaj": "49 hisse satırı okundu.",
   "kap_rapor_tarihi": "01.04.2026 19:31:50",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9cc9d177019d49879b8e0c71",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-05-02T20:19:30Z",
+  "kap_son_kontrol_iso": "2026-05-04T12:31:40Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
