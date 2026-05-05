@@ -2,24 +2,14 @@
   "fon_kodu": "EID",
   "fon_unvan": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-05-05",
-  "bitis": "2026-05-04",
+  "baslangic": "2021-05-06",
+  "bitis": "2026-05-05",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1253,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1620172800000",
-      "FONKODU": "EID",
-      "FONUNVAN": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
-      "FIYAT": 0.119464,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1620259200000",
       "FONKODU": "EID",
@@ -12535,6 +12525,16 @@
       "FONKODU": "EID",
       "FONUNVAN": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
       "FIYAT": 1.824869,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1777939200000",
+      "FONKODU": "EID",
+      "FONUNVAN": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
+      "FIYAT": 1.815079,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
