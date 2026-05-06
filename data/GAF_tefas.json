@@ -2,24 +2,14 @@
   "fon_kodu": "GAF",
   "fon_unvan": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-05-06",
-  "bitis": "2026-05-05",
+  "baslangic": "2021-05-07",
+  "bitis": "2026-05-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1253,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1620259200000",
-      "FONKODU": "GAF",
-      "FONUNVAN": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.10605,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1620345600000",
       "FONKODU": "GAF",
@@ -12535,6 +12525,16 @@
       "FONKODU": "GAF",
       "FONUNVAN": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 1.705027,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1778025600000",
+      "FONKODU": "GAF",
+      "FONUNVAN": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 1.722624,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

@@ -2,24 +2,14 @@
   "fon_kodu": "TI3",
   "fon_unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-05-06",
-  "bitis": "2026-05-05",
+  "baslangic": "2021-05-07",
+  "bitis": "2026-05-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1253,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1620259200000",
-      "FONKODU": "TI3",
-      "FONUNVAN": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.009834,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1620345600000",
       "FONKODU": "TI3",
@@ -12535,6 +12525,16 @@
       "FONKODU": "TI3",
       "FONUNVAN": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.121208,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1778025600000",
+      "FONKODU": "TI3",
+      "FONUNVAN": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.12246,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

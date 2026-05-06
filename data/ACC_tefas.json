@@ -2,24 +2,14 @@
   "fon_kodu": "ACC",
   "fon_unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "fontip": "YAT",
-  "baslangic": "2021-05-06",
-  "bitis": "2026-05-05",
+  "baslangic": "2021-05-07",
+  "bitis": "2026-05-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1253,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1620259200000",
-      "FONKODU": "ACC",
-      "FONUNVAN": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
-      "FIYAT": 2.631933,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1620345600000",
       "FONKODU": "ACC",
@@ -12535,6 +12525,16 @@
       "FONKODU": "ACC",
       "FONUNVAN": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
       "FIYAT": 44.06184,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1778025600000",
+      "FONKODU": "ACC",
+      "FONUNVAN": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+      "FIYAT": 44.378385,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

@@ -2,24 +2,14 @@
   "fon_kodu": "GOH",
   "fon_unvan": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-05-06",
-  "bitis": "2026-05-05",
+  "baslangic": "2021-05-07",
+  "bitis": "2026-05-06",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1253,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1620259200000",
-      "FONKODU": "GOH",
-      "FONUNVAN": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.0,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1620345600000",
       "FONKODU": "GOH",
@@ -12535,6 +12525,16 @@
       "FONKODU": "GOH",
       "FONUNVAN": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 16.133999,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1778025600000",
+      "FONKODU": "GOH",
+      "FONUNVAN": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 16.278267,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
