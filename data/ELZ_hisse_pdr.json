@@ -1,6 +1,6 @@
 {
   "kod": "ELZ",
-  "guncelleme": "2026-04-26T18:22:14Z",
+  "guncelleme": "2026-05-11T17:04:21Z",
   "kaynak_tefas": true,
   "unvan": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/elz-qinvest-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,22 +14,27 @@
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 9.0
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 7.44
+      "agirlik": 9.18
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 7.19
+      "agirlik": 8.55
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 7.45
     },
     {
       "ticker": "ALBRK",
       "ad": "",
-      "agirlik": 6.67
+      "agirlik": 5.95
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 4.83
     },
     {
       "ticker": "TUPRS",
@@ -37,69 +42,64 @@
       "agirlik": 4.79
     },
     {
-      "ticker": "ARASE",
-      "ad": "",
-      "agirlik": 4.69
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 4.53
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 4.28
-    },
-    {
-      "ticker": "KRVGD",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
       "ticker": "MAVI",
       "ad": "",
-      "agirlik": 4.11
+      "agirlik": 4.6
     },
     {
       "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 3.75
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.41
     },
     {
       "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 3.24
+      "agirlik": 3.28
     },
     {
       "ticker": "CANTE",
       "ad": "",
-      "agirlik": 3.2
+      "agirlik": 3.16
     },
     {
       "ticker": "SUWEN",
       "ad": "",
-      "agirlik": 2.84
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.62
-    },
-    {
-      "ticker": "YATAS",
-      "ad": "",
-      "agirlik": 2.31
+      "agirlik": 2.74
     },
     {
       "ticker": "MPARK",
       "ad": "",
-      "agirlik": 2.29
+      "agirlik": 2.36
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.04
     },
     {
       "ticker": "ATAKP",
       "ad": "",
-      "agirlik": 2.25
+      "agirlik": 2.02
     },
     {
       "ticker": "MEDTR",
@@ -107,40 +107,45 @@
       "agirlik": 1.85
     },
     {
-      "ticker": "PETKM",
+      "ticker": "LKMNH",
       "ad": "",
-      "agirlik": 1.66
+      "agirlik": 1.69
     },
     {
-      "ticker": "BRISA",
+      "ticker": "PETKM",
       "ad": "",
-      "agirlik": 1.62
+      "agirlik": 1.69
     },
     {
       "ticker": "LMKDC",
       "ad": "",
-      "agirlik": 1.5
+      "agirlik": 1.65
     },
     {
-      "ticker": "LKMNH",
+      "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.47
+      "agirlik": 1.49
     },
     {
       "ticker": "ALKIM",
       "ad": "",
-      "agirlik": 1.33
+      "agirlik": 1.42
     },
     {
       "ticker": "GOODY",
       "ad": "",
-      "agirlik": 1.16
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 0.86
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "25 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 17:06:25",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d631bd4954316",
-  "kap_son_kontrol_iso": "2026-05-04T12:17:01Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.05.2026 17:09:58",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df35151984233",
+  "kap_son_kontrol_iso": "2026-05-11T17:04:21Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

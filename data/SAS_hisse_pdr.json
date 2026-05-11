@@ -1,6 +1,6 @@
 {
   "kod": "SAS",
-  "guncelleme": "2026-05-04T12:32:24Z",
+  "guncelleme": "2026-05-11T17:15:36Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,70 +12,70 @@
   ],
   "hisseler": [
     {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 22.98
-    },
-    {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 19.57
+      "agirlik": 22.81
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 22.27
     },
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 15.95
+      "agirlik": 15.4
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 12.83
+      "agirlik": 13.18
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 4.85
+      "agirlik": 4.59
     },
     {
       "ticker": "AKCNS",
       "ad": "",
-      "agirlik": 3.96
-    },
-    {
-      "ticker": "AKGRT",
-      "ad": "",
-      "agirlik": 1.87
+      "agirlik": 4.27
     },
     {
       "ticker": "KORDS",
       "ad": "",
-      "agirlik": 1.77
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 1.71
     },
     {
       "ticker": "AFYON",
       "ad": "",
-      "agirlik": 1.68
+      "agirlik": 1.38
     },
     {
       "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.56
+      "agirlik": 1.38
     },
     {
       "ticker": "TKNSA",
       "ad": "",
-      "agirlik": 1.02
+      "agirlik": 1.24
     },
     {
       "ticker": "CRFSA",
       "ad": "",
-      "agirlik": 0.76
+      "agirlik": 0.71
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "12 hisse satırı okundu.",
-  "kap_rapor_tarihi": "21.04.2026 12:09:42",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019daf4bb4776158",
-  "kap_son_kontrol_iso": "2026-05-04T12:32:24Z",
+  "kap_rapor_tarihi": "07.05.2026 18:58:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323ea9b54b4",
+  "kap_son_kontrol_iso": "2026-05-11T17:15:36Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "ZJL",
-  "guncelleme": "2026-05-04T12:32:40Z",
+  "guncelleme": "2026-05-11T17:20:04Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjl-ziraat-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,167 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 9.3301
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 6.7768
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.8195
+    },
+    {
+      "ticker": "SUNTK",
+      "ad": "",
+      "agirlik": 4.7756
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.6289
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 4.3088
+    },
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 3.8699
+    },
+    {
+      "ticker": "EGEGY",
+      "ad": "",
+      "agirlik": 3.8474
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 3.7747
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 3.7707
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.6576
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 3.6312
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 3.5347
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 3.1536
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.9632
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 2.5864
+    },
+    {
+      "ticker": "INFO",
+      "ad": "",
+      "agirlik": 2.4459
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 2.3691
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 2.3159
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 2.2531
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 2.1649
+    },
+    {
+      "ticker": "VAKKO",
+      "ad": "",
+      "agirlik": 2.0954
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.0316
+    },
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 1.8036
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 1.5411
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 1.4065
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 1.257
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 1.2122
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 1.0095
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 0.985
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 0.9334
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "31 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 09:43:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d7706a53",
+  "kap_son_kontrol_iso": "2026-05-11T17:20:04Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "YPR",
-  "guncelleme": "2026-04-26T18:31:37Z",
+  "guncelleme": "2026-05-11T17:19:52Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ypr-azimut-portfoy-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,120 +12,125 @@
   ],
   "hisseler": [
     {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 8.54
-    },
-    {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 7.62
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 6.25
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 5.86
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 5.21
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 4.98
-    },
-    {
-      "ticker": "TKFEN",
-      "ad": "",
-      "agirlik": 4.84
-    },
-    {
-      "ticker": "SOKM",
-      "ad": "",
-      "agirlik": 4.6
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 3.98
+      "agirlik": 6.11
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 3.95
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 3.87
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.86
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 3.57
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 3.48
+      "agirlik": 5.67
     },
     {
       "ticker": "TOASO",
       "ad": "",
-      "agirlik": 3.32
+      "agirlik": 5.52
     },
     {
-      "ticker": "SELEC",
+      "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 3.15
+      "agirlik": 5.45
     },
     {
-      "ticker": "TABGD",
+      "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 3.12
+      "agirlik": 5.07
     },
     {
-      "ticker": "PETKM",
+      "ticker": "KRDMD",
       "ad": "",
-      "agirlik": 2.62
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 2.53
+      "agirlik": 4.76
     },
     {
       "ticker": "EBEBK",
       "ad": "",
-      "agirlik": 1.94
+      "agirlik": 4.6
     },
     {
-      "ticker": "MAVI",
+      "ticker": "SELEC",
       "ad": "",
-      "agirlik": 1.93
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.02
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.85
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.71
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.72
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.04.2026 18:15:48",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66acc3464a69",
-  "kap_son_kontrol_iso": "2026-05-04T12:26:24Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.05.2026 18:09:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ffae3c4736",
+  "kap_son_kontrol_iso": "2026-05-11T17:19:52Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

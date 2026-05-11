@@ -1,6 +1,6 @@
 {
   "kod": "GO9",
-  "guncelleme": "2026-04-26T18:22:33Z",
+  "guncelleme": "2026-05-11T17:05:27Z",
   "kaynak_tefas": true,
   "unvan": "ONE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/go9-one-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,135 +12,145 @@
   ],
   "hisseler": [
     {
-      "ticker": "TRALT",
+      "ticker": "EREGL",
       "ad": "",
-      "agirlik": 8.97
+      "agirlik": 9.21
     },
     {
       "ticker": "AKSA",
       "ad": "",
-      "agirlik": 8.9
+      "agirlik": 9.09
     },
     {
       "ticker": "MEGMT",
       "ad": "",
-      "agirlik": 8.8
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.84
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 4.67
-    },
-    {
-      "ticker": "YUNSA",
-      "ad": "",
-      "agirlik": 4.45
-    },
-    {
-      "ticker": "KLYPV",
-      "ad": "",
-      "agirlik": 4.4
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 4.2
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 3.88
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 3.77
-    },
-    {
-      "ticker": "OZSUB",
-      "ad": "",
-      "agirlik": 3.37
-    },
-    {
-      "ticker": "KATMR",
-      "ad": "",
-      "agirlik": 2.95
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 2.91
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 2.6
-    },
-    {
-      "ticker": "AYGAZ",
-      "ad": "",
-      "agirlik": 2.57
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 2.56
-    },
-    {
-      "ticker": "EPLAS",
-      "ad": "",
-      "agirlik": 2.49
-    },
-    {
-      "ticker": "PETKM",
-      "ad": "",
-      "agirlik": 2.34
-    },
-    {
-      "ticker": "TKFEN",
-      "ad": "",
-      "agirlik": 2.16
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.04
+      "agirlik": 8.7
     },
     {
       "ticker": "MGROS",
       "ad": "",
-      "agirlik": 1.99
+      "agirlik": 4.9
     },
     {
-      "ticker": "SAHOL",
+      "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 1.97
+      "agirlik": 4.42
     },
     {
-      "ticker": "NTGAZ",
+      "ticker": "TURSG",
       "ad": "",
-      "agirlik": 1.62
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "MARMR",
+      "ad": "",
+      "agirlik": 3.51
+    },
+    {
+      "ticker": "ALVES",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "EPLAS",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "BAGFS",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "FRMPL",
+      "ad": "",
+      "agirlik": 1.58
     },
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 1.57
+      "agirlik": 1.55
     },
     {
-      "ticker": "TCELL",
+      "ticker": "AKFYE",
       "ad": "",
-      "agirlik": 1.17
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "ALKA",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 0.48
+    },
+    {
+      "ticker": "DCTTR",
+      "ad": "",
+      "agirlik": 0.29
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "25 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 14:57:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d621234af2ed1",
-  "kap_son_kontrol_iso": "2026-05-04T12:17:16Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.05.2026 11:37:35",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0163dc301dad",
+  "kap_son_kontrol_iso": "2026-05-11T17:05:27Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

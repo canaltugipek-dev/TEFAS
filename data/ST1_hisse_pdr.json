@@ -1,6 +1,6 @@
 {
   "kod": "ST1",
-  "guncelleme": "2026-04-26T15:47:56Z",
+  "guncelleme": "2026-05-11T17:16:56Z",
   "kaynak_tefas": true,
   "unvan": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/st1-strateji-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,70 +12,156 @@
   ],
   "hisseler": [
     {
-      "ticker": "GWIND",
+      "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 6.24
+      "agirlik": 10.35
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 9.14
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 8.31
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 6.5
+    },
+    {
+      "ticker": "DESA",
+      "ad": "",
+      "agirlik": 4.91
     },
     {
       "ticker": "DEVA",
       "ad": "",
-      "agirlik": 4.04
+      "agirlik": 4.37
+    },
+    {
+      "ticker": "UNLU",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 4.13
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 3.75
     },
     {
       "ticker": "ISFIN",
       "ad": "",
-      "agirlik": 3.56
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 3.07
-    },
-    {
-      "ticker": "BERA",
-      "ad": "",
-      "agirlik": 2.98
-    },
-    {
-      "ticker": "KAREL",
-      "ad": "",
-      "agirlik": 2.92
-    },
-    {
-      "ticker": "NTHOL",
-      "ad": "",
-      "agirlik": 2.89
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 2.88
+      "agirlik": 3.5
     },
     {
       "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 2.87
+      "agirlik": 3.47
     },
     {
-      "ticker": "RYGYO",
+      "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 2.75
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 3.05
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 2.72
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 2.22
     },
     {
       "ticker": "HATSN",
       "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "MARMR",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "REYSA",
+      "ad": "",
       "agirlik": 2.05
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.01
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.95
+    },
+    {
+      "ticker": "TRCAS",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 1.83
     },
     {
       "ticker": "MNDRS",
       "ad": "",
-      "agirlik": 0.86
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.984
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "12 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 11:02:13",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d61cf09bf66df",
-  "kap_son_kontrol_iso": "2026-05-04T12:26:01Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "29 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.05.2026 16:21:48",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0298bfee5705",
+  "kaynak_pdr_ocr": true,
+  "kap_son_kontrol_iso": "2026-05-11T17:16:56Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

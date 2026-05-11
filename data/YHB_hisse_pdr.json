@@ -1,6 +1,6 @@
 {
   "kod": "YHB",
-  "guncelleme": "2026-04-26T18:31:27Z",
+  "guncelleme": "2026-05-11T17:19:16Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhb-yapi-kredi-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,170 +12,165 @@
   ],
   "hisseler": [
     {
-      "ticker": "AKFIS",
-      "ad": "",
-      "agirlik": 7.07
-    },
-    {
       "ticker": "BOBET",
       "ad": "",
-      "agirlik": 6.31
+      "agirlik": 6.57
     },
     {
       "ticker": "GRSEL",
       "ad": "",
-      "agirlik": 6.03
+      "agirlik": 5.92
     },
     {
       "ticker": "ARDYZ",
       "ad": "",
-      "agirlik": 4.28
-    },
-    {
-      "ticker": "AKSGY",
-      "ad": "",
-      "agirlik": 4.03
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 4.03
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 3.92
-    },
-    {
-      "ticker": "AYGAZ",
-      "ad": "",
-      "agirlik": 3.79
-    },
-    {
-      "ticker": "OZKGY",
-      "ad": "",
-      "agirlik": 3.73
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 3.68
+      "agirlik": 5.3
     },
     {
       "ticker": "EGPRO",
       "ad": "",
-      "agirlik": 3.36
+      "agirlik": 5.14
     },
     {
-      "ticker": "AGESA",
+      "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 2.97
+      "agirlik": 4.74
     },
     {
-      "ticker": "NTGAZ",
+      "ticker": "GWIND",
       "ad": "",
-      "agirlik": 2.86
+      "agirlik": 3.98
     },
     {
-      "ticker": "VAKKO",
+      "ticker": "INDES",
       "ad": "",
-      "agirlik": 2.86
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 3.48
     },
     {
       "ticker": "MACKO",
       "ad": "",
-      "agirlik": 2.75
+      "agirlik": 3.41
     },
     {
       "ticker": "DESA",
       "ad": "",
-      "agirlik": 2.6
-    },
-    {
-      "ticker": "AFYON",
-      "ad": "",
-      "agirlik": 2.52
-    },
-    {
-      "ticker": "LKMNH",
-      "ad": "",
-      "agirlik": 2.45
-    },
-    {
-      "ticker": "LIDFA",
-      "ad": "",
-      "agirlik": 2.34
-    },
-    {
-      "ticker": "TATGD",
-      "ad": "",
-      "agirlik": 2.18
-    },
-    {
-      "ticker": "ULUFA",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "HRKET",
-      "ad": "",
-      "agirlik": 1.95
-    },
-    {
-      "ticker": "ATATR",
-      "ad": "",
-      "agirlik": 1.92
-    },
-    {
-      "ticker": "HTTBT",
-      "ad": "",
-      "agirlik": 1.81
-    },
-    {
-      "ticker": "ONRYT",
-      "ad": "",
-      "agirlik": 1.81
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 1.61
-    },
-    {
-      "ticker": "TTRAK",
-      "ad": "",
-      "agirlik": 1.44
-    },
-    {
-      "ticker": "LOGO",
-      "ad": "",
-      "agirlik": 1.28
-    },
-    {
-      "ticker": "GOZDE",
-      "ad": "",
-      "agirlik": 1.24
+      "agirlik": 3.24
     },
     {
       "ticker": "TRGYO",
       "ad": "",
-      "agirlik": 1.11
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.95
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.89
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "VAKKO",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 2.46
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.46
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 1.97
     },
     {
       "ticker": "OFSYM",
       "ad": "",
-      "agirlik": 1.06
+      "agirlik": 1.5
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 1.39
+    },
+    {
+      "ticker": "ULUFA",
+      "ad": "",
+      "agirlik": 1.36
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 0.9
     },
     {
       "ticker": "ZERGY",
       "ad": "",
-      "agirlik": 0.81
+      "agirlik": 0.64
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "32 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 13:41:13",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c4d638336dd",
-  "kap_son_kontrol_iso": "2026-05-04T12:26:19Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "31 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 13:48:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1634c601668d",
+  "kap_son_kontrol_iso": "2026-05-11T17:19:16Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

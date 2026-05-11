@@ -1,6 +1,6 @@
 {
   "kod": "ADP",
-  "guncelleme": "2026-04-26T15:42:43Z",
+  "guncelleme": "2026-05-11T17:00:18Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/adp-ak-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,32 +14,32 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 26.22
+      "agirlik": 23.32
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 18.88
+      "agirlik": 19.36
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 17.71
+      "agirlik": 17.72
     },
     {
       "ticker": "GARAN",
       "ad": "",
-      "agirlik": 12.91
-    },
-    {
-      "ticker": "HALKB",
-      "ad": "",
-      "agirlik": 3.94
+      "agirlik": 12.92
     },
     {
       "ticker": "APLIB",
       "ad": "",
-      "agirlik": 3.94
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 4.02
     },
     {
       "ticker": "VAKBN",
@@ -49,33 +49,33 @@
     {
       "ticker": "ZPLIB",
       "ad": "",
-      "agirlik": 2.78
+      "agirlik": 2.93
     },
     {
       "ticker": "SKBNK",
       "ad": "",
-      "agirlik": 2.21
+      "agirlik": 2.42
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 2.08
+      "agirlik": 2.05
     },
     {
       "ticker": "ALBRK",
       "ad": "",
-      "agirlik": 1.32
+      "agirlik": 1.31
     },
     {
       "ticker": "ICBCT",
       "ad": "",
-      "agirlik": 0.1
+      "agirlik": 0.12
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "12 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 09:14:21",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5e2a5d016d02",
-  "kap_son_kontrol_iso": "2026-05-04T12:16:01Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "06.05.2026 17:47:01",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd7511fa0eca",
+  "kap_son_kontrol_iso": "2026-05-11T17:00:18Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

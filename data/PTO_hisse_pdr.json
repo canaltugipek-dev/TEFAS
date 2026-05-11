@@ -1,6 +1,6 @@
 {
   "kod": "PTO",
-  "guncelleme": "2026-05-04T12:31:08Z",
+  "guncelleme": "2026-05-11T17:14:49Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,105 +12,95 @@
   ],
   "hisseler": [
     {
-      "ticker": "GARAN",
+      "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 8.84
+      "agirlik": 9.06
     },
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 7.28
+      "agirlik": 5.92
     },
     {
-      "ticker": "AKBNK",
+      "ticker": "GARAN",
       "ad": "",
-      "agirlik": 6.23
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.34
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 4.32
+      "agirlik": 5.67
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 4.23
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 4.15
+      "agirlik": 5.5
     },
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 4.05
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 3.75
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 3.71
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 3.68
+      "agirlik": 5.45
     },
     {
       "ticker": "ALARK",
       "ad": "",
-      "agirlik": 3.67
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 3.64
+      "agirlik": 5.42
     },
     {
       "ticker": "TCELL",
       "ad": "",
-      "agirlik": 3.6
+      "agirlik": 5.04
     },
     {
-      "ticker": "ENKAI",
+      "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 3.53
+      "agirlik": 4.96
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 3.5
+      "agirlik": 4.78
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.66
     },
     {
       "ticker": "DOHOL",
       "ad": "",
-      "agirlik": 3.39
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.27
     },
     {
       "ticker": "DOAS",
       "ad": "",
-      "agirlik": 3.28
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.55
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "19 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.04.2026 18:47:22",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e969a96331d",
-  "kap_son_kontrol_iso": "2026-05-04T12:31:08Z",
+  "hisse_mesaj": "17 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 18:12:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1752543c5bf1",
+  "kap_son_kontrol_iso": "2026-05-11T17:14:49Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

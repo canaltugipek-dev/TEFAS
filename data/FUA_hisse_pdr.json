@@ -1,6 +1,6 @@
 {
   "kod": "FUA",
-  "guncelleme": "2026-04-26T18:22:18Z",
+  "guncelleme": "2026-05-11T17:04:28Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fua-ak-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,115 +12,105 @@
   ],
   "hisseler": [
     {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 9.67
-    },
-    {
       "ticker": "EREGL",
       "ad": "",
-      "agirlik": 9.31
+      "agirlik": 9.86
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 9.02
+      "agirlik": 9.37
     },
     {
-      "ticker": "SISE",
+      "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 7.47
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.69
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 4.56
+      "agirlik": 9.07
     },
     {
       "ticker": "SASA",
       "ad": "",
-      "agirlik": 4.48
+      "agirlik": 7.6
     },
     {
-      "ticker": "MPARK",
+      "ticker": "SISE",
       "ad": "",
-      "agirlik": 4.41
+      "agirlik": 7.27
     },
     {
-      "ticker": "THYAO",
+      "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 4.21
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "PARSN",
-      "ad": "",
-      "agirlik": 3.95
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 3.93
-    },
-    {
-      "ticker": "MNDRS",
-      "ad": "",
-      "agirlik": 3.7
-    },
-    {
-      "ticker": "AKCNS",
-      "ad": "",
-      "agirlik": 3.26
-    },
-    {
-      "ticker": "GRSEL",
-      "ad": "",
-      "agirlik": 3.21
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 2.96
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 2.8
+      "agirlik": 4.96
     },
     {
       "ticker": "KORDS",
       "ad": "",
-      "agirlik": 2.77
+      "agirlik": 4.81
     },
     {
-      "ticker": "ASTOR",
+      "ticker": "PETKM",
       "ad": "",
-      "agirlik": 2.33
+      "agirlik": 4.5
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.98
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "PARSN",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "MNDRS",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 3.13
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.4
     },
     {
       "ticker": "CEMTS",
       "ad": "",
-      "agirlik": 2.09
+      "agirlik": 1.99
     },
     {
-      "ticker": "BRISA",
+      "ticker": "GRSEL",
       "ad": "",
-      "agirlik": 0.03
+      "agirlik": 1.47
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "21 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.04.2026 18:41:39",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d5380bca84fe0",
-  "kap_son_kontrol_iso": "2026-05-04T12:17:04Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.05.2026 17:47:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd8ab761138c",
+  "kap_son_kontrol_iso": "2026-05-11T17:04:28Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "KOT",
-  "guncelleme": "2026-04-26T18:26:28Z",
+  "guncelleme": "2026-05-11T17:10:00Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kot-azimut-portfoy-koc-toplulugu-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,45 +12,45 @@
   ],
   "hisseler": [
     {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 22.26
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 16.98
-    },
-    {
       "ticker": "TOASO",
       "ad": "",
-      "agirlik": 16.72
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 15.69
+      "agirlik": 19.48
     },
     {
       "ticker": "OTKAR",
       "ad": "",
-      "agirlik": 12.35
+      "agirlik": 19.47
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 19.03
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 17.24
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 7.0
+      "agirlik": 9.89
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 7.48
     },
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 6.23
+      "agirlik": 5.85
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "7 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.04.2026 18:17:44",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d66a3dea94758",
-  "kap_son_kontrol_iso": "2026-05-04T12:17:49Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "08.05.2026 18:10:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a67a450f",
+  "kap_son_kontrol_iso": "2026-05-11T17:10:00Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

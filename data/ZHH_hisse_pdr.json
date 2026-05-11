@@ -1,6 +1,6 @@
 {
   "kod": "ZHH",
-  "guncelleme": "2026-04-26T19:03:42Z",
+  "guncelleme": "2026-05-11T17:20:00Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zhh-ziraat-portfoy-halkbank-surdurulebilirlik-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,118 +14,133 @@
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 8.976
+      "agirlik": 8.5719
     },
     {
       "ticker": "MGROS",
       "ad": "",
-      "agirlik": 7.5616
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 7.3497
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 5.6616
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 5.3381
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 5.0915
+      "agirlik": 7.407
     },
     {
       "ticker": "TCELL",
       "ad": "",
-      "agirlik": 5.0232
+      "agirlik": 6.4562
     },
     {
-      "ticker": "ANSGR",
+      "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 4.9855
+      "agirlik": 6.1443
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 4.8075
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 4.7239
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 4.6997
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 4.5775
+      "agirlik": 4.7488
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 4.0407
+      "agirlik": 4.397
     },
     {
-      "ticker": "GARAN",
+      "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 3.6458
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 3.4595
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 3.2999
-    },
-    {
-      "ticker": "ULKER",
-      "ad": "",
-      "agirlik": 2.8596
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 2.8549
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 2.8533
+      "agirlik": 4.1974
     },
     {
       "ticker": "DOHOL",
       "ad": "",
-      "agirlik": 2.4362
+      "agirlik": 4.0329
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.0043
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.9801
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.6002
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.5478
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.2561
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 3.2128
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 3.2036
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.9696
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.892
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.7012
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.6711
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.1731
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 2.0757
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 1.9773
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.7794
     },
     {
       "ticker": "VESTL",
       "ad": "",
-      "agirlik": 1.019
+      "agirlik": 0.9328
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 0.7443
+      "agirlik": 0.715
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 09:35:17",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bca530a12d3",
-  "kap_son_kontrol_iso": "2026-05-04T12:26:26Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 09:43:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d60a6a35",
+  "kap_son_kontrol_iso": "2026-05-11T17:20:00Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

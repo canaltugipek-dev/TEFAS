@@ -1,6 +1,6 @@
 {
   "kod": "TZD",
-  "guncelleme": "2026-04-26T19:03:40Z",
+  "guncelleme": "2026-05-11T17:18:53Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tzd-ziraat-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,160 +12,140 @@
   ],
   "hisseler": [
     {
-      "ticker": "THYAO",
+      "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 6.8827
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 6.8108
-    },
-    {
-      "ticker": "ULKER",
-      "ad": "",
-      "agirlik": 5.9289
+      "agirlik": 6.0423
     },
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 4.9946
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 4.8051
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 4.6879
+      "agirlik": 6.005
     },
     {
       "ticker": "SELEC",
       "ad": "",
-      "agirlik": 3.6211
+      "agirlik": 5.4186
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 5.2181
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 4.9872
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.8181
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 3.4174
+      "agirlik": 4.6817
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 4.4974
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.2086
     },
     {
       "ticker": "SUNTK",
       "ad": "",
-      "agirlik": 3.3972
-    },
-    {
-      "ticker": "YATAS",
-      "ad": "",
-      "agirlik": 2.7572
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 2.6577
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 2.3249
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 2.2968
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 2.1603
+      "agirlik": 4.0921
     },
     {
       "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 1.874
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 1.7966
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 1.7748
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 1.7543
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 1.4715
-    },
-    {
-      "ticker": "ARDYZ",
-      "ad": "",
-      "agirlik": 1.4497
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 1.4226
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 1.4218
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 1.3917
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 1.3665
-    },
-    {
-      "ticker": "BIOEN",
-      "ad": "",
-      "agirlik": 1.2761
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 1.249
-    },
-    {
-      "ticker": "SUWEN",
-      "ad": "",
-      "agirlik": 1.1947
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 1.0218
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 0.7766
+      "agirlik": 3.2792
     },
     {
       "ticker": "YYLGD",
       "ad": "",
-      "agirlik": 0.7759
+      "agirlik": 3.2329
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 2.7807
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.7645
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 2.628
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 2.6181
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 2.2821
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.1667
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 2.0142
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.9301
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.8056
+    },
+    {
+      "ticker": "BIOEN",
+      "ad": "",
+      "agirlik": 1.7908
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 1.7428
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.7306
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 1.4338
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 1.0324
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "30 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 09:18:12",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6bba37f10cca",
-  "kap_son_kontrol_iso": "2026-05-04T12:26:14Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 09:27:45",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15b5a82c657a",
+  "kap_son_kontrol_iso": "2026-05-11T17:18:53Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

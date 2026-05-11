@@ -1,6 +1,6 @@
 {
   "kod": "GRT",
-  "guncelleme": "2026-04-26T18:22:37Z",
+  "guncelleme": "2026-05-11T17:05:35Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/grt-garanti-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -19,163 +19,163 @@
     {
       "ticker": "TBPP",
       "ad": "",
-      "agirlik": 8.19
+      "agirlik": 11.1
     },
     {
       "ticker": "MIATK",
       "ad": "",
-      "agirlik": 6.23
+      "agirlik": 7.6
     },
     {
       "ticker": "LOGO",
       "ad": "",
-      "agirlik": 5.72
-    },
-    {
-      "ticker": "EDATA",
-      "ad": "",
-      "agirlik": 4.67
+      "agirlik": 5.09
     },
     {
       "ticker": "ALTNY",
       "ad": "",
-      "agirlik": 4.32
-    },
-    {
-      "ticker": "SDTTR",
-      "ad": "",
-      "agirlik": 4.27
+      "agirlik": 3.92
     },
     {
       "ticker": "ARDYZ",
       "ad": "",
-      "agirlik": 3.64
+      "agirlik": 3.69
     },
     {
       "ticker": "PENTA",
       "ad": "",
-      "agirlik": 3.62
+      "agirlik": 3.65
     },
     {
-      "ticker": "KFEIN",
+      "ticker": "SDTTR",
       "ad": "",
-      "agirlik": 3.25
+      "agirlik": 3.64
     },
     {
-      "ticker": "OBASE",
+      "ticker": "ARENA",
       "ad": "",
-      "agirlik": 3.2
-    },
-    {
-      "ticker": "VBTYZ",
-      "ad": "",
-      "agirlik": 2.85
-    },
-    {
-      "ticker": "PAPIL",
-      "ad": "",
-      "agirlik": 2.74
-    },
-    {
-      "ticker": "DGATE",
-      "ad": "",
-      "agirlik": 2.67
-    },
-    {
-      "ticker": "INDES",
-      "ad": "",
-      "agirlik": 2.51
-    },
-    {
-      "ticker": "AZTEK",
-      "ad": "",
-      "agirlik": 2.24
-    },
-    {
-      "ticker": "FONET",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "DOFRB",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "EMPAE",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "HTTBT",
-      "ad": "",
-      "agirlik": 1.94
-    },
-    {
-      "ticker": "ALCTL",
-      "ad": "",
-      "agirlik": 1.9
-    },
-    {
-      "ticker": "ODINE",
-      "ad": "",
-      "agirlik": 1.85
-    },
-    {
-      "ticker": "ESCOM",
-      "ad": "",
-      "agirlik": 1.62
-    },
-    {
-      "ticker": "MTRKS",
-      "ad": "",
-      "agirlik": 1.62
-    },
-    {
-      "ticker": "SMART",
-      "ad": "",
-      "agirlik": 1.56
-    },
-    {
-      "ticker": "INGRM",
-      "ad": "",
-      "agirlik": 1.5
+      "agirlik": 3.26
     },
     {
       "ticker": "KAREL",
       "ad": "",
-      "agirlik": 1.43
+      "agirlik": 3.18
     },
     {
-      "ticker": "ATATP",
+      "ticker": "KFEIN",
       "ad": "",
-      "agirlik": 0.95
+      "agirlik": 3.18
     },
     {
-      "ticker": "NETAS",
+      "ticker": "DGATE",
       "ad": "",
-      "agirlik": 0.78
+      "agirlik": 2.68
     },
     {
-      "ticker": "MCARD",
+      "ticker": "INDES",
       "ad": "",
-      "agirlik": 0.55
+      "agirlik": 2.39
     },
     {
-      "ticker": "DESPC",
+      "ticker": "PAPIL",
       "ad": "",
-      "agirlik": 0.23
+      "agirlik": 2.31
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 2.24
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.22
     },
     {
       "ticker": "NETCD",
       "ad": "",
-      "agirlik": 0.21
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "ODINE",
+      "ad": "",
+      "agirlik": 1.96
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.52
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 1.45
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 1.41
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 0.76
+    },
+    {
+      "ticker": "NETAS",
+      "ad": "",
+      "agirlik": 0.69
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 0.19
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "32 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 19:55:56",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6dcde132056b",
-  "kap_son_kontrol_iso": "2026-05-04T12:17:18Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "11.05.2026 19:42:15",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4a7a169ed",
+  "kap_son_kontrol_iso": "2026-05-11T17:05:35Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

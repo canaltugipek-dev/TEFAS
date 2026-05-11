@@ -1,6 +1,6 @@
 {
   "kod": "PHE",
-  "guncelleme": "2026-05-04T12:30:48Z",
+  "guncelleme": "2026-05-11T17:14:30Z",
   "kaynak_tefas": true,
   "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,175 +12,210 @@
   ],
   "hisseler": [
     {
+      "ticker": "KTLEV",
+      "ad": "",
+      "agirlik": 9.63
+    },
+    {
       "ticker": "ODINE",
       "ad": "",
-      "agirlik": 8.04
-    },
-    {
-      "ticker": "GUNDG",
-      "ad": "",
-      "agirlik": 7.64
-    },
-    {
-      "ticker": "HEDEF",
-      "ad": "",
-      "agirlik": 7.37
-    },
-    {
-      "ticker": "TERA",
-      "ad": "",
-      "agirlik": 6.73
+      "agirlik": 7.81
     },
     {
       "ticker": "THYAO",
       "ad": "",
-      "agirlik": 5.17
+      "agirlik": 5.73
     },
     {
-      "ticker": "KTLEV",
+      "ticker": "HEDEF",
       "ad": "",
-      "agirlik": 4.46
+      "agirlik": 5.45
     },
     {
-      "ticker": "SASA",
+      "ticker": "GUNDG",
       "ad": "",
-      "agirlik": 4.37
-    },
-    {
-      "ticker": "DAPGM",
-      "ad": "",
-      "agirlik": 3.98
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.75
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 3.54
-    },
-    {
-      "ticker": "PEKGY",
-      "ad": "",
-      "agirlik": 2.96
+      "agirlik": 4.66
     },
     {
       "ticker": "PASEU",
       "ad": "",
-      "agirlik": 2.91
+      "agirlik": 4.36
     },
     {
-      "ticker": "TATEN",
+      "ticker": "TCELL",
       "ad": "",
-      "agirlik": 2.38
-    },
-    {
-      "ticker": "ALKLC",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 2.08
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 2.04
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 1.98
+      "agirlik": 4.11
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.91
-    },
-    {
-      "ticker": "DSTKF",
-      "ad": "",
-      "agirlik": 0.97
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 0.68
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 0.63
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 0.62
+      "agirlik": 3.67
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 0.61
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "TERA",
+      "ad": "",
+      "agirlik": 2.11
+    },
+    {
+      "ticker": "PEKGY",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "DAPGM",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "ALKLC",
+      "ad": "",
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 1.33
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "DSTKF",
+      "ad": "",
+      "agirlik": 0.79
+    },
+    {
+      "ticker": "IZFAS",
+      "ad": "",
+      "agirlik": 0.75
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 0.7
     },
     {
       "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 0.55
+      "agirlik": 0.68
     },
     {
-      "ticker": "IZENR",
+      "ticker": "ALVES",
       "ad": "",
-      "agirlik": 0.54
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 0.41
-    },
-    {
-      "ticker": "KOPOL",
-      "ad": "",
-      "agirlik": 0.33
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 0.3
-    },
-    {
-      "ticker": "MOPAS",
-      "ad": "",
-      "agirlik": 0.29
-    },
-    {
-      "ticker": "TRHOL",
-      "ad": "",
-      "agirlik": 0.23
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 0.2
+      "agirlik": 0.62
     },
     {
       "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 0.2
+      "agirlik": 0.56
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 0.55
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 0.4
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 0.27
+    },
+    {
+      "ticker": "IZENR",
+      "ad": "",
+      "agirlik": 0.25
+    },
+    {
+      "ticker": "TEHOL",
+      "ad": "",
+      "agirlik": 0.25
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 0.24
+    },
+    {
+      "ticker": "TRHOL",
+      "ad": "",
+      "agirlik": 0.17
+    },
+    {
+      "ticker": "KONTR",
+      "ad": "",
+      "agirlik": 0.15
     },
     {
       "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 0.19
+      "agirlik": 0.12
+    },
+    {
+      "ticker": "TRENJ",
+      "ad": "",
+      "agirlik": 0.11
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 0.06
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "33 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 21:53:20",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6e7063221334",
-  "kap_son_kontrol_iso": "2026-05-04T12:30:48Z",
+  "hisse_mesaj": "40 hisse satırı okundu.",
+  "kap_rapor_tarihi": "11.05.2026 18:11:49",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1794197a6f68",
+  "kap_son_kontrol_iso": "2026-05-11T17:14:30Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

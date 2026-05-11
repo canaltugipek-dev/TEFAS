@@ -1,6 +1,6 @@
 {
   "kod": "NKT",
-  "guncelleme": "2026-05-04T12:28:13Z",
+  "guncelleme": "2026-05-11T17:11:34Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkt-nurol-portfoy-birinci-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,149 +14,139 @@
     {
       "ticker": "MPARK",
       "ad": "",
-      "agirlik": 8.81
+      "agirlik": 9.67
     },
     {
-      "ticker": "BIMAS",
+      "ticker": "YATAS",
       "ad": "",
-      "agirlik": 6.42
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 5.5
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 5.22
+      "agirlik": 9.47
     },
     {
       "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 4.23
+      "agirlik": 8.09
     },
     {
-      "ticker": "KRDMD",
+      "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 4.16
+      "agirlik": 7.34
     },
     {
-      "ticker": "ORGE",
+      "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 3.97
-    },
-    {
-      "ticker": "AKFYE",
-      "ad": "",
-      "agirlik": 3.33
-    },
-    {
-      "ticker": "CVKMD",
-      "ad": "",
-      "agirlik": 3.22
-    },
-    {
-      "ticker": "KTLEV",
-      "ad": "",
-      "agirlik": 3.21
-    },
-    {
-      "ticker": "KZBGY",
-      "ad": "",
-      "agirlik": 3.2
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 3.18
-    },
-    {
-      "ticker": "BORSK",
-      "ad": "",
-      "agirlik": 3.08
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 3.0
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 2.57
-    },
-    {
-      "ticker": "SNGYO",
-      "ad": "",
-      "agirlik": 2.55
-    },
-    {
-      "ticker": "KUTPO",
-      "ad": "",
-      "agirlik": 2.52
+      "agirlik": 6.6
     },
     {
       "ticker": "GESAN",
       "ad": "",
-      "agirlik": 2.27
+      "agirlik": 5.48
     },
     {
-      "ticker": "TNZTP",
+      "ticker": "KTLEV",
       "ad": "",
-      "agirlik": 2.2
+      "agirlik": 4.9
     },
     {
-      "ticker": "SELEC",
+      "ticker": "CVKMD",
       "ad": "",
-      "agirlik": 1.91
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 1.64
-    },
-    {
-      "ticker": "KRVGD",
-      "ad": "",
-      "agirlik": 1.64
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 1.51
-    },
-    {
-      "ticker": "EDIP",
-      "ad": "",
-      "agirlik": 1.28
-    },
-    {
-      "ticker": "ARASE",
-      "ad": "",
-      "agirlik": 1.22
+      "agirlik": 4.57
     },
     {
       "ticker": "CATES",
       "ad": "",
-      "agirlik": 1.05
+      "agirlik": 4.18
     },
     {
-      "ticker": "YUNSA",
+      "ticker": "ALBRK",
       "ad": "",
-      "agirlik": 1.04
+      "agirlik": 3.42
     },
     {
-      "ticker": "SRVGY",
+      "ticker": "BORSK",
       "ad": "",
-      "agirlik": 0.9
+      "agirlik": 3.27
+    },
+    {
+      "ticker": "KUTPO",
+      "ad": "",
+      "agirlik": 2.92
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 2.77
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 1.59
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 1.58
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 1.46
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 1.41
+    },
+    {
+      "ticker": "EDIP",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 0.94
+    },
+    {
+      "ticker": "KZBGY",
+      "ad": "",
+      "agirlik": 0.86
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "28 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 10:08:40",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d618805296b75",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.05.2026 13:29:51",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfbdf750c13fa",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-05-04T12:28:13Z",
+  "kap_son_kontrol_iso": "2026-05-11T17:11:34Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

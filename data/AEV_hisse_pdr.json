@@ -1,6 +1,6 @@
 {
   "kod": "AEV",
-  "guncelleme": "2026-04-26T18:21:30Z",
+  "guncelleme": "2026-05-11T17:00:22Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY SANAYİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aev-allbatross-portfoy-sanayi-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,100 +12,110 @@
   ],
   "hisseler": [
     {
-      "ticker": "GIPTA",
+      "ticker": "ASTOR",
       "ad": "",
-      "agirlik": 5.88
+      "agirlik": 9.25
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 7.02
     },
     {
       "ticker": "EUPWR",
       "ad": "",
-      "agirlik": 5.54
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 5.39
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 5.26
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 5.23
+      "agirlik": 5.69
     },
     {
       "ticker": "TATGD",
       "ad": "",
-      "agirlik": 5.09
+      "agirlik": 5.32
     },
     {
-      "ticker": "ARCLK",
+      "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 4.63
+      "agirlik": 5.23
     },
     {
-      "ticker": "KLSER",
+      "ticker": "GIPTA",
       "ad": "",
-      "agirlik": 4.56
+      "agirlik": 5.18
     },
     {
       "ticker": "TBORG",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "AEFES",
       "ad": "",
       "agirlik": 4.49
     },
     {
       "ticker": "CCOLA",
       "ad": "",
-      "agirlik": 4.43
+      "agirlik": 4.44
     },
     {
-      "ticker": "YYLGD",
+      "ticker": "ARCLK",
       "ad": "",
-      "agirlik": 4.36
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.3
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 4.28
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 4.26
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 4.07
+      "agirlik": 4.42
     },
     {
       "ticker": "TTRAK",
       "ad": "",
-      "agirlik": 3.99
+      "agirlik": 4.38
     },
     {
-      "ticker": "CIMSA",
+      "ticker": "TOASO",
       "ad": "",
-      "agirlik": 3.94
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "KLSER",
+      "ad": "",
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 4.15
     },
     {
       "ticker": "TRALT",
       "ad": "",
-      "agirlik": 3.76
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 3.45
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "18 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 11:25:43",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d4a029c019d4e54ec8b25ac",
-  "kap_son_kontrol_iso": "2026-05-04T12:16:02Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.05.2026 09:53:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df868349c5a69",
+  "kap_son_kontrol_iso": "2026-05-11T17:00:22Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

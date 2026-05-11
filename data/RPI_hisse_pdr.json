@@ -1,6 +1,6 @@
 {
   "kod": "RPI",
-  "guncelleme": "2026-05-04T12:32:19Z",
+  "guncelleme": "2026-05-11T17:15:32Z",
   "kaynak_tefas": true,
   "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,7 +14,7 @@
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 8.8
+      "agirlik": 9.1
     },
     {
       "ticker": "TUPRS",
@@ -24,98 +24,98 @@
     {
       "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 7.16
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 6.21
+      "agirlik": 7.31
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 6.17
+      "agirlik": 6.42
     },
     {
-      "ticker": "AKFYE",
+      "ticker": "MPARK",
       "ad": "",
-      "agirlik": 4.85
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 4.5
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 4.43
+      "agirlik": 5.77
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 4.38
+      "agirlik": 4.76
     },
     {
-      "ticker": "GOKNR",
+      "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 3.85
+      "agirlik": 4.44
     },
     {
-      "ticker": "GESAN",
+      "ticker": "MAVI",
       "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 3.73
+      "agirlik": 4.41
     },
     {
       "ticker": "AVPGY",
       "ad": "",
-      "agirlik": 3.64
+      "agirlik": 4.19
     },
     {
-      "ticker": "ENJSA",
+      "ticker": "GESAN",
       "ad": "",
-      "agirlik": 3.55
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 3.94
     },
     {
       "ticker": "ISDMR",
       "ad": "",
-      "agirlik": 3.38
+      "agirlik": 3.74
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 3.62
     },
     {
       "ticker": "AKSA",
       "ad": "",
-      "agirlik": 3.32
+      "agirlik": 3.1
     },
     {
       "ticker": "LOGO",
       "ad": "",
-      "agirlik": 2.86
+      "agirlik": 2.97
     },
     {
       "ticker": "KOTON",
       "ad": "",
-      "agirlik": 2.79
+      "agirlik": 2.82
     },
     {
       "ticker": "KCAER",
       "ad": "",
-      "agirlik": 1.69
+      "agirlik": 1.72
     },
     {
       "ticker": "VESBE",
       "ad": "",
-      "agirlik": 0.51
+      "agirlik": 0.52
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.04.2026 14:46:40",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d626e650f1394",
-  "kap_son_kontrol_iso": "2026-05-04T12:32:19Z",
+  "kap_rapor_tarihi": "08.05.2026 16:39:37",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07a7edef3a40",
+  "kap_son_kontrol_iso": "2026-05-11T17:15:32Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

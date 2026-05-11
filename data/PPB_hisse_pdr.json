@@ -1,6 +1,6 @@
 {
   "kod": "PPB",
-  "guncelleme": "2026-05-04T12:31:00Z",
+  "guncelleme": "2026-05-11T17:14:41Z",
   "kaynak_tefas": true,
   "unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ppb-phillip-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,110 +12,125 @@
   ],
   "hisseler": [
     {
-      "ticker": "TURSG",
+      "ticker": "EUPWR",
       "ad": "",
-      "agirlik": 9.57
+      "agirlik": 8.59
     },
     {
       "ticker": "VAKBN",
       "ad": "",
-      "agirlik": 8.42
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 8.38
-    },
-    {
-      "ticker": "EUPWR",
-      "ad": "",
-      "agirlik": 6.31
-    },
-    {
-      "ticker": "AKFYE",
-      "ad": "",
-      "agirlik": 5.16
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 5.1
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 4.89
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 4.87
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 4.81
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 4.62
+      "agirlik": 8.02
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 4.43
+      "agirlik": 6.78
     },
     {
-      "ticker": "GARAN",
+      "ticker": "TURSG",
       "ad": "",
-      "agirlik": 4.36
+      "agirlik": 6.78
     },
     {
-      "ticker": "YKBNK",
+      "ticker": "THYAO",
       "ad": "",
-      "agirlik": 4.27
+      "agirlik": 5.8
     },
     {
-      "ticker": "ZPLIB",
+      "ticker": "AKFYE",
       "ad": "",
-      "agirlik": 4.25
+      "agirlik": 4.72
     },
     {
-      "ticker": "HALKB",
+      "ticker": "TTKOM",
       "ad": "",
-      "agirlik": 4.15
+      "agirlik": 4.65
     },
     {
-      "ticker": "TAVHL",
+      "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 3.7
+      "agirlik": 4.63
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.61
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.47
     },
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 3.33
+      "agirlik": 4.43
     },
     {
-      "ticker": "LMKDC",
+      "ticker": "SISE",
       "ad": "",
-      "agirlik": 3.19
-    },
-    {
-      "ticker": "BIGCH",
-      "ad": "",
-      "agirlik": 1.83
+      "agirlik": 4.41
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 1.11
+      "agirlik": 4.36
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.42
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 0.77
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.04.2026 19:18:50",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4efd19293374",
-  "kap_son_kontrol_iso": "2026-05-04T12:31:00Z",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.05.2026 18:38:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdcd887735a2",
+  "kap_son_kontrol_iso": "2026-05-11T17:14:41Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
