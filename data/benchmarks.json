@@ -1,14 +1,10 @@
 {
-  "guncelleme": "2026-05-27T12:31:39",
+  "guncelleme": "2026-05-28T12:40:53",
   "bist100_ticker": "XU100.IS",
   "usdtry_ticker": "TRY=X",
   "tufe_kaynak": "manual_monthly_array",
   "series": {
     "bist100": [
-      {
-        "tarih": "2021-05-28",
-        "deger": 1422.09997559
-      },
       {
         "tarih": "2021-05-31",
         "deger": 1420.5
@@ -4995,10 +4991,6 @@
       }
     ],
     "usdtry": [
-      {
-        "tarih": "2021-05-28",
-        "deger": 8.48235035
-      },
       {
         "tarih": "2021-05-31",
         "deger": 8.57339954

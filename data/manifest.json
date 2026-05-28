@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-05-27T12:31:42",
+  "guncelleme": "2026-05-28T12:40:57",
   "hedef_gun": 1825,
   "kategori": "Hisse Senedi Yoğun Fon",
   "beklenen_min_gun": 1760,
@@ -378,7 +378,7 @@
       }
     ],
     "politika_faizi_seri_aralik": {
-      "bas": "2021-05-28",
+      "bas": "2021-05-31",
       "bit": "2026-05-26"
     }
   },
@@ -388,8 +388,8 @@
       "ad": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/AAV_tefas.json",
       "stats": {
         "6M": {
@@ -417,9 +417,9 @@
           "max_drawdown": -0.267733
         },
         "5Y": {
-          "sharpe": 1.144217,
-          "sortino": 1.638554,
-          "alpha": 0.357088,
+          "sharpe": 1.146105,
+          "sortino": 1.641252,
+          "alpha": 0.357936,
           "max_drawdown": -0.267733
         }
       }
@@ -429,8 +429,8 @@
       "ad": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ACC_tefas.json",
       "stats": {
         "6M": {
@@ -458,9 +458,9 @@
           "max_drawdown": -0.22012
         },
         "5Y": {
-          "sharpe": 1.334871,
-          "sortino": 1.973256,
-          "alpha": 0.400172,
+          "sharpe": 1.33367,
+          "sortino": 1.971479,
+          "alpha": 0.399892,
           "max_drawdown": -0.238971
         }
       }
@@ -470,8 +470,8 @@
       "ad": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ADP_tefas.json",
       "stats": {
         "6M": {
@@ -499,9 +499,9 @@
           "max_drawdown": -0.302239
         },
         "5Y": {
-          "sharpe": 0.907405,
-          "sortino": 1.380038,
-          "alpha": 0.421586,
+          "sharpe": 0.907269,
+          "sortino": 1.379832,
+          "alpha": 0.42167,
           "max_drawdown": -0.366855
         }
       }
@@ -552,8 +552,8 @@
       "ad": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/AHI_tefas.json",
       "stats": {
         "6M": {
@@ -581,9 +581,9 @@
           "max_drawdown": -0.225976
         },
         "5Y": {
-          "sharpe": 1.334239,
-          "sortino": 1.932086,
-          "alpha": 0.426407,
+          "sharpe": 1.332636,
+          "sortino": 1.92976,
+          "alpha": 0.425973,
           "max_drawdown": -0.273375
         }
       }
@@ -593,8 +593,8 @@
       "ad": "AK PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/AK3_tefas.json",
       "stats": {
         "6M": {
@@ -622,9 +622,9 @@
           "max_drawdown": -0.210939
         },
         "5Y": {
-          "sharpe": 1.35347,
-          "sortino": 2.007767,
-          "alpha": 0.416605,
+          "sharpe": 1.349966,
+          "sortino": 2.002525,
+          "alpha": 0.415458,
           "max_drawdown": -0.210939
         }
       }
@@ -634,8 +634,8 @@
       "ad": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/AKU_tefas.json",
       "stats": {
         "6M": {
@@ -663,9 +663,9 @@
           "max_drawdown": -0.203711
         },
         "5Y": {
-          "sharpe": 0.943041,
-          "sortino": 1.378161,
-          "alpha": 0.295438,
+          "sharpe": 0.936362,
+          "sortino": 1.368261,
+          "alpha": 0.29305,
           "max_drawdown": -0.203711
         }
       }
@@ -675,8 +675,8 @@
       "ad": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ALC_tefas.json",
       "stats": {
         "6M": {
@@ -704,9 +704,9 @@
           "max_drawdown": -0.195069
         },
         "5Y": {
-          "sharpe": 1.01401,
-          "sortino": 1.477966,
-          "alpha": 0.310045,
+          "sharpe": 1.00419,
+          "sortino": 1.463314,
+          "alpha": 0.306631,
           "max_drawdown": -0.217641
         }
       }
@@ -757,8 +757,8 @@
       "ad": "ATA PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/AYA_tefas.json",
       "stats": {
         "6M": {
@@ -786,9 +786,9 @@
           "max_drawdown": -0.183408
         },
         "5Y": {
-          "sharpe": 0.745491,
-          "sortino": 1.044077,
-          "alpha": 0.207223,
+          "sharpe": 0.748047,
+          "sortino": 1.04766,
+          "alpha": 0.208096,
           "max_drawdown": -0.218081
         }
       }
@@ -1290,8 +1290,8 @@
       "ad": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/DAH_tefas.json",
       "stats": {
         "6M": {
@@ -1319,9 +1319,9 @@
           "max_drawdown": -0.247486
         },
         "5Y": {
-          "sharpe": 1.034686,
-          "sortino": 1.494906,
-          "alpha": 0.334087,
+          "sharpe": 1.033429,
+          "sortino": 1.493087,
+          "alpha": 0.333731,
           "max_drawdown": -0.247486
         }
       }
@@ -1454,8 +1454,8 @@
       "ad": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/DPT_tefas.json",
       "stats": {
         "6M": {
@@ -1483,9 +1483,9 @@
           "max_drawdown": -0.26464
         },
         "5Y": {
-          "sharpe": 0.822101,
-          "sortino": 1.196788,
-          "alpha": 0.260889,
+          "sharpe": 0.81322,
+          "sortino": 1.183637,
+          "alpha": 0.257682,
           "max_drawdown": -0.26464
         }
       }
@@ -1618,8 +1618,8 @@
       "ad": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/DZE_tefas.json",
       "stats": {
         "6M": {
@@ -1647,9 +1647,9 @@
           "max_drawdown": -0.222473
         },
         "5Y": {
-          "sharpe": 0.945001,
-          "sortino": 1.361309,
-          "alpha": 0.293053,
+          "sharpe": 0.941286,
+          "sortino": 1.35592,
+          "alpha": 0.291811,
           "max_drawdown": -0.222473
         }
       }
@@ -1659,8 +1659,8 @@
       "ad": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/EC2_tefas.json",
       "stats": {
         "6M": {
@@ -1688,9 +1688,9 @@
           "max_drawdown": -0.212795
         },
         "5Y": {
-          "sharpe": 1.1068,
-          "sortino": 1.613384,
-          "alpha": 0.352808,
+          "sharpe": 1.105498,
+          "sortino": 1.611483,
+          "alpha": 0.352471,
           "max_drawdown": -0.212795
         }
       }
@@ -1700,8 +1700,8 @@
       "ad": "ASTRA PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/EID_tefas.json",
       "stats": {
         "6M": {
@@ -1729,9 +1729,9 @@
           "max_drawdown": -0.184638
         },
         "5Y": {
-          "sharpe": 1.293012,
-          "sortino": 1.867052,
-          "alpha": 0.379308,
+          "sharpe": 1.293039,
+          "sortino": 1.86709,
+          "alpha": 0.379485,
           "max_drawdown": -0.202944
         }
       }
@@ -1741,8 +1741,8 @@
       "ad": "ASTRA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ELZ_tefas.json",
       "stats": {
         "6M": {
@@ -1770,9 +1770,9 @@
           "max_drawdown": -0.158768
         },
         "5Y": {
-          "sharpe": 1.139743,
-          "sortino": 1.628337,
-          "alpha": 0.310844,
+          "sharpe": 1.135304,
+          "sortino": 1.62193,
+          "alpha": 0.309561,
           "max_drawdown": -0.183705
         }
       }
@@ -1823,8 +1823,8 @@
       "ad": "FİBA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/FPH_tefas.json",
       "stats": {
         "6M": {
@@ -1852,9 +1852,9 @@
           "max_drawdown": -0.226112
         },
         "5Y": {
-          "sharpe": 1.010888,
-          "sortino": 1.457207,
-          "alpha": 0.294352,
+          "sharpe": 1.011458,
+          "sortino": 1.458027,
+          "alpha": 0.294663,
           "max_drawdown": -0.226112
         }
       }
@@ -1905,8 +1905,8 @@
       "ad": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/FYD_tefas.json",
       "stats": {
         "6M": {
@@ -1934,9 +1934,9 @@
           "max_drawdown": -0.234027
         },
         "5Y": {
-          "sharpe": 1.170493,
-          "sortino": 1.712045,
-          "alpha": 0.363427,
+          "sharpe": 1.169412,
+          "sortino": 1.710464,
+          "alpha": 0.36317,
           "max_drawdown": -0.234027
         }
       }
@@ -1946,8 +1946,8 @@
       "ad": "GARANTİ PORTFÖY BİST30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GAE_tefas.json",
       "stats": {
         "6M": {
@@ -1975,9 +1975,9 @@
           "max_drawdown": -0.208112
         },
         "5Y": {
-          "sharpe": 0.935265,
-          "sortino": 1.366229,
-          "alpha": 0.296495,
+          "sharpe": 0.928405,
+          "sortino": 1.356062,
+          "alpha": 0.294004,
           "max_drawdown": -0.214193
         }
       }
@@ -1987,8 +1987,8 @@
       "ad": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GAF_tefas.json",
       "stats": {
         "6M": {
@@ -2016,9 +2016,9 @@
           "max_drawdown": -0.191746
         },
         "5Y": {
-          "sharpe": 1.209631,
-          "sortino": 1.788135,
-          "alpha": 0.395953,
+          "sharpe": 1.207994,
+          "sortino": 1.785709,
+          "alpha": 0.39547,
           "max_drawdown": -0.191746
         }
       }
@@ -2028,8 +2028,8 @@
       "ad": "GARANTİ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GHS_tefas.json",
       "stats": {
         "6M": {
@@ -2057,9 +2057,9 @@
           "max_drawdown": -0.212652
         },
         "5Y": {
-          "sharpe": 1.223049,
-          "sortino": 1.792602,
-          "alpha": 0.38608,
+          "sharpe": 1.219489,
+          "sortino": 1.787341,
+          "alpha": 0.384866,
           "max_drawdown": -0.214765
         }
       }
@@ -2233,8 +2233,8 @@
       "ad": "AZİMUT PYŞ BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GL1_tefas.json",
       "stats": {
         "6M": {
@@ -2262,9 +2262,9 @@
           "max_drawdown": -0.255107
         },
         "5Y": {
-          "sharpe": 1.228083,
-          "sortino": 1.785734,
-          "alpha": 0.355491,
+          "sharpe": 1.235671,
+          "sortino": 1.796941,
+          "alpha": 0.358205,
           "max_drawdown": -0.255107
         }
       }
@@ -2274,8 +2274,8 @@
       "ad": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GMR_tefas.json",
       "stats": {
         "6M": {
@@ -2303,9 +2303,9 @@
           "max_drawdown": -0.290559
         },
         "5Y": {
-          "sharpe": 1.070541,
-          "sortino": 1.48448,
-          "alpha": 0.324916,
+          "sharpe": 1.075089,
+          "sortino": 1.490815,
+          "alpha": 0.326634,
           "max_drawdown": -0.290559
         }
       }
@@ -2438,8 +2438,8 @@
       "ad": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GOH_tefas.json",
       "stats": {
         "6M": {
@@ -2520,8 +2520,8 @@
       "ad": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GSP_tefas.json",
       "stats": {
         "6M": {
@@ -2549,9 +2549,9 @@
           "max_drawdown": -0.207556
         },
         "5Y": {
-          "sharpe": 1.065827,
-          "sortino": 1.491972,
-          "alpha": 0.306242,
+          "sharpe": 1.070886,
+          "sortino": 1.499097,
+          "alpha": 0.308034,
           "max_drawdown": -0.207556
         }
       }
@@ -2643,8 +2643,8 @@
       "ad": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/GZR_tefas.json",
       "stats": {
         "6M": {
@@ -2672,9 +2672,9 @@
           "max_drawdown": -0.206654
         },
         "5Y": {
-          "sharpe": 1.061303,
-          "sortino": 1.555457,
-          "alpha": 0.315662,
+          "sharpe": 1.059757,
+          "sortino": 1.553187,
+          "alpha": 0.315248,
           "max_drawdown": -0.206654
         }
       }
@@ -2684,8 +2684,8 @@
       "ad": "HSBC PORTFÖY BİST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/HBU_tefas.json",
       "stats": {
         "6M": {
@@ -2713,9 +2713,9 @@
           "max_drawdown": -0.213198
         },
         "5Y": {
-          "sharpe": 0.955718,
-          "sortino": 1.400245,
-          "alpha": 0.322915,
+          "sharpe": 0.948794,
+          "sortino": 1.389948,
+          "alpha": 0.320212,
           "max_drawdown": -0.223583
         }
       }
@@ -3053,8 +3053,8 @@
       "ad": "HSBC PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/HVS_tefas.json",
       "stats": {
         "6M": {
@@ -3082,9 +3082,9 @@
           "max_drawdown": -0.221812
         },
         "5Y": {
-          "sharpe": 1.261271,
-          "sortino": 1.866499,
-          "alpha": 0.424476,
+          "sharpe": 1.259155,
+          "sortino": 1.863356,
+          "alpha": 0.423787,
           "max_drawdown": -0.221812
         }
       }
@@ -3135,8 +3135,8 @@
       "ad": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ICF_tefas.json",
       "stats": {
         "6M": {
@@ -3164,9 +3164,9 @@
           "max_drawdown": -0.175523
         },
         "5Y": {
-          "sharpe": 1.278703,
-          "sortino": 1.855038,
-          "alpha": 0.393962,
+          "sharpe": 1.277625,
+          "sortino": 1.853472,
+          "alpha": 0.393734,
           "max_drawdown": -0.201116
         }
       }
@@ -3176,8 +3176,8 @@
       "ad": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ICZ_tefas.json",
       "stats": {
         "6M": {
@@ -3205,9 +3205,9 @@
           "max_drawdown": -0.334078
         },
         "5Y": {
-          "sharpe": 0.813397,
-          "sortino": 1.126996,
-          "alpha": 0.257476,
+          "sharpe": 0.823491,
+          "sortino": 1.141183,
+          "alpha": 0.261057,
           "max_drawdown": -0.347476
         }
       }
@@ -3217,8 +3217,8 @@
       "ad": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/IDH_tefas.json",
       "stats": {
         "6M": {
@@ -3246,9 +3246,9 @@
           "max_drawdown": -0.251216
         },
         "5Y": {
-          "sharpe": 1.152992,
-          "sortino": 1.618717,
-          "alpha": 0.329977,
+          "sharpe": 1.160841,
+          "sortino": 1.629884,
+          "alpha": 0.332673,
           "max_drawdown": -0.286557
         }
       }
@@ -3381,8 +3381,8 @@
       "ad": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/IHK_tefas.json",
       "stats": {
         "6M": {
@@ -3410,9 +3410,9 @@
           "max_drawdown": -0.247179
         },
         "5Y": {
-          "sharpe": 1.317506,
-          "sortino": 1.938276,
-          "alpha": 0.417012,
+          "sharpe": 1.318341,
+          "sortino": 1.939498,
+          "alpha": 0.417507,
           "max_drawdown": -0.247179
         }
       }
@@ -3463,8 +3463,8 @@
       "ad": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/IIH_tefas.json",
       "stats": {
         "6M": {
@@ -3492,9 +3492,9 @@
           "max_drawdown": -0.224241
         },
         "5Y": {
-          "sharpe": 1.434821,
-          "sortino": 2.122094,
-          "alpha": 0.438955,
+          "sharpe": 1.435537,
+          "sortino": 2.123145,
+          "alpha": 0.439411,
           "max_drawdown": -0.224241
         }
       }
@@ -3955,8 +3955,8 @@
       "ad": "KUVEYT TÜRK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/KPC_tefas.json",
       "stats": {
         "6M": {
@@ -3984,9 +3984,9 @@
           "max_drawdown": -0.187169
         },
         "5Y": {
-          "sharpe": 1.275213,
-          "sortino": 1.826852,
-          "alpha": 0.357094,
+          "sharpe": 1.273053,
+          "sortino": 1.823746,
+          "alpha": 0.356529,
           "max_drawdown": -0.234704
         }
       }
@@ -4201,8 +4201,8 @@
       "ad": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/KYA_tefas.json",
       "stats": {
         "6M": {
@@ -4230,9 +4230,9 @@
           "max_drawdown": -0.234774
         },
         "5Y": {
-          "sharpe": 1.160701,
-          "sortino": 1.703973,
-          "alpha": 0.371763,
+          "sharpe": 1.155676,
+          "sortino": 1.696507,
+          "alpha": 0.369987,
           "max_drawdown": -0.234774
         }
       }
@@ -4242,8 +4242,8 @@
       "ad": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/MAC_tefas.json",
       "stats": {
         "6M": {
@@ -4271,9 +4271,9 @@
           "max_drawdown": -0.212909
         },
         "5Y": {
-          "sharpe": 1.159864,
-          "sortino": 1.656124,
-          "alpha": 0.378122,
+          "sharpe": 1.161216,
+          "sortino": 1.658048,
+          "alpha": 0.378817,
           "max_drawdown": -0.320434
         }
       }
@@ -4365,8 +4365,8 @@
       "ad": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/MMH_tefas.json",
       "stats": {
         "6M": {
@@ -4394,9 +4394,9 @@
           "max_drawdown": -0.211
         },
         "5Y": {
-          "sharpe": 1.092568,
-          "sortino": 1.618864,
-          "alpha": 0.35472,
+          "sharpe": 1.085662,
+          "sortino": 1.608459,
+          "alpha": 0.352132,
           "max_drawdown": -0.211
         }
       }
@@ -4406,8 +4406,8 @@
       "ad": "AKTİF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/MPS_tefas.json",
       "stats": {
         "6M": {
@@ -4435,9 +4435,9 @@
           "max_drawdown": -0.191658
         },
         "5Y": {
-          "sharpe": 0.919392,
-          "sortino": 1.315751,
-          "alpha": 0.25621,
+          "sharpe": 0.922291,
+          "sortino": 1.319908,
+          "alpha": 0.257231,
           "max_drawdown": -0.205177
         }
       }
@@ -4734,8 +4734,8 @@
       "ad": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/NNF_tefas.json",
       "stats": {
         "6M": {
@@ -4763,9 +4763,9 @@
           "max_drawdown": -0.239774
         },
         "5Y": {
-          "sharpe": 1.1266,
-          "sortino": 1.616056,
-          "alpha": 0.37094,
+          "sharpe": 1.130072,
+          "sortino": 1.62105,
+          "alpha": 0.37245,
           "max_drawdown": -0.239774
         }
       }
@@ -4898,8 +4898,8 @@
       "ad": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/OHB_tefas.json",
       "stats": {
         "6M": {
@@ -4927,9 +4927,9 @@
           "max_drawdown": -0.193102
         },
         "5Y": {
-          "sharpe": 1.121197,
-          "sortino": 1.629451,
-          "alpha": 0.347655,
+          "sharpe": 1.121063,
+          "sortino": 1.629257,
+          "alpha": 0.347752,
           "max_drawdown": -0.203666
         }
       }
@@ -5021,8 +5021,8 @@
       "ad": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/OPH_tefas.json",
       "stats": {
         "6M": {
@@ -5050,9 +5050,9 @@
           "max_drawdown": -0.26578
         },
         "5Y": {
-          "sharpe": 1.041076,
-          "sortino": 1.460259,
-          "alpha": 0.329473,
+          "sharpe": 1.045145,
+          "sortino": 1.465988,
+          "alpha": 0.331104,
           "max_drawdown": -0.26578
         }
       }
@@ -5062,8 +5062,8 @@
       "ad": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/OPI_tefas.json",
       "stats": {
         "6M": {
@@ -5091,9 +5091,9 @@
           "max_drawdown": -0.248155
         },
         "5Y": {
-          "sharpe": 1.063212,
-          "sortino": 1.492035,
-          "alpha": 0.321906,
+          "sharpe": 1.064792,
+          "sortino": 1.494247,
+          "alpha": 0.322602,
           "max_drawdown": -0.248155
         }
       }
@@ -5390,8 +5390,8 @@
       "ad": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/RBH_tefas.json",
       "stats": {
         "6M": {
@@ -5419,9 +5419,9 @@
           "max_drawdown": -0.171446
         },
         "5Y": {
-          "sharpe": 1.12298,
-          "sortino": 1.606858,
-          "alpha": 0.323184,
+          "sharpe": 1.128225,
+          "sortino": 1.61442,
+          "alpha": 0.325054,
           "max_drawdown": -0.236669
         }
       }
@@ -5759,8 +5759,8 @@
       "ad": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ST1_tefas.json",
       "stats": {
         "6M": {
@@ -5788,9 +5788,9 @@
           "max_drawdown": -0.27119
         },
         "5Y": {
-          "sharpe": 0.822824,
-          "sortino": 1.147428,
-          "alpha": 0.330817,
+          "sharpe": 0.824681,
+          "sortino": 1.150017,
+          "alpha": 0.331831,
           "max_drawdown": -0.357632
         }
       }
@@ -5841,8 +5841,8 @@
       "ad": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TAU_tefas.json",
       "stats": {
         "6M": {
@@ -5870,9 +5870,9 @@
           "max_drawdown": -0.306407
         },
         "5Y": {
-          "sharpe": 0.899654,
-          "sortino": 1.366104,
-          "alpha": 0.422697,
+          "sharpe": 0.898491,
+          "sortino": 1.364337,
+          "alpha": 0.422174,
           "max_drawdown": -0.388711
         }
       }
@@ -5964,8 +5964,8 @@
       "ad": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TI2_tefas.json",
       "stats": {
         "6M": {
@@ -5993,9 +5993,9 @@
           "max_drawdown": -0.248829
         },
         "5Y": {
-          "sharpe": 1.332096,
-          "sortino": 1.938156,
-          "alpha": 0.402313,
+          "sharpe": 1.33939,
+          "sortino": 1.948929,
+          "alpha": 0.405101,
           "max_drawdown": -0.248829
         }
       }
@@ -6005,8 +6005,8 @@
       "ad": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TI3_tefas.json",
       "stats": {
         "6M": {
@@ -6034,9 +6034,9 @@
           "max_drawdown": -0.268585
         },
         "5Y": {
-          "sharpe": 0.916496,
-          "sortino": 1.35343,
-          "alpha": 0.329828,
+          "sharpe": 0.919948,
+          "sortino": 1.358549,
+          "alpha": 0.331426,
           "max_drawdown": -0.362571
         }
       }
@@ -6046,8 +6046,8 @@
       "ad": "İŞ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TIE_tefas.json",
       "stats": {
         "6M": {
@@ -6075,9 +6075,9 @@
           "max_drawdown": -0.207294
         },
         "5Y": {
-          "sharpe": 0.933958,
-          "sortino": 1.360046,
-          "alpha": 0.296443,
+          "sharpe": 0.92705,
+          "sortino": 1.34984,
+          "alpha": 0.293927,
           "max_drawdown": -0.22316
         }
       }
@@ -6128,8 +6128,8 @@
       "ad": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TKF_tefas.json",
       "stats": {
         "6M": {
@@ -6157,9 +6157,9 @@
           "max_drawdown": -0.216453
         },
         "5Y": {
-          "sharpe": 0.852161,
-          "sortino": 1.218064,
-          "alpha": 0.25118,
+          "sharpe": 0.854208,
+          "sortino": 1.220992,
+          "alpha": 0.251969,
           "max_drawdown": -0.273564
         }
       }
@@ -6169,8 +6169,8 @@
       "ad": "AURA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TLH_tefas.json",
       "stats": {
         "6M": {
@@ -6198,9 +6198,9 @@
           "max_drawdown": -0.268384
         },
         "5Y": {
-          "sharpe": 1.106272,
-          "sortino": 1.565857,
-          "alpha": 0.362218,
+          "sharpe": 1.110884,
+          "sortino": 1.57242,
+          "alpha": 0.364158,
           "max_drawdown": -0.269423
         }
       }
@@ -6210,8 +6210,8 @@
       "ad": "ATA PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TLZ_tefas.json",
       "stats": {
         "6M": {
@@ -6239,9 +6239,9 @@
           "max_drawdown": -0.267439
         },
         "5Y": {
-          "sharpe": 1.14811,
-          "sortino": 1.623769,
-          "alpha": 0.349456,
+          "sharpe": 1.15245,
+          "sortino": 1.629934,
+          "alpha": 0.35115,
           "max_drawdown": -0.267439
         }
       }
@@ -6251,8 +6251,8 @@
       "ad": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TTE_tefas.json",
       "stats": {
         "6M": {
@@ -6280,9 +6280,9 @@
           "max_drawdown": -0.364953
         },
         "5Y": {
-          "sharpe": 0.986866,
-          "sortino": 1.390691,
-          "alpha": 0.339981,
+          "sharpe": 0.998103,
+          "sortino": 1.406847,
+          "alpha": 0.344451,
           "max_drawdown": -0.376841
         }
       }
@@ -6292,8 +6292,8 @@
       "ad": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TYH_tefas.json",
       "stats": {
         "6M": {
@@ -6321,9 +6321,9 @@
           "max_drawdown": -0.248768
         },
         "5Y": {
-          "sharpe": 1.179747,
-          "sortino": 1.721138,
-          "alpha": 0.359381,
+          "sharpe": 1.176368,
+          "sortino": 1.716172,
+          "alpha": 0.358275,
           "max_drawdown": -0.248768
         }
       }
@@ -6333,8 +6333,8 @@
       "ad": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/TZD_tefas.json",
       "stats": {
         "6M": {
@@ -6362,9 +6362,9 @@
           "max_drawdown": -0.240081
         },
         "5Y": {
-          "sharpe": 0.986577,
-          "sortino": 1.381715,
-          "alpha": 0.313985,
+          "sharpe": 0.984574,
+          "sortino": 1.378901,
+          "alpha": 0.313377,
           "max_drawdown": -0.240081
         }
       }
@@ -6374,8 +6374,8 @@
       "ad": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/UPH_tefas.json",
       "stats": {
         "6M": {
@@ -6403,9 +6403,9 @@
           "max_drawdown": -0.238348
         },
         "5Y": {
-          "sharpe": 1.039068,
-          "sortino": 1.508724,
-          "alpha": 0.317046,
+          "sharpe": 1.044328,
+          "sortino": 1.516425,
+          "alpha": 0.31904,
           "max_drawdown": -0.238348
         }
       }
@@ -6456,8 +6456,8 @@
       "ad": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YAS_tefas.json",
       "stats": {
         "6M": {
@@ -6485,9 +6485,9 @@
           "max_drawdown": -0.305731
         },
         "5Y": {
-          "sharpe": 0.852749,
-          "sortino": 1.238592,
-          "alpha": 0.233726,
+          "sharpe": 0.850175,
+          "sortino": 1.234837,
+          "alpha": 0.232969,
           "max_drawdown": -0.305731
         }
       }
@@ -6497,8 +6497,8 @@
       "ad": "YAPI KREDİ PORTFÖY MODEL PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YDI_tefas.json",
       "stats": {
         "6M": {
@@ -6526,9 +6526,9 @@
           "max_drawdown": -0.243881
         },
         "5Y": {
-          "sharpe": 1.003104,
-          "sortino": 1.460121,
-          "alpha": 0.292173,
+          "sharpe": 1.001939,
+          "sortino": 1.458424,
+          "alpha": 0.29188,
           "max_drawdown": -0.243881
         }
       }
@@ -6538,8 +6538,8 @@
       "ad": "YAPI KREDİ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YEF_tefas.json",
       "stats": {
         "6M": {
@@ -6567,9 +6567,9 @@
           "max_drawdown": -0.215319
         },
         "5Y": {
-          "sharpe": 0.998663,
-          "sortino": 1.463109,
-          "alpha": 0.315215,
+          "sharpe": 0.992108,
+          "sortino": 1.453365,
+          "alpha": 0.312851,
           "max_drawdown": -0.215319
         }
       }
@@ -6661,8 +6661,8 @@
       "ad": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YHS_tefas.json",
       "stats": {
         "6M": {
@@ -6690,9 +6690,9 @@
           "max_drawdown": -0.272955
         },
         "5Y": {
-          "sharpe": 1.039419,
-          "sortino": 1.510432,
-          "alpha": 0.3217,
+          "sharpe": 1.035476,
+          "sortino": 1.504656,
+          "alpha": 0.320358,
           "max_drawdown": -0.272955
         }
       }
@@ -6702,8 +6702,8 @@
       "ad": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YHZ_tefas.json",
       "stats": {
         "6M": {
@@ -6731,9 +6731,9 @@
           "max_drawdown": -0.295361
         },
         "5Y": {
-          "sharpe": 0.88857,
-          "sortino": 1.264141,
-          "alpha": 0.286776,
+          "sharpe": 0.899608,
+          "sortino": 1.280149,
+          "alpha": 0.290796,
           "max_drawdown": -0.347083
         }
       }
@@ -6825,8 +6825,8 @@
       "ad": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/YZH_tefas.json",
       "stats": {
         "6M": {
@@ -6854,9 +6854,9 @@
           "max_drawdown": -0.313609
         },
         "5Y": {
-          "sharpe": 0.888305,
-          "sortino": 1.34604,
-          "alpha": 0.414848,
+          "sharpe": 0.887136,
+          "sortino": 1.344267,
+          "alpha": 0.414321,
           "max_drawdown": -0.372141
         }
       }
@@ -7030,8 +7030,8 @@
       "ad": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "durum": "tam",
       "neden": null,
-      "kayit": 1254,
-      "gun_kapsami": 1824,
+      "kayit": 1253,
+      "gun_kapsami": 1821,
       "dosya": "data/ZPE_tefas.json",
       "stats": {
         "6M": {
@@ -7059,9 +7059,9 @@
           "max_drawdown": -0.178156
         },
         "5Y": {
-          "sharpe": 1.029045,
-          "sortino": 1.473931,
-          "alpha": 0.294247,
+          "sharpe": 1.027357,
+          "sortino": 1.471507,
+          "alpha": 0.293819,
           "max_drawdown": -0.208836
         }
       }
