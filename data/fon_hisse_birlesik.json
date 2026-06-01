@@ -1,6 +1,6 @@
 {
   "aciklama": "TEFAS meta + KAP Portföy Dağılım Raporu PDF'inden okunan gerçek hisse ağırlıkları.",
-  "guncelleme": "2026-05-25T11:13:45Z",
+  "guncelleme": "2026-06-01T12:40:42Z",
   "fonlar": {
     "AAV": {
       "kod": "AAV",
@@ -160,7 +160,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:43:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07d0776a4414",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:48Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:46Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ACC": {
@@ -266,7 +266,7 @@
       "hisse_mesaj": "17 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 16:46:11",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd88b524116e",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:50Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:47Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ADP": {
@@ -347,7 +347,7 @@
       "hisse_mesaj": "12 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:01",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd7511fa0eca",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:51Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:48Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "AEV": {
@@ -468,7 +468,7 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 09:53:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df868349c5a69",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:52Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:49Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "AHI": {
@@ -659,7 +659,7 @@
       "hisse_mesaj": "34 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:40:33",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1610ba7a5c6a",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:53Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:50Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "AK3": {
@@ -815,7 +815,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:02",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd7526570f56",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:54Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:51Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "AKU": {
@@ -986,7 +986,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:02",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd7529a50f6a",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:55Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:51Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ALC": {
@@ -1157,7 +1157,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:02",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd752c340f74",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:56Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:52Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ASJ": {
@@ -1328,7 +1328,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 21:16:48",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1831dce84978",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:57Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:53Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "AYA": {
@@ -1514,7 +1514,7 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:43:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07d078884432",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:58Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:54Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BDS": {
@@ -1685,7 +1685,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:11:49",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e174c53fa5930",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:59Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:55Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BDY": {
@@ -1871,7 +1871,7 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:56",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd8aae22130a",
-      "kap_son_kontrol_iso": "2026-05-25T11:13:59Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:56Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BFT": {
@@ -1937,7 +1937,7 @@
       "hisse_mesaj": "9 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:11:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ef3e584285",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:00Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:57Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BHA": {
@@ -2143,7 +2143,7 @@
       "hisse_mesaj": "37 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 15:40:19",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfd40fdd8753e",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:01Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:58Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BID": {
@@ -2259,7 +2259,7 @@
       "hisse_mesaj": "19 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:56:57",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e16c1b6f424cc",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:02Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:40:59Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BIG": {
@@ -2395,7 +2395,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 13:48:00",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1634c7b966a1",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:03Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:00Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BIH": {
@@ -2681,7 +2681,7 @@
       "hisse_mesaj": "53 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:11:49",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e174c58575980",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:04Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:01Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BIO": {
@@ -2862,7 +2862,7 @@
       "hisse_mesaj": "32 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 11:44:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e06b75d5f7a6e",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:05Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:02Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BIY": {
@@ -4343,7 +4343,7 @@
       "hisse_mesaj": "292 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:11:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ef3f06428f",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:06Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:03Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BTZ": {
@@ -4494,7 +4494,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:42:11",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e161455315d70",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:07Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:04Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BUY": {
@@ -4655,7 +4655,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:56",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd8ab11e1332",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:08Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:05Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "BV1": {
@@ -4831,7 +4831,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 10:51:09",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e031bae6d6fd1",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:09Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:06Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DAH": {
@@ -5017,7 +5017,7 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:22:26",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfbede7381b05",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:10Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:07Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DHJ": {
@@ -5203,7 +5203,7 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:17:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfc09afd360f9",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:08Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DKH": {
@@ -5399,7 +5399,7 @@
       "hisse_mesaj": "35 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:15:22",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfc758ab46b65",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:12Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:08Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DLD": {
@@ -5550,7 +5550,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:15:23",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfc7593166b8d",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:13Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:09Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DPT": {
@@ -5686,7 +5686,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:13:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfc8184cd75a7",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:14Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:10Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DTH": {
@@ -5883,7 +5883,7 @@
       "kap_rapor_tarihi": "06.05.2026 16:08:35",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd0240a3269a",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:14:15Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:11Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DTL": {
@@ -6059,7 +6059,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:10:32",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfc8b3c1a76b2",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:17Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:12Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DXP": {
@@ -6215,7 +6215,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:10:32",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfc8b49dc76f6",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:18Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:13Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "DZE": {
@@ -6591,7 +6591,7 @@
       "hisse_mesaj": "71 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:08:34",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfce34ae27b08",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:19Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:14Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "EC2": {
@@ -6677,7 +6677,7 @@
       "hisse_mesaj": "13 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 16:29:14",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e120235bb6550",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:20Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:15Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "EID": {
@@ -6813,7 +6813,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:33:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e07caa2545319",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:22Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:16Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ELZ": {
@@ -6964,7 +6964,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "04.05.2026 17:09:58",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df35151984233",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:23Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:17Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ENJ": {
@@ -7115,7 +7115,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 21:16:48",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1831e26e49bd",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:24Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:18Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "FPH": {
@@ -7311,7 +7311,7 @@
       "hisse_mesaj": "35 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 09:28:12",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0643c4a60d39",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:25Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:19Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "FUA": {
@@ -7427,7 +7427,7 @@
       "hisse_mesaj": "19 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:47:56",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd8ab761138c",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:27Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:20Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "FYD": {
@@ -7558,7 +7558,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:57:41",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e16d2729b284a",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:28Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:20Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GAE": {
@@ -7734,7 +7734,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:01:16",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e175f15193bc9",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:29Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:21Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GAF": {
@@ -7870,7 +7870,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 14:38:07",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e161b2c367266",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:30Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:22Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GHS": {
@@ -8056,7 +8056,7 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:01:16",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e175f158c3bd3",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:31Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:23Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GIE": {
@@ -8322,7 +8322,7 @@
       "hisse_mesaj": "49 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:23:17",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e177292d244e4",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:32Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:24Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GIH": {
@@ -8513,7 +8513,7 @@
       "hisse_mesaj": "34 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 10:00:08",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019df888d42f5a31",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:33Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:25Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GKG": {
@@ -8674,7 +8674,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:42:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4aa286a1f",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:34Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:26Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GKV": {
@@ -8900,7 +8900,7 @@
       "hisse_mesaj": "41 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:23:17",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e177291c544d0",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:35Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:27Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GL1": {
@@ -9041,7 +9041,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:11:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ef442e42d5",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:37Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:28Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GMR": {
@@ -9197,7 +9197,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 14:38:08",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e161b364672ac",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:38Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:29Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GNH": {
@@ -9943,7 +9943,7 @@
       "hisse_mesaj": "145 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 16:30:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e120a68f066e0",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:39Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:30Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GNS": {
@@ -10084,7 +10084,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:42:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4a81e69f7",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:40Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:31Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GO9": {
@@ -10240,7 +10240,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 11:37:35",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0163dc301dad",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:41Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:32Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GOH": {
@@ -10531,7 +10531,7 @@
       "hisse_mesaj": "54 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:14:40",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e176afaa14198",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:42Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:33Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GRT": {
@@ -10712,7 +10712,7 @@
       "hisse_mesaj": "32 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:42:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4a7a169ed",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:43Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:33Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GSP": {
@@ -10853,7 +10853,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:10:28",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a1fa44c9",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:44Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:34Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GTH": {
@@ -10974,7 +10974,7 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:42:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4a8966a01",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:45Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:35Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GTM": {
@@ -11125,7 +11125,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:23:17",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1772924e44da",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:46Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:36Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "GZR": {
@@ -11476,7 +11476,7 @@
       "hisse_mesaj": "66 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:04:51",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e176502c13f25",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:47Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:37Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HBU": {
@@ -11647,7 +11647,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:07:40",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd91932236f2",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:48Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:38Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HFR": {
@@ -11843,7 +11843,7 @@
       "hisse_mesaj": "35 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 15:30:42",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd42e7690b3e",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:49Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:39Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HGM": {
@@ -12004,7 +12004,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:08:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e073bdeaf0bfe",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:50Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:40Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HIH": {
@@ -12125,7 +12125,7 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:42:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4ab176a33",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:51Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:41Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HKH": {
@@ -12241,7 +12241,7 @@
       "hisse_mesaj": "19 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:08:22",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e0740aa390d52",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:52Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:42Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HMS": {
@@ -12372,7 +12372,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:07:40",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd9195d3371a",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:53Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:43Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HNC": {
@@ -12503,7 +12503,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:11:07",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e075625592ade",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:53Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:44Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HRZ": {
@@ -12709,7 +12709,7 @@
       "hisse_mesaj": "37 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 21:15:37",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1823038445d2",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:54Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:45Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HVI": {
@@ -12870,7 +12870,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 14:08:34",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfce37aa37b45",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:55Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:45Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HVS": {
@@ -13036,7 +13036,7 @@
       "hisse_mesaj": "29 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:07:40",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd919b6d3788",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:56Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:46Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "HVZ": {
@@ -13157,7 +13157,7 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 10:01:50",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df88d854a5dbc",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:57Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:47Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ICF": {
@@ -13458,7 +13458,7 @@
       "hisse_mesaj": "56 hisse satırı okundu.",
       "kap_rapor_tarihi": "05.05.2026 20:37:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df93639500f70",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:58Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:48Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ICZ": {
@@ -13624,7 +13624,7 @@
       "hisse_mesaj": "29 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 18:58:44",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323e033543c",
-      "kap_son_kontrol_iso": "2026-05-25T11:14:59Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:49Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IDH": {
@@ -13835,7 +13835,7 @@
       "hisse_mesaj": "38 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 15:10:43",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0224140b277b",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:00Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:50Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IDI": {
@@ -13896,7 +13896,7 @@
       "hisse_mesaj": "8 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:10:28",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a4aa44f1",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:01Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:51Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IFN": {
@@ -14207,7 +14207,7 @@
       "hisse_mesaj": "58 hisse satırı okundu.",
       "kap_rapor_tarihi": "05.05.2026 20:37:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df9363a980f8e",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:02Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:52Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IHA": {
@@ -14418,7 +14418,7 @@
       "hisse_mesaj": "38 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 10:02:20",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019df88f3be45c25",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:03Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:53Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IHK": {
@@ -14624,7 +14624,7 @@
       "hisse_mesaj": "37 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 15:10:43",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0224200027a3",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:04Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:54Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IHT": {
@@ -14770,7 +14770,7 @@
       "hisse_mesaj": "25 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:09:17",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e160f5a690396",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:05Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:55Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IIH": {
@@ -14921,7 +14921,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:27:09",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdac745218c0",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:07Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:55Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IMB": {
@@ -15052,7 +15052,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:27:09",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdac75c618d6",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:08Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:56Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IML": {
@@ -15203,7 +15203,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 11:44:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e06b764987ab4",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:09Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:57Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ITC": {
@@ -15344,7 +15344,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 14:39:14",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1641a6287a94",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:10Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:58Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "IVF": {
@@ -15470,7 +15470,7 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 17:27:09",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdac80c21918",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:41:59Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KH1": {
@@ -15596,7 +15596,7 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 18:58:44",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323e1fc5450",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:12Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:00Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KHA": {
@@ -15862,7 +15862,7 @@
       "hisse_mesaj": "49 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:11:50",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e174c5aeb59b2",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:14Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:01Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KHB": {
@@ -16003,7 +16003,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 12:55:25",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e06f652dc209d",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:16Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:02Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KHC": {
@@ -16159,7 +16159,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:11:50",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e174c5b7f59bc",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:17Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:03Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KHJ": {
@@ -16310,7 +16310,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:41:43",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e16158ee95dd0",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:18Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:04Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KOT": {
@@ -16366,7 +16366,7 @@
       "hisse_mesaj": "7 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:10:28",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a67a450f",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:19Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:05Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KPA": {
@@ -16502,7 +16502,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 14:58:25",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0747b2b53b6b",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:21Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:06Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KPC": {
@@ -16663,7 +16663,7 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 14:58:25",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0747b3b03b75",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:22Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:06Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KPH": {
@@ -16844,7 +16844,7 @@
       "hisse_mesaj": "32 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 11:44:03",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e06b7617e7a8c",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:23Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:07Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KPU": {
@@ -17000,7 +17000,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 14:58:25",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0747b4773b7f",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:24Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:08Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KST": {
@@ -17126,7 +17126,7 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 10:10:22",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df896a7ea5eec",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:26Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:09Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KTI": {
@@ -17257,7 +17257,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:09:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4afc45fa",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:27Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:10Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KVT": {
@@ -17393,7 +17393,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 18:58:44",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323e1255446",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:28Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:11Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "KYA": {
@@ -17519,7 +17519,7 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 12:55:25",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e06f654ea20d9",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:29Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:12Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MAC": {
@@ -17660,7 +17660,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 16:29:18",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e1738991625d7",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:30Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:13Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MHF": {
@@ -17806,7 +17806,7 @@
       "hisse_mesaj": "25 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 15:03:23",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd2741f8079a",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:32Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:14Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MKA": {
@@ -17917,7 +17917,7 @@
       "hisse_mesaj": "18 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 16:25:41",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e1735642c24d9",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:33Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:15Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MMH": {
@@ -18088,7 +18088,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 21:16:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e182ad64447b9",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:34Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:16Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MPS": {
@@ -18254,7 +18254,7 @@
       "hisse_mesaj": "29 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 21:16:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e182adaca47e1",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:35Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:17Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MTH": {
@@ -18365,7 +18365,229 @@
       "hisse_mesaj": "18 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 15:03:23",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd27459107d6",
-      "kap_son_kontrol_iso": "2026-05-25T11:15:37Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:42:18Z",
+      "kap_son_kontrol_tip": "yeni_yok"
+    },
+    "SUR": {
+      "kod": "SUR",
+      "guncelleme": "2026-05-25T11:32:02Z",
+      "kaynak_tefas": true,
+      "unvan": "EMAA BLUE PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sur-emaa-blue-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+      "varlik_dagilimi": [
+        {
+          "tip": "Hisse Senedi",
+          "oran": 80.0
+        }
+      ],
+      "hisseler": [
+        {
+          "ticker": "BIMAS",
+          "ad": "",
+          "agirlik": 6.86
+        },
+        {
+          "ticker": "ASELS",
+          "ad": "",
+          "agirlik": 6.24
+        },
+        {
+          "ticker": "ENKAI",
+          "ad": "",
+          "agirlik": 6.02
+        },
+        {
+          "ticker": "AKBNK",
+          "ad": "",
+          "agirlik": 5.36
+        },
+        {
+          "ticker": "TUPRS",
+          "ad": "",
+          "agirlik": 4.42
+        },
+        {
+          "ticker": "KCHOL",
+          "ad": "",
+          "agirlik": 4.4
+        },
+        {
+          "ticker": "THYAO",
+          "ad": "",
+          "agirlik": 4.27
+        },
+        {
+          "ticker": "YKBNK",
+          "ad": "",
+          "agirlik": 3.99
+        },
+        {
+          "ticker": "GARAN",
+          "ad": "",
+          "agirlik": 3.57
+        },
+        {
+          "ticker": "RAF",
+          "ad": "",
+          "agirlik": 3.37
+        },
+        {
+          "ticker": "TURSG",
+          "ad": "",
+          "agirlik": 3.37
+        },
+        {
+          "ticker": "SAHOL",
+          "ad": "",
+          "agirlik": 3.22
+        },
+        {
+          "ticker": "ISCTR",
+          "ad": "",
+          "agirlik": 3.19
+        },
+        {
+          "ticker": "VAKBN",
+          "ad": "",
+          "agirlik": 2.66
+        },
+        {
+          "ticker": "DOHOL",
+          "ad": "",
+          "agirlik": 2.47
+        },
+        {
+          "ticker": "AYGAZ",
+          "ad": "",
+          "agirlik": 2.39
+        },
+        {
+          "ticker": "MGROS",
+          "ad": "",
+          "agirlik": 2.38
+        },
+        {
+          "ticker": "TAVHL",
+          "ad": "",
+          "agirlik": 2.37
+        },
+        {
+          "ticker": "AKSEN",
+          "ad": "",
+          "agirlik": 2.2
+        },
+        {
+          "ticker": "TCELL",
+          "ad": "",
+          "agirlik": 2.16
+        },
+        {
+          "ticker": "TTKOM",
+          "ad": "",
+          "agirlik": 2.15
+        },
+        {
+          "ticker": "EREGL",
+          "ad": "",
+          "agirlik": 2.14
+        },
+        {
+          "ticker": "MPARK",
+          "ad": "",
+          "agirlik": 1.97
+        },
+        {
+          "ticker": "ENJSA",
+          "ad": "",
+          "agirlik": 1.94
+        },
+        {
+          "ticker": "ANSGR",
+          "ad": "",
+          "agirlik": 1.86
+        },
+        {
+          "ticker": "ULKER",
+          "ad": "",
+          "agirlik": 1.84
+        },
+        {
+          "ticker": "KARDE",
+          "ad": "",
+          "agirlik": 1.7
+        },
+        {
+          "ticker": "INDES",
+          "ad": "",
+          "agirlik": 1.33
+        },
+        {
+          "ticker": "ARCLK",
+          "ad": "",
+          "agirlik": 1.3
+        },
+        {
+          "ticker": "GWIND",
+          "ad": "",
+          "agirlik": 1.26
+        },
+        {
+          "ticker": "SOKM",
+          "ad": "",
+          "agirlik": 1.26
+        },
+        {
+          "ticker": "TABG",
+          "ad": "",
+          "agirlik": 1.23
+        },
+        {
+          "ticker": "TABGD",
+          "ad": "",
+          "agirlik": 1.23
+        },
+        {
+          "ticker": "ISDMR",
+          "ad": "",
+          "agirlik": 1.13
+        },
+        {
+          "ticker": "HRKET",
+          "ad": "",
+          "agirlik": 1.09
+        },
+        {
+          "ticker": "TOASO",
+          "ad": "",
+          "agirlik": 1.02
+        },
+        {
+          "ticker": "FORD",
+          "ad": "",
+          "agirlik": 0.9
+        },
+        {
+          "ticker": "FROTO",
+          "ad": "",
+          "agirlik": 0.9
+        },
+        {
+          "ticker": "DOAS",
+          "ad": "",
+          "agirlik": 0.89
+        },
+        {
+          "ticker": "MAVI",
+          "ad": "",
+          "agirlik": 0.67
+        }
+      ],
+      "hisse_durumu": "ok",
+      "hisse_mesaj": "40 hisse satırı okundu.",
+      "kap_rapor_tarihi": "06.05.2026 16:08:58",
+      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd143ae928c7",
+      "kaynak_pdr_ocr": true,
+      "kap_son_kontrol_iso": "2026-06-01T12:50:50Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TAU": {
@@ -18421,7 +18643,7 @@
       "hisse_mesaj": "7 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:22:19",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e074616fc27d7",
-      "kap_son_kontrol_iso": "2026-05-25T11:23:55Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:51Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "THD": {
@@ -18552,7 +18774,7 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:54:48",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1633cbad0256",
-      "kap_son_kontrol_iso": "2026-05-25T11:23:56Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:51Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "THF": {
@@ -18728,7 +18950,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 10:44:40",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfc35d9701c30",
-      "kap_son_kontrol_iso": "2026-05-25T11:23:57Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:52Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TI2": {
@@ -18964,7 +19186,7 @@
       "hisse_mesaj": "43 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:15:43",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07ab18d42001",
-      "kap_son_kontrol_iso": "2026-05-25T11:23:59Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:53Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TI3": {
@@ -19020,7 +19242,7 @@
       "hisse_mesaj": "7 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:16:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07c34a1e2941",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:00Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:54Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TIE": {
@@ -19156,7 +19378,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:22:19",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e0746161d27cd",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:01Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:55Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TIL": {
@@ -19292,7 +19514,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:18:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e078a5ece47eb",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:03Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:56Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TKF": {
@@ -19443,7 +19665,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 10:02:27",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfc5fdb28728b",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:04Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:57Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TLH": {
@@ -19584,7 +19806,7 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 11:44:58",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfc74b6716b1e",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:05Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:58Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TLZ": {
@@ -19720,7 +19942,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:43:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07d07b32446f",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:06Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:50:59Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TTE": {
@@ -19946,7 +20168,7 @@
       "hisse_mesaj": "41 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:22:19",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e074617c727e1",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:08Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:00Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TYH": {
@@ -20102,7 +20324,7 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "05.05.2026 18:06:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df8901dbb00e3",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:09Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:01Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "TZD": {
@@ -20253,7 +20475,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:27:45",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15b5a82c657a",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:02Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "UPH": {
@@ -20404,7 +20626,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:25:15",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e16f1d5752f8f",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:12Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:03Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "VAY": {
@@ -20575,7 +20797,7 @@
       "hisse_mesaj": "30 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 18:58:44",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323ef4054f0",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:13Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:04Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YAS": {
@@ -20646,7 +20868,7 @@
       "hisse_mesaj": "10 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 13:55:50",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e165366ac085f",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:14Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:04Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YDI": {
@@ -20797,7 +21019,7 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 11:23:30",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e161724295e90",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:15Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:05Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YEF": {
@@ -20978,7 +21200,7 @@
       "hisse_mesaj": "32 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 12:21:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e164dd57c0756",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:17Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:06Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YHB": {
@@ -21154,7 +21376,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 13:48:00",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1634c601668d",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:18Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:07Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YHK": {
@@ -21330,7 +21552,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 13:48:00",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1634c6c76697",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:19Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:08Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YHS": {
@@ -21526,7 +21748,7 @@
       "hisse_mesaj": "35 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 10:57:54",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15e3e79270c8",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:21Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:09Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YHZ": {
@@ -21762,7 +21984,7 @@
       "hisse_mesaj": "43 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 12:21:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e164dd7bf077e",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:22Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:10Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YLE": {
@@ -22013,7 +22235,7 @@
       "hisse_mesaj": "46 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 12:21:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e164dd6b6076a",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:23Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:11Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YPR": {
@@ -22149,7 +22371,7 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:09:18",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ffae3c4736",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:24Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:12Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "YZH": {
@@ -22220,7 +22442,7 @@
       "hisse_mesaj": "10 hisse satırı okundu.",
       "kap_rapor_tarihi": "05.05.2026 18:06:38",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df8901e4a00ed",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:26Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:13Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ZHH": {
@@ -22366,7 +22588,7 @@
       "hisse_mesaj": "25 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:43:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d60a6a35",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:27Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:14Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ZJL": {
@@ -22542,7 +22764,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:43:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d7706a53",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:28Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:15Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ZJV": {
@@ -22763,7 +22985,7 @@
       "hisse_mesaj": "40 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:43:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d7d76a5d",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:30Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:16Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ZLH": {
@@ -22939,7 +23161,7 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:43:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d84f6a67",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:31Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:17Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "ZPE": {
@@ -23065,12 +23287,12 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 09:43:13",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3db626aad",
-      "kap_son_kontrol_iso": "2026-05-25T11:24:32Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:17Z",
       "kap_son_kontrol_tip": "yeni_yok"
     },
     "MTK": {
       "kod": "MTK",
-      "guncelleme": "2026-05-25T11:25:02Z",
+      "guncelleme": "2026-06-01T12:51:45Z",
       "kaynak_tefas": true,
       "unvan": "MT PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mtk-mt-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -23186,12 +23408,12 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 15:03:23",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd27462807e0",
-      "kap_son_kontrol_iso": "2026-05-25T11:25:02Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:45Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NHY": {
       "kod": "NHY",
-      "guncelleme": "2026-05-25T11:25:07Z",
+      "guncelleme": "2026-06-01T12:51:49Z",
       "kaynak_tefas": true,
       "unvan": "NEO PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nhy-neo-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -23392,12 +23614,12 @@
       "hisse_mesaj": "37 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:31:35",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1667772f007e",
-      "kap_son_kontrol_iso": "2026-05-25T11:25:07Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:49Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NKC": {
       "kod": "NKC",
-      "guncelleme": "2026-05-25T11:25:11Z",
+      "guncelleme": "2026-06-01T12:51:54Z",
       "kaynak_tefas": true,
       "unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkc-neo-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -23543,12 +23765,12 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:31:58",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e1651633c7e2f",
-      "kap_son_kontrol_iso": "2026-05-25T11:25:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:54Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NKM": {
       "kod": "NKM",
-      "guncelleme": "2026-05-25T11:25:16Z",
+      "guncelleme": "2026-06-01T12:51:58Z",
       "kaynak_tefas": true,
       "unvan": "NEO PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkm-neo-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -23694,12 +23916,12 @@
       "hisse_mesaj": "26 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:20:32",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e165348357f17",
-      "kap_son_kontrol_iso": "2026-05-25T11:25:16Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:51:58Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NKT": {
       "kod": "NKT",
-      "guncelleme": "2026-05-25T11:25:44Z",
+      "guncelleme": "2026-06-01T12:52:26Z",
       "kaynak_tefas": true,
       "unvan": "NUROL PORTFÖY BİRİNCİ KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkt-nurol-portfoy-birinci-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -23846,12 +24068,12 @@
       "kap_rapor_tarihi": "06.05.2026 13:29:51",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfbdf750c13fa",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:25:44Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:52:26Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NLE": {
       "kod": "NLE",
-      "guncelleme": "2026-05-25T11:26:11Z",
+      "guncelleme": "2026-06-01T12:52:53Z",
       "kaynak_tefas": true,
       "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -23968,12 +24190,12 @@
       "kap_rapor_tarihi": "06.05.2026 13:29:51",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfbdf759c1407",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:26:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:52:53Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NNF": {
       "kod": "NNF",
-      "guncelleme": "2026-05-25T11:26:16Z",
+      "guncelleme": "2026-06-01T12:52:57Z",
       "kaynak_tefas": true,
       "unvan": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nnf-hedef-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -24109,12 +24331,12 @@
       "hisse_mesaj": "24 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:11:07",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e0756283c2b24",
-      "kap_son_kontrol_iso": "2026-05-25T11:26:16Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:52:57Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NPH": {
       "kod": "NPH",
-      "guncelleme": "2026-05-25T11:26:43Z",
+      "guncelleme": "2026-06-01T12:53:24Z",
       "kaynak_tefas": true,
       "unvan": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nph-nurol-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24231,12 +24453,12 @@
       "kap_rapor_tarihi": "06.05.2026 13:30:16",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfbe6c81e1529",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:26:43Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:24Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NST": {
       "kod": "NST",
-      "guncelleme": "2026-05-25T11:26:48Z",
+      "guncelleme": "2026-06-01T12:53:28Z",
       "kaynak_tefas": true,
       "unvan": "İŞ PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nst-is-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24407,12 +24629,12 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "10.05.2026 23:18:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e078a5dc947d3",
-      "kap_son_kontrol_iso": "2026-05-25T11:26:48Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:28Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "NUH": {
       "kod": "NUH",
-      "guncelleme": "2026-05-25T11:26:52Z",
+      "guncelleme": "2026-06-01T12:53:32Z",
       "kaynak_tefas": true,
       "unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nuh-neo-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24513,12 +24735,12 @@
       "hisse_mesaj": "17 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 17:31:58",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e165164b67e43",
-      "kap_son_kontrol_iso": "2026-05-25T11:26:52Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:32Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "OHB": {
       "kod": "OHB",
-      "guncelleme": "2026-05-25T11:26:59Z",
+      "guncelleme": "2026-06-01T12:53:39Z",
       "kaynak_tefas": true,
       "unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohb-oyak-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -24714,12 +24936,12 @@
       "hisse_mesaj": "36 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:36:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17c35dee6cb2",
-      "kap_son_kontrol_iso": "2026-05-25T11:26:59Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:39Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "OHK": {
       "kod": "OHK",
-      "guncelleme": "2026-05-25T11:27:07Z",
+      "guncelleme": "2026-06-01T12:53:47Z",
       "kaynak_tefas": true,
       "unvan": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohk-oyak-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -24840,12 +25062,12 @@
       "hisse_mesaj": "21 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 19:36:52",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17c35ea06cbd",
-      "kap_son_kontrol_iso": "2026-05-25T11:27:07Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:47Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "OMG": {
       "kod": "OMG",
-      "guncelleme": "2026-05-25T11:27:11Z",
+      "guncelleme": "2026-06-01T12:53:51Z",
       "kaynak_tefas": true,
       "unvan": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/omg-azimut-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -24986,12 +25208,12 @@
       "hisse_mesaj": "25 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:09:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4ced4618",
-      "kap_son_kontrol_iso": "2026-05-25T11:27:11Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:53:51Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "OPH": {
       "kod": "OPH",
-      "guncelleme": "2026-05-25T11:27:31Z",
+      "guncelleme": "2026-06-01T12:54:08Z",
       "kaynak_tefas": true,
       "unvan": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/oph-osmanli-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -25177,12 +25399,12 @@
       "hisse_mesaj": "34 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:17:14",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e161946dd17b7",
-      "kap_son_kontrol_iso": "2026-05-25T11:27:31Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:54:08Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "OPI": {
       "kod": "OPI",
-      "guncelleme": "2026-05-25T11:28:17Z",
+      "guncelleme": "2026-06-01T12:54:50Z",
       "kaynak_tefas": true,
       "unvan": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/opi-osmanli-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -25353,12 +25575,12 @@
       "hisse_mesaj": "31 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:17:14",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e16195fcd17ca",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:17Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:54:50Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PGS": {
       "kod": "PGS",
-      "guncelleme": "2026-05-25T11:28:22Z",
+      "guncelleme": "2026-06-01T12:54:55Z",
       "kaynak_tefas": true,
       "unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pgs-azimut-portfoy-pay-geri-alimi-yapan-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -25449,12 +25671,12 @@
       "hisse_mesaj": "15 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 18:09:53",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4e38462c",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:22Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:54:55Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PHE": {
       "kod": "PHE",
-      "guncelleme": "2026-05-25T11:28:27Z",
+      "guncelleme": "2026-06-01T12:54:59Z",
       "kaynak_tefas": true,
       "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -25670,12 +25892,12 @@
       "hisse_mesaj": "40 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:11:49",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1794197a6f68",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:27Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:54:59Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PHI": {
       "kod": "PHI",
-      "guncelleme": "2026-05-25T11:28:32Z",
+      "guncelleme": "2026-06-01T12:55:03Z",
       "kaynak_tefas": true,
       "unvan": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phi-piramit-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -25826,12 +26048,12 @@
       "hisse_mesaj": "27 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 11:59:24",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e06cfa7097e82",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:32Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:03Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PHK": {
       "kod": "PHK",
-      "guncelleme": "2026-05-25T11:28:36Z",
+      "guncelleme": "2026-06-01T12:55:07Z",
       "kaynak_tefas": true,
       "unvan": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phk-phillip-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -25947,12 +26169,12 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 18:37:18",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdcaaef134e9",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:36Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:07Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PPB": {
       "kod": "PPB",
-      "guncelleme": "2026-05-25T11:28:41Z",
+      "guncelleme": "2026-06-01T12:55:11Z",
       "kaynak_tefas": true,
       "unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ppb-phillip-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -26083,12 +26305,12 @@
       "hisse_mesaj": "23 hisse satırı okundu.",
       "kap_rapor_tarihi": "06.05.2026 18:38:26",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdcd887735a2",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:41Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:11Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PPH": {
       "kod": "PPH",
-      "guncelleme": "2026-05-25T11:28:46Z",
+      "guncelleme": "2026-06-01T12:55:16Z",
       "kaynak_tefas": true,
       "unvan": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pph-pardus-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -26269,12 +26491,12 @@
       "hisse_mesaj": "33 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:12:26",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e175253c35be7",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:46Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:16Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "PTO": {
       "kod": "PTO",
-      "guncelleme": "2026-05-25T11:28:51Z",
+      "guncelleme": "2026-06-01T12:55:20Z",
       "kaynak_tefas": true,
       "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -26375,12 +26597,12 @@
       "hisse_mesaj": "17 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:12:26",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e1752543c5bf1",
-      "kap_son_kontrol_iso": "2026-05-25T11:28:51Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:20Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "RBH": {
       "kod": "RBH",
-      "guncelleme": "2026-05-25T11:29:20Z",
+      "guncelleme": "2026-06-01T12:55:47Z",
       "kaynak_tefas": true,
       "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -26567,12 +26789,12 @@
       "kap_rapor_tarihi": "07.05.2026 17:01:37",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e018d39b959d6",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:29:20Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:55:47Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "RHI": {
       "kod": "RHI",
-      "guncelleme": "2026-05-25T11:29:26Z",
+      "guncelleme": "2026-06-01T12:56:02Z",
       "kaynak_tefas": true,
       "unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhi-re-pie-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -26803,12 +27025,12 @@
       "hisse_mesaj": "43 hisse satırı okundu.",
       "kap_rapor_tarihi": "04.05.2026 17:08:23",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df33a1e9c3ec9",
-      "kap_son_kontrol_iso": "2026-05-25T11:29:26Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:56:02Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "RHS": {
       "kod": "RHS",
-      "guncelleme": "2026-05-25T11:29:33Z",
+      "guncelleme": "2026-06-01T12:56:09Z",
       "kaynak_tefas": true,
       "unvan": "ROTA PORTFÖY HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhs-rota-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -26934,12 +27156,12 @@
       "hisse_mesaj": "22 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:40:21",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e07b7fe3a2bdd",
-      "kap_son_kontrol_iso": "2026-05-25T11:29:33Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:56:09Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "RPI": {
       "kod": "RPI",
-      "guncelleme": "2026-05-25T11:30:04Z",
+      "guncelleme": "2026-06-01T12:56:39Z",
       "kaynak_tefas": true,
       "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -27055,12 +27277,12 @@
       "hisse_mesaj": "20 hisse satırı okundu.",
       "kap_rapor_tarihi": "08.05.2026 16:39:37",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07a7edef3a40",
-      "kap_son_kontrol_iso": "2026-05-25T11:30:04Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:56:39Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "SAS": {
       "kod": "SAS",
-      "guncelleme": "2026-05-25T11:30:10Z",
+      "guncelleme": "2026-06-01T12:56:44Z",
       "kaynak_tefas": true,
       "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -27136,12 +27358,12 @@
       "hisse_mesaj": "12 hisse satırı okundu.",
       "kap_rapor_tarihi": "07.05.2026 18:58:44",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0323ea9b54b4",
-      "kap_son_kontrol_iso": "2026-05-25T11:30:10Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:56:44Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "SKO": {
       "kod": "SKO",
-      "guncelleme": "2026-05-25T11:30:33Z",
+      "guncelleme": "2026-06-01T12:57:06Z",
       "kaynak_tefas": true,
       "unvan": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sko-strateji-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -27288,12 +27510,12 @@
       "kap_rapor_tarihi": "07.05.2026 16:21:48",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0298bc8a56fb",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:30:33Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:57:06Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "SLG": {
       "kod": "SLG",
-      "guncelleme": "2026-05-25T11:30:39Z",
+      "guncelleme": "2026-06-01T12:57:11Z",
       "kaynak_tefas": true,
       "unvan": "QNB PORTFÖY ALGORİTMİK STRATEJİLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/slg-qnb-portfoy-algoritmik-stratejiler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -27449,12 +27671,12 @@
       "hisse_mesaj": "28 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 15:57:08",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e16e035bf2b74",
-      "kap_son_kontrol_iso": "2026-05-25T11:30:39Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:57:11Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "SRL": {
       "kod": "SRL",
-      "guncelleme": "2026-05-25T11:30:52Z",
+      "guncelleme": "2026-06-01T12:57:15Z",
       "kaynak_tefas": true,
       "unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/srl-pardus-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -27630,12 +27852,12 @@
       "hisse_mesaj": "32 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 18:12:27",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e175255645c05",
-      "kap_son_kontrol_iso": "2026-05-25T11:30:52Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:57:15Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "SSS": {
       "kod": "SSS",
-      "guncelleme": "2026-05-25T11:30:57Z",
+      "guncelleme": "2026-06-01T12:57:19Z",
       "kaynak_tefas": true,
       "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -27741,12 +27963,12 @@
       "hisse_mesaj": "18 hisse satırı okundu.",
       "kap_rapor_tarihi": "11.05.2026 13:55:51",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e16536c4a08cd",
-      "kap_son_kontrol_iso": "2026-05-25T11:30:57Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:57:19Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     },
     "ST1": {
       "kod": "ST1",
-      "guncelleme": "2026-05-25T11:31:18Z",
+      "guncelleme": "2026-06-01T12:57:40Z",
       "kaynak_tefas": true,
       "unvan": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/st1-strateji-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -27908,229 +28130,7 @@
       "kap_rapor_tarihi": "07.05.2026 16:21:48",
       "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0298bfee5705",
       "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:31:18Z",
-      "kap_son_kontrol_tip": "pdr_guncellendi"
-    },
-    "SUR": {
-      "kod": "SUR",
-      "guncelleme": "2026-05-25T11:32:02Z",
-      "kaynak_tefas": true,
-      "unvan": "EMAA BLUE PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sur-emaa-blue-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-      "varlik_dagilimi": [
-        {
-          "tip": "Hisse Senedi",
-          "oran": 80.0
-        }
-      ],
-      "hisseler": [
-        {
-          "ticker": "BIMAS",
-          "ad": "",
-          "agirlik": 6.86
-        },
-        {
-          "ticker": "ASELS",
-          "ad": "",
-          "agirlik": 6.24
-        },
-        {
-          "ticker": "ENKAI",
-          "ad": "",
-          "agirlik": 6.02
-        },
-        {
-          "ticker": "AKBNK",
-          "ad": "",
-          "agirlik": 5.36
-        },
-        {
-          "ticker": "TUPRS",
-          "ad": "",
-          "agirlik": 4.42
-        },
-        {
-          "ticker": "KCHOL",
-          "ad": "",
-          "agirlik": 4.4
-        },
-        {
-          "ticker": "THYAO",
-          "ad": "",
-          "agirlik": 4.27
-        },
-        {
-          "ticker": "YKBNK",
-          "ad": "",
-          "agirlik": 3.99
-        },
-        {
-          "ticker": "GARAN",
-          "ad": "",
-          "agirlik": 3.57
-        },
-        {
-          "ticker": "RAF",
-          "ad": "",
-          "agirlik": 3.37
-        },
-        {
-          "ticker": "TURSG",
-          "ad": "",
-          "agirlik": 3.37
-        },
-        {
-          "ticker": "SAHOL",
-          "ad": "",
-          "agirlik": 3.22
-        },
-        {
-          "ticker": "ISCTR",
-          "ad": "",
-          "agirlik": 3.19
-        },
-        {
-          "ticker": "VAKBN",
-          "ad": "",
-          "agirlik": 2.66
-        },
-        {
-          "ticker": "DOHOL",
-          "ad": "",
-          "agirlik": 2.47
-        },
-        {
-          "ticker": "AYGAZ",
-          "ad": "",
-          "agirlik": 2.39
-        },
-        {
-          "ticker": "MGROS",
-          "ad": "",
-          "agirlik": 2.38
-        },
-        {
-          "ticker": "TAVHL",
-          "ad": "",
-          "agirlik": 2.37
-        },
-        {
-          "ticker": "AKSEN",
-          "ad": "",
-          "agirlik": 2.2
-        },
-        {
-          "ticker": "TCELL",
-          "ad": "",
-          "agirlik": 2.16
-        },
-        {
-          "ticker": "TTKOM",
-          "ad": "",
-          "agirlik": 2.15
-        },
-        {
-          "ticker": "EREGL",
-          "ad": "",
-          "agirlik": 2.14
-        },
-        {
-          "ticker": "MPARK",
-          "ad": "",
-          "agirlik": 1.97
-        },
-        {
-          "ticker": "ENJSA",
-          "ad": "",
-          "agirlik": 1.94
-        },
-        {
-          "ticker": "ANSGR",
-          "ad": "",
-          "agirlik": 1.86
-        },
-        {
-          "ticker": "ULKER",
-          "ad": "",
-          "agirlik": 1.84
-        },
-        {
-          "ticker": "KARDE",
-          "ad": "",
-          "agirlik": 1.7
-        },
-        {
-          "ticker": "INDES",
-          "ad": "",
-          "agirlik": 1.33
-        },
-        {
-          "ticker": "ARCLK",
-          "ad": "",
-          "agirlik": 1.3
-        },
-        {
-          "ticker": "GWIND",
-          "ad": "",
-          "agirlik": 1.26
-        },
-        {
-          "ticker": "SOKM",
-          "ad": "",
-          "agirlik": 1.26
-        },
-        {
-          "ticker": "TABG",
-          "ad": "",
-          "agirlik": 1.23
-        },
-        {
-          "ticker": "TABGD",
-          "ad": "",
-          "agirlik": 1.23
-        },
-        {
-          "ticker": "ISDMR",
-          "ad": "",
-          "agirlik": 1.13
-        },
-        {
-          "ticker": "HRKET",
-          "ad": "",
-          "agirlik": 1.09
-        },
-        {
-          "ticker": "TOASO",
-          "ad": "",
-          "agirlik": 1.02
-        },
-        {
-          "ticker": "FORD",
-          "ad": "",
-          "agirlik": 0.9
-        },
-        {
-          "ticker": "FROTO",
-          "ad": "",
-          "agirlik": 0.9
-        },
-        {
-          "ticker": "DOAS",
-          "ad": "",
-          "agirlik": 0.89
-        },
-        {
-          "ticker": "MAVI",
-          "ad": "",
-          "agirlik": 0.67
-        }
-      ],
-      "hisse_durumu": "ok",
-      "hisse_mesaj": "40 hisse satırı okundu.",
-      "kap_rapor_tarihi": "06.05.2026 16:08:58",
-      "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd143ae928c7",
-      "kaynak_pdr_ocr": true,
-      "kap_son_kontrol_iso": "2026-05-25T11:32:02Z",
+      "kap_son_kontrol_iso": "2026-06-01T12:57:40Z",
       "kap_son_kontrol_tip": "pdr_guncellendi"
     }
   }
