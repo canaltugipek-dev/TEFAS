@@ -2,24 +2,14 @@
   "fon_kodu": "TKF",
   "fon_unvan": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-06-03",
-  "bitis": "2026-06-02",
+  "baslangic": "2021-06-04",
+  "bitis": "2026-06-03",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1622678400000",
-      "FONKODU": "TKF",
-      "FONUNVAN": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 7.111889,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1622764800000",
       "FONKODU": "TKF",
@@ -12525,6 +12515,16 @@
       "FONKODU": "TKF",
       "FONUNVAN": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 64.017369,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1780444800000",
+      "FONKODU": "TKF",
+      "FONUNVAN": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 65.2548,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

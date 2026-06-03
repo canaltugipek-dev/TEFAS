@@ -2,24 +2,14 @@
   "fon_kodu": "UPH",
   "fon_unvan": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-06-03",
-  "bitis": "2026-06-02",
+  "baslangic": "2021-06-04",
+  "bitis": "2026-06-03",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1622678400000",
-      "FONKODU": "UPH",
-      "FONUNVAN": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 2.496694,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1622764800000",
       "FONKODU": "UPH",
@@ -12525,6 +12515,16 @@
       "FONKODU": "UPH",
       "FONUNVAN": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 29.520037,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1780444800000",
+      "FONKODU": "UPH",
+      "FONUNVAN": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 30.586555,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

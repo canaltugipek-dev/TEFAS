@@ -2,24 +2,14 @@
   "fon_kodu": "ICF",
   "fon_unvan": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-06-03",
-  "bitis": "2026-06-02",
+  "baslangic": "2021-06-04",
+  "bitis": "2026-06-03",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1622678400000",
-      "FONKODU": "ICF",
-      "FONUNVAN": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 12.134701,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1622764800000",
       "FONKODU": "ICF",
@@ -12525,6 +12515,16 @@
       "FONKODU": "ICF",
       "FONUNVAN": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 189.141024,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1780444800000",
+      "FONKODU": "ICF",
+      "FONUNVAN": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 195.075619,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
