@@ -1,6 +1,6 @@
 {
   "kod": "ZHH",
-  "guncelleme": "2026-05-11T17:20:00Z",
+  "guncelleme": "2026-06-08T12:48:07Z",
   "kaynak_tefas": true,
   "unvan": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zhh-ziraat-portfoy-halkbank-surdurulebilirlik-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,133 +14,133 @@
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 8.5719
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 7.407
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 6.4562
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 6.1443
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 4.7488
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.397
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 4.1974
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 4.0329
+      "agirlik": 6.9932
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 4.0043
+      "agirlik": 5.9118
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.8463
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 3.9801
+      "agirlik": 5.1735
     },
     {
-      "ticker": "AEFES",
+      "ticker": "ASELS",
       "ad": "",
-      "agirlik": 3.6002
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 3.5478
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 3.2561
+      "agirlik": 4.5754
     },
     {
       "ticker": "THYAO",
       "ad": "",
-      "agirlik": 3.2128
+      "agirlik": 4.5197
     },
     {
-      "ticker": "KORDS",
+      "ticker": "MGROS",
       "ad": "",
-      "agirlik": 3.2036
+      "agirlik": 4.4592
     },
     {
       "ticker": "CCOLA",
       "ad": "",
-      "agirlik": 2.9696
+      "agirlik": 4.2092
     },
     {
-      "ticker": "FROTO",
+      "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 2.892
+      "agirlik": 4.0123
     },
     {
-      "ticker": "MAVI",
+      "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 2.7012
+      "agirlik": 4.0039
     },
     {
-      "ticker": "SISE",
+      "ticker": "TCELL",
       "ad": "",
-      "agirlik": 2.6711
+      "agirlik": 3.9206
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.7355
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.3459
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.0599
     },
     {
       "ticker": "ANSGR",
       "ad": "",
-      "agirlik": 2.1731
+      "agirlik": 3.0444
     },
     {
-      "ticker": "ULKER",
+      "ticker": "DOHOL",
       "ad": "",
-      "agirlik": 2.0757
+      "agirlik": 3.0198
     },
     {
-      "ticker": "SOKM",
+      "ticker": "MAVI",
       "ad": "",
-      "agirlik": 1.9773
+      "agirlik": 2.642
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.628
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.6054
     },
     {
       "ticker": "ALARK",
       "ad": "",
-      "agirlik": 1.7794
+      "agirlik": 2.2711
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 1.9822
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 1.9271
+    },
+    {
+      "ticker": "EKDMR",
+      "ad": "",
+      "agirlik": 1.5314
     },
     {
       "ticker": "VESTL",
       "ad": "",
-      "agirlik": 0.9328
+      "agirlik": 0.8887
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 0.715
+      "agirlik": 0.6951
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "25 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 09:43:13",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15c3d60a6a35",
-  "kap_son_kontrol_iso": "2026-06-01T12:51:14Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "08.06.2026 09:31:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e9b8f9f019ea5eb8c610911",
+  "kap_son_kontrol_iso": "2026-06-08T12:48:07Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "OMG",
-  "guncelleme": "2026-06-01T12:53:51Z",
+  "guncelleme": "2026-06-08T12:25:58Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/omg-azimut-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,135 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 7.23
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 5.46
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 5.36
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 5.36
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 5.34
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 4.74
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 4.72
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 4.62
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 4.39
-    },
-    {
-      "ticker": "KRDMA",
-      "ad": "",
-      "agirlik": 4.25
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 4.22
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 3.56
-    },
-    {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 3.36
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.14
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 2.62
-    },
-    {
-      "ticker": "TRCAS",
-      "ad": "",
-      "agirlik": 2.59
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 2.38
-    },
-    {
-      "ticker": "ISDMR",
-      "ad": "",
-      "agirlik": 2.33
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.3
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 2.15
-    },
-    {
-      "ticker": "SELEC",
-      "ad": "",
-      "agirlik": 2.08
-    },
-    {
-      "ticker": "OYAKC",
-      "ad": "",
-      "agirlik": 1.9
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 1.7
+      "agirlik": 3.0
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "25 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:09:53",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4ced4618",
-  "kap_son_kontrol_iso": "2026-06-01T12:53:51Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.06.2026 18:11:03",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e97247f5e1a60",
+  "kap_son_kontrol_iso": "2026-06-08T12:25:58Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

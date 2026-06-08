@@ -1,6 +1,6 @@
 {
   "kod": "ACC",
-  "guncelleme": "2026-05-11T17:00:12Z",
+  "guncelleme": "2026-06-08T12:11:24Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,93 +14,98 @@
     {
       "ticker": "TCKRC",
       "ad": "",
-      "agirlik": 10.08
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 6.33
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 5.98
-    },
-    {
-      "ticker": "TNZTP",
-      "ad": "",
-      "agirlik": 5.84
+      "agirlik": 11.41
     },
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 5.47
+      "agirlik": 5.66
     },
     {
-      "ticker": "SAHOL",
+      "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 5.11
+      "agirlik": 5.38
     },
     {
-      "ticker": "ISCTR",
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.25
+    },
+    {
+      "ticker": "RGYAS",
       "ad": "",
       "agirlik": 5.1
     },
     {
-      "ticker": "GARAN",
+      "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 4.97
+      "agirlik": 5.06
     },
     {
-      "ticker": "YKBNK",
+      "ticker": "THYAO",
       "ad": "",
-      "agirlik": 4.9
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 4.72
+      "agirlik": 4.82
     },
     {
       "ticker": "TTKOM",
       "ad": "",
-      "agirlik": 4.65
+      "agirlik": 4.71
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.7
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.38
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.29
     },
     {
       "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 4.26
-    },
-    {
-      "ticker": "ASELS",
       "ad": "",
       "agirlik": 4.1
     },
     {
       "ticker": "LMKDC",
       "ad": "",
-      "agirlik": 3.54
+      "agirlik": 3.58
     },
     {
       "ticker": "MEGMT",
       "ad": "",
-      "agirlik": 2.99
+      "agirlik": 2.88
     },
     {
-      "ticker": "LILAK",
+      "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 2.86
-    },
-    {
-      "ticker": "ECILC",
-      "ad": "",
-      "agirlik": 1.49
+      "agirlik": 1.36
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "17 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.05.2026 16:46:11",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd88b524116e",
-  "kap_son_kontrol_iso": "2026-06-01T12:40:47Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.06.2026 16:20:01",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e8da2880733ca",
+  "kap_son_kontrol_iso": "2026-06-08T12:11:24Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

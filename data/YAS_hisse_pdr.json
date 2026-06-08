@@ -1,6 +1,6 @@
 {
   "kod": "YAS",
-  "guncelleme": "2026-05-11T17:19:05Z",
+  "guncelleme": "2026-06-08T12:46:22Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yas-yapi-kredi-portfoy-koc-holding-istirak-ve-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,60 +12,60 @@
   ],
   "hisseler": [
     {
-      "ticker": "AYGAZ",
+      "ticker": "TTRAK",
       "ad": "",
-      "agirlik": 9.88
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 9.79
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 9.7
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 9.66
+      "agirlik": 9.87
     },
     {
       "ticker": "OTKAR",
       "ad": "",
-      "agirlik": 9.65
+      "agirlik": 9.86
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 9.78
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 9.77
     },
     {
       "ticker": "ARCLK",
       "ad": "",
-      "agirlik": 9.4
+      "agirlik": 9.59
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.49
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 9.36
+      "agirlik": 9.46
     },
     {
-      "ticker": "TTRAK",
+      "ticker": "AYGAZ",
       "ad": "",
       "agirlik": 8.92
     },
     {
       "ticker": "FROTO",
       "ad": "",
-      "agirlik": 8.8
+      "agirlik": 8.51
     },
     {
       "ticker": "MAVI",
       "ad": "",
-      "agirlik": 1.7
+      "agirlik": 1.77
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "10 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 13:55:50",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e165366ac085f",
-  "kap_son_kontrol_iso": "2026-06-01T12:51:04Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "05.06.2026 18:22:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e96f9c1101354",
+  "kap_son_kontrol_iso": "2026-06-08T12:46:22Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

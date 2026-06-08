@@ -1,6 +1,6 @@
 {
   "kod": "DXP",
-  "guncelleme": "2026-05-11T17:03:55Z",
+  "guncelleme": "2026-06-08T12:16:27Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dxp-deniz-portfoy-ihracatci-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fonu",
@@ -12,145 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 8.55
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 7.5
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 7.22
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 6.06
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 5.38
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 4.71
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.69
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 4.33
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.32
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.06
-    },
-    {
       "ticker": "CWENE",
       "ad": "",
-      "agirlik": 3.98
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 3.67
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.58
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 3.49
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 3.38
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 3.28
-    },
-    {
-      "ticker": "FONET",
-      "ad": "",
-      "agirlik": 2.76
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 2.71
-    },
-    {
-      "ticker": "MERCN",
-      "ad": "",
-      "agirlik": 2.68
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 2.51
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 2.13
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 2.09
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 1.78
-    },
-    {
-      "ticker": "KARSN",
-      "ad": "",
-      "agirlik": 1.73
-    },
-    {
-      "ticker": "CVKMD",
-      "ad": "",
-      "agirlik": 1.67
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 1.07
+      "agirlik": 4.38
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "27 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.05.2026 14:10:32",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfc8b49dc76f6",
-  "kap_son_kontrol_iso": "2026-06-01T12:41:13Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.06.2026 10:02:05",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e9149f4d75ae9",
+  "kap_son_kontrol_iso": "2026-06-08T12:16:27Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

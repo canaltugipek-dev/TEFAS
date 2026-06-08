@@ -1,6 +1,6 @@
 {
   "kod": "NKC",
-  "guncelleme": "2026-06-01T12:51:54Z",
+  "guncelleme": "2026-06-08T12:23:42Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkc-neo-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,138 +14,143 @@
     {
       "ticker": "INDES",
       "ad": "",
-      "agirlik": 8.72
+      "agirlik": 10.0
     },
     {
       "ticker": "AYDEM",
       "ad": "",
-      "agirlik": 7.07
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 6.56
-    },
-    {
-      "ticker": "KRVGD",
-      "ad": "",
-      "agirlik": 5.55
+      "agirlik": 6.47
     },
     {
       "ticker": "GLYHO",
       "ad": "",
-      "agirlik": 5.27
+      "agirlik": 5.37
     },
     {
-      "ticker": "ISMEN",
+      "ticker": "AGESA",
       "ad": "",
-      "agirlik": 4.93
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 4.89
+      "agirlik": 5.3
     },
     {
       "ticker": "KLGYO",
       "ad": "",
-      "agirlik": 4.85
+      "agirlik": 5.25
     },
     {
-      "ticker": "TAVHL",
+      "ticker": "MGROS",
       "ad": "",
-      "agirlik": 4.13
-    },
-    {
-      "ticker": "LIDFA",
-      "ad": "",
-      "agirlik": 4.02
-    },
-    {
-      "ticker": "GOKNR",
-      "ad": "",
-      "agirlik": 3.98
-    },
-    {
-      "ticker": "AKSGY",
-      "ad": "",
-      "agirlik": 3.89
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 3.74
-    },
-    {
-      "ticker": "YATAS",
-      "ad": "",
-      "agirlik": 3.31
-    },
-    {
-      "ticker": "TATGD",
-      "ad": "",
-      "agirlik": 3.0
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 2.94
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 2.72
-    },
-    {
-      "ticker": "NTGAZ",
-      "ad": "",
-      "agirlik": 2.6
+      "agirlik": 5.21
     },
     {
       "ticker": "TCKRC",
       "ad": "",
-      "agirlik": 2.43
+      "agirlik": 4.84
     },
     {
-      "ticker": "TOASO",
+      "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 2.29
+      "agirlik": 4.75
     },
     {
-      "ticker": "YEOTK",
+      "ticker": "KRVGD",
       "ad": "",
-      "agirlik": 1.89
+      "agirlik": 4.67
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 4.59
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 4.37
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.35
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.51
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.13
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 2.88
     },
     {
       "ticker": "BORSK",
       "ad": "",
-      "agirlik": 1.75
-    },
-    {
-      "ticker": "PLTUR",
-      "ad": "",
-      "agirlik": 1.14
+      "agirlik": 2.28
     },
     {
       "ticker": "ALKIM",
       "ad": "",
-      "agirlik": 1.06
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.48
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 1.19
     },
     {
       "ticker": "ENDAE",
       "ad": "",
-      "agirlik": 0.93
+      "agirlik": 1.13
     },
     {
       "ticker": "OSMEN",
       "ad": "",
-      "agirlik": 0.88
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "KRSTL",
+      "ad": "",
+      "agirlik": 0.58
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 0.41
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 17:31:58",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e1651633c7e2f",
-  "kap_son_kontrol_iso": "2026-06-01T12:51:54Z",
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.06.2026 14:17:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e83b5bdf274cd",
+  "kap_son_kontrol_iso": "2026-06-08T12:23:42Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

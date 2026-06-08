@@ -1,6 +1,6 @@
 {
   "kod": "IHK",
-  "guncelleme": "2026-05-11T17:07:30Z",
+  "guncelleme": "2026-06-08T12:21:17Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ihk-is-portfoy-is-te-kadin-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,195 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 6.51
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 6.23
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 6.18
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 5.24
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 4.46
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.09
-    },
-    {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.04
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 3.99
-    },
-    {
-      "ticker": "BASGZ",
-      "ad": "",
-      "agirlik": 3.86
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.82
-    },
-    {
-      "ticker": "AKSGY",
-      "ad": "",
-      "agirlik": 3.62
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 3.34
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 3.14
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 2.99
-    },
-    {
-      "ticker": "ISGYO",
-      "ad": "",
-      "agirlik": 2.68
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 1.93
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 1.81
-    },
-    {
-      "ticker": "ISFIN",
-      "ad": "",
-      "agirlik": 1.79
-    },
-    {
-      "ticker": "ARASE",
-      "ad": "",
-      "agirlik": 1.78
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 1.78
-    },
-    {
-      "ticker": "TSKB",
-      "ad": "",
-      "agirlik": 1.45
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 1.41
-    },
-    {
-      "ticker": "AKFGY",
-      "ad": "",
-      "agirlik": 1.37
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 1.23
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 1.11
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 1.1
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 1.08
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 0.87
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 0.68
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 0.63
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 0.43
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 0.25
-    },
-    {
-      "ticker": "TBORG",
-      "ad": "",
-      "agirlik": 0.25
+      "agirlik": 3.17
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "37 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.05.2026 15:10:43",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0224200027a3",
-  "kap_son_kontrol_iso": "2026-06-01T12:41:54Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.06.2026 15:14:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e925def505914",
+  "kap_son_kontrol_iso": "2026-06-08T12:21:17Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "GSP",
-  "guncelleme": "2026-05-11T17:06:02Z",
+  "guncelleme": "2026-06-08T12:17:40Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,130 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 9.04
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 8.6
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 8.54
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.22
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 5.39
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 5.25
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 4.45
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.91
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 3.48
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 3.17
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 2.71
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 2.63
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 2.61
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 2.5
-    },
-    {
-      "ticker": "KRDMA",
-      "ad": "",
-      "agirlik": 2.41
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 2.35
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.26
-    },
-    {
       "ticker": "TRCAS",
       "ad": "",
-      "agirlik": 2.21
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 1.94
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 1.77
-    },
-    {
-      "ticker": "OZKGY",
-      "ad": "",
-      "agirlik": 1.71
-    },
-    {
-      "ticker": "AKCNS",
-      "ad": "",
-      "agirlik": 1.46
-    },
-    {
-      "ticker": "SELEC",
-      "ad": "",
-      "agirlik": 1.06
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 0.21
+      "agirlik": 1.88
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "24 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:10:28",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a1fa44c9",
-  "kap_son_kontrol_iso": "2026-06-01T12:41:34Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.06.2026 18:11:27",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e9720934d1886",
+  "kap_son_kontrol_iso": "2026-06-08T12:17:40Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

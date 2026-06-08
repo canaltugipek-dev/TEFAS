@@ -1,6 +1,6 @@
 {
   "kod": "MTH",
-  "guncelleme": "2026-05-11T17:10:51Z",
+  "guncelleme": "2026-06-08T12:23:30Z",
   "kaynak_tefas": true,
   "unvan": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mth-mt-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,100 +12,20 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.08
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 8.08
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 7.69
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 7.57
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 6.33
-    },
-    {
-      "ticker": "DITAS",
-      "ad": "",
-      "agirlik": 6.17
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.77
-    },
-    {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 4.53
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "GRTHO",
-      "ad": "",
-      "agirlik": 3.93
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 3.91
+      "agirlik": 4.2
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "INDES",
-      "ad": "",
-      "agirlik": 3.73
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 3.68
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 3.53
-    },
-    {
-      "ticker": "BIOEN",
-      "ad": "",
-      "agirlik": 3.18
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 2.48
+      "agirlik": 2.35
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "18 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.05.2026 15:03:23",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfd27459107d6",
-  "kap_son_kontrol_iso": "2026-06-01T12:42:18Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.06.2026 15:15:17",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e8c17d9451d34",
+  "kap_son_kontrol_iso": "2026-06-08T12:23:30Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
