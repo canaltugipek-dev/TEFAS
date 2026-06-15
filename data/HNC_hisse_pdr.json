@@ -1,6 +1,6 @@
 {
   "kod": "HNC",
-  "guncelleme": "2026-05-11T17:06:41Z",
+  "guncelleme": "2026-06-15T13:32:24Z",
   "kaynak_tefas": true,
   "unvan": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hnc-hedef-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,120 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 9.35
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.97
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 8.95
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 7.78
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 6.87
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 6.19
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 5.21
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 4.75
-    },
-    {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 4.75
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 4.52
-    },
-    {
-      "ticker": "TKFEN",
-      "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "TATGD",
-      "ad": "",
-      "agirlik": 3.71
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 3.33
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 3.18
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 3.04
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 2.98
-    },
-    {
-      "ticker": "PETKM",
-      "ad": "",
-      "agirlik": 2.96
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 2.79
-    },
-    {
-      "ticker": "IZENR",
-      "ad": "",
-      "agirlik": 2.66
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 2.55
-    },
-    {
-      "ticker": "MOGAN",
-      "ad": "",
-      "agirlik": 2.4
-    },
-    {
-      "ticker": "UNLU",
-      "ad": "",
-      "agirlik": 1.68
+      "agirlik": 3.44
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 17:11:07",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e075625592ade",
-  "kap_son_kontrol_iso": "2026-06-08T12:01:19Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.06.2026 18:06:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e9761636a0110",
+  "kap_son_kontrol_iso": "2026-06-15T13:32:24Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

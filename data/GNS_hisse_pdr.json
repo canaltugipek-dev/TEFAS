@@ -1,6 +1,6 @@
 {
   "kod": "GNS",
-  "guncelleme": "2026-05-11T17:05:19Z",
+  "guncelleme": "2026-06-15T13:31:39Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,128 +14,143 @@
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 13.6
+      "agirlik": 11.54
     },
     {
       "ticker": "AKSEN",
       "ad": "",
-      "agirlik": 10.7
+      "agirlik": 7.93
     },
     {
       "ticker": "TBPP",
       "ad": "",
-      "agirlik": 9.69
+      "agirlik": 7.79
     },
     {
       "ticker": "ENERY",
       "ad": "",
-      "agirlik": 7.43
+      "agirlik": 7.23
     },
     {
       "ticker": "CWENE",
       "ad": "",
-      "agirlik": 6.63
+      "agirlik": 7.02
     },
     {
       "ticker": "ODAS",
       "ad": "",
-      "agirlik": 5.81
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 5.01
+      "agirlik": 6.19
     },
     {
       "ticker": "AHGAZ",
       "ad": "",
-      "agirlik": 4.62
-    },
-    {
-      "ticker": "AYDEM",
-      "ad": "",
-      "agirlik": 3.43
-    },
-    {
-      "ticker": "ENTRA",
-      "ad": "",
-      "agirlik": 3.37
-    },
-    {
-      "ticker": "AKFYE",
-      "ad": "",
-      "agirlik": 3.29
+      "agirlik": 5.44
     },
     {
       "ticker": "SMRTG",
       "ad": "",
-      "agirlik": 3.17
-    },
-    {
-      "ticker": "ZOREN",
-      "ad": "",
-      "agirlik": 2.72
-    },
-    {
-      "ticker": "AKSUE",
-      "ad": "",
-      "agirlik": 2.71
-    },
-    {
-      "ticker": "AYEN",
-      "ad": "",
-      "agirlik": 2.68
-    },
-    {
-      "ticker": "NTGAZ",
-      "ad": "",
-      "agirlik": 2.66
-    },
-    {
-      "ticker": "MOGAN",
-      "ad": "",
-      "agirlik": 2.53
+      "agirlik": 4.79
     },
     {
       "ticker": "ARASE",
       "ad": "",
+      "agirlik": 3.8
+    },
+    {
+      "ticker": "ALFAS",
+      "ad": "",
+      "agirlik": 3.74
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 3.11
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 2.88
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.67
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 2.46
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
       "agirlik": 2.29
+    },
+    {
+      "ticker": "A1YEN",
+      "ad": "",
+      "agirlik": 2.23
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 2.13
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "ZEDUR",
+      "ad": "",
+      "agirlik": 2.07
     },
     {
       "ticker": "KLYPV",
       "ad": "",
-      "agirlik": 1.84
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 1.68
+      "agirlik": 1.89
     },
     {
       "ticker": "BIOEN",
       "ad": "",
-      "agirlik": 1.16
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "AKSUE",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 1.62
     },
     {
       "ticker": "ALARK",
       "ad": "",
-      "agirlik": 1.09
+      "agirlik": 1.08
     },
     {
       "ticker": "ARFYE",
       "ad": "",
-      "agirlik": 0.92
+      "agirlik": 0.8
     },
     {
       "ticker": "CONSE",
       "ad": "",
-      "agirlik": 0.52
+      "agirlik": 0.49
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "24 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 19:42:15",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17e4a81e69f7",
-  "kap_son_kontrol_iso": "2026-06-08T12:01:07Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.06.2026 19:43:45",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e9b8d9d019ea7cd335a380e",
+  "kap_son_kontrol_iso": "2026-06-15T13:31:39Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

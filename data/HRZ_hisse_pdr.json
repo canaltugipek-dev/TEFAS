@@ -1,12 +1,211 @@
 {
   "kod": "HRZ",
-  "guncelleme": "2026-06-08T12:19:03Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-06-15T13:33:50Z",
+  "kaynak_tefas": true,
+  "unvan": "AKTİF PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hrz-aktif-portfoy-bist-halka-arz-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 7.89
+    },
+    {
+      "ticker": "ALKLC",
+      "ad": "",
+      "agirlik": 7.35
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 3.9
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.84
+    },
+    {
+      "ticker": "CEMZY",
+      "ad": "",
+      "agirlik": 3.57
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "BULGS",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "EFOR",
+      "ad": "",
+      "agirlik": 3.33
+    },
+    {
+      "ticker": "ARMGD",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "BALSU",
+      "ad": "",
+      "agirlik": 3.18
+    },
+    {
+      "ticker": "HOROZ",
+      "ad": "",
+      "agirlik": 3.05
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 2.97
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.84
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "OZATD",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "ECOGR",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 2.52
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 2.3
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 2.26
+    },
+    {
+      "ticker": "AHSGY",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 2.16
+    },
+    {
+      "ticker": "AAGYO",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "VAKFA",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "BAHKM",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "YIGIT",
+      "ad": "",
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "MOPAS",
+      "ad": "",
+      "agirlik": 1.18
+    },
+    {
+      "ticker": "EGEGY",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "SMRVA",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "UCAYM",
+      "ad": "",
+      "agirlik": 1.03
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "ZERGY",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
+      "ticker": "ZGYO",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "FRMPL",
+      "ad": "",
+      "agirlik": 0.66
+    },
+    {
+      "ticker": "EKDMR",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "38 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.06.2026 20:43:07",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e8e69e4ed421d",
+  "kap_son_kontrol_iso": "2026-06-15T13:33:50Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
