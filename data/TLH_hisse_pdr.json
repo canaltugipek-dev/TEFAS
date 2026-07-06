@@ -1,6 +1,6 @@
 {
   "kod": "TLH",
-  "guncelleme": "2026-06-15T13:44:29Z",
+  "guncelleme": "2026-07-06T12:06:35Z",
   "kaynak_tefas": true,
   "unvan": "AURA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tlh-aura-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.44
+      "agirlik": 4.78
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.06.2026 11:45:13",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e87806541100d",
-  "kap_son_kontrol_iso": "2026-06-29T12:11:46Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "01.07.2026 16:06:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085b019f1dc86fb069b2",
+  "kap_son_kontrol_iso": "2026-07-06T12:06:35Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

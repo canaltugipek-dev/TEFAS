@@ -1,6 +1,6 @@
 {
   "kod": "SAS",
-  "guncelleme": "2026-06-29T12:18:40Z",
+  "guncelleme": "2026-07-06T12:04:22Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,68 +14,63 @@
     {
       "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 23.51
+      "agirlik": 22.75
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 20.95
+      "agirlik": 22.5
     },
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 15.11
+      "agirlik": 15.92
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 12.72
-    },
-    {
-      "ticker": "AKCNS",
-      "ad": "",
-      "agirlik": 5.0
+      "agirlik": 12.85
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 4.82
+      "agirlik": 5.94
     },
     {
       "ticker": "KORDS",
       "ad": "",
-      "agirlik": 2.66
+      "agirlik": 2.64
     },
     {
       "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 1.93
+      "agirlik": 2.08
     },
     {
       "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.68
+      "agirlik": 1.69
     },
     {
       "ticker": "AFYON",
       "ad": "",
-      "agirlik": 1.43
+      "agirlik": 1.56
     },
     {
       "ticker": "TKNSA",
       "ad": "",
-      "agirlik": 1.26
+      "agirlik": 1.29
     },
     {
       "ticker": "CRFSA",
       "ad": "",
-      "agirlik": 0.72
+      "agirlik": 0.99
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "12 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.06.2026 16:55:42",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e8d78f8223cb4",
-  "kap_son_kontrol_iso": "2026-06-29T12:18:40Z",
+  "hisse_mesaj": "11 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.07.2026 11:38:03",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f238fff114e30",
+  "kap_son_kontrol_iso": "2026-07-06T12:04:22Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

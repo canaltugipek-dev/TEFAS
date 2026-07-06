@@ -1,6 +1,6 @@
 {
   "kod": "ST1",
-  "guncelleme": "2026-06-29T12:19:34Z",
+  "guncelleme": "2026-07-06T12:05:14Z",
   "kaynak_tefas": true,
   "unvan": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/st1-strateji-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,144 +12,144 @@
   ],
   "hisseler": [
     {
-      "ticker": "KIMTE",
-      "ad": "",
-      "agirlik": 10.64
-    },
-    {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 9.49
-    },
-    {
-      "ticker": "HTTBT",
-      "ad": "",
-      "agirlik": 8.07
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 6.07
-    },
-    {
-      "ticker": "ONRYT",
-      "ad": "",
-      "agirlik": 5.47
+      "agirlik": 10.69
     },
     {
       "ticker": "DEVA",
       "ad": "",
-      "agirlik": 4.36
+      "agirlik": 8.42
     },
     {
-      "ticker": "UNLU",
+      "ticker": "HTTBT",
       "ad": "",
-      "agirlik": 4.21
+      "agirlik": 8.17
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 8.08
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 6.04
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 4.63
     },
     {
       "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 3.96
+      "agirlik": 4.62
+    },
+    {
+      "ticker": "UNLU",
+      "ad": "",
+      "agirlik": 4.52
     },
     {
       "ticker": "DESA",
       "ad": "",
-      "agirlik": 3.91
+      "agirlik": 3.78
     },
     {
       "ticker": "ISFIN",
       "ad": "",
-      "agirlik": 3.51
+      "agirlik": 3.67
     },
     {
       "ticker": "POLHO",
       "ad": "",
-      "agirlik": 3.51
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 3.22
-    },
-    {
-      "ticker": "BERA",
-      "ad": "",
-      "agirlik": 3.09
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 3.02
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 2.8
-    },
-    {
-      "ticker": "HATSN",
-      "ad": "",
-      "agirlik": 2.79
+      "agirlik": 3.65
     },
     {
       "ticker": "GLYHO",
       "ad": "",
-      "agirlik": 2.73
+      "agirlik": 3.42
     },
     {
-      "ticker": "NTHOL",
+      "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 2.68
+      "agirlik": 3.4
     },
     {
       "ticker": "MAVI",
       "ad": "",
-      "agirlik": 2.65
+      "agirlik": 3.35
     },
     {
-      "ticker": "REYSA",
+      "ticker": "BERA",
       "ad": "",
-      "agirlik": 2.16
+      "agirlik": 3.3
     },
     {
-      "ticker": "MNDRS",
+      "ticker": "NTHOL",
       "ad": "",
-      "agirlik": 2.05
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "HATSN",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 2.53
+    },
+    {
+      "ticker": "RYGYO",
+      "ad": "",
+      "agirlik": 2.13
     },
     {
       "ticker": "KRDMD",
       "ad": "",
-      "agirlik": 2.04
+      "agirlik": 2.12
+    },
+    {
+      "ticker": "MNDRS",
+      "ad": "",
+      "agirlik": 2.11
     },
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 1.91
+      "agirlik": 2.03
     },
     {
       "ticker": "MARMR",
       "ad": "",
-      "agirlik": 1.82
+      "agirlik": 1.67
     },
     {
       "ticker": "KAREL",
       "ad": "",
-      "agirlik": 1.69
+      "agirlik": 1.49
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 1.38
+      "agirlik": 1.31
     },
     {
       "ticker": "TRCAS",
       "ad": "",
-      "agirlik": 1.26
+      "agirlik": 1.23
     },
     {
       "ticker": "ALVES",
       "ad": "",
-      "agirlik": 1.13
+      "agirlik": 1.18
     },
     {
       "ticker": "PGSUS",
@@ -159,9 +159,9 @@
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "29 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 14:43:06",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e927076347740",
+  "kap_rapor_tarihi": "03.07.2026 18:41:56",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f28a3e2426fdc",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-06-29T12:19:34Z",
+  "kap_son_kontrol_iso": "2026-07-06T12:05:14Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

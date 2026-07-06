@@ -1,6 +1,6 @@
 {
   "kod": "MTH",
-  "guncelleme": "2026-06-08T12:23:30Z",
+  "guncelleme": "2026-07-06T12:00:07Z",
   "kaynak_tefas": true,
   "unvan": "MT PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mth-mt-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,22 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 4.2
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 2.35
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.06.2026 15:15:17",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e8c17d9451d34",
-  "kap_son_kontrol_iso": "2026-06-29T12:03:02Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
+  "kap_rapor_tarihi": "03.07.2026 11:54:29"
 }

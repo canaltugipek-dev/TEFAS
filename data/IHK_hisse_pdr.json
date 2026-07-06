@@ -1,6 +1,6 @@
 {
   "kod": "IHK",
-  "guncelleme": "2026-06-08T12:21:17Z",
+  "guncelleme": "2026-07-06T11:56:40Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ihk-is-portfoy-is-te-kadin-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 3.17
+      "agirlik": 6.05
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 15:14:10",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e925def505914",
-  "kap_son_kontrol_iso": "2026-06-29T12:02:40Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "03.07.2026 14:15:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085a019f2789d9c55389",
+  "kap_son_kontrol_iso": "2026-07-06T11:56:40Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

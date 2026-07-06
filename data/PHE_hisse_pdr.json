@@ -1,6 +1,6 @@
 {
   "kod": "PHE",
-  "guncelleme": "2026-06-29T12:17:34Z",
+  "guncelleme": "2026-07-06T12:02:51Z",
   "kaynak_tefas": true,
   "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,175 +12,20 @@
   ],
   "hisseler": [
     {
-      "ticker": "ODINE",
-      "ad": "",
-      "agirlik": 8.04
-    },
-    {
-      "ticker": "GUNDG",
-      "ad": "",
-      "agirlik": 7.64
-    },
-    {
-      "ticker": "HEDEF",
-      "ad": "",
-      "agirlik": 7.37
-    },
-    {
-      "ticker": "TERA",
-      "ad": "",
-      "agirlik": 6.73
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 5.17
-    },
-    {
-      "ticker": "KTLEV",
-      "ad": "",
-      "agirlik": 4.46
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 4.37
-    },
-    {
-      "ticker": "DAPGM",
-      "ad": "",
-      "agirlik": 3.98
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.75
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 3.54
-    },
-    {
-      "ticker": "PEKGY",
-      "ad": "",
-      "agirlik": 2.96
-    },
-    {
-      "ticker": "PASEU",
-      "ad": "",
-      "agirlik": 2.91
-    },
-    {
-      "ticker": "TATEN",
-      "ad": "",
-      "agirlik": 2.38
-    },
-    {
-      "ticker": "ALKLC",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 2.08
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 2.04
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 1.98
-    },
-    {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.91
+      "agirlik": 3.31
     },
     {
-      "ticker": "DSTKF",
+      "ticker": "TEHOL",
       "ad": "",
-      "agirlik": 0.97
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 0.68
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 0.63
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 0.62
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 0.61
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 0.55
-    },
-    {
-      "ticker": "IZENR",
-      "ad": "",
-      "agirlik": 0.54
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 0.41
-    },
-    {
-      "ticker": "KOPOL",
-      "ad": "",
-      "agirlik": 0.33
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 0.3
-    },
-    {
-      "ticker": "MOPAS",
-      "ad": "",
-      "agirlik": 0.29
-    },
-    {
-      "ticker": "TRHOL",
-      "ad": "",
-      "agirlik": 0.23
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 0.2
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 0.2
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 0.19
+      "agirlik": 0.04
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "33 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.04.2026 21:53:20",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6e7063221334",
-  "kap_son_kontrol_iso": "2026-06-29T12:17:34Z",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.06.2026 13:19:39",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e87d5ddd0077a",
+  "kap_son_kontrol_iso": "2026-07-06T12:02:51Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

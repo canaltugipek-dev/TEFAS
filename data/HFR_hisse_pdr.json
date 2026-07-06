@@ -1,6 +1,6 @@
 {
   "kod": "HFR",
-  "guncelleme": "2026-06-08T12:18:30Z",
+  "guncelleme": "2026-07-06T11:56:00Z",
   "kaynak_tefas": true,
   "unvan": "A1 CAPİTAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hfr-a1-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,190 +12,30 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.22
-    },
-    {
-      "ticker": "CWENE",
-      "ad": "",
-      "agirlik": 4.68
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.58
-    },
-    {
-      "ticker": "EBEBK",
-      "ad": "",
-      "agirlik": 4.27
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.13
+      "agirlik": 6.77
     },
     {
-      "ticker": "ASELS",
+      "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 3.93
+      "agirlik": 3.47
     },
     {
-      "ticker": "ELITE",
+      "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 3.74
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 3.48
-    },
-    {
-      "ticker": "TATGD",
-      "ad": "",
-      "agirlik": 3.22
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 3.06
-    },
-    {
-      "ticker": "KLYPV",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 2.81
-    },
-    {
-      "ticker": "CANTE",
-      "ad": "",
-      "agirlik": 2.59
-    },
-    {
-      "ticker": "KARSN",
-      "ad": "",
-      "agirlik": 2.57
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 2.51
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 2.48
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 2.34
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 2.33
-    },
-    {
-      "ticker": "EKOS",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "KRONT",
-      "ad": "",
-      "agirlik": 2.05
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 1.98
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 1.91
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 1.9
-    },
-    {
-      "ticker": "YEOTK",
-      "ad": "",
-      "agirlik": 1.78
-    },
-    {
-      "ticker": "INDES",
-      "ad": "",
-      "agirlik": 1.76
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 1.53
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 1.48
+      "agirlik": 0.48
     },
     {
       "ticker": "BORSK",
       "ad": "",
-      "agirlik": 1.45
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 1.09
-    },
-    {
-      "ticker": "ENDAE",
-      "ad": "",
-      "agirlik": 1.03
-    },
-    {
-      "ticker": "ONRYT",
-      "ad": "",
-      "agirlik": 1.0
-    },
-    {
-      "ticker": "GEDZA",
-      "ad": "",
-      "agirlik": 0.87
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 0.67
+      "agirlik": 0.41
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "36 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.06.2026 15:40:41",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e88514e42010b",
-  "kap_son_kontrol_iso": "2026-06-29T12:02:27Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "4 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.07.2026 15:30:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f22cc95462a4b",
+  "kap_son_kontrol_iso": "2026-07-06T11:56:00Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

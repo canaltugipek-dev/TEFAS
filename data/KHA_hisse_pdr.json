@@ -1,6 +1,6 @@
 {
   "kod": "KHA",
-  "guncelleme": "2026-06-08T12:21:46Z",
+  "guncelleme": "2026-07-06T11:57:09Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kha-pardus-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,255 +12,25 @@
   ],
   "hisseler": [
     {
-      "ticker": "TEHOL",
-      "ad": "",
-      "agirlik": 15.77
-    },
-    {
-      "ticker": "DSTKF",
-      "ad": "",
-      "agirlik": 7.35
-    },
-    {
-      "ticker": "TRHOL",
-      "ad": "",
-      "agirlik": 6.58
-    },
-    {
-      "ticker": "ANELE",
-      "ad": "",
-      "agirlik": 4.52
-    },
-    {
-      "ticker": "GESAN",
-      "ad": "",
-      "agirlik": 4.2
-    },
-    {
-      "ticker": "ALKLC",
-      "ad": "",
-      "agirlik": 3.46
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 3.09
-    },
-    {
-      "ticker": "SVGYO",
-      "ad": "",
-      "agirlik": 3.0
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 2.91
-    },
-    {
-      "ticker": "KORDS",
-      "ad": "",
-      "agirlik": 2.87
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 2.73
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 2.53
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 1.94
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 1.88
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 1.86
-    },
-    {
       "ticker": "MANAS",
       "ad": "",
-      "agirlik": 1.79
-    },
-    {
-      "ticker": "ULKER",
-      "ad": "",
-      "agirlik": 1.72
+      "agirlik": 8.6
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.66
-    },
-    {
-      "ticker": "ARCLK",
-      "ad": "",
-      "agirlik": 1.54
-    },
-    {
-      "ticker": "IZENR",
-      "ad": "",
-      "agirlik": 1.54
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 1.53
-    },
-    {
-      "ticker": "PEKGY",
-      "ad": "",
-      "agirlik": 1.49
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 1.43
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 1.43
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 1.39
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 1.39
-    },
-    {
-      "ticker": "HALKB",
-      "ad": "",
-      "agirlik": 1.25
-    },
-    {
-      "ticker": "TERA",
-      "ad": "",
-      "agirlik": 1.17
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 1.13
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 1.1
-    },
-    {
-      "ticker": "PETKM",
-      "ad": "",
-      "agirlik": 1.07
-    },
-    {
-      "ticker": "TMPOL",
-      "ad": "",
-      "agirlik": 1.02
-    },
-    {
-      "ticker": "KGYO",
-      "ad": "",
-      "agirlik": 0.89
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 0.88
-    },
-    {
-      "ticker": "FRIGO",
-      "ad": "",
-      "agirlik": 0.85
+      "agirlik": 1.4
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 0.85
-    },
-    {
-      "ticker": "CANTE",
-      "ad": "",
       "agirlik": 0.79
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 0.75
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 0.74
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 0.73
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 0.73
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 0.68
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 0.63
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 0.62
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 0.61
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 0.47
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 0.42
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 0.23
-    },
-    {
-      "ticker": "BIZIM",
-      "ad": "",
-      "agirlik": 0.18
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "49 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.06.2026 18:13:28",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e882bd69100e9",
-  "kap_son_kontrol_iso": "2026-06-29T12:02:47Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.07.2026 18:20:11",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f23696ee631d7",
+  "kap_son_kontrol_iso": "2026-07-06T11:57:09Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

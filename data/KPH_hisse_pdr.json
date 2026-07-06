@@ -1,6 +1,6 @@
 {
   "kod": "KPH",
-  "guncelleme": "2026-06-15T13:35:25Z",
+  "guncelleme": "2026-07-06T11:57:17Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kph-is-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,23 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 3.22
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 4.46
     },
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 1.51
+      "agirlik": 1.35
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 14:04:16",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e924880d25676",
-  "kap_son_kontrol_iso": "2026-06-29T12:02:52Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.07.2026 17:32:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f28523ed664bd",
+  "kap_son_kontrol_iso": "2026-07-06T11:57:17Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

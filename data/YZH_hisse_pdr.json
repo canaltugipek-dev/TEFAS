@@ -1,6 +1,6 @@
 {
   "kod": "YZH",
-  "guncelleme": "2026-06-29T12:22:06Z",
+  "guncelleme": "2026-07-06T12:07:35Z",
   "kaynak_tefas": true,
   "unvan": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yzh-teb-portfoy-bist-banka-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,58 +14,58 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 28.25
+      "agirlik": 29.4
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 20.54
+      "agirlik": 20.56
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 19.71
+      "agirlik": 18.74
     },
     {
       "ticker": "GARAN",
       "ad": "",
-      "agirlik": 13.32
-    },
-    {
-      "ticker": "VAKBN",
-      "ad": "",
-      "agirlik": 3.98
+      "agirlik": 12.68
     },
     {
       "ticker": "HALKB",
       "ad": "",
-      "agirlik": 3.92
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.8
     },
     {
       "ticker": "SKBNK",
       "ad": "",
-      "agirlik": 2.59
+      "agirlik": 3.03
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 2.27
+      "agirlik": 2.14
     },
     {
       "ticker": "ALBRK",
       "ad": "",
-      "agirlik": 1.43
+      "agirlik": 1.28
     },
     {
       "ticker": "ICBCT",
       "ad": "",
-      "agirlik": 0.18
+      "agirlik": 0.2
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "10 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.05.2026 18:06:38",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df8901e4a00ed",
-  "kap_son_kontrol_iso": "2026-06-29T12:22:06Z",
+  "kap_rapor_tarihi": "01.07.2026 17:33:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f1dfcf3c4777c",
+  "kap_son_kontrol_iso": "2026-07-06T12:07:35Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

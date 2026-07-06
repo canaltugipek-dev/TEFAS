@@ -1,6 +1,6 @@
 {
   "kod": "NPH",
-  "guncelleme": "2026-06-29T12:15:50Z",
+  "guncelleme": "2026-07-06T12:02:14Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nph-nurol-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,111 +12,106 @@
   ],
   "hisseler": [
     {
-      "ticker": "CVKMD",
+      "ticker": "LILAK",
       "ad": "",
-      "agirlik": 10.08
+      "agirlik": 9.82
     },
     {
       "ticker": "GLCVY",
       "ad": "",
-      "agirlik": 9.21
+      "agirlik": 9.65
     },
     {
-      "ticker": "LILAK",
+      "ticker": "CVKMD",
       "ad": "",
-      "agirlik": 8.83
+      "agirlik": 9.36
     },
     {
-      "ticker": "PSGYO",
+      "ticker": "HEKTS",
       "ad": "",
-      "agirlik": 4.32
+      "agirlik": 7.44
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 4.89
     },
     {
       "ticker": "YATAS",
       "ad": "",
-      "agirlik": 4.31
+      "agirlik": 4.73
     },
     {
       "ticker": "OTKAR",
       "ad": "",
-      "agirlik": 4.26
+      "agirlik": 4.6
     },
     {
-      "ticker": "ATATP",
+      "ticker": "ISGSY",
       "ad": "",
-      "agirlik": 4.2
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.07
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 3.99
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 3.93
-    },
-    {
-      "ticker": "ARSAN",
-      "ad": "",
-      "agirlik": 3.89
-    },
-    {
-      "ticker": "KAREL",
-      "ad": "",
-      "agirlik": 3.79
-    },
-    {
-      "ticker": "LMKDC",
-      "ad": "",
-      "agirlik": 3.79
+      "agirlik": 4.48
     },
     {
       "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 3.71
+      "agirlik": 4.39
     },
     {
-      "ticker": "GLYHO",
+      "ticker": "ATATP",
       "ad": "",
-      "agirlik": 3.6
+      "agirlik": 4.39
     },
     {
-      "ticker": "NTHOL",
+      "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 3.58
+      "agirlik": 4.32
     },
     {
       "ticker": "MACKO",
       "ad": "",
-      "agirlik": 3.53
+      "agirlik": 4.28
+    },
+    {
+      "ticker": "ARSAN",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 3.75
     },
     {
       "ticker": "YYLGD",
       "ad": "",
-      "agirlik": 3.34
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 3.24
     },
     {
       "ticker": "KMPUR",
       "ad": "",
-      "agirlik": 3.21
+      "agirlik": 3.2
     },
     {
-      "ticker": "ISCTR",
+      "ticker": "LMKDC",
       "ad": "",
-      "agirlik": 2.51
+      "agirlik": 3.16
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 2.18
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 15:08:33",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e91bb78185367",
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.07.2026 11:34:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f21bb12080e57",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-06-29T12:15:50Z",
+  "kap_son_kontrol_iso": "2026-07-06T12:02:14Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

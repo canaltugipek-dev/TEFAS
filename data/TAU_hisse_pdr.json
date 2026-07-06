@@ -1,6 +1,6 @@
 {
   "kod": "TAU",
-  "guncelleme": "2026-06-29T12:20:17Z",
+  "guncelleme": "2026-07-06T12:06:05Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tau-is-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,43 +14,43 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 25.05
+      "agirlik": 27.19
     },
     {
       "ticker": "YKBNK",
       "ad": "",
-      "agirlik": 18.84
+      "agirlik": 20.47
     },
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 18.16
+      "agirlik": 17.98
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 12.91
     },
     {
       "ticker": "HALKB",
       "ad": "",
-      "agirlik": 4.23
+      "agirlik": 3.79
     },
     {
-      "ticker": "SKBNK",
+      "ticker": "VAKBN",
       "ad": "",
-      "agirlik": 2.9
+      "agirlik": 2.89
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 2.18
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 1.41
+      "agirlik": 2.04
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "7 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 14:05:17",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e92493c834ee6",
-  "kap_son_kontrol_iso": "2026-06-29T12:20:17Z",
+  "kap_rapor_tarihi": "03.07.2026 17:00:29",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f28336d4c623d",
+  "kap_son_kontrol_iso": "2026-07-06T12:06:05Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

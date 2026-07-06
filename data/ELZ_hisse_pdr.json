@@ -1,6 +1,6 @@
 {
   "kod": "ELZ",
-  "guncelleme": "2026-06-08T12:16:42Z",
+  "guncelleme": "2026-07-06T11:54:15Z",
   "kaynak_tefas": true,
   "unvan": "ASTRA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/elz-astra-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,143 +14,133 @@
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 8.64
+      "agirlik": 7.97
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 7.51
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 7.4
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 5.45
+      "agirlik": 7.11
     },
     {
       "ticker": "KCAER",
       "ad": "",
-      "agirlik": 5.14
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 4.75
+      "agirlik": 7.08
     },
     {
       "ticker": "KRVGD",
       "ad": "",
-      "agirlik": 4.75
+      "agirlik": 5.94
     },
     {
       "ticker": "ARASE",
       "ad": "",
-      "agirlik": 4.68
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.66
+      "agirlik": 5.62
     },
     {
       "ticker": "MAVI",
       "ad": "",
-      "agirlik": 4.25
+      "agirlik": 5.47
     },
     {
-      "ticker": "KRDMD",
+      "ticker": "ALBRK",
       "ad": "",
-      "agirlik": 3.41
+      "agirlik": 4.71
     },
     {
-      "ticker": "GUBRF",
+      "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 3.3
+      "agirlik": 4.69
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.66
     },
     {
       "ticker": "CANTE",
       "ad": "",
-      "agirlik": 2.61
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.13
     },
     {
       "ticker": "SUWEN",
       "ad": "",
-      "agirlik": 2.36
+      "agirlik": 3.07
     },
     {
-      "ticker": "MPARK",
+      "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 2.33
+      "agirlik": 3.01
     },
     {
       "ticker": "ATAKP",
       "ad": "",
-      "agirlik": 2.1
-    },
-    {
-      "ticker": "TUKAS",
-      "ad": "",
-      "agirlik": 2.07
-    },
-    {
-      "ticker": "LKMNH",
-      "ad": "",
-      "agirlik": 1.99
+      "agirlik": 2.88
     },
     {
       "ticker": "YATAS",
       "ad": "",
-      "agirlik": 1.94
+      "agirlik": 2.66
     },
     {
       "ticker": "MEDTR",
       "ad": "",
-      "agirlik": 1.8
+      "agirlik": 2.4
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 2.34
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 1.74
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 1.65
+      "agirlik": 2.28
     },
     {
       "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.61
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 1.64
     },
     {
       "ticker": "LMKDC",
       "ad": "",
-      "agirlik": 1.57
+      "agirlik": 1.59
     },
     {
-      "ticker": "PETKM",
+      "ticker": "MPARK",
       "ad": "",
-      "agirlik": 1.52
+      "agirlik": 1.56
     },
     {
       "ticker": "ALKIM",
       "ad": "",
-      "agirlik": 1.21
+      "agirlik": 1.08
     },
     {
-      "ticker": "GOODY",
+      "ticker": "BETAE",
       "ad": "",
-      "agirlik": 1.12
+      "agirlik": 0.24
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "27 hisse satırı okundu.",
-  "kap_rapor_tarihi": "01.06.2026 17:23:36",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e838feabe7ea3",
-  "kap_son_kontrol_iso": "2026-06-29T12:02:07Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.07.2026 18:20:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f236633733070",
+  "kap_son_kontrol_iso": "2026-07-06T11:54:15Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

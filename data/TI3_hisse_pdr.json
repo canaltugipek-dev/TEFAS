@@ -1,6 +1,6 @@
 {
   "kod": "TI3",
-  "guncelleme": "2026-06-29T12:21:33Z",
+  "guncelleme": "2026-07-06T12:06:21Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti3-is-portfoy-is-bankasi-istirakleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,53 +14,58 @@
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 21.36
+      "agirlik": 23.75
     },
     {
       "ticker": "SISE",
       "ad": "",
-      "agirlik": 21.28
+      "agirlik": 20.3
     },
     {
       "ticker": "ANSGR",
       "ad": "",
-      "agirlik": 13.63
+      "agirlik": 13.42
     },
     {
-      "ticker": "TSKB",
+      "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 7.75
+      "agirlik": 9.65
     },
     {
       "ticker": "ISGYO",
       "ad": "",
-      "agirlik": 6.1
+      "agirlik": 7.27
     },
     {
       "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 5.27
+      "agirlik": 5.26
     },
     {
       "ticker": "ISFIN",
       "ad": "",
-      "agirlik": 3.81
+      "agirlik": 3.78
     },
     {
       "ticker": "ISGSY",
       "ad": "",
-      "agirlik": 1.93
+      "agirlik": 2.19
     },
     {
       "ticker": "ISYAT",
       "ad": "",
-      "agirlik": 0.91
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "TSGYO",
+      "ad": "",
+      "agirlik": 0.39
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "9 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 13:10:36",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e9320e9ab696a",
-  "kap_son_kontrol_iso": "2026-06-29T12:21:33Z",
+  "hisse_mesaj": "10 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.07.2026 15:26:29",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f27c0017452e5",
+  "kap_son_kontrol_iso": "2026-07-06T12:06:21Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
