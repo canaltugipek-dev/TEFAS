@@ -2,24 +2,14 @@
   "fon_kodu": "ALC",
   "fon_unvan": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-07-07",
-  "bitis": "2026-07-06",
+  "baslangic": "2021-07-08",
+  "bitis": "2026-07-07",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1625616000000",
-      "FONKODU": "ALC",
-      "FONUNVAN": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.031734,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1625702400000",
       "FONKODU": "ALC",
@@ -12525,6 +12515,16 @@
       "FONKODU": "ALC",
       "FONUNVAN": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.35397,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1783382400000",
+      "FONKODU": "ALC",
+      "FONUNVAN": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.354483,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

@@ -2,24 +2,14 @@
   "fon_kodu": "YHS",
   "fon_unvan": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-07-07",
-  "bitis": "2026-07-06",
+  "baslangic": "2021-07-08",
+  "bitis": "2026-07-07",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1625616000000",
-      "FONKODU": "YHS",
-      "FONUNVAN": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 2.094825,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1625702400000",
       "FONKODU": "YHS",
@@ -12525,6 +12515,16 @@
       "FONKODU": "YHS",
       "FONUNVAN": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 25.229647,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1783382400000",
+      "FONKODU": "YHS",
+      "FONUNVAN": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 25.388134,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

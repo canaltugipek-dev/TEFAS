@@ -2,24 +2,14 @@
   "fon_kodu": "EC2",
   "fon_unvan": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-07-07",
-  "bitis": "2026-07-06",
+  "baslangic": "2021-07-08",
+  "bitis": "2026-07-07",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1252,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1625616000000",
-      "FONKODU": "EC2",
-      "FONUNVAN": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 6.290895,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1625702400000",
       "FONKODU": "EC2",
@@ -12525,6 +12515,16 @@
       "FONKODU": "EC2",
       "FONUNVAN": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 85.749084,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1783382400000",
+      "FONKODU": "EC2",
+      "FONUNVAN": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 84.967746,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
