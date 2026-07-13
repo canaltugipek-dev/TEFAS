@@ -1,6 +1,6 @@
 {
   "kod": "GL1",
-  "guncelleme": "2026-07-06T11:55:45Z",
+  "guncelleme": "2026-07-13T10:45:35Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PYŞ BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gl1-azimut-pys-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,130 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 10.11
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 9.22
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 6.74
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 6.26
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 4.79
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 4.53
-    },
-    {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.11
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 3.97
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 3.95
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.45
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 3.07
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 3.01
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 3.01
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 3.0
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 2.99
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 2.92
-    },
-    {
-      "ticker": "SELEC",
-      "ad": "",
-      "agirlik": 2.09
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 2.02
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 1.98
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 1.96
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 1.83
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 1.62
-    },
-    {
-      "ticker": "TRCAS",
-      "ad": "",
-      "agirlik": 1.48
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 0.98
+      "agirlik": 6.8
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "24 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:11:03",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ef442e42d5",
-  "kap_son_kontrol_iso": "2026-07-06T11:55:45Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.07.2026 18:29:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f3cf9877a17d5",
+  "kap_son_kontrol_iso": "2026-07-13T10:45:35Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

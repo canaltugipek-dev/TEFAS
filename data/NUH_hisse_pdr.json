@@ -1,6 +1,6 @@
 {
   "kod": "NUH",
-  "guncelleme": "2026-07-06T12:02:22Z",
+  "guncelleme": "2026-07-13T10:53:49Z",
   "kaynak_tefas": true,
   "unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nuh-neo-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,90 +12,80 @@
   ],
   "hisseler": [
     {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 12.78
+    },
+    {
       "ticker": "KMPUR",
       "ad": "",
-      "agirlik": 10.21
+      "agirlik": 12.38
     },
     {
       "ticker": "OZSUB",
       "ad": "",
-      "agirlik": 10.0
-    },
-    {
-      "ticker": "GRSEL",
-      "ad": "",
-      "agirlik": 9.77
-    },
-    {
-      "ticker": "GENKM",
-      "ad": "",
-      "agirlik": 9.69
-    },
-    {
-      "ticker": "MTRKS",
-      "ad": "",
-      "agirlik": 5.42
-    },
-    {
-      "ticker": "VBTYZ",
-      "ad": "",
-      "agirlik": 5.27
-    },
-    {
-      "ticker": "KRPLS",
-      "ad": "",
-      "agirlik": 5.07
-    },
-    {
-      "ticker": "INDES",
-      "ad": "",
-      "agirlik": 4.99
-    },
-    {
-      "ticker": "MERCN",
-      "ad": "",
-      "agirlik": 4.99
-    },
-    {
-      "ticker": "BRKSN",
-      "ad": "",
-      "agirlik": 4.96
+      "agirlik": 12.23
     },
     {
       "ticker": "MACKO",
       "ad": "",
-      "agirlik": 4.87
-    },
-    {
-      "ticker": "YUNSA",
-      "ad": "",
-      "agirlik": 4.87
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.84
-    },
-    {
-      "ticker": "TNZTP",
-      "ad": "",
-      "agirlik": 4.8
-    },
-    {
-      "ticker": "YYLGD",
-      "ad": "",
-      "agirlik": 4.8
+      "agirlik": 9.83
     },
     {
       "ticker": "MAKIM",
       "ad": "",
-      "agirlik": 4.7
+      "agirlik": 6.34
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 6.31
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 6.22
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 5.84
+    },
+    {
+      "ticker": "BRKSN",
+      "ad": "",
+      "agirlik": 5.26
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 5.26
+    },
+    {
+      "ticker": "KRPLS",
+      "ad": "",
+      "agirlik": 5.12
+    },
+    {
+      "ticker": "YUNSA",
+      "ad": "",
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 4.82
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 4.68
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "16 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 14:17:13",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e83b5bf937509",
-  "kap_son_kontrol_iso": "2026-07-06T12:02:22Z",
+  "hisse_mesaj": "14 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 12:40:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f283f30cc7b1e",
+  "kap_son_kontrol_iso": "2026-07-13T10:53:49Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

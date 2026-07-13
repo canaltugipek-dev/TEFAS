@@ -1,6 +1,6 @@
 {
   "kod": "KYA",
-  "guncelleme": "2026-06-08T12:22:50Z",
+  "guncelleme": "2026-07-13T10:50:17Z",
   "kaynak_tefas": true,
   "unvan": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kya-kare-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,112 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 8.21
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 7.74
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 6.36
-    },
-    {
-      "ticker": "KAREL",
-      "ad": "",
-      "agirlik": 5.5
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 5.42
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 5.26
-    },
-    {
-      "ticker": "LMKDC",
-      "ad": "",
-      "agirlik": 4.57
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 4.56
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 4.56
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 4.52
-    },
-    {
-      "ticker": "MERCN",
-      "ad": "",
-      "agirlik": 4.46
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 4.09
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 3.32
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 2.85
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 2.47
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 2.35
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 2.09
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 1.88
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 17:59:51",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e98394b002ff1",
-  "kap_son_kontrol_iso": "2026-07-06T11:40:25Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
+  "kap_rapor_tarihi": "07.07.2026 20:07:26"
 }

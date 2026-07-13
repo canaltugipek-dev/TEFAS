@@ -1,6 +1,6 @@
 {
   "kod": "BID",
-  "guncelleme": "2026-06-08T12:13:17Z",
+  "guncelleme": "2026-07-13T10:41:39Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bid-qnb-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,125 +12,20 @@
   ],
   "hisseler": [
     {
-      "ticker": "GLCVY",
+      "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 8.06
-    },
-    {
-      "ticker": "SNGYO",
-      "ad": "",
-      "agirlik": 7.53
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 6.73
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 5.98
-    },
-    {
-      "ticker": "OZSUB",
-      "ad": "",
-      "agirlik": 5.26
-    },
-    {
-      "ticker": "KRDMA",
-      "ad": "",
-      "agirlik": 4.99
-    },
-    {
-      "ticker": "AKGRT",
-      "ad": "",
-      "agirlik": 4.73
-    },
-    {
-      "ticker": "LKMNH",
-      "ad": "",
-      "agirlik": 4.71
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 4.58
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 4.57
-    },
-    {
-      "ticker": "BOBET",
-      "ad": "",
-      "agirlik": 4.52
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 4.33
-    },
-    {
-      "ticker": "YATAS",
-      "ad": "",
-      "agirlik": 4.23
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 3.87
-    },
-    {
-      "ticker": "AYDEM",
-      "ad": "",
-      "agirlik": 3.72
-    },
-    {
-      "ticker": "DESA",
-      "ad": "",
-      "agirlik": 3.62
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "OZKGY",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 2.68
-    },
-    {
-      "ticker": "HTTBT",
-      "ad": "",
-      "agirlik": 2.42
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 1.47
+      "agirlik": 4.22
     },
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 1.3
-    },
-    {
-      "ticker": "UNLU",
-      "ad": "",
-      "agirlik": 0.64
+      "agirlik": 3.9
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "23 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.06.2026 12:07:06",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e9b8f9d019ea63c37dd100a",
-  "kap_son_kontrol_iso": "2026-07-06T11:39:19Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 13:50:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f40bec68b3ab6",
+  "kap_son_kontrol_iso": "2026-07-13T10:41:39Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

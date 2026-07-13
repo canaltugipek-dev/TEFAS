@@ -1,6 +1,6 @@
 {
   "kod": "IDI",
-  "guncelleme": "2026-07-06T11:56:32Z",
+  "guncelleme": "2026-07-13T10:47:14Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idi-azimut-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,50 +12,45 @@
   ],
   "hisseler": [
     {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 18.48
-    },
-    {
       "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 17.51
+      "agirlik": 17.98
     },
     {
       "ticker": "KRDMD",
       "ad": "",
-      "agirlik": 17.51
+      "agirlik": 16.39
     },
     {
       "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 9.84
+      "agirlik": 10.02
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 7.52
     },
     {
       "ticker": "KLKIM",
       "ad": "",
-      "agirlik": 9.13
+      "agirlik": 7.27
     },
     {
       "ticker": "AVPGY",
       "ad": "",
-      "agirlik": 7.15
-    },
-    {
-      "ticker": "VKGYO",
-      "ad": "",
-      "agirlik": 3.96
+      "agirlik": 6.78
     },
     {
       "ticker": "AAGYO",
       "ad": "",
-      "agirlik": 1.82
+      "agirlik": 4.6
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "8 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:10:28",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01f5a4aa44f1",
-  "kap_son_kontrol_iso": "2026-07-06T11:56:32Z",
+  "hisse_mesaj": "7 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 14:40:37",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f4186d5fa099b",
+  "kap_son_kontrol_iso": "2026-07-13T10:47:14Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "BV1",
-  "guncelleme": "2026-06-08T12:14:12Z",
+  "guncelleme": "2026-07-13T10:41:57Z",
   "kaynak_tefas": true,
   "unvan": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bv1-bv-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,200 +12,20 @@
   ],
   "hisseler": [
     {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 6.04
-    },
-    {
-      "ticker": "VAKBN",
-      "ad": "",
-      "agirlik": 5.54
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 5.51
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 5.3
-    },
-    {
-      "ticker": "GLCVY",
-      "ad": "",
-      "agirlik": 3.94
-    },
-    {
-      "ticker": "GOZDE",
-      "ad": "",
-      "agirlik": 3.68
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 3.66
-    },
-    {
-      "ticker": "SOKM",
-      "ad": "",
-      "agirlik": 3.62
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.61
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 3.28
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 3.08
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 3.02
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 2.77
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 2.77
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 2.67
-    },
-    {
       "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 2.42
+      "agirlik": 3.23
     },
     {
-      "ticker": "TURSG",
+      "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 2.27
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 2.2
-    },
-    {
-      "ticker": "ESCOM",
-      "ad": "",
-      "agirlik": 2.09
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
-      "ticker": "ULUFA",
-      "ad": "",
-      "agirlik": 1.95
-    },
-    {
-      "ticker": "ALTNY",
-      "ad": "",
-      "agirlik": 1.9
-    },
-    {
-      "ticker": "ATATP",
-      "ad": "",
-      "agirlik": 1.85
-    },
-    {
-      "ticker": "TSKB",
-      "ad": "",
-      "agirlik": 1.7
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 1.69
-    },
-    {
-      "ticker": "KLGYO",
-      "ad": "",
-      "agirlik": 1.63
-    },
-    {
-      "ticker": "LIDFA",
-      "ad": "",
-      "agirlik": 1.51
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 1.41
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 1.38
-    },
-    {
-      "ticker": "NTHOL",
-      "ad": "",
-      "agirlik": 1.05
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 0.85
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 0.79
-    },
-    {
-      "ticker": "KIMMR",
-      "ad": "",
-      "agirlik": 0.79
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 0.73
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 0.71
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 0.64
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 0.61
-    },
-    {
-      "ticker": "EKDMR",
-      "ad": "",
-      "agirlik": 0.17
+      "agirlik": 1.03
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "38 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 17:29:19",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e9822b73314be",
-  "kap_son_kontrol_iso": "2026-07-06T11:39:24Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 18:06:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085a019f2738f15c4f16",
+  "kap_son_kontrol_iso": "2026-07-13T10:41:57Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

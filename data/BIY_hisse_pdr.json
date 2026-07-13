@@ -1,6 +1,6 @@
 {
   "kod": "BIY",
-  "guncelleme": "2026-06-08T12:13:54Z",
+  "guncelleme": "2026-07-13T10:41:47Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/biy-azimut-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,19 +12,24 @@
   ],
   "hisseler": [
     {
-      "ticker": "INVES",
+      "ticker": "LIDER",
       "ad": "",
-      "agirlik": 1.6
+      "agirlik": 1.24
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 0.74
     },
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 0.85
+      "agirlik": 0.58
     },
     {
-      "ticker": "AGESA",
+      "ticker": "ARMGD",
       "ad": "",
-      "agirlik": 0.56
+      "agirlik": 0.54
     },
     {
       "ticker": "PAGYO",
@@ -32,25 +37,15 @@
       "agirlik": 0.28
     },
     {
-      "ticker": "KBORU",
-      "ad": "",
-      "agirlik": 0.26
-    },
-    {
-      "ticker": "AKGRT",
-      "ad": "",
-      "agirlik": 0.21
-    },
-    {
       "ticker": "IHLGM",
       "ad": "",
-      "agirlik": 0.09
+      "agirlik": 0.08
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "7 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 18:11:48",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e970175881336",
-  "kap_son_kontrol_iso": "2026-07-06T11:39:22Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "6 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.07.2026 18:26:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f3b4142ee6972",
+  "kap_son_kontrol_iso": "2026-07-13T10:41:47Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

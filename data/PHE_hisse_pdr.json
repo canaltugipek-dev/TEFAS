@@ -1,6 +1,6 @@
 {
   "kod": "PHE",
-  "guncelleme": "2026-07-06T12:02:51Z",
+  "guncelleme": "2026-07-13T10:54:47Z",
   "kaynak_tefas": true,
   "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,23 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 3.31
+      "agirlik": 4.14
     },
     {
-      "ticker": "TEHOL",
+      "ticker": "BALSU",
       "ad": "",
-      "agirlik": 0.04
+      "agirlik": 2.88
+    },
+    {
+      "ticker": "MOPAS",
+      "ad": "",
+      "agirlik": 0.08
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.06.2026 13:19:39",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e87d5ddd0077a",
-  "kap_son_kontrol_iso": "2026-07-06T12:02:51Z",
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 18:31:42",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f41bffe846a4c",
+  "kap_son_kontrol_iso": "2026-07-13T10:54:47Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

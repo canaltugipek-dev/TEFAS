@@ -1,6 +1,6 @@
 {
   "kod": "RHI",
-  "guncelleme": "2026-07-06T12:04:08Z",
+  "guncelleme": "2026-07-13T10:55:39Z",
   "kaynak_tefas": true,
   "unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhi-re-pie-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,25 +12,35 @@
   ],
   "hisseler": [
     {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 2.95
-    },
-    {
       "ticker": "ASTOR",
       "ad": "",
-      "agirlik": 2.19
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.76
     },
     {
       "ticker": "BIOEN",
       "ad": "",
-      "agirlik": 2.04
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "KLRHO",
+      "ad": "",
+      "agirlik": 0.03
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "3 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 18:01:49",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e9796e2761c40",
-  "kap_son_kontrol_iso": "2026-07-06T12:04:08Z",
+  "hisse_mesaj": "5 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.07.2026 18:03:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f27be3f524bd5",
+  "kap_son_kontrol_iso": "2026-07-13T10:55:39Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

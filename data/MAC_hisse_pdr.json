@@ -1,6 +1,6 @@
 {
   "kod": "MAC",
-  "guncelleme": "2026-06-15T13:36:29Z",
+  "guncelleme": "2026-07-13T10:50:58Z",
   "kaynak_tefas": true,
   "unvan": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mac-marmara-capital-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,130 +12,130 @@
   ],
   "hisseler": [
     {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 9.88
-    },
-    {
       "ticker": "TABGD",
       "ad": "",
-      "agirlik": 9.86
+      "agirlik": 10.1
     },
     {
-      "ticker": "AKGRT",
+      "ticker": "AEFES",
       "ad": "",
-      "agirlik": 7.2
-    },
-    {
-      "ticker": "GSDHO",
-      "ad": "",
-      "agirlik": 6.61
-    },
-    {
-      "ticker": "DOAS",
-      "ad": "",
-      "agirlik": 4.77
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 4.76
-    },
-    {
-      "ticker": "TTRAK",
-      "ad": "",
-      "agirlik": 4.59
-    },
-    {
-      "ticker": "TSKB",
-      "ad": "",
-      "agirlik": 4.55
-    },
-    {
-      "ticker": "BRISA",
-      "ad": "",
-      "agirlik": 4.51
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 4.47
-    },
-    {
-      "ticker": "ASUZU",
-      "ad": "",
-      "agirlik": 4.41
-    },
-    {
-      "ticker": "GOLTS",
-      "ad": "",
-      "agirlik": 4.35
-    },
-    {
-      "ticker": "ATAKP",
-      "ad": "",
-      "agirlik": 4.32
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 4.3
-    },
-    {
-      "ticker": "GESAN",
-      "ad": "",
-      "agirlik": 4.17
-    },
-    {
-      "ticker": "LOGO",
-      "ad": "",
-      "agirlik": 3.3
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 3.28
-    },
-    {
-      "ticker": "TBPP",
-      "ad": "",
-      "agirlik": 2.96
+      "agirlik": 9.71
     },
     {
       "ticker": "KAREL",
       "ad": "",
-      "agirlik": 2.3
+      "agirlik": 8.39
     },
     {
-      "ticker": "ALARK",
+      "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 1.57
+      "agirlik": 7.01
     },
     {
-      "ticker": "GOKNR",
+      "ticker": "GSDHO",
       "ad": "",
-      "agirlik": 1.29
+      "agirlik": 4.93
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "ASUZU",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "GOLTS",
+      "ad": "",
+      "agirlik": 4.64
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 4.54
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.48
+    },
+    {
+      "ticker": "ALGYO",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "ATAKP",
+      "ad": "",
+      "agirlik": 3.8
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 3.63
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 2.16
     },
     {
       "ticker": "KRVGD",
       "ad": "",
-      "agirlik": 1.28
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 1.13
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 1.02
+      "agirlik": 0.18
     },
     {
       "ticker": "GMTAS",
       "ad": "",
-      "agirlik": 0.19
+      "agirlik": 0.18
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "24 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.06.2026 16:59:36",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e9b8f9d019ea785ced22e93",
-  "kap_son_kontrol_iso": "2026-07-06T11:40:25Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "11.05.2026 16:29:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e1738991625d7",
+  "kap_son_kontrol_iso": "2026-07-13T10:50:58Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

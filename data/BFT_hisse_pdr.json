@@ -1,6 +1,6 @@
 {
   "kod": "BFT",
-  "guncelleme": "2026-07-06T11:51:30Z",
+  "guncelleme": "2026-07-13T10:41:15Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bft-azimut-portfoy-banka-ve-finans-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,55 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 18.48
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 18.03
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 12.07
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 11.58
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 10.94
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 7.24
-    },
-    {
       "ticker": "VAKBN",
       "ad": "",
-      "agirlik": 6.28
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 2.75
+      "agirlik": 7.68
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "9 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:11:03",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ef3e584285",
-  "kap_son_kontrol_iso": "2026-07-06T11:51:30Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.07.2026 18:26:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f3b41427b6968",
+  "kap_son_kontrol_iso": "2026-07-13T10:41:15Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
