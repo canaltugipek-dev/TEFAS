@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-07-16T11:09:50",
+  "guncelleme": "2026-07-17T10:57:01",
   "bist100_ticker": "XU100.IS",
   "usdtry_ticker": "TRY=X",
   "tufe_kaynak": "manual_monthly_array",
@@ -4983,7 +4983,11 @@
       },
       {
         "tarih": "2026-07-16",
-        "deger": 14215.75976562
+        "deger": 14251.29980469
+      },
+      {
+        "tarih": "2026-07-17",
+        "deger": 13991.58984375
       }
     ],
     "usdtry": [
@@ -10181,7 +10185,11 @@
       },
       {
         "tarih": "2026-07-16",
-        "deger": 47.04999924
+        "deger": 47.03659821
+      },
+      {
+        "tarih": "2026-07-17",
+        "deger": 47.16009903
       }
     ],
     "tufe_index": [
