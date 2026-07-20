@@ -1,6 +1,6 @@
 {
   "kod": "KYA",
-  "guncelleme": "2026-07-13T10:50:17Z",
+  "guncelleme": "2026-07-20T10:30:25Z",
   "kaynak_tefas": true,
   "unvan": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kya-kare-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,117 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
-  "kap_rapor_tarihi": "07.07.2026 20:07:26"
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.05
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 7.16
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 5.95
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.07
+    },
+    {
+      "ticker": "MERCN",
+      "ad": "",
+      "agirlik": 4.95
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "HEKTS",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.79
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 4.55
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.66
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "BETAE",
+      "ad": "",
+      "agirlik": 2.94
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.02
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.07.2026 20:07:26",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f3d7807d950c6",
+  "kap_son_kontrol_iso": "2026-07-20T10:30:25Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

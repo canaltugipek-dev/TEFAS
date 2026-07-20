@@ -1,12 +1,221 @@
 {
   "kod": "GHS",
-  "guncelleme": "2026-07-13T10:42:41Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-07-20T10:26:07Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ghs-garanti-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 7.34
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.18
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 5.64
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.34
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 5.2
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.52
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.21
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 2.65
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 2.35
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 1.95
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.93
+    },
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 1.88
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "HEKTS",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.43
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.12
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 1.12
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 1.03
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.0
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 1.0
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 0.7
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 0.14
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "40 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 19:19:48",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f425e001f3e54",
+  "kap_son_kontrol_iso": "2026-07-20T10:26:07Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

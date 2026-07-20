@@ -1,6 +1,6 @@
 {
   "kod": "KTI",
-  "guncelleme": "2026-07-13T10:49:13Z",
+  "guncelleme": "2026-07-20T10:30:19Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kti-azimut-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,122 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 9.58
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 9.34
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 9.17
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 9.1
-    },
-    {
-      "ticker": "SELEC",
-      "ad": "",
-      "agirlik": 4.8
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.47
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 4.45
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 3.92
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 3.89
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 3.26
-    },
-    {
-      "ticker": "EBEBK",
-      "ad": "",
-      "agirlik": 3.01
-    },
-    {
-      "ticker": "KRDMA",
-      "ad": "",
-      "agirlik": 2.97
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 2.82
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 2.73
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 2.32
-    },
-    {
-      "ticker": "EUPWR",
-      "ad": "",
-      "agirlik": 2.2
-    },
-    {
-      "ticker": "LMKDC",
-      "ad": "",
-      "agirlik": 2.19
-    },
-    {
-      "ticker": "LKMNH",
-      "ad": "",
-      "agirlik": 1.9
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 1.53
-    },
-    {
-      "ticker": "PETKM",
-      "ad": "",
-      "agirlik": 1.51
-    },
-    {
-      "ticker": "AAGYO",
-      "ad": "",
-      "agirlik": 1.2
-    },
-    {
-      "ticker": "GENIL",
-      "ad": "",
-      "agirlik": 0.86
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.05.2026 18:09:53",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4afc45fa",
-  "kap_son_kontrol_iso": "2026-07-13T10:49:13Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
+  "kap_rapor_tarihi": "07.07.2026 18:31:44"
 }
