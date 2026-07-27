@@ -1,91 +1,12 @@
 {
   "kod": "NUH",
-  "guncelleme": "2026-07-20T10:32:30Z",
-  "kaynak_tefas": true,
-  "unvan": "NEO PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nuh-neo-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "GRSEL",
-      "ad": "",
-      "agirlik": 12.78
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 12.38
-    },
-    {
-      "ticker": "OZSUB",
-      "ad": "",
-      "agirlik": 12.23
-    },
-    {
-      "ticker": "MACKO",
-      "ad": "",
-      "agirlik": 9.83
-    },
-    {
-      "ticker": "MAKIM",
-      "ad": "",
-      "agirlik": 6.34
-    },
-    {
-      "ticker": "TNZTP",
-      "ad": "",
-      "agirlik": 6.31
-    },
-    {
-      "ticker": "YYLGD",
-      "ad": "",
-      "agirlik": 6.22
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 5.84
-    },
-    {
-      "ticker": "BRKSN",
-      "ad": "",
-      "agirlik": 5.26
-    },
-    {
-      "ticker": "MTRKS",
-      "ad": "",
-      "agirlik": 5.26
-    },
-    {
-      "ticker": "KRPLS",
-      "ad": "",
-      "agirlik": 5.12
-    },
-    {
-      "ticker": "YUNSA",
-      "ad": "",
-      "agirlik": 4.86
-    },
-    {
-      "ticker": "INDES",
-      "ad": "",
-      "agirlik": 4.82
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.68
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "14 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.07.2026 12:40:20",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f283f30cc7b1e",
-  "kap_son_kontrol_iso": "2026-07-20T10:32:30Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-07-27T11:02:26Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

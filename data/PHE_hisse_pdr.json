@@ -1,36 +1,12 @@
 {
   "kod": "PHE",
-  "guncelleme": "2026-07-20T10:34:31Z",
-  "kaynak_tefas": true,
-  "unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phe-pusula-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "BALSU",
-      "ad": "",
-      "agirlik": 2.88
-    },
-    {
-      "ticker": "MOPAS",
-      "ad": "",
-      "agirlik": 0.08
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "3 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.07.2026 18:31:42",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f41bffe846a4c",
-  "kap_son_kontrol_iso": "2026-07-20T10:34:31Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-07-27T11:06:17Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }
