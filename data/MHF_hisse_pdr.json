@@ -1,31 +1,12 @@
 {
   "kod": "MHF",
-  "guncelleme": "2026-07-27T10:59:14Z",
-  "kaynak_tefas": true,
-  "unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mhf-mt-portfoy-bist-halka-arz-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "OZYSR",
-      "ad": "",
-      "agirlik": 2.47
-    },
-    {
-      "ticker": "ENDAE",
-      "ad": "",
-      "agirlik": 2.45
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.06.2026 15:15:17",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e8c17d5b21d02",
-  "kap_son_kontrol_iso": "2026-07-27T10:59:14Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-03T10:58:24Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

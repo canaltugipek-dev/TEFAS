@@ -1,111 +1,12 @@
 {
   "kod": "SSS",
-  "guncelleme": "2026-07-27T11:14:43Z",
-  "kaynak_tefas": true,
-  "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 18.55
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 15.78
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 14.88
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 11.79
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 11.03
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 4.44
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 3.47
-    },
-    {
-      "ticker": "BERA",
-      "ad": "",
-      "agirlik": 2.66
-    },
-    {
-      "ticker": "EUPWR",
-      "ad": "",
-      "agirlik": 1.75
-    },
-    {
-      "ticker": "GESAN",
-      "ad": "",
-      "agirlik": 1.6
-    },
-    {
-      "ticker": "ALTNY",
-      "ad": "",
-      "agirlik": 1.45
-    },
-    {
-      "ticker": "SDTTR",
-      "ad": "",
-      "agirlik": 1.38
-    },
-    {
-      "ticker": "KATMR",
-      "ad": "",
-      "agirlik": 1.33
-    },
-    {
-      "ticker": "PAPIL",
-      "ad": "",
-      "agirlik": 0.93
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 0.74
-    },
-    {
-      "ticker": "TMSN",
-      "ad": "",
-      "agirlik": 0.67
-    },
-    {
-      "ticker": "FORTE",
-      "ad": "",
-      "agirlik": 0.66
-    },
-    {
-      "ticker": "KAREL",
-      "ad": "",
-      "agirlik": 0.35
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "18 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.07.2026 14:45:19",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f3c596b3d03e6",
-  "kap_son_kontrol_iso": "2026-07-27T11:14:43Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-03T11:09:38Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

@@ -1,76 +1,12 @@
 {
   "kod": "SAS",
-  "guncelleme": "2026-07-27T11:14:12Z",
-  "kaynak_tefas": true,
-  "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 22.75
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 22.5
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 15.92
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 12.85
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 5.94
-    },
-    {
-      "ticker": "KORDS",
-      "ad": "",
-      "agirlik": 2.64
-    },
-    {
-      "ticker": "AKGRT",
-      "ad": "",
-      "agirlik": 2.08
-    },
-    {
-      "ticker": "BRISA",
-      "ad": "",
-      "agirlik": 1.69
-    },
-    {
-      "ticker": "AFYON",
-      "ad": "",
-      "agirlik": 1.56
-    },
-    {
-      "ticker": "TKNSA",
-      "ad": "",
-      "agirlik": 1.29
-    },
-    {
-      "ticker": "CRFSA",
-      "ad": "",
-      "agirlik": 0.99
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "11 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.07.2026 11:38:03",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f238fff114e30",
-  "kap_son_kontrol_iso": "2026-07-27T11:14:12Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-03T11:08:05Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }
