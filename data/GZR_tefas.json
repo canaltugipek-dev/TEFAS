@@ -2,24 +2,14 @@
   "fon_kodu": "GZR",
   "fon_unvan": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-08-05",
-  "bitis": "2026-08-04",
+  "baslangic": "2021-08-06",
+  "bitis": "2026-08-05",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1256,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1628121600000",
-      "FONKODU": "GZR",
-      "FONUNVAN": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.980734,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1628208000000",
       "FONKODU": "GZR",
@@ -12565,6 +12555,16 @@
       "FONKODU": "GZR",
       "FONUNVAN": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 11.224311,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1785888000000",
+      "FONKODU": "GZR",
+      "FONUNVAN": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 11.40182,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
