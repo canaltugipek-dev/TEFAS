@@ -1,12 +1,151 @@
 {
   "kod": "NKC",
-  "guncelleme": "2026-08-03T10:58:40Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-10T08:55:41Z",
+  "kaynak_tefas": true,
+  "unvan": "NEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nkc-neo-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 8.86
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 7.57
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 6.6
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 6.45
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 5.3
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 5.3
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "MERCN",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 4.32
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "KRVGD",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "LIDFA",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.19
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 1.43
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.31
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "OSMEN",
+      "ad": "",
+      "agirlik": 1.04
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 0.97
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 12:41:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f282c65f4787a",
+  "kap_son_kontrol_iso": "2026-08-10T08:55:41Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

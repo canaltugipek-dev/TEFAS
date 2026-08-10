@@ -1,6 +1,6 @@
 {
   "kod": "IIH",
-  "guncelleme": "2026-07-06T11:56:47Z",
+  "guncelleme": "2026-08-10T08:46:22Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iih-istanbul-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "TRCAS",
+      "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.62
+      "agirlik": 0.07
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.07.2026 19:58:10",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f28e769460c46",
-  "kap_son_kontrol_iso": "2026-08-03T10:46:36Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "06.08.2026 17:53:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd78e61e21fd2",
+  "kap_son_kontrol_iso": "2026-08-10T08:46:22Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

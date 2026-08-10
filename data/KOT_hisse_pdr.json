@@ -1,31 +1,12 @@
 {
   "kod": "KOT",
-  "guncelleme": "2026-08-03T10:57:47Z",
-  "kaynak_tefas": true,
-  "unvan": "AZİMUT PORTFÖY KOÇ TOPLULUĞU ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kot-azimut-portfoy-koc-toplulugu-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 9.62
-    },
-    {
-      "ticker": "AYGAZ",
-      "ad": "",
-      "agirlik": 4.6
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 18:11:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e9720961218cc",
-  "kap_son_kontrol_iso": "2026-08-03T10:57:47Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-10T08:50:06Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

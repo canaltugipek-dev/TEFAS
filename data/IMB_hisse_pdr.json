@@ -1,6 +1,6 @@
 {
   "kod": "IMB",
-  "guncelleme": "2026-08-03T10:57:05Z",
+  "guncelleme": "2026-08-10T08:46:26Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/imb-istanbul-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,120 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 7.58
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 6.64
-    },
-    {
-      "ticker": "TCKRC",
-      "ad": "",
-      "agirlik": 5.32
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 4.99
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 4.77
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 4.38
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 4.29
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 4.24
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 4.22
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 4.12
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 4.1
-    },
-    {
-      "ticker": "KOTON",
-      "ad": "",
-      "agirlik": 4.03
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.0
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 3.6
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 3.44
-    },
-    {
-      "ticker": "PGSUS",
-      "ad": "",
-      "agirlik": 3.37
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 3.27
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 2.63
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 2.32
-    },
-    {
       "ticker": "GENIL",
       "ad": "",
-      "agirlik": 1.96
+      "agirlik": 2.05
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.05.2026 17:27:09",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdac75c618d6",
-  "kap_son_kontrol_iso": "2026-08-03T10:57:05Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 17:53:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd78e636c1ffe",
+  "kap_son_kontrol_iso": "2026-08-10T08:46:26Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "DAH",
-  "guncelleme": "2026-08-03T10:56:10Z",
+  "guncelleme": "2026-08-10T08:40:05Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dah-deniz-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,20 +12,25 @@
   ],
   "hisseler": [
     {
-      "ticker": "TCELL",
+      "ticker": "GARAN",
       "ad": "",
-      "agirlik": 4.46
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.67
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 2.55
+      "agirlik": 2.2
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 10:00:24",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e9124f33e5361",
-  "kap_son_kontrol_iso": "2026-08-03T10:56:10Z",
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.08.2026 10:19:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd09462da05e2",
+  "kap_son_kontrol_iso": "2026-08-10T08:40:05Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

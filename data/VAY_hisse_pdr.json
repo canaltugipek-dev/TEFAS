@@ -1,12 +1,191 @@
 {
   "kod": "VAY",
-  "guncelleme": "2026-08-03T11:17:44Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-10T09:12:13Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/vay-ak-portfoy-deger-odakli-100-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 9.6
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 8.07
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 7.86
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 7.51
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.76
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.58
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 4.15
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.19
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.37
+    },
+    {
+      "ticker": "YGGYO",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 1.8
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 1.55
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 1.5
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 1.12
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 0.89
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "PCILT",
+      "ad": "",
+      "agirlik": 0.63
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.59
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 0.56
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 0.55
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "PAGYO",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 0.41
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 0.37
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 0.29
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 14:11:37",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd6c220686f90",
+  "kap_son_kontrol_iso": "2026-08-10T09:12:13Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

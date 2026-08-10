@@ -1,12 +1,212 @@
 {
   "kod": "RBH",
-  "guncelleme": "2026-08-03T11:06:41Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-10T09:00:13Z",
+  "kaynak_tefas": true,
+  "unvan": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rbh-albaraka-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.28
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 8.3
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.11
+    },
+    {
+      "ticker": "ALBAR",
+      "ad": "",
+      "agirlik": 8.1
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 8.1
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 7.54
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 6.27
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 6.22
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 5.2
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.31
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.95
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "GULER",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 3.09
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.08
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.41
+    },
+    {
+      "ticker": "HAT",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "HATSN",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "MARGU",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "MAGEN",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "ALKIM",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "EGGUB",
+      "ad": "",
+      "agirlik": 0.83
+    },
+    {
+      "ticker": "PARSN",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 0.68
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 0.45
+    },
+    {
+      "ticker": "OBAMS",
+      "ad": "",
+      "agirlik": 0.18
+    },
+    {
+      "ticker": "ELITE",
+      "ad": "",
+      "agirlik": 0.12
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "38 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.08.2026 21:03:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd09c162462ac",
+  "kaynak_pdr_ocr": true,
+  "kap_son_kontrol_iso": "2026-08-10T09:00:13Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

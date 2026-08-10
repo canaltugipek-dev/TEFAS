@@ -1,6 +1,6 @@
 {
   "kod": "GMR",
-  "guncelleme": "2026-08-03T10:56:31Z",
+  "guncelleme": "2026-08-10T08:42:28Z",
   "kaynak_tefas": true,
   "unvan": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gmr-inveo-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,145 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "GESAN",
+      "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 6.08
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 5.86
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 5.86
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 5.8
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 5.39
-    },
-    {
-      "ticker": "ALGYO",
-      "ad": "",
-      "agirlik": 5.31
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 5.11
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 4.88
-    },
-    {
-      "ticker": "ALTNY",
-      "ad": "",
-      "agirlik": 4.79
-    },
-    {
-      "ticker": "HTTBT",
-      "ad": "",
-      "agirlik": 4.43
-    },
-    {
-      "ticker": "LOGO",
-      "ad": "",
-      "agirlik": 4.17
-    },
-    {
-      "ticker": "TSKB",
-      "ad": "",
-      "agirlik": 4.17
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 4.15
-    },
-    {
-      "ticker": "ISFIN",
-      "ad": "",
-      "agirlik": 3.74
-    },
-    {
-      "ticker": "DOAS",
-      "ad": "",
-      "agirlik": 3.29
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 3.15
-    },
-    {
-      "ticker": "OZKGY",
-      "ad": "",
-      "agirlik": 2.93
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 2.68
-    },
-    {
-      "ticker": "GRSEL",
-      "ad": "",
-      "agirlik": 2.58
-    },
-    {
-      "ticker": "VAKFN",
-      "ad": "",
-      "agirlik": 2.58
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 2.54
-    },
-    {
-      "ticker": "KATMR",
-      "ad": "",
-      "agirlik": 2.34
-    },
-    {
-      "ticker": "GOKNR",
-      "ad": "",
-      "agirlik": 2.17
-    },
-    {
-      "ticker": "INVEO",
-      "ad": "",
-      "agirlik": 1.83
-    },
-    {
-      "ticker": "ARMGD",
-      "ad": "",
-      "agirlik": 1.01
-    },
-    {
-      "ticker": "SUWEN",
-      "ad": "",
-      "agirlik": 0.97
-    },
-    {
-      "ticker": "BASGZ",
-      "ad": "",
-      "agirlik": 0.33
+      "agirlik": 0.72
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "27 hisse satırı okundu.",
-  "kap_rapor_tarihi": "11.05.2026 14:38:08",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e161b364672ac",
-  "kap_son_kontrol_iso": "2026-08-03T10:56:31Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 14:35:05",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd6b61061592f",
+  "kap_son_kontrol_iso": "2026-08-10T08:42:28Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

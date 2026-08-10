@@ -1,6 +1,6 @@
 {
   "kod": "BIO",
-  "guncelleme": "2026-07-06T11:51:38Z",
+  "guncelleme": "2026-08-10T08:39:46Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bio-is-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,20 +12,25 @@
   ],
   "hisseler": [
     {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 3.33
-    },
-    {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 3.18
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 1.65
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 1.11
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.07.2026 17:32:10",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f28523d45649f",
-  "kap_son_kontrol_iso": "2026-08-03T10:45:44Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.08.2026 16:20:57",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc019fcc6cca543b32",
+  "kap_son_kontrol_iso": "2026-08-10T08:39:46Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

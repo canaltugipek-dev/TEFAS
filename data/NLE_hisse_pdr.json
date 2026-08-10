@@ -1,6 +1,6 @@
 {
   "kod": "NLE",
-  "guncelleme": "2026-07-27T11:01:15Z",
+  "guncelleme": "2026-08-10T08:57:02Z",
   "kaynak_tefas": true,
   "unvan": "NUROL PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nle-nurol-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,119 +14,109 @@
     {
       "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 17.9
+      "agirlik": 17.7
     },
     {
-      "ticker": "TRGYO",
+      "ticker": "SNGYO",
       "ad": "",
-      "agirlik": 15.39
-    },
-    {
-      "ticker": "AKSGY",
-      "ad": "",
-      "agirlik": 10.9
-    },
-    {
-      "ticker": "RYGYO",
-      "ad": "",
-      "agirlik": 10.86
-    },
-    {
-      "ticker": "EDIP",
-      "ad": "",
-      "agirlik": 5.25
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 5.25
-    },
-    {
-      "ticker": "ISGYO",
-      "ad": "",
-      "agirlik": 3.13
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 3.01
-    },
-    {
-      "ticker": "VKGYO",
-      "ad": "",
-      "agirlik": 2.47
-    },
-    {
-      "ticker": "TREMR",
-      "ad": "",
-      "agirlik": 1.95
+      "agirlik": 15.1
     },
     {
       "ticker": "AKFGY",
       "ad": "",
-      "agirlik": 1.93
+      "agirlik": 13.69
     },
     {
-      "ticker": "PSGYO",
+      "ticker": "RYGYO",
       "ad": "",
-      "agirlik": 1.86
-    },
-    {
-      "ticker": "KGYO",
-      "ad": "",
-      "agirlik": 1.78
-    },
-    {
-      "ticker": "ASGYO",
-      "ad": "",
-      "agirlik": 1.65
-    },
-    {
-      "ticker": "FZLGY",
-      "ad": "",
-      "agirlik": 1.34
+      "agirlik": 11.13
     },
     {
       "ticker": "HLGYO",
       "ad": "",
-      "agirlik": 1.34
+      "agirlik": 4.46
     },
     {
-      "ticker": "KZBGY",
+      "ticker": "ISGYO",
       "ad": "",
-      "agirlik": 1.17
+      "agirlik": 4.46
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 2.8
+    },
+    {
+      "ticker": "VKGYO",
+      "ad": "",
+      "agirlik": 2.23
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "KGYO",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "ASGYO",
+      "ad": "",
+      "agirlik": 1.6
     },
     {
       "ticker": "DAPGM",
       "ad": "",
-      "agirlik": 0.96
+      "agirlik": 0.94
     },
     {
-      "ticker": "SRVGY",
+      "ticker": "EDIP",
       "ad": "",
-      "agirlik": 0.87
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "FZLGY",
+      "ad": "",
+      "agirlik": 0.88
     },
     {
       "ticker": "PAGYO",
       "ad": "",
-      "agirlik": 0.56
+      "agirlik": 0.68
     },
     {
-      "ticker": "VRGYO",
+      "ticker": "KZBGY",
       "ad": "",
-      "agirlik": 0.33
+      "agirlik": 0.62
+    },
+    {
+      "ticker": "KZGYO",
+      "ad": "",
+      "agirlik": 0.45
     },
     {
       "ticker": "MRGYO",
       "ad": "",
-      "agirlik": 0.26
+      "agirlik": 0.25
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "22 hisse satırı okundu.",
-  "kap_rapor_tarihi": "13.07.2026 10:41:15",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019f5a6bde32099a",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 13:39:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd5daf7a35de8",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-08-03T10:47:03Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_son_kontrol_iso": "2026-08-10T08:57:02Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

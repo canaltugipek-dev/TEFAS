@@ -1,6 +1,6 @@
 {
   "kod": "AEV",
-  "guncelleme": "2026-08-03T10:56:05Z",
+  "guncelleme": "2026-08-10T08:37:01Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY SANAYİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/aev-allbatross-portfoy-sanayi-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,112 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 9.25
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 7.02
-    },
-    {
-      "ticker": "EUPWR",
-      "ad": "",
-      "agirlik": 5.69
-    },
-    {
-      "ticker": "TATGD",
-      "ad": "",
-      "agirlik": 5.32
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 5.23
-    },
-    {
-      "ticker": "GIPTA",
-      "ad": "",
-      "agirlik": 5.18
-    },
-    {
-      "ticker": "TBORG",
-      "ad": "",
-      "agirlik": 4.95
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 4.84
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.55
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 4.49
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 4.44
-    },
-    {
-      "ticker": "ARCLK",
-      "ad": "",
-      "agirlik": 4.42
-    },
-    {
-      "ticker": "TTRAK",
-      "ad": "",
-      "agirlik": 4.38
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.36
-    },
-    {
-      "ticker": "KLSER",
-      "ad": "",
-      "agirlik": 4.17
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 4.15
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 4.08
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 4.03
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 3.52
-    },
-    {
-      "ticker": "YYLGD",
-      "ad": "",
-      "agirlik": 3.45
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.05.2026 09:53:53",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df868349c5a69",
-  "kap_son_kontrol_iso": "2026-08-03T10:56:05Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
+  "kap_rapor_tarihi": null
 }

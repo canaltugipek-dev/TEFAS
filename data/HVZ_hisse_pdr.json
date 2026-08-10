@@ -1,6 +1,6 @@
 {
   "kod": "HVZ",
-  "guncelleme": "2026-08-03T10:56:58Z",
+  "guncelleme": "2026-08-10T08:44:20Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvz-allbatross-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 4.54
+      "agirlik": 4.86
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.06.2026 10:05:54",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9e276fa9019e879b2b38126b",
-  "kap_son_kontrol_iso": "2026-08-03T10:56:58Z",
+  "kap_rapor_tarihi": "03.08.2026 17:53:47",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fc7d1fb2b24b3",
+  "kap_son_kontrol_iso": "2026-08-10T08:44:20Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

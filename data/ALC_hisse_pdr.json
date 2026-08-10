@@ -1,6 +1,6 @@
 {
   "kod": "ALC",
-  "guncelleme": "2026-07-06T11:51:14Z",
+  "guncelleme": "2026-08-10T08:38:18Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/alc-ak-portfoy-kar-payi-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,142 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 9.74
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.86
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 8.6
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 5.48
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.91
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 4.8
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.5
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 4.3
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 4.12
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 4.08
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 3.77
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 3.69
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 3.43
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.13
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.83
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 2.79
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 2.78
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 2.31
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 2.01
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 1.38
-    },
-    {
-      "ticker": "BASGZ",
-      "ad": "",
-      "agirlik": 1.35
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 1.23
-    },
-    {
-      "ticker": "AYGAZ",
-      "ad": "",
-      "agirlik": 1.19
-    },
-    {
-      "ticker": "ARDYZ",
-      "ad": "",
-      "agirlik": 0.5
-    },
-    {
-      "ticker": "BETAE",
-      "ad": "",
-      "agirlik": 0.06
-    },
-    {
-      "ticker": "APBDL",
-      "ad": "",
-      "agirlik": 0.01
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.07.2026 17:22:26",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f2323017c3a43",
-  "kap_son_kontrol_iso": "2026-08-03T10:45:35Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
+  "kap_rapor_tarihi": null
 }

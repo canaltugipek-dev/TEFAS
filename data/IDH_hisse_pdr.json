@@ -1,6 +1,6 @@
 {
   "kod": "IDH",
-  "guncelleme": "2026-07-06T11:56:28Z",
+  "guncelleme": "2026-08-10T08:45:54Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idh-is-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,23 +14,18 @@
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 4.72
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 2.41
+      "agirlik": 5.02
     },
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 2.14
+      "agirlik": 5.0
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "3 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.07.2026 14:15:42",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085a019f2789d3495361",
-  "kap_son_kontrol_iso": "2026-08-03T10:46:30Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.08.2026 17:01:52",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd1acdc721c5c",
+  "kap_son_kontrol_iso": "2026-08-10T08:45:54Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

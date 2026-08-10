@@ -1,6 +1,6 @@
 {
   "kod": "BDS",
-  "guncelleme": "2026-07-06T11:51:22Z",
+  "guncelleme": "2026-08-10T08:39:22Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bds-pardus-portfoy-bist-30-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,18 @@
     {
       "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 0.58
+      "agirlik": 0.72
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 0.54
+      "agirlik": 0.62
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.07.2026 18:17:25",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085b019f22b2b48f278a",
-  "kap_son_kontrol_iso": "2026-08-03T10:45:38Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "04.08.2026 18:19:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fcd08d55c2ca0",
+  "kap_son_kontrol_iso": "2026-08-10T08:39:22Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

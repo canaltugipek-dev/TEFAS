@@ -1,6 +1,6 @@
 {
   "kod": "OMG",
-  "guncelleme": "2026-08-03T11:01:27Z",
+  "guncelleme": "2026-08-10T08:58:14Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/omg-azimut-portfoy-ikinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 3.0
+      "agirlik": 5.22
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 18:11:03",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e97247f5e1a60",
-  "kap_son_kontrol_iso": "2026-08-03T11:01:27Z",
+  "kap_rapor_tarihi": "07.08.2026 18:04:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fdc9cfc4e77be",
+  "kap_son_kontrol_iso": "2026-08-10T08:58:14Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
