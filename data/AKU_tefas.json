@@ -2,34 +2,14 @@
   "fon_kodu": "AKU",
   "fon_unvan": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-08-15",
-  "bitis": "2026-08-14",
+  "baslangic": "2021-08-18",
+  "bitis": "2026-08-17",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 1257,
-  "gun_kapsami": 1824,
+  "kayit_sayisi": 1256,
+  "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1629072000000",
-      "FONKODU": "AKU",
-      "FONUNVAN": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.088362,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
-    {
-      "TARIH": "1629158400000",
-      "FONKODU": "AKU",
-      "FONUNVAN": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.088818,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1629244800000",
       "FONKODU": "AKU",
@@ -12572,6 +12552,16 @@
     },
     {
       "TARIH": "1786665600000",
+      "FONKODU": "AKU",
+      "FONUNVAN": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.949702,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1786924800000",
       "FONKODU": "AKU",
       "FONUNVAN": "AK PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.949702,
