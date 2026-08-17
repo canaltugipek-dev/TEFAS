@@ -1,17 +1,26 @@
 {
   "kod": "ICF",
-  "guncelleme": "2026-08-10T08:44:24Z",
+  "guncelleme": "2026-08-17T08:11:20Z",
   "kaynak_tefas": true,
   "unvan": "TEB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icf-icbc-turkey-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icf-teb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.11
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.08.2026 18:16:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fcd572f415762",
+  "kap_son_kontrol_iso": "2026-08-17T08:11:20Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

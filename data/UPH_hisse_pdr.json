@@ -1,6 +1,6 @@
 {
   "kod": "UPH",
-  "guncelleme": "2026-08-10T09:12:08Z",
+  "guncelleme": "2026-08-17T08:22:48Z",
   "kaynak_tefas": true,
   "unvan": "ÜNLÜ PORTFÖY HİSSE SENEDİ (TL) FONU(HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/uph-unlu-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,133 +14,123 @@
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 6.5
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 6.14
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 5.24
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 4.83
+      "agirlik": 7.38
     },
     {
       "ticker": "GARAN",
       "ad": "",
-      "agirlik": 4.42
+      "agirlik": 7.0
     },
     {
-      "ticker": "SAHOL",
+      "ticker": "ASELS",
       "ad": "",
-      "agirlik": 4.34
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.11
+      "agirlik": 6.47
     },
     {
       "ticker": "THYAO",
       "ad": "",
-      "agirlik": 4.06
+      "agirlik": 5.94
     },
     {
       "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 4.05
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 3.95
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.82
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.57
+      "agirlik": 5.58
     },
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 3.44
+      "agirlik": 4.84
     },
     {
-      "ticker": "FROTO",
+      "ticker": "AEFES",
       "ad": "",
-      "agirlik": 3.01
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.14
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.78
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 3.72
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.54
     },
     {
       "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 3.01
+      "agirlik": 3.08
     },
     {
       "ticker": "MGROS",
       "ad": "",
-      "agirlik": 2.98
+      "agirlik": 2.96
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.06
     },
     {
       "ticker": "EKGYO",
       "ad": "",
-      "agirlik": 2.21
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 2.19
+      "agirlik": 2.03
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 1.93
+      "agirlik": 1.96
     },
     {
-      "ticker": "SISE",
+      "ticker": "TTKOM",
       "ad": "",
-      "agirlik": 1.58
+      "agirlik": 1.93
     },
     {
       "ticker": "CCOLA",
       "ad": "",
-      "agirlik": 1.48
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 1.46
+      "agirlik": 1.72
     },
     {
       "ticker": "OYAKC",
       "ad": "",
-      "agirlik": 1.46
+      "agirlik": 1.54
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.51
     },
     {
       "ticker": "TSKB",
       "ad": "",
-      "agirlik": 1.27
-    },
-    {
-      "ticker": "BETAE",
-      "ad": "",
-      "agirlik": 0.14
+      "agirlik": 1.24
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "25 hisse satırı okundu.",
-  "kap_rapor_tarihi": "09.07.2026 14:36:48",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f41594dde5a64",
-  "kap_son_kontrol_iso": "2026-08-10T09:12:08Z",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 17:44:58",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fec1eb6287688",
+  "kap_son_kontrol_iso": "2026-08-17T08:22:48Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

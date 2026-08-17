@@ -1,12 +1,111 @@
 {
   "kod": "RPI",
-  "guncelleme": "2026-08-10T09:02:09Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:17:15Z",
+  "kaynak_tefas": true,
+  "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 8.63
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.45
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 6.2
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 5.54
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 4.2
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.12
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 4.09
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.05
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 3.9
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 3.89
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 3.75
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.45
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.06
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 3.01
+    },
+    {
+      "ticker": "KOTON",
+      "ad": "",
+      "agirlik": 2.47
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "18 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 09:55:59",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fdc7e16a94c13",
+  "kap_son_kontrol_iso": "2026-08-17T08:17:15Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

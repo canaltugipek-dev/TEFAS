@@ -1,12 +1,136 @@
 {
   "kod": "YPR",
-  "guncelleme": "2026-08-10T09:17:24Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:23:51Z",
+  "kaynak_tefas": true,
+  "unvan": "AZİMUT PORTFÖY YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ypr-azimut-portfoy-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 6.11
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 5.67
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 5.52
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 5.45
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.07
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 4.76
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 4.6
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.26
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.04
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.02
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.85
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 3.71
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 2.08
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.72
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.05.2026 18:09:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01ffae3c4736",
+  "kap_son_kontrol_iso": "2026-08-17T08:23:51Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

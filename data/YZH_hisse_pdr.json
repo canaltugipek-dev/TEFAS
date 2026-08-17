@@ -1,12 +1,31 @@
 {
   "kod": "YZH",
-  "guncelleme": "2026-08-10T09:18:02Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:23:54Z",
+  "kaynak_tefas": true,
+  "unvan": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yzh-teb-portfoy-bist-banka-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 29.34
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 1.62
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.08.2026 16:09:34",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019fdb77440d1da0",
+  "kap_son_kontrol_iso": "2026-08-17T08:23:54Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

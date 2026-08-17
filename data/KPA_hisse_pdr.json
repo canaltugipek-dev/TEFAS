@@ -1,6 +1,6 @@
 {
   "kod": "KPA",
-  "guncelleme": "2026-07-13T10:48:53Z",
+  "guncelleme": "2026-08-17T08:12:08Z",
   "kaynak_tefas": true,
   "unvan": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpa-kuveyt-turk-portfoy-kar-payi-odeyen-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,140 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 9.07
-    },
-    {
-      "ticker": "KTLEV",
-      "ad": "",
-      "agirlik": 8.65
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 6.12
-    },
-    {
-      "ticker": "NTGAZ",
-      "ad": "",
-      "agirlik": 4.97
-    },
-    {
-      "ticker": "GRSEL",
-      "ad": "",
-      "agirlik": 4.66
-    },
-    {
-      "ticker": "MERCN",
-      "ad": "",
-      "agirlik": 4.33
-    },
-    {
-      "ticker": "ARASE",
-      "ad": "",
-      "agirlik": 4.05
-    },
-    {
-      "ticker": "BASGZ",
-      "ad": "",
-      "agirlik": 3.91
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 3.86
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 3.79
-    },
-    {
-      "ticker": "LOGO",
-      "ad": "",
-      "agirlik": 3.72
-    },
-    {
-      "ticker": "ARDYZ",
-      "ad": "",
-      "agirlik": 3.36
-    },
-    {
-      "ticker": "SELEC",
-      "ad": "",
-      "agirlik": 3.2
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 3.12
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 3.01
-    },
-    {
-      "ticker": "EGGUB",
-      "ad": "",
-      "agirlik": 2.91
-    },
-    {
-      "ticker": "SARKY",
-      "ad": "",
-      "agirlik": 2.47
-    },
-    {
-      "ticker": "BRISA",
-      "ad": "",
-      "agirlik": 2.37
-    },
-    {
-      "ticker": "GENIL",
-      "ad": "",
-      "agirlik": 2.06
-    },
-    {
       "ticker": "EUPWR",
       "ad": "",
-      "agirlik": 1.8
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 1.8
-    },
-    {
-      "ticker": "PAGYO",
-      "ad": "",
-      "agirlik": 1.53
-    },
-    {
-      "ticker": "LKMNH",
-      "ad": "",
-      "agirlik": 1.36
-    },
-    {
-      "ticker": "EGPRO",
-      "ad": "",
       "agirlik": 1.28
-    },
-    {
-      "ticker": "YUNSA",
-      "ad": "",
-      "agirlik": 1.24
-    },
-    {
-      "ticker": "ELITE",
-      "ad": "",
-      "agirlik": 1.11
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.07.2026 16:36:25",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f41d0cdf06fcc",
-  "kap_son_kontrol_iso": "2026-08-10T08:29:43Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 15:27:27",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019feabe48364b84",
+  "kap_son_kontrol_iso": "2026-08-17T08:12:08Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

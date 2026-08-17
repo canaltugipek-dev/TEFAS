@@ -1,12 +1,141 @@
 {
   "kod": "KVT",
-  "guncelleme": "2026-08-10T08:52:38Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:14:30Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kvt-ak-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AHGAZ",
+      "ad": "",
+      "agirlik": 10.59
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 8.12
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 6.72
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 5.84
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.01
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 4.4
+    },
+    {
+      "ticker": "SMRTG",
+      "ad": "",
+      "agirlik": 4.23
+    },
+    {
+      "ticker": "TATEN",
+      "ad": "",
+      "agirlik": 4.06
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 3.87
+    },
+    {
+      "ticker": "ENERY",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 3.61
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.54
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 3.52
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 3.49
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 3.43
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.35
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 3.2
+    },
+    {
+      "ticker": "CATES",
+      "ad": "",
+      "agirlik": 2.88
+    },
+    {
+      "ticker": "ALFAS",
+      "ad": "",
+      "agirlik": 2.45
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 0.8
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.06.2026 12:07:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a0019e8cad3ba2257a",
+  "kap_son_kontrol_iso": "2026-08-17T08:14:30Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

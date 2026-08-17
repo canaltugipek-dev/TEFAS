@@ -1,12 +1,136 @@
 {
   "kod": "ZHH",
-  "guncelleme": "2026-08-10T09:18:40Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:23:58Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY HALKBANK SÜRDÜRÜLEBİLİRLİK 30 ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zhh-ziraat-portfoy-halkbank-surdurulebilirlik-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 9.835
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 8.2344
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 7.5897
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 6.9344
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 5.746
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 4.7811
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.7062
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.6731
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 4.6619
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 4.6549
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.4287
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 3.7799
+    },
+    {
+      "ticker": "KARCL",
+      "ad": "",
+      "agirlik": 3.5844
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.1681
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.0831
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 2.7432
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 2.577
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.3635
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 2.0979
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.0793
+    },
+    {
+      "ticker": "VESTL",
+      "ad": "",
+      "agirlik": 0.8394
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 0.5966
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 0.2579
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "23 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 09:36:52",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019fea5ec3dd0b32",
+  "kap_son_kontrol_iso": "2026-08-17T08:23:58Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

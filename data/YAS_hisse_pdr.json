@@ -1,12 +1,71 @@
 {
   "kod": "YAS",
-  "guncelleme": "2026-08-10T09:12:52Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:22:55Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yas-yapi-kredi-portfoy-koc-holding-istirak-ve-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 9.93
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 9.92
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 9.84
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 9.8
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.74
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 9.68
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 9.43
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 8.88
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 8.62
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.27
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "10 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 14:36:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fead1ad5b4f65",
+  "kap_son_kontrol_iso": "2026-08-17T08:22:55Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,12 +1,96 @@
 {
   "kod": "PGS",
-  "guncelleme": "2026-08-10T08:58:55Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:16:47Z",
+  "kaynak_tefas": true,
+  "unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pgs-azimut-portfoy-pay-geri-alimi-yapan-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 9.62
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 9.48
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 9.24
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 7.76
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 5.05
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 4.87
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.8
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 4.79
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 4.57
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 4.49
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 4.22
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "15 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.05.2026 18:09:53",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e01fb4e38462c",
+  "kap_son_kontrol_iso": "2026-08-17T08:16:47Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

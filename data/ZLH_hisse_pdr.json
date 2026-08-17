@@ -1,12 +1,151 @@
 {
   "kod": "ZLH",
-  "guncelleme": "2026-08-10T09:20:34Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:24:36Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zlh-ziraat-portfoy-bist-100-30-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 8.0046
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 6.4296
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 5.5664
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 5.5238
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.7714
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 4.7035
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 4.6369
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.5572
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 4.1946
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 3.7611
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 3.3485
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.3232
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 3.1614
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.9466
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 2.87
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 2.7416
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 2.3978
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.3931
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 2.3916
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 2.3527
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 2.2451
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 1.5973
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 1.2484
+    },
+    {
+      "ticker": "ZRGYO",
+      "ad": "",
+      "agirlik": 1.1223
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 1.107
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 0.8759
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 09:52:11",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019fea6cab680e6f",
+  "kap_son_kontrol_iso": "2026-08-17T08:24:36Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

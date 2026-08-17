@@ -1,6 +1,6 @@
 {
   "kod": "OHK",
-  "guncelleme": "2026-08-10T08:58:09Z",
+  "guncelleme": "2026-08-17T08:16:19Z",
   "kaynak_tefas": true,
   "unvan": "OYAK PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohk-oyak-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,113 +14,108 @@
     {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 9.04
+      "agirlik": 9.87
     },
     {
       "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 8.34
+      "agirlik": 9.2
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 6.18
+      "agirlik": 6.9
     },
     {
       "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 4.69
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 4.04
+      "agirlik": 5.26
     },
     {
       "ticker": "EREGL",
       "ad": "",
-      "agirlik": 3.96
-    },
-    {
-      "ticker": "PETKM",
-      "ad": "",
-      "agirlik": 3.74
+      "agirlik": 4.68
     },
     {
       "ticker": "MPARK",
       "ad": "",
-      "agirlik": 3.5
+      "agirlik": 4.45
     },
     {
-      "ticker": "CIMSA",
+      "ticker": "GLRMK",
       "ad": "",
-      "agirlik": 3.3
+      "agirlik": 4.11
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.94
     },
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 3.09
+      "agirlik": 3.69
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.53
     },
     {
       "ticker": "KMPUR",
       "ad": "",
-      "agirlik": 2.81
-    },
-    {
-      "ticker": "OBAMS",
-      "ad": "",
-      "agirlik": 2.53
+      "agirlik": 3.32
     },
     {
       "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 2.21
-    },
-    {
-      "ticker": "DYOBY",
-      "ad": "",
-      "agirlik": 1.91
+      "agirlik": 2.94
     },
     {
       "ticker": "LOGO",
       "ad": "",
-      "agirlik": 1.79
+      "agirlik": 2.24
     },
     {
-      "ticker": "ALBRK",
+      "ticker": "GRSEL",
       "ad": "",
-      "agirlik": 1.78
+      "agirlik": 1.96
     },
     {
-      "ticker": "KRDMA",
+      "ticker": "DYOBY",
       "ad": "",
-      "agirlik": 1.77
+      "agirlik": 1.95
     },
     {
       "ticker": "NETAS",
       "ad": "",
-      "agirlik": 1.67
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.45
     },
     {
       "ticker": "AVPGY",
       "ad": "",
-      "agirlik": 1.09
+      "agirlik": 1.14
     },
     {
-      "ticker": "BETAE",
+      "ticker": "KRDMD",
       "ad": "",
-      "agirlik": 0.65
+      "agirlik": 0.76
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "21 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.07.2026 22:50:04",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a0859019f3da0893f3b00",
-  "kap_son_kontrol_iso": "2026-08-10T08:58:09Z",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 20:08:01",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fec8d68614848",
+  "kap_son_kontrol_iso": "2026-08-17T08:16:19Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

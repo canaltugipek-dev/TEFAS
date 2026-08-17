@@ -1,12 +1,146 @@
 {
   "kod": "ZPE",
-  "guncelleme": "2026-08-10T09:21:12Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-17T08:24:40Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zpe-ziraat-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.988
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 7.1471
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 6.0021
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 5.8149
+    },
+    {
+      "ticker": "SELEC",
+      "ad": "",
+      "agirlik": 5.3194
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.9578
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.4904
+    },
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 4.3359
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.1001
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.7336
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.5401
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.4604
+    },
+    {
+      "ticker": "SUWEN",
+      "ad": "",
+      "agirlik": 2.6441
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 2.2596
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.1965
+    },
+    {
+      "ticker": "SUNTK",
+      "ad": "",
+      "agirlik": 2.0601
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 1.9225
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 1.7837
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 1.3598
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 0.992
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.6608
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 0.6293
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 0.2489
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 0.1065
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 0.1063
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "25 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 09:52:11",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019fea6cb6290eb7",
+  "kap_son_kontrol_iso": "2026-08-17T08:24:40Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

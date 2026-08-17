@@ -1,17 +1,36 @@
 {
   "kod": "IFN",
-  "guncelleme": "2026-08-10T08:46:04Z",
+  "guncelleme": "2026-08-17T08:11:39Z",
   "kaynak_tefas": true,
   "unvan": "TEB PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ifn-icbc-turkey-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ifn-teb-portfoy-surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
   "varlik_dagilimi": [
     {
       "tip": "Hisse Senedi",
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "BIOEN",
+      "ad": "",
+      "agirlik": 0.17
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.08.2026 18:16:13",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fcd5731995780",
+  "kap_son_kontrol_iso": "2026-08-17T08:11:39Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

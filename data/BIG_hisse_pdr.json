@@ -1,6 +1,6 @@
 {
   "kod": "BIG",
-  "guncelleme": "2026-07-13T10:41:43Z",
+  "guncelleme": "2026-08-17T08:06:43Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/big-yapi-kredi-portfoy-ucuncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,142 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 9.39
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 8.7
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 5.25
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 5.04
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 4.81
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.76
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 4.7
-    },
-    {
-      "ticker": "FROTO",
-      "ad": "",
-      "agirlik": 4.53
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 4.41
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 4.25
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.06
-    },
-    {
-      "ticker": "TKNSA",
-      "ad": "",
-      "agirlik": 3.7
-    },
-    {
-      "ticker": "GSDHO",
-      "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 3.64
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.58
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 3.31
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 3.16
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 2.84
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 2.79
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 2.26
-    },
-    {
-      "ticker": "EUPWR",
-      "ad": "",
-      "agirlik": 2.04
-    },
-    {
-      "ticker": "GESAN",
-      "ad": "",
-      "agirlik": 1.7
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 0.98
-    },
-    {
-      "ticker": "ISGYO",
-      "ad": "",
-      "agirlik": 0.79
-    },
-    {
-      "ticker": "AKGRT",
-      "ad": "",
-      "agirlik": 0.38
-    },
-    {
-      "ticker": "ENTRA",
-      "ad": "",
-      "agirlik": 0.27
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.07.2026 14:21:14",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a59019f378630853666",
-  "kap_son_kontrol_iso": "2026-08-10T08:28:39Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
+  "kap_rapor_tarihi": null
 }
