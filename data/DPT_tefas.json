@@ -2,24 +2,14 @@
   "fon_kodu": "DPT",
   "fon_unvan": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
   "fontip": "YAT",
-  "baslangic": "2021-08-19",
-  "bitis": "2026-08-18",
+  "baslangic": "2021-08-20",
+  "bitis": "2026-08-19",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1256,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1629331200000",
-      "FONKODU": "DPT",
-      "FONUNVAN": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
-      "FIYAT": 1.901595,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1629417600000",
       "FONKODU": "DPT",
@@ -12565,6 +12555,16 @@
       "FONKODU": "DPT",
       "FONUNVAN": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
       "FIYAT": 17.514878,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1787097600000",
+      "FONKODU": "DPT",
+      "FONUNVAN": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+      "FIYAT": 17.740425,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
