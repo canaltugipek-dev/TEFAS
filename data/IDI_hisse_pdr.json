@@ -1,56 +1,12 @@
 {
   "kod": "IDI",
-  "guncelleme": "2026-08-17T08:11:35Z",
-  "kaynak_tefas": true,
-  "unvan": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idi-azimut-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 17.98
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 16.39
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 10.02
-    },
-    {
-      "ticker": "OZKGY",
-      "ad": "",
-      "agirlik": 7.52
-    },
-    {
-      "ticker": "KLKIM",
-      "ad": "",
-      "agirlik": 7.27
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 6.78
-    },
-    {
-      "ticker": "AAGYO",
-      "ad": "",
-      "agirlik": 4.6
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "7 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.07.2026 14:40:37",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f0a0a58019f4186d5fa099b",
-  "kap_son_kontrol_iso": "2026-08-17T08:11:35Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-24T08:14:37Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

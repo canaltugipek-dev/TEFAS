@@ -1,6 +1,6 @@
 {
   "kod": "ACC",
-  "guncelleme": "2026-08-17T08:04:06Z",
+  "guncelleme": "2026-08-24T08:10:23Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,17 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.52
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 18:47:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd7c0919576c6",
+  "kap_son_kontrol_iso": "2026-08-24T08:10:23Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

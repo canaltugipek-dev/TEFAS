@@ -1,12 +1,216 @@
 {
   "kod": "ZJV",
-  "guncelleme": "2026-08-17T08:24:32Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-24T08:36:09Z",
+  "kaynak_tefas": true,
+  "unvan": "ZİRAAT PORTFÖY BIST 30 DIŞI YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/zjv-ziraat-portfoy-bist-30-disi-yildiz-pazar-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "GRSEL",
+      "ad": "",
+      "agirlik": 6.6322
+    },
+    {
+      "ticker": "KRDMA",
+      "ad": "",
+      "agirlik": 4.7109
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 4.603
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 4.5582
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 4.485
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.0365
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.9562
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 3.9003
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 3.667
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 3.5004
+    },
+    {
+      "ticker": "GLCVY",
+      "ad": "",
+      "agirlik": 3.4681
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 3.4385
+    },
+    {
+      "ticker": "SNGYO",
+      "ad": "",
+      "agirlik": 2.9314
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 2.4574
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 2.3582
+    },
+    {
+      "ticker": "ISFIN",
+      "ad": "",
+      "agirlik": 2.3257
+    },
+    {
+      "ticker": "KLGYO",
+      "ad": "",
+      "agirlik": 2.1864
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.1526
+    },
+    {
+      "ticker": "VAKFN",
+      "ad": "",
+      "agirlik": 1.9815
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 1.7945
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.7809
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 1.7422
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 1.7093
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 1.6891
+    },
+    {
+      "ticker": "LMKDC",
+      "ad": "",
+      "agirlik": 1.6648
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 1.5581
+    },
+    {
+      "ticker": "CANTE",
+      "ad": "",
+      "agirlik": 1.5088
+    },
+    {
+      "ticker": "TRMET",
+      "ad": "",
+      "agirlik": 1.4317
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 1.2637
+    },
+    {
+      "ticker": "HRKET",
+      "ad": "",
+      "agirlik": 1.2173
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 1.125
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 1.0759
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 1.0705
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 0.698
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 0.6323
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 0.4342
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 0.2982
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 0.1564
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "39 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 09:52:11",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019fea6ca9b50e65",
+  "kap_son_kontrol_iso": "2026-08-24T08:36:09Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

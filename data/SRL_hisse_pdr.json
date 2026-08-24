@@ -1,31 +1,12 @@
 {
   "kod": "SRL",
-  "guncelleme": "2026-08-17T08:19:33Z",
-  "kaynak_tefas": true,
-  "unvan": "PARDUS PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/srl-pardus-portfoy-surdurulebilirlik-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 3.04
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 0.92
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.07.2026 18:17:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085b019f22b2b94727f8",
-  "kap_son_kontrol_iso": "2026-08-17T08:19:33Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-08-24T08:23:14Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

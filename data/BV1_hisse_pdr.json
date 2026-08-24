@@ -1,6 +1,6 @@
 {
   "kod": "BV1",
-  "guncelleme": "2026-08-17T08:07:01Z",
+  "guncelleme": "2026-08-24T08:11:20Z",
   "kaynak_tefas": true,
   "unvan": "BV PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bv1-bv-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,22 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 3.23
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 1.03
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.07.2026 18:06:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085a019f2738f15c4f16",
+  "kap_son_kontrol_iso": "2026-08-24T08:11:20Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

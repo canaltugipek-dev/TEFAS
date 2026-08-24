@@ -1,6 +1,6 @@
 {
   "kod": "ADP",
-  "guncelleme": "2026-08-17T08:04:23Z",
+  "guncelleme": "2026-08-24T08:10:29Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/adp-ak-portfoy-bist-banka-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,72 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 25.11
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 19.68
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 17.62
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 13.23
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "APLIB",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "ZPLIB",
+      "ad": "",
+      "agirlik": 2.72
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 2.18
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.37
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "ICBCT",
+      "ad": "",
+      "agirlik": 0.16
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "12 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 09:16:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd289cd1f08b6",
+  "kap_son_kontrol_iso": "2026-08-24T08:10:29Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

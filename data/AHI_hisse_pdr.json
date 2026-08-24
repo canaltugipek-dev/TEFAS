@@ -1,6 +1,6 @@
 {
   "kod": "AHI",
-  "guncelleme": "2026-08-17T08:04:57Z",
+  "guncelleme": "2026-08-24T08:10:39Z",
   "kaynak_tefas": true,
   "unvan": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ahi-atlas-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,142 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 7.94
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 7.4
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 6.49
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 6.22
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 5.09
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 5.02
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.89
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.85
+    },
+    {
+      "ticker": "TRALT",
+      "ad": "",
+      "agirlik": 4.58
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.78
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.47
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.08
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.04
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 2.73
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 2.55
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 2.27
+    },
+    {
+      "ticker": "KLKIM",
+      "ad": "",
+      "agirlik": 1.97
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 0.69
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 0.13
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "26 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 10:35:20",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd631bee0314e",
+  "kap_son_kontrol_iso": "2026-08-24T08:10:39Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

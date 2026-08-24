@@ -1,6 +1,6 @@
 {
   "kod": "FYD",
-  "guncelleme": "2026-08-17T08:07:37Z",
+  "guncelleme": "2026-08-24T08:11:45Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fyd-qnb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,22 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "SOKM",
+      "ad": "",
+      "agirlik": 2.96
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 15:43:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019feb7bd06633af",
+  "kap_son_kontrol_iso": "2026-08-24T08:11:45Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

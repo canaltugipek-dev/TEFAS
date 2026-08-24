@@ -1,6 +1,6 @@
 {
   "kod": "AK3",
-  "guncelleme": "2026-08-17T08:05:15Z",
+  "guncelleme": "2026-08-24T08:10:49Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ak3-ak-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,147 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.77
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.53
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 5.27
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 5.04
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 4.98
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.97
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.92
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 4.58
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 4.54
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.43
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.2
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.1
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.09
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.08
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 3.19
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 0.88
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 0.03
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 0.02
+    },
+    {
+      "ticker": "APLIB",
+      "ad": "",
+      "agirlik": 0.02
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 0.01
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 0.01
+    },
+    {
+      "ticker": "APBDL",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "27 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.08.2026 09:37:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd5bda75f25a6",
+  "kap_son_kontrol_iso": "2026-08-24T08:10:49Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
