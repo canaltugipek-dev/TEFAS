@@ -2,24 +2,14 @@
   "fon_kodu": "EID",
   "fon_unvan": "ASTRA PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-08-25",
-  "bitis": "2026-08-24",
+  "baslangic": "2021-08-26",
+  "bitis": "2026-08-25",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1256,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1629849600000",
-      "FONKODU": "EID",
-      "FONUNVAN": "ASTRA PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
-      "FIYAT": 0.135637,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1629936000000",
       "FONKODU": "EID",
@@ -12565,6 +12555,16 @@
       "FONKODU": "EID",
       "FONUNVAN": "ASTRA PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
       "FIYAT": 1.989731,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1787616000000",
+      "FONKODU": "EID",
+      "FONUNVAN": "ASTRA PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
+      "FIYAT": 1.993583,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
