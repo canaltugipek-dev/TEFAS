@@ -2,24 +2,14 @@
   "fon_kodu": "FYD",
   "fon_unvan": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-08-26",
-  "bitis": "2026-08-25",
+  "baslangic": "2021-08-27",
+  "bitis": "2026-08-26",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1256,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1629936000000",
-      "FONKODU": "FYD",
-      "FONUNVAN": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.841405,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1630022400000",
       "FONKODU": "FYD",
@@ -12565,6 +12555,16 @@
       "FONKODU": "FYD",
       "FONUNVAN": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 11.935295,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1787702400000",
+      "FONKODU": "FYD",
+      "FONUNVAN": "QNB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 11.860484,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
