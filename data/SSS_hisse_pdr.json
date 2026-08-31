@@ -1,12 +1,106 @@
 {
   "kod": "SSS",
-  "guncelleme": "2026-08-24T08:23:49Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-31T15:17:43Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 17.52
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 16.52
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 13.43
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 12.79
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 9.74
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 5.9
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 3.9
+    },
+    {
+      "ticker": "BERA",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 1.31
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 1.18
+    },
+    {
+      "ticker": "ASUZU",
+      "ad": "",
+      "agirlik": 0.99
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 0.74
+    },
+    {
+      "ticker": "TMSN",
+      "ad": "",
+      "agirlik": 0.67
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.33
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "17 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 14:11:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019feadeac691cd4",
+  "kap_son_kontrol_iso": "2026-08-31T15:17:43Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

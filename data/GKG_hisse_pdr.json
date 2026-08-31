@@ -1,12 +1,186 @@
 {
   "kod": "GKG",
-  "guncelleme": "2026-08-24T08:12:27Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-08-31T15:06:23Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkg-garanti-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "TBPP",
+      "ad": "",
+      "agirlik": 15.32
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 8.05
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 6.69
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 6.36
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.92
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 3.91
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 3.26
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.22
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 3.14
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.82
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.74
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.56
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.43
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 2.2
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 2.09
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 2.0
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.88
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.73
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.38
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.34
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 0.45
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "33 hisse satırı okundu.",
+  "kap_rapor_tarihi": "10.08.2026 18:14:24",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc019febda09ae5e0f",
+  "kap_son_kontrol_iso": "2026-08-31T15:06:23Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
