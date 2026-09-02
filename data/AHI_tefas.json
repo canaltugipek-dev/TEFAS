@@ -2,24 +2,14 @@
   "fon_kodu": "AHI",
   "fon_unvan": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
   "fontip": "YAT",
-  "baslangic": "2021-09-02",
-  "bitis": "2026-09-01",
+  "baslangic": "2021-09-03",
+  "bitis": "2026-09-02",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1630540800000",
-      "FONKODU": "AHI",
-      "FONUNVAN": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
-      "FIYAT": 2.31198,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1630627200000",
       "FONKODU": "AHI",
@@ -12575,6 +12565,16 @@
       "FONKODU": "AHI",
       "FONUNVAN": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
       "FIYAT": 37.095763,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1788307200000",
+      "FONKODU": "AHI",
+      "FONUNVAN": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
+      "FIYAT": 36.604984,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
