@@ -1,12 +1,26 @@
 {
   "kod": "KYA",
-  "guncelleme": "2026-08-31T15:10:16Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-09-07T13:46:46Z",
+  "kaynak_tefas": true,
+  "unvan": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kya-kare-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 5.09
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "07.09.2026 10:54:49",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a07a9e9e9123ea",
+  "kap_son_kontrol_iso": "2026-09-07T13:46:46Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "DXP",
-  "guncelleme": "2026-08-10T08:41:34Z",
+  "guncelleme": "2026-09-07T13:34:43Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dxp-deniz-portfoy-ihracatci-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fonu",
@@ -14,13 +14,13 @@
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 5.61
+      "agirlik": 5.72
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.08.2026 10:20:14",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd0a59fce073b",
-  "kap_son_kontrol_iso": "2026-08-31T14:55:53Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "03.09.2026 14:49:03",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f01a0670380d13a28",
+  "kap_son_kontrol_iso": "2026-09-07T13:34:43Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

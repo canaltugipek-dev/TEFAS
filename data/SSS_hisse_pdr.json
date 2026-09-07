@@ -1,6 +1,6 @@
 {
   "kod": "SSS",
-  "guncelleme": "2026-08-31T15:17:43Z",
+  "guncelleme": "2026-09-07T13:53:29Z",
   "kaynak_tefas": true,
   "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,62 +14,62 @@
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 17.52
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 16.52
+      "agirlik": 21.29
     },
     {
       "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 13.43
+      "agirlik": 15.78
     },
     {
       "ticker": "THYAO",
       "ad": "",
-      "agirlik": 12.79
+      "agirlik": 13.25
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 11.36
     },
     {
       "ticker": "DOHOL",
       "ad": "",
-      "agirlik": 9.74
-    },
-    {
-      "ticker": "FORTE",
-      "ad": "",
-      "agirlik": 5.9
+      "agirlik": 11.08
     },
     {
       "ticker": "AKSA",
       "ad": "",
-      "agirlik": 4.03
+      "agirlik": 5.85
     },
     {
       "ticker": "OTKAR",
       "ad": "",
-      "agirlik": 3.9
+      "agirlik": 4.37
     },
     {
       "ticker": "BERA",
       "ad": "",
-      "agirlik": 2.93
+      "agirlik": 3.36
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 3.07
     },
     {
       "ticker": "ALTNY",
       "ad": "",
-      "agirlik": 1.44
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 1.31
+      "agirlik": 1.79
     },
     {
       "ticker": "SDTTR",
       "ad": "",
-      "agirlik": 1.28
+      "agirlik": 1.5
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 1.29
     },
     {
       "ticker": "KATMR",
@@ -79,28 +79,28 @@
     {
       "ticker": "ASUZU",
       "ad": "",
-      "agirlik": 0.99
+      "agirlik": 1.0
     },
     {
       "ticker": "PAPIL",
       "ad": "",
-      "agirlik": 0.74
+      "agirlik": 0.96
     },
     {
       "ticker": "TMSN",
       "ad": "",
-      "agirlik": 0.67
+      "agirlik": 0.66
     },
     {
       "ticker": "KAREL",
       "ad": "",
-      "agirlik": 0.33
+      "agirlik": 0.31
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "17 hisse satırı okundu.",
-  "kap_rapor_tarihi": "10.08.2026 14:11:04",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019feadeac691cd4",
-  "kap_son_kontrol_iso": "2026-08-31T15:17:43Z",
+  "kap_rapor_tarihi": "03.09.2026 16:56:23",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a0673cf2d85886",
+  "kap_son_kontrol_iso": "2026-09-07T13:53:29Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

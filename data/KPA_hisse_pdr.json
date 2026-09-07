@@ -1,6 +1,6 @@
 {
   "kod": "KPA",
-  "guncelleme": "2026-08-17T08:12:08Z",
+  "guncelleme": "2026-09-07T13:45:21Z",
   "kaynak_tefas": true,
   "unvan": "KUVEYT TÜRK PORTFÖY KAR PAYI ÖDEYEN KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kpa-kuveyt-turk-portfoy-kar-payi-odeyen-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,25 @@
   ],
   "hisseler": [
     {
-      "ticker": "EUPWR",
+      "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 1.28
+      "agirlik": 4.18
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 0.6
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "10.08.2026 15:27:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019feabe48364b84",
-  "kap_son_kontrol_iso": "2026-08-31T14:56:39Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.09.2026 18:22:33",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f01a0629702b40add",
+  "kap_son_kontrol_iso": "2026-09-07T13:45:21Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "DTL",
-  "guncelleme": "2026-08-10T08:41:29Z",
+  "guncelleme": "2026-09-07T13:34:40Z",
   "kaynak_tefas": true,
   "unvan": "DENİZ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dtl-deniz-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,18 @@
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 4.98
+      "agirlik": 5.18
     },
     {
       "ticker": "LKMNH",
       "ad": "",
-      "agirlik": 3.16
+      "agirlik": 3.34
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.08.2026 10:20:14",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd0a59eac0730",
-  "kap_son_kontrol_iso": "2026-08-31T14:55:52Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "03.09.2026 14:51:54",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f01a066f9820b388c",
+  "kap_son_kontrol_iso": "2026-09-07T13:34:40Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

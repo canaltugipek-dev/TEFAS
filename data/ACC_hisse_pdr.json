@@ -1,6 +1,6 @@
 {
   "kod": "ACC",
-  "guncelleme": "2026-08-24T08:10:23Z",
+  "guncelleme": "2026-09-07T13:32:06Z",
   "kaynak_tefas": true,
   "unvan": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/acc-istanbul-portfoy-dorduncu-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,105 @@
   ],
   "hisseler": [
     {
-      "ticker": "TURSG",
+      "ticker": "TCKRC",
       "ad": "",
-      "agirlik": 2.52
+      "agirlik": 8.14
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 7.79
+    },
+    {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 5.32
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 5.16
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.74
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.47
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.2
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.19
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 4.0
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.94
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.83
+    },
+    {
+      "ticker": "PCILT",
+      "ad": "",
+      "agirlik": 3.73
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.6
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 2.15
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.08.2026 18:47:00",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd7c0919576c6",
-  "kap_son_kontrol_iso": "2026-08-31T14:55:28Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.09.2026 18:12:46",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a062acb34914f6",
+  "kap_son_kontrol_iso": "2026-09-07T13:32:06Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

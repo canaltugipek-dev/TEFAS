@@ -1,12 +1,17 @@
 {
   "kod": "KST",
-  "guncelleme": "2026-08-31T15:09:31Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
+  "guncelleme": "2026-09-07T13:45:42Z",
+  "kaynak_tefas": true,
+  "unvan": "ALLBATROSS PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kst-allbatross-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "03.09.2026 18:00:09"
 }

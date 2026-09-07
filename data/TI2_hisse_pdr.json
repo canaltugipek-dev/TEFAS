@@ -1,6 +1,6 @@
 {
   "kod": "TI2",
-  "guncelleme": "2026-08-31T15:19:18Z",
+  "guncelleme": "2026-09-07T13:54:58Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti2-is-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,18 @@
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 1.17
+      "agirlik": 2.51
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 0.8
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.08.2026 13:03:03",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc40019fd06bc2d80238",
-  "kap_son_kontrol_iso": "2026-08-31T15:19:18Z",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.09.2026 12:48:39",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc4001a062027dd800fc",
+  "kap_son_kontrol_iso": "2026-09-07T13:54:58Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
