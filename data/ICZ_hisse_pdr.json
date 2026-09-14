@@ -1,12 +1,91 @@
 {
   "kod": "ICZ",
-  "guncelleme": "2026-09-07T13:40:12Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-09-14T14:05:37Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icz-ak-portfoy-teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 19.63
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 10.49
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 7.75
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 7.46
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 6.29
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 5.28
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 3.07
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 2.3
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 1.36
+    },
+    {
+      "ticker": "PKART",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "MOBTL",
+      "ad": "",
+      "agirlik": 0.54
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "14 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.09.2026 18:07:24",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a0629fed973246",
+  "kap_son_kontrol_iso": "2026-09-14T14:05:37Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

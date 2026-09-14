@@ -1,31 +1,12 @@
 {
   "kod": "RHI",
-  "guncelleme": "2026-09-07T13:52:39Z",
-  "kaynak_tefas": true,
-  "unvan": "RE-PIE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhi-re-pie-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 9.88
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 0.6
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.09.2026 18:18:24",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a067d09c4971b3",
-  "kap_son_kontrol_iso": "2026-09-07T13:52:39Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-09-14T14:17:44Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

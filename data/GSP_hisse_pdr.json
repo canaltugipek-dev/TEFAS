@@ -1,6 +1,6 @@
 {
   "kod": "GSP",
-  "guncelleme": "2026-09-07T13:36:19Z",
+  "guncelleme": "2026-09-14T14:02:05Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "TRCAS",
+      "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.88
+      "agirlik": 0.42
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.06.2026 18:11:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9e2771a1019e9720934d1886",
-  "kap_son_kontrol_iso": "2026-09-07T13:36:19Z",
+  "kap_rapor_tarihi": "07.09.2026 18:32:23",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a07c558cc44c35",
+  "kap_son_kontrol_iso": "2026-09-14T14:02:05Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

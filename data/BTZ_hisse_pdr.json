@@ -1,6 +1,6 @@
 {
   "kod": "BTZ",
-  "guncelleme": "2026-08-10T08:39:55Z",
+  "guncelleme": "2026-09-14T13:57:02Z",
   "kaynak_tefas": true,
   "unvan": "ATLAS PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/btz-atlas-portfoy-bist-30-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,110 +12,110 @@
   ],
   "hisseler": [
     {
-      "ticker": "MPARK",
+      "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 7.96
+      "agirlik": 10.49
     },
     {
       "ticker": "AVPGY",
       "ad": "",
-      "agirlik": 7.72
+      "agirlik": 9.13
     },
     {
-      "ticker": "RGYAS",
+      "ticker": "MPARK",
       "ad": "",
-      "agirlik": 7.39
+      "agirlik": 8.2
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 5.97
-    },
-    {
-      "ticker": "YATAS",
-      "ad": "",
-      "agirlik": 4.04
-    },
-    {
-      "ticker": "ZPLIB",
-      "ad": "",
-      "agirlik": 4.02
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 4.02
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 3.99
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 3.99
-    },
-    {
-      "ticker": "KRDMA",
-      "ad": "",
-      "agirlik": 3.87
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 3.84
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 3.63
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 3.48
-    },
-    {
-      "ticker": "SUWEN",
-      "ad": "",
-      "agirlik": 3.38
+      "agirlik": 7.56
     },
     {
       "ticker": "TRMET",
       "ad": "",
-      "agirlik": 3.18
+      "agirlik": 6.04
     },
     {
-      "ticker": "TOASO",
+      "ticker": "CWENE",
       "ad": "",
-      "agirlik": 2.87
+      "agirlik": 5.17
     },
     {
-      "ticker": "TCELL",
+      "ticker": "TURSG",
       "ad": "",
-      "agirlik": 2.39
+      "agirlik": 4.98
     },
     {
-      "ticker": "BIMAS",
+      "ticker": "AKSEN",
       "ad": "",
-      "agirlik": 1.84
+      "agirlik": 4.42
     },
     {
       "ticker": "OTKAR",
       "ad": "",
-      "agirlik": 1.44
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "ZPLIB",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "YATAS",
+      "ad": "",
+      "agirlik": 4.27
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.2
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 4.03
+    },
+    {
+      "ticker": "ANHYT",
+      "ad": "",
+      "agirlik": 3.48
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 3.37
     },
     {
       "ticker": "KCAER",
       "ad": "",
-      "agirlik": 1.41
+      "agirlik": 3.32
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 3.28
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 2.68
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.05
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "20 hisse satırı okundu.",
-  "kap_rapor_tarihi": "10.08.2026 10:35:58",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd019fd639f63d34b5",
-  "kap_son_kontrol_iso": "2026-09-07T13:21:41Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "08.09.2026 14:05:38",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc01a08094219c0768",
+  "kap_son_kontrol_iso": "2026-09-14T13:57:02Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
