@@ -2,11 +2,11 @@
   "fon_kodu": "PHE",
   "fon_unvan": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-10-03",
-  "bitis": "2026-10-02",
+  "baslangic": "2021-10-06",
+  "bitis": "2026-10-05",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 642,
-  "gun_kapsami": 939,
+  "kayit_sayisi": 643,
+  "gun_kapsami": 942,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -6422,6 +6422,16 @@
     },
     {
       "TARIH": "1790899200000",
+      "FONKODU": "PHE",
+      "FONUNVAN": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1791158400000",
       "FONKODU": "PHE",
       "FONUNVAN": "PUSULA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
