@@ -1,6 +1,6 @@
 {
   "kod": "TI3",
-  "guncelleme": "2026-09-28T15:28:05Z",
+  "guncelleme": "2026-10-05T16:06:31Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti3-is-portfoy-is-bankasi-istirakleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,48 +14,58 @@
     {
       "ticker": "ISCTR",
       "ad": "",
-      "agirlik": 21.57
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 19.28
+      "agirlik": 22.29
     },
     {
       "ticker": "ANSGR",
       "ad": "",
-      "agirlik": 15.72
+      "agirlik": 15.98
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 15.47
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 10.0
+      "agirlik": 10.41
+    },
+    {
+      "ticker": "ISGYO",
+      "ad": "",
+      "agirlik": 9.64
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 9.32
     },
     {
       "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 6.0
+      "agirlik": 6.56
     },
     {
       "ticker": "ISFIN",
       "ad": "",
-      "agirlik": 4.35
+      "agirlik": 4.61
     },
     {
-      "ticker": "ISGSY",
+      "ticker": "ISYAT",
       "ad": "",
-      "agirlik": 1.92
+      "agirlik": 0.97
     },
     {
       "ticker": "TSGYO",
       "ad": "",
-      "agirlik": 0.39
+      "agirlik": 0.37
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "8 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.09.2026 12:50:18",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc4001a06205520d0177",
-  "kap_son_kontrol_iso": "2026-09-28T15:28:05Z",
+  "hisse_mesaj": "10 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.10.2026 12:59:27",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a10b6fedfd421c",
+  "kap_son_kontrol_iso": "2026-10-05T16:06:31Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

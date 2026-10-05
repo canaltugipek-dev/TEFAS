@@ -1,6 +1,6 @@
 {
   "kod": "ALC",
-  "guncelleme": "2026-09-07T13:32:33Z",
+  "guncelleme": "2026-10-05T15:50:56Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY KAR PAYI ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/alc-ak-portfoy-kar-payi-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,94 +12,99 @@
   ],
   "hisseler": [
     {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.98
+    },
+    {
       "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 9.57
+      "agirlik": 9.47
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 9.11
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 8.48
+      "agirlik": 9.05
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.78
+      "agirlik": 4.62
     },
     {
       "ticker": "EREGL",
       "ad": "",
-      "agirlik": 4.22
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 3.87
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 3.81
+      "agirlik": 4.46
     },
     {
       "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 3.29
-    },
-    {
-      "ticker": "AYGAZ",
-      "ad": "",
-      "agirlik": 3.0
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 2.89
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 2.8
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 2.54
+      "agirlik": 3.97
     },
     {
       "ticker": "TOASO",
       "ad": "",
-      "agirlik": 2.46
+      "agirlik": 3.97
     },
     {
-      "ticker": "CIMSA",
+      "ticker": "AGESA",
       "ad": "",
-      "agirlik": 2.43
+      "agirlik": 3.8
     },
     {
-      "ticker": "ARDYZ",
+      "ticker": "KCHOL",
       "ad": "",
-      "agirlik": 2.09
-    },
-    {
-      "ticker": "BRSAN",
-      "ad": "",
-      "agirlik": 1.84
+      "agirlik": 3.52
     },
     {
       "ticker": "TCELL",
       "ad": "",
-      "agirlik": 1.73
+      "agirlik": 3.31
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.01
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.76
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 2.61
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.59
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 1.79
     },
     {
       "ticker": "MAVI",
       "ad": "",
-      "agirlik": 1.25
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 1.51
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 1.49
     },
     {
       "ticker": "BASGZ",
@@ -107,19 +112,14 @@
       "agirlik": 1.16
     },
     {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 0.91
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 0.86
-    },
-    {
       "ticker": "KLKIM",
       "ad": "",
-      "agirlik": 0.63
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 0.93
     },
     {
       "ticker": "APBDL",
@@ -129,8 +129,8 @@
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "23 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.09.2026 17:56:39",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc01a0629b93077744",
-  "kap_son_kontrol_iso": "2026-09-28T15:04:17Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "05.10.2026 16:03:41",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a10c1c21fa5a0c",
+  "kap_son_kontrol_iso": "2026-10-05T15:50:56Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

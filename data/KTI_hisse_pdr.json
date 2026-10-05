@@ -1,17 +1,12 @@
 {
   "kod": "KTI",
-  "guncelleme": "2026-09-28T15:19:51Z",
-  "kaynak_tefas": true,
-  "unvan": "AZİMUT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kti-azimut-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
+  "guncelleme": "2026-10-05T15:57:17Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
-  "kap_rapor_tarihi": "07.09.2026 18:31:50"
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }
