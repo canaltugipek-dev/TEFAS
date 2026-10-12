@@ -1,12 +1,26 @@
 {
   "kod": "ITC",
-  "guncelleme": "2026-10-05T15:56:38Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-10-12T16:54:06Z",
+  "kaynak_tefas": true,
+  "unvan": "INVEO PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/itc-inveo-portfoy-temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 3.08
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.10.2026 17:53:29",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a10c4ee4a77e29",
+  "kap_son_kontrol_iso": "2026-10-12T16:54:06Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

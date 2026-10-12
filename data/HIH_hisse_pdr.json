@@ -1,6 +1,6 @@
 {
   "kod": "HIH",
-  "guncelleme": "2026-09-14T14:03:16Z",
+  "guncelleme": "2026-10-12T16:50:41Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ  PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hih-garanti-portfoy-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,105 +12,115 @@
   ],
   "hisseler": [
     {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 8.54
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 8.49
-    },
-    {
       "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 8.12
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 7.57
-    },
-    {
-      "ticker": "TBPP",
-      "ad": "",
-      "agirlik": 6.76
+      "agirlik": 10.05
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 5.1
+      "agirlik": 9.75
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 7.94
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 4.87
     },
     {
       "ticker": "ALARK",
       "ad": "",
-      "agirlik": 4.97
+      "agirlik": 4.86
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.86
     },
     {
       "ticker": "DOHOL",
       "ad": "",
-      "agirlik": 4.91
-    },
-    {
-      "ticker": "AEFES",
-      "ad": "",
-      "agirlik": 4.64
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 4.58
+      "agirlik": 4.85
     },
     {
       "ticker": "MGROS",
       "ad": "",
-      "agirlik": 4.56
+      "agirlik": 4.85
     },
     {
-      "ticker": "PAHOL",
+      "ticker": "AEFES",
       "ad": "",
-      "agirlik": 4.33
-    },
-    {
-      "ticker": "GSDHO",
-      "ad": "",
-      "agirlik": 4.31
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "PSGYO",
-      "ad": "",
-      "agirlik": 3.88
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.87
+      "agirlik": 4.83
     },
     {
       "ticker": "CCOLA",
       "ad": "",
-      "agirlik": 3.67
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 4.73
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 4.71
+    },
+    {
+      "ticker": "GSDHO",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.66
+    },
+    {
+      "ticker": "TERS",
+      "ad": "",
+      "agirlik": 4.06
     },
     {
       "ticker": "ENJSA",
       "ad": "",
-      "agirlik": 3.3
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "PAHOL",
+      "ad": "",
+      "agirlik": 3.42
+    },
+    {
+      "ticker": "PSGYO",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 2.21
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 2.89
+      "agirlik": 1.36
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 0.71
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "19 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.09.2026 19:01:20",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a07c1a7d7243fc",
-  "kap_son_kontrol_iso": "2026-10-05T15:41:03Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "08.10.2026 15:43:47",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a11b353cd42d2e",
+  "kap_son_kontrol_iso": "2026-10-12T16:50:41Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "IDH",
-  "guncelleme": "2026-09-14T14:05:54Z",
+  "guncelleme": "2026-10-12T16:53:27Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idh-is-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,18 @@
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 6.37
+      "agirlik": 6.17
     },
     {
-      "ticker": "AKSGY",
+      "ticker": "AKFGY",
       "ad": "",
-      "agirlik": 4.35
+      "agirlik": 0.7
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.09.2026 13:03:30",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc01a0663365a60aff",
-  "kap_son_kontrol_iso": "2026-10-05T15:41:13Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "06.10.2026 11:07:08",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a10ffce22419f3",
+  "kap_son_kontrol_iso": "2026-10-12T16:53:27Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

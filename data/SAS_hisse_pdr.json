@@ -1,6 +1,6 @@
 {
   "kod": "SAS",
-  "guncelleme": "2026-10-05T16:03:02Z",
+  "guncelleme": "2026-10-12T17:03:01Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,48 +14,48 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 23.83
+      "agirlik": 24.06
     },
     {
       "ticker": "SAHOL",
       "ad": "",
-      "agirlik": 23.57
+      "agirlik": 23.42
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 12.47
+      "agirlik": 12.11
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 6.19
+      "agirlik": 5.8
     },
     {
       "ticker": "KORDS",
       "ad": "",
-      "agirlik": 2.95
+      "agirlik": 2.01
     },
     {
       "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 1.84
-    },
-    {
-      "ticker": "AFYON",
-      "ad": "",
-      "agirlik": 1.53
+      "agirlik": 1.66
     },
     {
       "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.53
+      "agirlik": 1.47
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 1.39
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "8 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.09.2026 19:07:59",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc01a062dc41977e7d",
-  "kap_son_kontrol_iso": "2026-10-05T16:03:02Z",
+  "kap_rapor_tarihi": "06.10.2026 14:23:31",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a110f113ff310b",
+  "kap_son_kontrol_iso": "2026-10-12T17:03:01Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

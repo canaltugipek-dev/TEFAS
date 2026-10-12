@@ -1,12 +1,26 @@
 {
   "kod": "KHB",
-  "guncelleme": "2026-10-05T15:56:50Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-10-12T16:55:10Z",
+  "kaynak_tefas": true,
+  "unvan": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khb-kare-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AKGRT",
+      "ad": "",
+      "agirlik": 2.9
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "05.10.2026 16:05:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a10b42d85b5fb3",
+  "kap_son_kontrol_iso": "2026-10-12T16:55:10Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

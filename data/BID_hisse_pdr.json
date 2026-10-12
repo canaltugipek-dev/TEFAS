@@ -1,6 +1,6 @@
 {
   "kod": "BID",
-  "guncelleme": "2026-10-05T15:51:09Z",
+  "guncelleme": "2026-10-12T16:45:52Z",
   "kaynak_tefas": true,
   "unvan": "QNB PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bid-qnb-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "AKFGY",
       "ad": "",
-      "agirlik": 3.64
+      "agirlik": 0.89
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "10.08.2026 15:43:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f019feb765581318c",
-  "kap_son_kontrol_iso": "2026-10-05T15:51:09Z",
+  "kap_rapor_tarihi": "08.10.2026 15:32:29",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438601a119fecf985b2d",
+  "kap_son_kontrol_iso": "2026-10-12T16:45:52Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,6 +1,6 @@
 {
   "kod": "GNS",
-  "guncelleme": "2026-09-14T14:01:19Z",
+  "guncelleme": "2026-10-12T16:49:14Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,142 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 13.49
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 10.45
-    },
-    {
-      "ticker": "ENERY",
-      "ad": "",
-      "agirlik": 9.18
-    },
-    {
-      "ticker": "AHGAZ",
-      "ad": "",
-      "agirlik": 7.33
-    },
-    {
-      "ticker": "TBPP",
-      "ad": "",
-      "agirlik": 6.49
-    },
-    {
-      "ticker": "CWENE",
-      "ad": "",
-      "agirlik": 6.31
-    },
-    {
-      "ticker": "AKFYE",
-      "ad": "",
-      "agirlik": 5.41
-    },
-    {
-      "ticker": "SMRTG",
-      "ad": "",
-      "agirlik": 4.6
-    },
-    {
-      "ticker": "ODAS",
-      "ad": "",
-      "agirlik": 4.45
-    },
-    {
-      "ticker": "NTGAZ",
-      "ad": "",
-      "agirlik": 3.96
-    },
-    {
-      "ticker": "ARASE",
-      "ad": "",
-      "agirlik": 3.86
-    },
-    {
-      "ticker": "MOGAN",
-      "ad": "",
-      "agirlik": 3.13
-    },
-    {
-      "ticker": "KLYPV",
-      "ad": "",
-      "agirlik": 3.02
-    },
-    {
-      "ticker": "AKSUE",
-      "ad": "",
-      "agirlik": 2.38
-    },
-    {
-      "ticker": "ENTRA",
-      "ad": "",
-      "agirlik": 2.33
-    },
-    {
-      "ticker": "AYDEM",
-      "ad": "",
-      "agirlik": 2.22
-    },
-    {
-      "ticker": "GWIND",
-      "ad": "",
-      "agirlik": 1.85
-    },
-    {
-      "ticker": "MASFN",
-      "ad": "",
-      "agirlik": 1.6
-    },
-    {
-      "ticker": "ZOREN",
-      "ad": "",
-      "agirlik": 1.55
-    },
-    {
-      "ticker": "BETAE",
-      "ad": "",
-      "agirlik": 1.1
-    },
-    {
-      "ticker": "ALARK",
-      "ad": "",
-      "agirlik": 1.01
-    },
-    {
-      "ticker": "ALFAS",
-      "ad": "",
-      "agirlik": 0.96
-    },
-    {
-      "ticker": "AYEN",
-      "ad": "",
-      "agirlik": 0.93
-    },
-    {
-      "ticker": "TATEN",
-      "ad": "",
-      "agirlik": 0.71
-    },
-    {
-      "ticker": "ZEDUR",
-      "ad": "",
-      "agirlik": 0.54
-    },
-    {
-      "ticker": "ARFYE",
-      "ad": "",
-      "agirlik": 0.53
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.09.2026 19:01:20",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a07c1a783343ca",
-  "kap_son_kontrol_iso": "2026-10-05T15:40:50Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
+  "kap_rapor_tarihi": "08.10.2026 15:43:47"
 }

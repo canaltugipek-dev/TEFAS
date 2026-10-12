@@ -1,6 +1,6 @@
 {
   "kod": "GIH",
-  "guncelleme": "2026-09-07T13:36:11Z",
+  "guncelleme": "2026-10-12T16:47:09Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gih-allbatross-portfoy-gida-ve-icecek-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,18 +14,23 @@
     {
       "ticker": "BORSK",
       "ad": "",
-      "agirlik": 3.39
+      "agirlik": 3.62
+    },
+    {
+      "ticker": "EKSUN",
+      "ad": "",
+      "agirlik": 2.29
     },
     {
       "ticker": "CEMZY",
       "ad": "",
-      "agirlik": 2.56
+      "agirlik": 1.97
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.09.2026 18:03:05",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc4001a0677cc8094466",
-  "kap_son_kontrol_iso": "2026-10-05T15:40:44Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "3 hisse satırı okundu.",
+  "kap_rapor_tarihi": "12.10.2026 15:04:27",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a12fcfca442897",
+  "kap_son_kontrol_iso": "2026-10-12T16:47:09Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

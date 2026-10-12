@@ -1,6 +1,6 @@
 {
   "kod": "OPI",
-  "guncelleme": "2026-10-05T16:00:58Z",
+  "guncelleme": "2026-10-12T17:00:25Z",
   "kaynak_tefas": true,
   "unvan": "OSMANLI PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/opi-osmanli-portfoy-kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,140 +12,140 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 7.96
-    },
-    {
       "ticker": "TUPRS",
       "ad": "",
-      "agirlik": 7.34
+      "agirlik": 7.26
     },
     {
-      "ticker": "TBORG",
+      "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 7.17
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 5.59
+      "agirlik": 7.03
     },
     {
       "ticker": "CCOLA",
       "ad": "",
-      "agirlik": 5.26
+      "agirlik": 6.22
     },
     {
-      "ticker": "ASTOR",
+      "ticker": "ASELS",
       "ad": "",
-      "agirlik": 4.91
+      "agirlik": 5.82
     },
     {
-      "ticker": "RGYAS",
+      "ticker": "TBORG",
       "ad": "",
-      "agirlik": 4.58
+      "agirlik": 4.96
     },
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 4.38
+      "agirlik": 4.88
     },
     {
-      "ticker": "INDES",
+      "ticker": "RGYAS",
       "ad": "",
-      "agirlik": 4.18
-    },
-    {
-      "ticker": "TRGYO",
-      "ad": "",
-      "agirlik": 3.71
+      "agirlik": 4.82
     },
     {
       "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 3.7
+      "agirlik": 4.17
+    },
+    {
+      "ticker": "TRGYO",
+      "ad": "",
+      "agirlik": 3.99
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 3.76
     },
     {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 3.65
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 3.42
+      "agirlik": 3.75
     },
     {
       "ticker": "TURSG",
       "ad": "",
-      "agirlik": 3.38
+      "agirlik": 3.66
     },
     {
-      "ticker": "TABGD",
+      "ticker": "ASTOR",
       "ad": "",
-      "agirlik": 3.22
+      "agirlik": 3.44
     },
     {
       "ticker": "ALARK",
       "ad": "",
-      "agirlik": 2.97
+      "agirlik": 3.11
     },
     {
       "ticker": "AGESA",
       "ad": "",
-      "agirlik": 2.95
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 2.67
+      "agirlik": 3.09
     },
     {
       "ticker": "GARAN",
       "ad": "",
-      "agirlik": 2.67
+      "agirlik": 3.0
     },
     {
-      "ticker": "BRSAN",
+      "ticker": "TABGD",
       "ad": "",
-      "agirlik": 2.49
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 2.38
+      "agirlik": 2.92
     },
     {
       "ticker": "TAVHL",
       "ad": "",
-      "agirlik": 2.27
+      "agirlik": 2.68
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 2.57
+    },
+    {
+      "ticker": "AVPGY",
+      "ad": "",
+      "agirlik": 2.51
     },
     {
       "ticker": "ULKER",
       "ad": "",
-      "agirlik": 2.19
+      "agirlik": 2.43
     },
     {
       "ticker": "OSMEN",
       "ad": "",
-      "agirlik": 2.04
+      "agirlik": 1.71
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 1.95
+      "agirlik": 1.56
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.43
     },
     {
       "ticker": "OPTGY",
       "ad": "",
-      "agirlik": 1.1
+      "agirlik": 1.14
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.9
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "26 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.09.2026 16:55:53",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a06cb2f3a4103a",
-  "kap_son_kontrol_iso": "2026-10-05T16:00:58Z",
+  "kap_rapor_tarihi": "06.10.2026 13:49:36",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a110d30cad31b1",
+  "kap_son_kontrol_iso": "2026-10-12T17:00:25Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

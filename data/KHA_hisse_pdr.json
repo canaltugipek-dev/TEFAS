@@ -1,6 +1,6 @@
 {
   "kod": "KHA",
-  "guncelleme": "2026-09-07T13:45:02Z",
+  "guncelleme": "2026-10-12T16:55:06Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kha-pardus-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,23 +14,23 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 3.85
-    },
-    {
-      "ticker": "OYAKC",
-      "ad": "",
-      "agirlik": 0.28
+      "agirlik": 4.48
     },
     {
       "ticker": "ISMEN",
       "ad": "",
-      "agirlik": 0.12
+      "agirlik": 0.44
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 0.06
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "3 hisse satırı okundu.",
-  "kap_rapor_tarihi": "03.09.2026 18:18:10",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a06795231265bb",
-  "kap_son_kontrol_iso": "2026-10-05T15:41:26Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "07.10.2026 11:26:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a11571b7e17132",
+  "kap_son_kontrol_iso": "2026-10-12T16:55:06Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
