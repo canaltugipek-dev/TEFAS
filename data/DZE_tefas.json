@@ -2,24 +2,14 @@
   "fon_kodu": "DZE",
   "fon_unvan": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-10-20",
-  "bitis": "2026-10-19",
+  "baslangic": "2021-10-21",
+  "bitis": "2026-10-20",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1634688000000",
-      "FONKODU": "DZE",
-      "FONUNVAN": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.094724,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1634774400000",
       "FONKODU": "DZE",
@@ -12575,6 +12565,16 @@
       "FONKODU": "DZE",
       "FONUNVAN": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.865322,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1792454400000",
+      "FONKODU": "DZE",
+      "FONUNVAN": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.845588,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

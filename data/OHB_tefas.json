@@ -2,24 +2,14 @@
   "fon_kodu": "OHB",
   "fon_unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-10-20",
-  "bitis": "2026-10-19",
+  "baslangic": "2021-10-21",
+  "bitis": "2026-10-20",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1634688000000",
-      "FONKODU": "OHB",
-      "FONUNVAN": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 1.880245,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1634774400000",
       "FONKODU": "OHB",
@@ -12575,6 +12565,16 @@
       "FONKODU": "OHB",
       "FONUNVAN": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 22.104311,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1792454400000",
+      "FONKODU": "OHB",
+      "FONUNVAN": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 21.640172,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
