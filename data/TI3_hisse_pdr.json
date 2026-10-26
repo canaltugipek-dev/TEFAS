@@ -1,71 +1,12 @@
 {
   "kod": "TI3",
-  "guncelleme": "2026-10-12T17:05:54Z",
-  "kaynak_tefas": true,
-  "unvan": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ti3-is-portfoy-is-bankasi-istirakleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 22.29
-    },
-    {
-      "ticker": "ANSGR",
-      "ad": "",
-      "agirlik": 15.98
-    },
-    {
-      "ticker": "SISE",
-      "ad": "",
-      "agirlik": 15.47
-    },
-    {
-      "ticker": "ISMEN",
-      "ad": "",
-      "agirlik": 10.41
-    },
-    {
-      "ticker": "ISGYO",
-      "ad": "",
-      "agirlik": 9.64
-    },
-    {
-      "ticker": "TSKB",
-      "ad": "",
-      "agirlik": 9.32
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 6.56
-    },
-    {
-      "ticker": "ISFIN",
-      "ad": "",
-      "agirlik": 4.61
-    },
-    {
-      "ticker": "ISYAT",
-      "ad": "",
-      "agirlik": 0.97
-    },
-    {
-      "ticker": "TSGYO",
-      "ad": "",
-      "agirlik": 0.37
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "10 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.10.2026 12:59:27",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a10b6fedfd421c",
-  "kap_son_kontrol_iso": "2026-10-12T17:05:54Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-10-26T14:20:01Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

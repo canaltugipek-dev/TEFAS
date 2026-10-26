@@ -1,6 +1,6 @@
 {
   "kod": "KH1",
-  "guncelleme": "2026-10-12T16:55:02Z",
+  "guncelleme": "2026-10-26T14:12:34Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/kh1-ak-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,70 +12,80 @@
   ],
   "hisseler": [
     {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 9.57
-    },
-    {
       "ticker": "BIMAS",
       "ad": "",
-      "agirlik": 9.25
+      "agirlik": 9.98
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.42
     },
     {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 8.92
+      "agirlik": 8.53
     },
     {
       "ticker": "EREGL",
       "ad": "",
-      "agirlik": 8.24
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 4.4
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 4.37
+      "agirlik": 8.38
     },
     {
       "ticker": "CIMSA",
       "ad": "",
-      "agirlik": 4.01
+      "agirlik": 4.53
     },
     {
-      "ticker": "CWENE",
+      "ticker": "GUBRF",
       "ad": "",
-      "agirlik": 2.51
+      "agirlik": 4.29
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 3.53
+    },
+    {
+      "ticker": "MEGMT",
+      "ad": "",
+      "agirlik": 2.07
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 1.92
     },
     {
       "ticker": "GRSEL",
       "ad": "",
-      "agirlik": 1.8
+      "agirlik": 1.82
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 1.62
     },
     {
       "ticker": "VAKKO",
       "ad": "",
-      "agirlik": 1.67
+      "agirlik": 1.61
     },
     {
       "ticker": "ALTNY",
       "ad": "",
-      "agirlik": 1.17
+      "agirlik": 1.16
     },
     {
       "ticker": "FONET",
       "ad": "",
-      "agirlik": 0.68
+      "agirlik": 0.97
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "12 hisse satırı okundu.",
-  "kap_rapor_tarihi": "02.09.2026 19:07:58",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddc01a062dc344b7e4b",
-  "kap_son_kontrol_iso": "2026-10-12T16:55:02Z",
+  "hisse_mesaj": "14 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.10.2026 10:59:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a1102f99b1048a",
+  "kap_son_kontrol_iso": "2026-10-26T14:12:34Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

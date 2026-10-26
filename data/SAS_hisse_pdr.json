@@ -1,6 +1,6 @@
 {
   "kod": "SAS",
-  "guncelleme": "2026-10-12T17:03:01Z",
+  "guncelleme": "2026-10-26T14:18:47Z",
   "kaynak_tefas": true,
   "unvan": "AK PORTFÖY SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sas-ak-portfoy-sabanci-toplulugu-sirketleri-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -11,11 +11,6 @@
     }
   ],
   "hisseler": [
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 24.06
-    },
     {
       "ticker": "SAHOL",
       "ad": "",
@@ -53,9 +48,9 @@
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "8 hisse satırı okundu.",
+  "hisse_mesaj": "7 hisse satırı okundu.",
   "kap_rapor_tarihi": "06.10.2026 14:23:31",
   "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a110f113ff310b",
-  "kap_son_kontrol_iso": "2026-10-12T17:03:01Z",
+  "kap_son_kontrol_iso": "2026-10-26T14:18:47Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

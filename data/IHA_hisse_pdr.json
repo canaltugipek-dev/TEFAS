@@ -1,6 +1,6 @@
 {
   "kod": "IHA",
-  "guncelleme": "2026-10-12T16:53:46Z",
+  "guncelleme": "2026-10-26T14:12:17Z",
   "kaynak_tefas": true,
   "unvan": "ALLBATROSS PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/iha-allbatros-portfoy-ikinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "AKBNK",
+      "ticker": "SKBNK",
       "ad": "",
-      "agirlik": 4.06
+      "agirlik": 3.89
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "04.09.2026 11:58:47",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc4001a067cfbdf24e1d",
-  "kap_son_kontrol_iso": "2026-10-12T16:53:46Z",
+  "kap_rapor_tarihi": "07.07.2026 15:23:02",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f0a085a019f21bc003f1688",
+  "kap_son_kontrol_iso": "2026-10-26T14:12:17Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }
