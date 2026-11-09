@@ -1,6 +1,6 @@
 {
   "kod": "NST",
-  "guncelleme": "2026-10-05T15:58:22Z",
+  "guncelleme": "2026-11-09T17:39:33Z",
   "kaynak_tefas": true,
   "unvan": "İŞ PORTFÖY EMLAK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/nst-is-portfoy-emlak-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,23 +14,23 @@
     {
       "ticker": "AKSGY",
       "ad": "",
-      "agirlik": 9.94
+      "agirlik": 9.27
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 6.56
     },
     {
       "ticker": "PAGYO",
       "ad": "",
-      "agirlik": 1.23
-    },
-    {
-      "ticker": "KZBGY",
-      "ad": "",
-      "agirlik": 1.02
+      "agirlik": 4.51
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "3 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.10.2026 14:02:31",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438a01a10ba3336c5f6e",
-  "kap_son_kontrol_iso": "2026-10-26T14:01:28Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "05.11.2026 11:40:19",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1aa61bd2d0352",
+  "kap_son_kontrol_iso": "2026-11-09T17:39:33Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

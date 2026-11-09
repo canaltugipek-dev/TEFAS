@@ -1,31 +1,12 @@
 {
   "kod": "ICF",
-  "guncelleme": "2026-10-26T14:11:57Z",
-  "kaynak_tefas": true,
-  "unvan": "TEB PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/icf-teb-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 2.66
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 2.48
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "2 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.09.2026 11:45:31",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328c9f52dc3f01a080090b562c5a",
-  "kap_son_kontrol_iso": "2026-10-26T14:11:57Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-11-09T17:33:50Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

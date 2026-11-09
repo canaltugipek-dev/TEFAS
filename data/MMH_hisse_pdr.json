@@ -1,6 +1,6 @@
 {
   "kod": "MMH",
-  "guncelleme": "2026-10-12T16:56:21Z",
+  "guncelleme": "2026-11-09T17:36:22Z",
   "kaynak_tefas": true,
   "unvan": "AKTİF PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mmh-aktif-portfoy-bist-30-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 1.8
+      "agirlik": 1.85
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.10.2026 12:06:21",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a10d2915bd0543",
-  "kap_son_kontrol_iso": "2026-10-26T14:01:19Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "kap_rapor_tarihi": "09.11.2026 18:41:30",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5d01a1c0f4100d1e29",
+  "kap_son_kontrol_iso": "2026-11-09T17:36:22Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

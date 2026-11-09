@@ -1,6 +1,6 @@
 {
   "kod": "PTO",
-  "guncelleme": "2026-10-26T14:17:49Z",
+  "guncelleme": "2026-11-09T17:42:40Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pto-pardus-portfoy-temettu-odeyen-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 5.42
+      "agirlik": 4.93
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.10.2026 11:26:22",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a11571ba91716e",
-  "kap_son_kontrol_iso": "2026-10-26T14:17:49Z",
+  "kap_rapor_tarihi": "05.11.2026 18:08:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1ab1a87231f1c",
+  "kap_son_kontrol_iso": "2026-11-09T17:42:40Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

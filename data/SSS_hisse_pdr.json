@@ -1,116 +1,12 @@
 {
   "kod": "SSS",
-  "guncelleme": "2026-10-26T14:19:16Z",
-  "kaynak_tefas": true,
-  "unvan": "YAPI KREDİ PORTFÖY SAVUNMA SANAYİİ ŞİRKETLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sss-yapi-kredi-portfoy-savunma-sanayii-sirketleri-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
-  "hisseler": [
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 17.39
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 17.21
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 13.88
-    },
-    {
-      "ticker": "AGHOL",
-      "ad": "",
-      "agirlik": 13.08
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 9.25
-    },
-    {
-      "ticker": "AKSA",
-      "ad": "",
-      "agirlik": 6.33
-    },
-    {
-      "ticker": "OTKAR",
-      "ad": "",
-      "agirlik": 4.79
-    },
-    {
-      "ticker": "BERA",
-      "ad": "",
-      "agirlik": 3.52
-    },
-    {
-      "ticker": "FORTE",
-      "ad": "",
-      "agirlik": 2.42
-    },
-    {
-      "ticker": "ALTNY",
-      "ad": "",
-      "agirlik": 1.6
-    },
-    {
-      "ticker": "SDTTR",
-      "ad": "",
-      "agirlik": 1.31
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 1.22
-    },
-    {
-      "ticker": "ASUZU",
-      "ad": "",
-      "agirlik": 1.11
-    },
-    {
-      "ticker": "KATMR",
-      "ad": "",
-      "agirlik": 1.1
-    },
-    {
-      "ticker": "VESTL",
-      "ad": "",
-      "agirlik": 0.94
-    },
-    {
-      "ticker": "TMSN",
-      "ad": "",
-      "agirlik": 0.87
-    },
-    {
-      "ticker": "PAPIL",
-      "ad": "",
-      "agirlik": 0.65
-    },
-    {
-      "ticker": "ONRYT",
-      "ad": "",
-      "agirlik": 0.4
-    },
-    {
-      "ticker": "KAREL",
-      "ad": "",
-      "agirlik": 0.27
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "19 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.10.2026 16:37:21",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418601a1116d6c533142",
-  "kap_son_kontrol_iso": "2026-10-26T14:19:16Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "guncelleme": "2026-11-09T17:45:02Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

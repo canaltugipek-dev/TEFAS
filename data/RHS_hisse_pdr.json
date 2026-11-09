@@ -1,6 +1,6 @@
 {
   "kod": "RHS",
-  "guncelleme": "2026-10-26T14:18:38Z",
+  "guncelleme": "2026-11-09T17:44:02Z",
   "kaynak_tefas": true,
   "unvan": "ROTA PORTFÖY HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rhs-rota-portfoy-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,115 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "ASELS",
+      "ticker": "GRUP",
       "ad": "",
-      "agirlik": 6.87
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 6.47
-    },
-    {
-      "ticker": "BIMAS",
-      "ad": "",
-      "agirlik": 6.26
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 6.1
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 5.43
-    },
-    {
-      "ticker": "AKSEN",
-      "ad": "",
-      "agirlik": 5.0
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 4.47
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 4.41
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 4.3
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 3.8
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 3.72
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 3.71
-    },
-    {
-      "ticker": "KLYPV",
-      "ad": "",
-      "agirlik": 3.61
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.59
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 3.54
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 3.3
-    },
-    {
-      "ticker": "ULKER",
-      "ad": "",
-      "agirlik": 2.84
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 2.54
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 2.51
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 1.85
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 1.56
+      "agirlik": 13.06
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "21 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.10.2026 17:41:23",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438a01a10c79c0e37d7d",
-  "kap_son_kontrol_iso": "2026-10-26T14:18:38Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 16:44:10",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5e01a1c05259b47832",
+  "kap_son_kontrol_iso": "2026-11-09T17:44:02Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

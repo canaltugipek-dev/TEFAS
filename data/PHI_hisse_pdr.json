@@ -1,6 +1,6 @@
 {
   "kod": "PHI",
-  "guncelleme": "2026-10-26T14:17:29Z",
+  "guncelleme": "2026-11-09T17:42:19Z",
   "kaynak_tefas": true,
   "unvan": "PİRAMİT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phi-piramit-portfoy-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,15 +12,151 @@
   ],
   "hisseler": [
     {
+      "ticker": "TNZTP",
+      "ad": "",
+      "agirlik": 8.39
+    },
+    {
+      "ticker": "AKHAN",
+      "ad": "",
+      "agirlik": 5.93
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 4.84
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.5
+    },
+    {
+      "ticker": "RGYAS",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 4.33
+    },
+    {
+      "ticker": "TCKRC",
+      "ad": "",
+      "agirlik": 4.33
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 4.21
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.07
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 2.93
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 2.84
+    },
+    {
       "ticker": "AYGAZ",
       "ad": "",
-      "agirlik": 2.59
+      "agirlik": 2.72
+    },
+    {
+      "ticker": "ISDMR",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "OYAKC",
+      "ad": "",
+      "agirlik": 2.66
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 2.04
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 1.98
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 1.89
+    },
+    {
+      "ticker": "TURSG",
+      "ad": "",
+      "agirlik": 1.77
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 1.76
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 1.76
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 1.59
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 1.44
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.4
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 1.24
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.10.2026 14:44:19",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438a01a11b517f154c63",
-  "kap_son_kontrol_iso": "2026-10-26T14:17:29Z",
+  "hisse_mesaj": "28 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.11.2026 12:17:33",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5e01a1a5d7ff5538cc",
+  "kaynak_pdr_ocr": true,
+  "kap_son_kontrol_iso": "2026-11-09T17:42:19Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

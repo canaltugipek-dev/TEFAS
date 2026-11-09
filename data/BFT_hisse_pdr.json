@@ -1,6 +1,6 @@
 {
   "kod": "BFT",
-  "guncelleme": "2026-10-26T14:10:34Z",
+  "guncelleme": "2026-11-09T17:28:36Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PORTFÖY BANKA VE FİNANS SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/bft-azimut-portfoy-banka-ve-finans-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,17 +10,8 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 17.91
-    }
-  ],
-  "hisse_durumu": "ok",
-  "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "08.10.2026 18:02:04",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a11bc556534b5e",
-  "kap_son_kontrol_iso": "2026-10-26T14:10:34Z",
-  "kap_son_kontrol_tip": "pdr_guncellendi"
+  "hisseler": [],
+  "hisse_durumu": "bulunamadi",
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.11.2026 18:05:49"
 }

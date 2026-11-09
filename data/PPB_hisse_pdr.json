@@ -1,6 +1,6 @@
 {
   "kod": "PPB",
-  "guncelleme": "2026-10-26T14:17:40Z",
+  "guncelleme": "2026-11-09T17:42:31Z",
   "kaynak_tefas": true,
   "unvan": "PHİLLİP PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ppb-phillip-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,22 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
-  "kap_rapor_tarihi": "06.10.2026 19:21:28"
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 9.26
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 1.14
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.11.2026 13:25:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1a0d9698d02e9",
+  "kap_son_kontrol_iso": "2026-11-09T17:42:31Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

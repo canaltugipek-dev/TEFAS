@@ -1,6 +1,6 @@
 {
   "kod": "PPH",
-  "guncelleme": "2026-10-26T14:17:44Z",
+  "guncelleme": "2026-11-09T17:42:35Z",
   "kaynak_tefas": true,
   "unvan": "PARDUS PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pph-pardus-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -14,13 +14,13 @@
     {
       "ticker": "KBORU",
       "ad": "",
-      "agirlik": 1.66
+      "agirlik": 1.44
     }
   ],
   "hisse_durumu": "ok",
   "hisse_mesaj": "1 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.10.2026 11:26:22",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438901a11571ba3d7164",
-  "kap_son_kontrol_iso": "2026-10-26T14:17:44Z",
+  "kap_rapor_tarihi": "05.11.2026 18:08:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1ab1a861b1f12",
+  "kap_son_kontrol_iso": "2026-11-09T17:42:35Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

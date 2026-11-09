@@ -1,6 +1,6 @@
 {
   "kod": "SKO",
-  "guncelleme": "2026-10-26T14:19:05Z",
+  "guncelleme": "2026-11-09T17:44:49Z",
   "kaynak_tefas": true,
   "unvan": "STRATEJİ PORTFÖY KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/sko-strateji-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,126 +12,151 @@
   ],
   "hisseler": [
     {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 20.0
+    },
+    {
       "ticker": "ASELS",
       "ad": "",
-      "agirlik": 8.69
+      "agirlik": 9.31
     },
     {
       "ticker": "BALSU",
       "ad": "",
-      "agirlik": 7.45
+      "agirlik": 8.27
     },
     {
       "ticker": "GLYHO",
       "ad": "",
-      "agirlik": 6.13
-    },
-    {
-      "ticker": "MEGMT",
-      "ad": "",
-      "agirlik": 6.01
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 4.98
-    },
-    {
-      "ticker": "AGESA",
-      "ad": "",
-      "agirlik": 4.79
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.59
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.55
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 4.44
+      "agirlik": 7.46
     },
     {
       "ticker": "TUPRS",
       "ad": "",
+      "agirlik": 7.28
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
       "agirlik": 4.35
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.09
     },
     {
       "ticker": "ENKAI",
       "ad": "",
-      "agirlik": 4.2
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.98
+      "agirlik": 4.06
     },
     {
       "ticker": "TABGD",
       "ad": "",
-      "agirlik": 3.02
+      "agirlik": 3.48
     },
     {
-      "ticker": "GUBRF",
+      "ticker": "MEGMT",
       "ad": "",
-      "agirlik": 2.79
+      "agirlik": 3.24
     },
     {
-      "ticker": "TURSG",
+      "ticker": "GARAN",
       "ad": "",
-      "agirlik": 2.78
+      "agirlik": 3.09
     },
     {
-      "ticker": "OTKAR",
+      "ticker": "ALARK",
       "ad": "",
-      "agirlik": 2.49
+      "agirlik": 2.59
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 2.24
     },
     {
       "ticker": "AEFES",
       "ad": "",
-      "agirlik": 2.4
+      "agirlik": 2.18
     },
     {
-      "ticker": "ANHYT",
+      "ticker": "AKBNK",
       "ad": "",
-      "agirlik": 1.99
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 2.12
     },
     {
       "ticker": "NTHOL",
       "ad": "",
-      "agirlik": 1.95
+      "agirlik": 1.91
     },
     {
-      "ticker": "TSKB",
+      "ticker": "ANHYT",
       "ad": "",
-      "agirlik": 1.89
+      "agirlik": 1.86
     },
     {
       "ticker": "BRISA",
       "ad": "",
-      "agirlik": 1.87
+      "agirlik": 1.85
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 1.82
     },
     {
       "ticker": "AKGRT",
       "ad": "",
-      "agirlik": 1.39
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 1.22
     },
     {
       "ticker": "MGROS",
       "ad": "",
-      "agirlik": 1.37
+      "agirlik": 1.17
+    },
+    {
+      "ticker": "EBEB",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "OTKAR",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "TRCAS",
+      "ad": "",
+      "agirlik": 0.61
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "23 hisse satırı okundu.",
-  "kap_rapor_tarihi": "06.10.2026 14:55:11",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438a01a1110fae342243",
+  "hisse_mesaj": "28 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.11.2026 14:53:28",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1a6664c89616c",
   "kaynak_pdr_ocr": true,
-  "kap_son_kontrol_iso": "2026-10-26T14:19:05Z",
+  "kap_son_kontrol_iso": "2026-11-09T17:44:49Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

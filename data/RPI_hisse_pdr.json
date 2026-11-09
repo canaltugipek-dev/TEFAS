@@ -1,6 +1,6 @@
 {
   "kod": "RPI",
-  "guncelleme": "2026-10-26T14:18:43Z",
+  "guncelleme": "2026-11-09T17:44:24Z",
   "kaynak_tefas": true,
   "unvan": "ROTA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/rpi-rota-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -12,100 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
+      "ticker": "GRUP",
       "ad": "",
-      "agirlik": 9.84
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 8.8
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 7.31
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 6.55
-    },
-    {
-      "ticker": "ISDMR",
-      "ad": "",
-      "agirlik": 5.3
-    },
-    {
-      "ticker": "MAVI",
-      "ad": "",
-      "agirlik": 4.61
-    },
-    {
-      "ticker": "ALBRK",
-      "ad": "",
-      "agirlik": 4.5
-    },
-    {
-      "ticker": "RGYAS",
-      "ad": "",
-      "agirlik": 4.47
-    },
-    {
-      "ticker": "CIMSA",
-      "ad": "",
-      "agirlik": 4.31
-    },
-    {
-      "ticker": "AKFYE",
-      "ad": "",
-      "agirlik": 4.19
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 4.16
-    },
-    {
-      "ticker": "AVPGY",
-      "ad": "",
-      "agirlik": 4.14
-    },
-    {
-      "ticker": "ENJSA",
-      "ad": "",
-      "agirlik": 3.82
-    },
-    {
-      "ticker": "LOGO",
-      "ad": "",
-      "agirlik": 3.45
-    },
-    {
-      "ticker": "KCAER",
-      "ad": "",
-      "agirlik": 3.2
-    },
-    {
-      "ticker": "GOKNR",
-      "ad": "",
-      "agirlik": 2.98
-    },
-    {
-      "ticker": "EREGL",
-      "ad": "",
-      "agirlik": 2.96
-    },
-    {
-      "ticker": "KOTON",
-      "ad": "",
-      "agirlik": 2.22
+      "agirlik": 17.66
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "18 hisse satırı okundu.",
-  "kap_rapor_tarihi": "05.10.2026 17:39:45",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da0b8438a01a10c723d7c7c58",
-  "kap_son_kontrol_iso": "2026-10-26T14:18:43Z",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 16:46:00",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5e01a1c0501ec17747",
+  "kap_son_kontrol_iso": "2026-11-09T17:44:24Z",
   "kap_son_kontrol_tip": "pdr_guncellendi"
 }

@@ -1,12 +1,216 @@
 {
   "kod": "YHZ",
-  "guncelleme": "2026-10-26T14:21:10Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-09T17:47:04Z",
+  "kaynak_tefas": true,
+  "unvan": "YAPI KREDİ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/yhz-yapi-kredi-portfoy-bist-teknoloji-agirlik-sinirlamali-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 30.56
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 8.9
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 6.73
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 4.41
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 3.78
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 2.9
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "PATEK",
+      "ad": "",
+      "agirlik": 1.95
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.53
+    },
+    {
+      "ticker": "ALTNY",
+      "ad": "",
+      "agirlik": 1.11
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 1.09
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.08
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.94
+    },
+    {
+      "ticker": "KRONT",
+      "ad": "",
+      "agirlik": 0.92
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 0.89
+    },
+    {
+      "ticker": "MOBTL",
+      "ad": "",
+      "agirlik": 0.88
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.8
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 0.69
+    },
+    {
+      "ticker": "NETAS",
+      "ad": "",
+      "agirlik": 0.68
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 0.64
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 0.54
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 0.4
+    },
+    {
+      "ticker": "LINK",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 0.3
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "PKART",
+      "ad": "",
+      "agirlik": 0.27
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "MACKO",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "REEDR",
+      "ad": "",
+      "agirlik": 0.2
+    },
+    {
+      "ticker": "ARENA",
+      "ad": "",
+      "agirlik": 0.18
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 0.16
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 0.16
+    },
+    {
+      "ticker": "DESPC",
+      "ad": "",
+      "agirlik": 0.15
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 0.12
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "39 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 11:37:14",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5d01a1b15aff690b5a",
+  "kap_son_kontrol_iso": "2026-11-09T17:47:04Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

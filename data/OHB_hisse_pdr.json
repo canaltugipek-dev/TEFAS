@@ -1,6 +1,6 @@
 {
   "kod": "OHB",
-  "guncelleme": "2026-10-12T16:58:52Z",
+  "guncelleme": "2026-11-09T17:39:45Z",
   "kaynak_tefas": true,
   "unvan": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/ohb-oyak-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -12,195 +12,15 @@
   ],
   "hisseler": [
     {
-      "ticker": "BIMAS",
+      "ticker": "GRUP",
       "ad": "",
-      "agirlik": 8.88
-    },
-    {
-      "ticker": "TUPRS",
-      "ad": "",
-      "agirlik": 7.79
-    },
-    {
-      "ticker": "ASELS",
-      "ad": "",
-      "agirlik": 7.22
-    },
-    {
-      "ticker": "KCHOL",
-      "ad": "",
-      "agirlik": 5.02
-    },
-    {
-      "ticker": "AKBNK",
-      "ad": "",
-      "agirlik": 4.5
-    },
-    {
-      "ticker": "GARAN",
-      "ad": "",
-      "agirlik": 4.48
-    },
-    {
-      "ticker": "SAHOL",
-      "ad": "",
-      "agirlik": 4.34
-    },
-    {
-      "ticker": "THYAO",
-      "ad": "",
-      "agirlik": 3.99
-    },
-    {
-      "ticker": "TCELL",
-      "ad": "",
-      "agirlik": 3.34
-    },
-    {
-      "ticker": "YKBNK",
-      "ad": "",
-      "agirlik": 3.05
-    },
-    {
-      "ticker": "KRDMD",
-      "ad": "",
-      "agirlik": 2.63
-    },
-    {
-      "ticker": "ENKAI",
-      "ad": "",
-      "agirlik": 2.43
-    },
-    {
-      "ticker": "MPARK",
-      "ad": "",
-      "agirlik": 2.39
-    },
-    {
-      "ticker": "GLRMK",
-      "ad": "",
-      "agirlik": 2.37
-    },
-    {
-      "ticker": "TURSG",
-      "ad": "",
-      "agirlik": 2.26
-    },
-    {
-      "ticker": "EKGYO",
-      "ad": "",
-      "agirlik": 2.18
-    },
-    {
-      "ticker": "TTKOM",
-      "ad": "",
-      "agirlik": 1.87
-    },
-    {
-      "ticker": "ASTOR",
-      "ad": "",
-      "agirlik": 1.79
-    },
-    {
-      "ticker": "TRMET",
-      "ad": "",
-      "agirlik": 1.72
-    },
-    {
-      "ticker": "GUBRF",
-      "ad": "",
-      "agirlik": 1.67
-    },
-    {
-      "ticker": "ISCTR",
-      "ad": "",
-      "agirlik": 1.67
-    },
-    {
-      "ticker": "TRALT",
-      "ad": "",
-      "agirlik": 1.62
-    },
-    {
-      "ticker": "MGROS",
-      "ad": "",
-      "agirlik": 1.61
-    },
-    {
-      "ticker": "TAVHL",
-      "ad": "",
-      "agirlik": 1.5
-    },
-    {
-      "ticker": "ISDMR",
-      "ad": "",
-      "agirlik": 1.48
-    },
-    {
-      "ticker": "DOHOL",
-      "ad": "",
-      "agirlik": 1.43
-    },
-    {
-      "ticker": "SASA",
-      "ad": "",
-      "agirlik": 1.31
-    },
-    {
-      "ticker": "ANHYT",
-      "ad": "",
-      "agirlik": 1.29
-    },
-    {
-      "ticker": "TOASO",
-      "ad": "",
-      "agirlik": 1.01
-    },
-    {
-      "ticker": "CCOLA",
-      "ad": "",
-      "agirlik": 0.99
-    },
-    {
-      "ticker": "OYAKC",
-      "ad": "",
-      "agirlik": 0.86
-    },
-    {
-      "ticker": "HEKTS",
-      "ad": "",
-      "agirlik": 0.7
-    },
-    {
-      "ticker": "TABGD",
-      "ad": "",
-      "agirlik": 0.7
-    },
-    {
-      "ticker": "SOKM",
-      "ad": "",
-      "agirlik": 0.6
-    },
-    {
-      "ticker": "LILAK",
-      "ad": "",
-      "agirlik": 0.49
-    },
-    {
-      "ticker": "TRCAS",
-      "ad": "",
-      "agirlik": 0.42
-    },
-    {
-      "ticker": "KMPUR",
-      "ad": "",
-      "agirlik": 0.12
+      "agirlik": 10.05
     }
   ],
   "hisse_durumu": "ok",
-  "hisse_mesaj": "37 hisse satırı okundu.",
-  "kap_rapor_tarihi": "07.10.2026 20:43:01",
-  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca0b8418501a1175c971c7b78",
-  "kap_son_kontrol_iso": "2026-10-26T14:01:30Z",
-  "kap_son_kontrol_tip": "yeni_yok"
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:25:07",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1c116531b7803",
+  "kap_son_kontrol_iso": "2026-11-09T17:39:45Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

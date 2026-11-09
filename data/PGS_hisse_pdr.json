@@ -1,17 +1,12 @@
 {
   "kod": "PGS",
-  "guncelleme": "2026-10-26T14:17:21Z",
-  "kaynak_tefas": true,
-  "unvan": "AZİMUT PORTFÖY PAY GERİ ALIMI YAPAN ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/pgs-azimut-portfoy-pay-geri-alimi-yapan-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
+  "guncelleme": "2026-11-09T17:41:52Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
-  "kap_rapor_tarihi": "08.10.2026 18:01:13"
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }
