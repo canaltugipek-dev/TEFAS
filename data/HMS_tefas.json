@@ -2,24 +2,14 @@
   "fon_kodu": "HMS",
   "fon_unvan": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-11-10",
-  "bitis": "2026-11-09",
+  "baslangic": "2021-11-11",
+  "bitis": "2026-11-10",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1636502400000",
-      "FONKODU": "HMS",
-      "FONUNVAN": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.0,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1636588800000",
       "FONKODU": "HMS",
@@ -12575,6 +12565,16 @@
       "FONKODU": "HMS",
       "FONUNVAN": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.086079,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1794268800000",
+      "FONKODU": "HMS",
+      "FONUNVAN": "HSBC PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.088066,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

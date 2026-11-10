@@ -2,24 +2,14 @@
   "fon_kodu": "AAV",
   "fon_unvan": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-11-10",
-  "bitis": "2026-11-09",
+  "baslangic": "2021-11-11",
+  "bitis": "2026-11-10",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1636502400000",
-      "FONKODU": "AAV",
-      "FONUNVAN": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 5.240931,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1636588800000",
       "FONKODU": "AAV",
@@ -12575,6 +12565,16 @@
       "FONKODU": "AAV",
       "FONUNVAN": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 58.090371,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1794268800000",
+      "FONKODU": "AAV",
+      "FONUNVAN": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 59.043447,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,

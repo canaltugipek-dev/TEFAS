@@ -2,24 +2,14 @@
   "fon_kodu": "DAH",
   "fon_unvan": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-11-10",
-  "bitis": "2026-11-09",
+  "baslangic": "2021-11-11",
+  "bitis": "2026-11-10",
   "kaynak": "https://fundturkey.com.tr",
   "kayit_sayisi": 1257,
   "gun_kapsami": 1825,
   "durum_panel": "tam",
   "neden": null,
   "veri": [
-    {
-      "TARIH": "1636502400000",
-      "FONKODU": "DAH",
-      "FONUNVAN": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "FIYAT": 0.326732,
-      "TEDPAYSAYISI": null,
-      "KISISAYISI": null,
-      "PORTFOYBUYUKLUK": null,
-      "BilFiyat": "-"
-    },
     {
       "TARIH": "1636588800000",
       "FONKODU": "DAH",
@@ -12575,6 +12565,16 @@
       "FONKODU": "DAH",
       "FONUNVAN": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 3.183796,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1794268800000",
+      "FONKODU": "DAH",
+      "FONUNVAN": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 3.256845,
       "TEDPAYSAYISI": null,
       "KISISAYISI": null,
       "PORTFOYBUYUKLUK": null,
