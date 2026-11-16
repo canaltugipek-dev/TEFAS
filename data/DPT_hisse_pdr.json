@@ -1,12 +1,126 @@
 {
   "kod": "DPT",
-  "guncelleme": "2026-11-09T17:31:07Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T16:53:18Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/dpt-deniz-portfoy-bist-temettu-25-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 18.79
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 6.58
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 5.71
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 5.42
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 4.72
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 4.3
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 3.17
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 3.01
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.49
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.6
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.49
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 1.19
+    },
+    {
+      "ticker": "AGHOL",
+      "ad": "",
+      "agirlik": 1.06
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "TABGD",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 0.84
+    },
+    {
+      "ticker": "DOAS",
+      "ad": "",
+      "agirlik": 0.76
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "ISMEN",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "ECILC",
+      "ad": "",
+      "agirlik": 0.37
+    },
+    {
+      "ticker": "BRYAT",
+      "ad": "",
+      "agirlik": 0.33
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "21 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.11.2026 14:18:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5e01a1a0adeac301dd",
+  "kap_son_kontrol_iso": "2026-11-16T16:53:18Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

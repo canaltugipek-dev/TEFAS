@@ -1,12 +1,17 @@
 {
   "kod": "GIH",
-  "guncelleme": "2026-11-09T17:32:08Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
+  "guncelleme": "2026-11-16T16:56:28Z",
+  "kaynak_tefas": true,
+  "unvan": "ALLBATROSS PORTFÖY GIDA VE İÇECEK SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gih-allbatross-portfoy-gida-ve-icecek-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
   "kap_rapor_tarihi": null
 }

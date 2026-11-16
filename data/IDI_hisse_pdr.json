@@ -1,12 +1,17 @@
 {
   "kod": "IDI",
-  "guncelleme": "2026-11-09T17:34:02Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
+  "guncelleme": "2026-11-16T17:02:54Z",
+  "kaynak_tefas": true,
+  "unvan": "AZİMUT PORTFÖY İNŞAAT SEKTÖRÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/idi-azimut-portfoy-insaat-sektoru-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "hisse_mesaj": "Veri okunamadı",
+  "kap_rapor_tarihi": "06.11.2026 18:06:11"
 }

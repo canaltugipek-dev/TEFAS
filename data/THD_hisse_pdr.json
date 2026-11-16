@@ -1,12 +1,17 @@
 {
   "kod": "THD",
-  "guncelleme": "2026-11-09T17:45:18Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
+  "guncelleme": "2026-11-16T17:09:56Z",
+  "kaynak_tefas": true,
+  "unvan": "TRIVE PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FON (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/thd-trive-portfoy-birinci-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "hisse_mesaj": "KAP rapor PDF indirilemedi.",
+  "kap_rapor_tarihi": "09.11.2026 14:56:39"
 }

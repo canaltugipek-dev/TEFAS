@@ -1,12 +1,206 @@
 {
   "kod": "TTE",
-  "guncelleme": "2026-11-09T17:45:54Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T17:10:51Z",
+  "kaynak_tefas": true,
+  "unvan": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/tte-is-portfoy-bist-teknoloji-agirlik-sinirlamali-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 6.55
+    },
+    {
+      "ticker": "MIATK",
+      "ad": "",
+      "agirlik": 6.28
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 5.98
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 5.18
+    },
+    {
+      "ticker": "ATATP",
+      "ad": "",
+      "agirlik": 3.75
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 3.29
+    },
+    {
+      "ticker": "HTTBT",
+      "ad": "",
+      "agirlik": 2.7
+    },
+    {
+      "ticker": "DOFRB",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "PATEK",
+      "ad": "",
+      "agirlik": 2.02
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 1.97
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "SDTTR",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 1.75
+    },
+    {
+      "ticker": "INTET",
+      "ad": "",
+      "agirlik": 1.57
+    },
+    {
+      "ticker": "KRONT",
+      "ad": "",
+      "agirlik": 1.42
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.39
+    },
+    {
+      "ticker": "NETAS",
+      "ad": "",
+      "agirlik": 1.29
+    },
+    {
+      "ticker": "EMPAE",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "REEDR",
+      "ad": "",
+      "agirlik": 1.28
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "LINK",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "PENTA",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "PAPIL",
+      "ad": "",
+      "agirlik": 1.0
+    },
+    {
+      "ticker": "VBTYZ",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "ALCTL",
+      "ad": "",
+      "agirlik": 0.76
+    },
+    {
+      "ticker": "KFEIN",
+      "ad": "",
+      "agirlik": 0.68
+    },
+    {
+      "ticker": "AZTEK",
+      "ad": "",
+      "agirlik": 0.63
+    },
+    {
+      "ticker": "ONRYT",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "DGATE",
+      "ad": "",
+      "agirlik": 0.52
+    },
+    {
+      "ticker": "ARENA",
+      "ad": "",
+      "agirlik": 0.51
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "PKART",
+      "ad": "",
+      "agirlik": 0.49
+    },
+    {
+      "ticker": "BINBN",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "INGRM",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "EDATA",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
+      "ticker": "SMART",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "OBASE",
+      "ad": "",
+      "agirlik": 0.22
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "37 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.11.2026 16:32:44",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5d01a1a6b454e566c2",
+  "kap_son_kontrol_iso": "2026-11-16T17:10:51Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

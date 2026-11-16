@@ -1,12 +1,191 @@
 {
   "kod": "GTH",
-  "guncelleme": "2026-11-09T17:32:53Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T17:00:00Z",
+  "kaynak_tefas": true,
+  "unvan": "GARANTİ PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gth-garanti-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.4
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 8.06
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 7.5
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 6.39
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 5.56
+    },
+    {
+      "ticker": "TERS",
+      "ad": "",
+      "agirlik": 5.34
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.7
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 4.45
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.88
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 3.7
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 3.61
+    },
+    {
+      "ticker": "KARSN",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "GOKNR",
+      "ad": "",
+      "agirlik": 2.79
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 2.75
+    },
+    {
+      "ticker": "ASTOR",
+      "ad": "",
+      "agirlik": 2.47
+    },
+    {
+      "ticker": "MEGMT",
+      "ad": "",
+      "agirlik": 2.39
+    },
+    {
+      "ticker": "LILAK",
+      "ad": "",
+      "agirlik": 2.22
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "OZSUB",
+      "ad": "",
+      "agirlik": 1.92
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 1.73
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 1.53
+    },
+    {
+      "ticker": "ASUZU",
+      "ad": "",
+      "agirlik": 1.45
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 0.8
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 0.63
+    },
+    {
+      "ticker": "MERCN",
+      "ad": "",
+      "agirlik": 0.52
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 0.52
+    },
+    {
+      "ticker": "YIGIT",
+      "ad": "",
+      "agirlik": 0.47
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 0.46
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 0.43
+    },
+    {
+      "ticker": "DEVA",
+      "ad": "",
+      "agirlik": 0.11
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "34 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:28:55",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1c10242f413aa",
+  "kap_son_kontrol_iso": "2026-11-16T17:00:00Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

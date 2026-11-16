@@ -1,12 +1,101 @@
 {
   "kod": "VAY",
-  "guncelleme": "2026-11-09T17:46:11Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T17:12:45Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY DEĞER ODAKLI 100 ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/vay-ak-portfoy-deger-odakli-100-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 8.73
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 6.94
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 5.94
+    },
+    {
+      "ticker": "GLYHO",
+      "ad": "",
+      "agirlik": 4.62
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.42
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 4.39
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 3.25
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.44
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 1.39
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "ANSGR",
+      "ad": "",
+      "agirlik": 0.5
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 0.5
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 0.2
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "16 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.11.2026 18:38:04",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515d01a1a733c2b34a70",
+  "kap_son_kontrol_iso": "2026-11-16T17:12:45Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

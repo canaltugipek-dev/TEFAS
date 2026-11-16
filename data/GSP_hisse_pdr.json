@@ -1,12 +1,17 @@
 {
   "kod": "GSP",
-  "guncelleme": "2026-11-09T17:32:49Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
+  "guncelleme": "2026-11-16T16:59:44Z",
+  "kaynak_tefas": true,
+  "unvan": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gsp-azimut-portfoy-kar-payi-odeyen-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
   "kap_rapor_tarihi": null
 }

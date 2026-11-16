@@ -1,12 +1,31 @@
 {
   "kod": "HVI",
-  "guncelleme": "2026-11-09T17:33:37Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T17:01:13Z",
+  "kaynak_tefas": true,
+  "unvan": "DENİZ PORTFÖY HOLDİNGLER VE İŞTİRAKLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/hvi-deniz-portfoy-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 4.34
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 1.87
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "2 hisse satırı okundu.",
+  "kap_rapor_tarihi": "02.11.2026 17:24:48",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a19c0aa03b3453",
+  "kap_son_kontrol_iso": "2026-11-16T17:01:13Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

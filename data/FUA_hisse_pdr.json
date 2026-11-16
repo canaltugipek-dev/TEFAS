@@ -1,12 +1,121 @@
 {
   "kod": "FUA",
-  "guncelleme": "2026-11-09T17:31:47Z",
-  "kaynak_tefas": false,
-  "unvan": null,
-  "kap_link": null,
-  "varlik_dagilimi": [],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "TEFAS verisi alınamadı.",
-  "kap_rapor_tarihi": null
+  "guncelleme": "2026-11-16T16:54:49Z",
+  "kaynak_tefas": true,
+  "unvan": "AK PORTFÖY İHRACATÇI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/fua-ak-portfoy-ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+  "varlik_dagilimi": [
+    {
+      "tip": "Hisse Senedi",
+      "oran": 80.0
+    }
+  ],
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 10.01
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.34
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 6.96
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 4.61
+    },
+    {
+      "ticker": "TAVHL",
+      "ad": "",
+      "agirlik": 4.53
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 4.24
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "KCAER",
+      "ad": "",
+      "agirlik": 3.97
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 3.96
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 3.67
+    },
+    {
+      "ticker": "MEGMT",
+      "ad": "",
+      "agirlik": 3.05
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 2.69
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 1.9
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 1.32
+    },
+    {
+      "ticker": "SARKY",
+      "ad": "",
+      "agirlik": 0.93
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 0.67
+    },
+    {
+      "ticker": "PETKM",
+      "ad": "",
+      "agirlik": 0.67
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 0.64
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 0.61
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "20 hisse satırı okundu.",
+  "kap_rapor_tarihi": "04.11.2026 17:22:54",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515d01a1a6eec3f64322",
+  "kap_son_kontrol_iso": "2026-11-16T16:54:49Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
