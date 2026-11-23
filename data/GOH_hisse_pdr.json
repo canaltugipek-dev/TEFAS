@@ -1,6 +1,6 @@
 {
   "kod": "GOH",
-  "guncelleme": "2026-11-16T16:59:06Z",
+  "guncelleme": "2026-11-23T19:15:11Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/goh-garanti-portfoy-bist-100-disi-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,347 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 19.66
+    },
+    {
+      "ticker": "TERS",
+      "ad": "",
+      "agirlik": 7.15
+    },
+    {
+      "ticker": "RYGYO",
+      "ad": "",
+      "agirlik": 3.6
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.98
+    },
+    {
+      "ticker": "DOCO",
+      "ad": "",
+      "agirlik": 2.49
+    },
+    {
+      "ticker": "SARKY",
+      "ad": "",
+      "agirlik": 2.48
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 2.46
+    },
+    {
+      "ticker": "NTHOL",
+      "ad": "",
+      "agirlik": 2.28
+    },
+    {
+      "ticker": "BESLR",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "DESA",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "INDES",
+      "ad": "",
+      "agirlik": 2.21
+    },
+    {
+      "ticker": "TATGD",
+      "ad": "",
+      "agirlik": 2.19
+    },
+    {
+      "ticker": "AKFGY",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "MAKIM",
+      "ad": "",
+      "agirlik": 2.14
+    },
+    {
+      "ticker": "PCILT",
+      "ad": "",
+      "agirlik": 2.1
+    },
+    {
+      "ticker": "OZKGY",
+      "ad": "",
+      "agirlik": 2.07
+    },
+    {
+      "ticker": "KIMMR",
+      "ad": "",
+      "agirlik": 2.06
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 2.01
+    },
+    {
+      "ticker": "PLTUR",
+      "ad": "",
+      "agirlik": 1.99
+    },
+    {
+      "ticker": "GSDDE",
+      "ad": "",
+      "agirlik": 1.98
+    },
+    {
+      "ticker": "AGESA",
+      "ad": "",
+      "agirlik": 1.96
+    },
+    {
+      "ticker": "YYLGD",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "GOZDE",
+      "ad": "",
+      "agirlik": 1.84
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 1.82
+    },
+    {
+      "ticker": "PNLSN",
+      "ad": "",
+      "agirlik": 1.79
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 1.77
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.77
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.76
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "GEDZA",
+      "ad": "",
+      "agirlik": 1.69
+    },
+    {
+      "ticker": "ULUFA",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 1.65
+    },
+    {
+      "ticker": "BIGCH",
+      "ad": "",
+      "agirlik": 1.64
+    },
+    {
+      "ticker": "SSAAT",
+      "ad": "",
+      "agirlik": 1.63
+    },
+    {
+      "ticker": "DERIM",
+      "ad": "",
+      "agirlik": 1.59
+    },
+    {
+      "ticker": "BNTAS",
+      "ad": "",
+      "agirlik": 1.2
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 1.15
+    },
+    {
+      "ticker": "QUICK",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 1.07
+    },
+    {
+      "ticker": "MERIT",
+      "ad": "",
+      "agirlik": 1.07
+    },
+    {
+      "ticker": "GARFA",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 1.02
+    },
+    {
+      "ticker": "MEDTR",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "UNLU",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
+      "ticker": "ULUUN",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 0.87
+    },
+    {
+      "ticker": "MCARD",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "MASFN",
+      "ad": "",
+      "agirlik": 0.83
+    },
+    {
+      "ticker": "TLMAN",
+      "ad": "",
+      "agirlik": 0.82
+    },
+    {
+      "ticker": "OYYAT",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "MTRKS",
+      "ad": "",
+      "agirlik": 0.73
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 0.61
+    },
+    {
+      "ticker": "CITAS",
+      "ad": "",
+      "agirlik": 0.6
+    },
+    {
+      "ticker": "VAKFA",
+      "ad": "",
+      "agirlik": 0.44
+    },
+    {
+      "ticker": "NETCD",
+      "ad": "",
+      "agirlik": 0.42
+    },
+    {
+      "ticker": "FRMPL",
+      "ad": "",
+      "agirlik": 0.39
+    },
+    {
+      "ticker": "KRPLS",
+      "ad": "",
+      "agirlik": 0.38
+    },
+    {
+      "ticker": "MEYSU",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
+      "ticker": "ATATR",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "EKDMR",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "GENKM",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "UCAYM",
+      "ad": "",
+      "agirlik": 0.27
+    },
+    {
+      "ticker": "AAGYO",
+      "ad": "",
+      "agirlik": 0.26
+    },
+    {
+      "ticker": "KUTPO",
+      "ad": "",
+      "agirlik": 0.24
+    },
+    {
+      "ticker": "ORZAX",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "67 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:12:43",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1c0f3ac650d1c",
+  "kap_son_kontrol_iso": "2026-11-23T19:15:11Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

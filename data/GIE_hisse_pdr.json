@@ -1,6 +1,6 @@
 {
   "kod": "GIE",
-  "guncelleme": "2026-11-16T16:55:42Z",
+  "guncelleme": "2026-11-23T19:13:47Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY GARANTİ BBVA İKLİM ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gie-garanti-portfoy-garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,267 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 13.45
+    },
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 12.48
+    },
+    {
+      "ticker": "THYAO",
+      "ad": "",
+      "agirlik": 6.87
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 6.8
+    },
+    {
+      "ticker": "KCHOL",
+      "ad": "",
+      "agirlik": 4.77
+    },
+    {
+      "ticker": "YKBNK",
+      "ad": "",
+      "agirlik": 4.75
+    },
+    {
+      "ticker": "SAHOL",
+      "ad": "",
+      "agirlik": 3.77
+    },
+    {
+      "ticker": "ISCTR",
+      "ad": "",
+      "agirlik": 3.76
+    },
+    {
+      "ticker": "TCELL",
+      "ad": "",
+      "agirlik": 3.65
+    },
+    {
+      "ticker": "GARAN",
+      "ad": "",
+      "agirlik": 3.12
+    },
+    {
+      "ticker": "ENKAI",
+      "ad": "",
+      "agirlik": 2.85
+    },
+    {
+      "ticker": "CCOLA",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "SISE",
+      "ad": "",
+      "agirlik": 2.05
+    },
+    {
+      "ticker": "FROTO",
+      "ad": "",
+      "agirlik": 1.67
+    },
+    {
+      "ticker": "MGROS",
+      "ad": "",
+      "agirlik": 1.61
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 1.31
+    },
+    {
+      "ticker": "AEFES",
+      "ad": "",
+      "agirlik": 1.29
+    },
+    {
+      "ticker": "PGSUS",
+      "ad": "",
+      "agirlik": 1.13
+    },
+    {
+      "ticker": "TOASO",
+      "ad": "",
+      "agirlik": 1.12
+    },
+    {
+      "ticker": "HALKB",
+      "ad": "",
+      "agirlik": 1.05
+    },
+    {
+      "ticker": "SASA",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "TTKOM",
+      "ad": "",
+      "agirlik": 0.97
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 0.95
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 0.9
+    },
+    {
+      "ticker": "VAKBN",
+      "ad": "",
+      "agirlik": 0.88
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 0.78
+    },
+    {
+      "ticker": "CIMSA",
+      "ad": "",
+      "agirlik": 0.71
+    },
+    {
+      "ticker": "BRSAN",
+      "ad": "",
+      "agirlik": 0.66
+    },
+    {
+      "ticker": "DOHOL",
+      "ad": "",
+      "agirlik": 0.66
+    },
+    {
+      "ticker": "AKSA",
+      "ad": "",
+      "agirlik": 0.63
+    },
+    {
+      "ticker": "AKSGY",
+      "ad": "",
+      "agirlik": 0.59
+    },
+    {
+      "ticker": "AYGAZ",
+      "ad": "",
+      "agirlik": 0.51
+    },
+    {
+      "ticker": "TSKB",
+      "ad": "",
+      "agirlik": 0.51
+    },
+    {
+      "ticker": "ULKER",
+      "ad": "",
+      "agirlik": 0.47
+    },
+    {
+      "ticker": "ARCLK",
+      "ad": "",
+      "agirlik": 0.44
+    },
+    {
+      "ticker": "TTRAK",
+      "ad": "",
+      "agirlik": 0.41
+    },
+    {
+      "ticker": "MARMR",
+      "ad": "",
+      "agirlik": 0.29
+    },
+    {
+      "ticker": "LOGO",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "AKCNS",
+      "ad": "",
+      "agirlik": 0.27
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.23
+    },
+    {
+      "ticker": "POLHO",
+      "ad": "",
+      "agirlik": 0.19
+    },
+    {
+      "ticker": "BRISA",
+      "ad": "",
+      "agirlik": 0.18
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 0.18
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 0.16
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 0.14
+    },
+    {
+      "ticker": "KORDS",
+      "ad": "",
+      "agirlik": 0.14
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 0.06
+    },
+    {
+      "ticker": "AKENR",
+      "ad": "",
+      "agirlik": 0.05
+    },
+    {
+      "ticker": "TKNSA",
+      "ad": "",
+      "agirlik": 0.05
+    },
+    {
+      "ticker": "CEMTS",
+      "ad": "",
+      "agirlik": 0.02
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 0.01
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "51 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:21:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1c0fb5a141155",
+  "kap_son_kontrol_iso": "2026-11-23T19:13:47Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

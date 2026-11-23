@@ -1,6 +1,6 @@
 {
   "kod": "GL1",
-  "guncelleme": "2026-11-16T16:57:25Z",
+  "guncelleme": "2026-11-23T19:14:24Z",
   "kaynak_tefas": true,
   "unvan": "AZİMUT PYŞ BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gl1-azimut-pys-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,17 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 4.81
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "06.11.2026 18:05:49",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1b130efa55ff1",
+  "kap_son_kontrol_iso": "2026-11-23T19:14:24Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

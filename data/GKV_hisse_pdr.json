@@ -1,6 +1,6 @@
 {
   "kod": "GKV",
-  "guncelleme": "2026-11-16T16:57:06Z",
+  "guncelleme": "2026-11-23T19:14:19Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gkv-garanti-portfoy-katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,187 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ASELS",
+      "ad": "",
+      "agirlik": 9.91
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 9.69
+    },
+    {
+      "ticker": "TUPRS",
+      "ad": "",
+      "agirlik": 9.34
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 9.03
+    },
+    {
+      "ticker": "EREGL",
+      "ad": "",
+      "agirlik": 8.2
+    },
+    {
+      "ticker": "EKGYO",
+      "ad": "",
+      "agirlik": 4.68
+    },
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "MPARK",
+      "ad": "",
+      "agirlik": 4.01
+    },
+    {
+      "ticker": "KRDMD",
+      "ad": "",
+      "agirlik": 3.64
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 2.64
+    },
+    {
+      "ticker": "CVKMD",
+      "ad": "",
+      "agirlik": 2.58
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 2.26
+    },
+    {
+      "ticker": "ORGE",
+      "ad": "",
+      "agirlik": 2.15
+    },
+    {
+      "ticker": "BASGZ",
+      "ad": "",
+      "agirlik": 1.87
+    },
+    {
+      "ticker": "EUPWR",
+      "ad": "",
+      "agirlik": 1.86
+    },
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 1.83
+    },
+    {
+      "ticker": "ARDYZ",
+      "ad": "",
+      "agirlik": 1.82
+    },
+    {
+      "ticker": "KMPUR",
+      "ad": "",
+      "agirlik": 1.78
+    },
+    {
+      "ticker": "GUBRF",
+      "ad": "",
+      "agirlik": 1.7
+    },
+    {
+      "ticker": "YEOTK",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "GLRMK",
+      "ad": "",
+      "agirlik": 1.66
+    },
+    {
+      "ticker": "AHGAZ",
+      "ad": "",
+      "agirlik": 1.27
+    },
+    {
+      "ticker": "EBEBK",
+      "ad": "",
+      "agirlik": 1.1
+    },
+    {
+      "ticker": "EGPRO",
+      "ad": "",
+      "agirlik": 1.03
+    },
+    {
+      "ticker": "FONET",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "LKMNH",
+      "ad": "",
+      "agirlik": 1.01
+    },
+    {
+      "ticker": "SSAAT",
+      "ad": "",
+      "agirlik": 1.0
+    },
+    {
+      "ticker": "ENERY",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 0.96
+    },
+    {
+      "ticker": "GESAN",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "ESCOM",
+      "ad": "",
+      "agirlik": 0.86
+    },
+    {
+      "ticker": "FORTE",
+      "ad": "",
+      "agirlik": 0.85
+    },
+    {
+      "ticker": "SARKY",
+      "ad": "",
+      "agirlik": 0.81
+    },
+    {
+      "ticker": "KRPLS",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "CITAS",
+      "ad": "",
+      "agirlik": 0.62
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "35 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:21:22",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1c0fb58291141",
+  "kap_son_kontrol_iso": "2026-11-23T19:14:19Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

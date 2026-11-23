@@ -1,17 +1,12 @@
 {
   "kod": "MHF",
-  "guncelleme": "2026-11-16T17:05:23Z",
-  "kaynak_tefas": true,
-  "unvan": "MT PORTFÖY BIST HALKA ARZ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/mhf-mt-portfoy-bist-halka-arz-sirketleri-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
+  "guncelleme": "2026-11-23T19:18:12Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
-  "kap_rapor_tarihi": "04.11.2026 13:37:59"
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

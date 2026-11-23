@@ -1,6 +1,6 @@
 {
   "kod": "GNH",
-  "guncelleme": "2026-11-16T16:58:06Z",
+  "guncelleme": "2026-11-23T19:14:35Z",
   "kaynak_tefas": true,
   "unvan": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gnh-global-md-portfoy-algoritmik-model-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,107 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ALBRK",
+      "ad": "",
+      "agirlik": 0.77
+    },
+    {
+      "ticker": "BIMAS",
+      "ad": "",
+      "agirlik": 0.69
+    },
+    {
+      "ticker": "AKBNK",
+      "ad": "",
+      "agirlik": 0.64
+    },
+    {
+      "ticker": "AFYON",
+      "ad": "",
+      "agirlik": 0.55
+    },
+    {
+      "ticker": "BOSSA",
+      "ad": "",
+      "agirlik": 0.53
+    },
+    {
+      "ticker": "MAVI",
+      "ad": "",
+      "agirlik": 0.5
+    },
+    {
+      "ticker": "DURDO",
+      "ad": "",
+      "agirlik": 0.48
+    },
+    {
+      "ticker": "IHLAS",
+      "ad": "",
+      "agirlik": 0.41
+    },
+    {
+      "ticker": "ADEL",
+      "ad": "",
+      "agirlik": 0.39
+    },
+    {
+      "ticker": "KATMR",
+      "ad": "",
+      "agirlik": 0.34
+    },
+    {
+      "ticker": "KAREL",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "SKBNK",
+      "ad": "",
+      "agirlik": 0.32
+    },
+    {
+      "ticker": "IHYAY",
+      "ad": "",
+      "agirlik": 0.29
+    },
+    {
+      "ticker": "DMSAS",
+      "ad": "",
+      "agirlik": 0.28
+    },
+    {
+      "ticker": "OSTIM",
+      "ad": "",
+      "agirlik": 0.25
+    },
+    {
+      "ticker": "DAGI",
+      "ad": "",
+      "agirlik": 0.2
+    },
+    {
+      "ticker": "TUKAS",
+      "ad": "",
+      "agirlik": 0.07
+    },
+    {
+      "ticker": "INFO",
+      "ad": "",
+      "agirlik": 0.04
+    },
+    {
+      "ticker": "ADESE",
+      "ad": "",
+      "agirlik": 0.03
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "19 hisse satırı okundu.",
+  "kap_rapor_tarihi": "03.11.2026 16:02:12",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1a1681c79732d",
+  "kap_son_kontrol_iso": "2026-11-23T19:14:35Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

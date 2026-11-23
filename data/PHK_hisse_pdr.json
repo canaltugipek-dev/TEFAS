@@ -1,17 +1,12 @@
 {
   "kod": "PHK",
-  "guncelleme": "2026-11-16T17:06:47Z",
-  "kaynak_tefas": true,
-  "unvan": "PHİLLİP PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/phk-phillip-portfoy-katilim-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
+  "guncelleme": "2026-11-23T19:18:52Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
-  "kap_rapor_tarihi": "03.11.2026 13:26:26"
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

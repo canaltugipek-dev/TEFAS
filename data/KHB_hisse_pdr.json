@@ -1,17 +1,12 @@
 {
   "kod": "KHB",
-  "guncelleme": "2026-11-16T17:05:04Z",
-  "kaynak_tefas": true,
-  "unvan": "KARE PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-  "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/khb-kare-portfoy-bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-  "varlik_dagilimi": [
-    {
-      "tip": "Hisse Senedi",
-      "oran": 80.0
-    }
-  ],
+  "guncelleme": "2026-11-23T19:18:00Z",
+  "kaynak_tefas": false,
+  "unvan": null,
+  "kap_link": null,
+  "varlik_dagilimi": [],
   "hisseler": [],
   "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "Veri okunamadı",
-  "kap_rapor_tarihi": "03.11.2026 14:04:14"
+  "hisse_mesaj": "TEFAS verisi alınamadı.",
+  "kap_rapor_tarihi": null
 }

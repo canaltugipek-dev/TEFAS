@@ -1,6 +1,6 @@
 {
   "kod": "GNS",
-  "guncelleme": "2026-11-16T16:58:25Z",
+  "guncelleme": "2026-11-23T19:14:39Z",
   "kaynak_tefas": true,
   "unvan": "GARANTİ PORTFÖY ENERJİ ŞİRKETLERİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/gns-garanti-portfoy-enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,132 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "ENJSA",
+      "ad": "",
+      "agirlik": 16.73
+    },
+    {
+      "ticker": "ENERY",
+      "ad": "",
+      "agirlik": 16.25
+    },
+    {
+      "ticker": "AHGAZ",
+      "ad": "",
+      "agirlik": 11.63
+    },
+    {
+      "ticker": "AKSEN",
+      "ad": "",
+      "agirlik": 9.89
+    },
+    {
+      "ticker": "CWENE",
+      "ad": "",
+      "agirlik": 4.51
+    },
+    {
+      "ticker": "NTGAZ",
+      "ad": "",
+      "agirlik": 4.22
+    },
+    {
+      "ticker": "AKFYE",
+      "ad": "",
+      "agirlik": 4.16
+    },
+    {
+      "ticker": "ARASE",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "ODAS",
+      "ad": "",
+      "agirlik": 3.38
+    },
+    {
+      "ticker": "SMRTG",
+      "ad": "",
+      "agirlik": 3.03
+    },
+    {
+      "ticker": "KLYPV",
+      "ad": "",
+      "agirlik": 3.01
+    },
+    {
+      "ticker": "TERS",
+      "ad": "",
+      "agirlik": 2.99
+    },
+    {
+      "ticker": "ENTRA",
+      "ad": "",
+      "agirlik": 2.29
+    },
+    {
+      "ticker": "AYDEM",
+      "ad": "",
+      "agirlik": 2.26
+    },
+    {
+      "ticker": "ALARK",
+      "ad": "",
+      "agirlik": 1.94
+    },
+    {
+      "ticker": "GWIND",
+      "ad": "",
+      "agirlik": 1.74
+    },
+    {
+      "ticker": "MOGAN",
+      "ad": "",
+      "agirlik": 1.68
+    },
+    {
+      "ticker": "MASFN",
+      "ad": "",
+      "agirlik": 1.65
+    },
+    {
+      "ticker": "VADELI",
+      "ad": "",
+      "agirlik": 1.35
+    },
+    {
+      "ticker": "ZOREN",
+      "ad": "",
+      "agirlik": 0.98
+    },
+    {
+      "ticker": "AYEN",
+      "ad": "",
+      "agirlik": 0.91
+    },
+    {
+      "ticker": "BETAE",
+      "ad": "",
+      "agirlik": 0.71
+    },
+    {
+      "ticker": "ALFAS",
+      "ad": "",
+      "agirlik": 0.68
+    },
+    {
+      "ticker": "A1YEN",
+      "ad": "",
+      "agirlik": 0.34
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "24 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 19:28:55",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328ca17e4f5f01a1c10241eb13a0",
+  "kap_son_kontrol_iso": "2026-11-23T19:14:39Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }

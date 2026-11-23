@@ -1,6 +1,6 @@
 {
   "kod": "GO9",
-  "guncelleme": "2026-11-16T16:58:46Z",
+  "guncelleme": "2026-11-23T19:15:06Z",
   "kaynak_tefas": true,
   "unvan": "ONE PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
   "kap_link": "https://www.kap.org.tr/tr/fon-bilgileri/genel/go9-one-portfoy-birinci-hisse-senedi-fonu-hisse-senedi-yogun-fon",
@@ -10,8 +10,17 @@
       "oran": 80.0
     }
   ],
-  "hisseler": [],
-  "hisse_durumu": "bulunamadi",
-  "hisse_mesaj": "KAP fon kimliği bulunamadı.",
-  "kap_rapor_tarihi": null
+  "hisseler": [
+    {
+      "ticker": "GRUP",
+      "ad": "",
+      "agirlik": 12.5
+    }
+  ],
+  "hisse_durumu": "ok",
+  "hisse_mesaj": "1 hisse satırı okundu.",
+  "kap_rapor_tarihi": "09.11.2026 15:34:18",
+  "kap_pdf_url": "https://kap.org.tr/tr/api/file/download/4028328da17e515f01a1b0ffb1526b62",
+  "kap_son_kontrol_iso": "2026-11-23T19:15:06Z",
+  "kap_son_kontrol_tip": "pdr_guncellendi"
 }
