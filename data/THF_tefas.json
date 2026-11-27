@@ -2,11 +2,11 @@
   "fon_kodu": "THF",
   "fon_unvan": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
   "fontip": "YAT",
-  "baslangic": "2021-11-27",
-  "bitis": "2026-11-26",
+  "baslangic": "2021-11-28",
+  "bitis": "2026-11-27",
   "kaynak": "https://fundturkey.com.tr",
-  "kayit_sayisi": 447,
-  "gun_kapsami": 651,
+  "kayit_sayisi": 448,
+  "gun_kapsami": 652,
   "durum_panel": "veri_eksik",
   "neden": "bes_yildan_kisa",
   "veri": [
@@ -4472,6 +4472,16 @@
     },
     {
       "TARIH": "1795651200000",
+      "FONKODU": "THF",
+      "FONUNVAN": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "FIYAT": 0.0,
+      "TEDPAYSAYISI": null,
+      "KISISAYISI": null,
+      "PORTFOYBUYUKLUK": null,
+      "BilFiyat": "-"
+    },
+    {
+      "TARIH": "1795737600000",
       "FONKODU": "THF",
       "FONUNVAN": "TERA PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
       "FIYAT": 0.0,
